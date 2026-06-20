@@ -1,0 +1,1791 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>何康隆詩集 | 現代俳句與詩</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;500;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+/* ─── Variables ─── */
+:root {
+  --bg: #f9f9f9;
+  --white: #ffffff;
+  --ink: #080808;
+  --muted: #6b6b6b;
+  --light: #e8e8e8;
+  --border: 1px solid #d0d0d0;
+  --border-bold: 2px solid #080808;
+  --serif: 'Noto Serif TC', 'Noto Serif', serif;
+  --sans: 'Inter', system-ui, sans-serif;
+}
+
+/* ─── Reset ─── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 20px; scroll-behavior: smooth; }
+body { font-family: var(--serif); background: var(--bg); color: var(--ink); line-height: 1.8; }
+button { cursor: pointer; font-family: inherit; }
+a { color: inherit; }
+
+/* ─── Navigation ─── */
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+  background: var(--bg); border-bottom: var(--border-bold);
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 0.85rem 2rem;
+}
+.nav-logo {
+  font-size: 1rem; font-weight: 700; letter-spacing: 0.05em;
+  cursor: pointer; user-select: none;
+}
+.nav-logo span { font-weight: 300; color: var(--muted); margin-left: 0.5rem; font-size: 0.85rem; }
+.nav-links { display: flex; gap: 1.8rem; list-style: none; align-items: center; }
+.nav-links button {
+  background: none; border: none; font-family: var(--serif);
+  font-size: 0.9rem; letter-spacing: 0.08em; color: var(--muted);
+  padding-bottom: 2px; border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+.nav-links button:hover, .nav-links button.active {
+  color: var(--ink); border-bottom-color: var(--ink);
+}
+.nav-font-controls { display: flex; gap: 3px; margin-left: 1rem; }
+.nav-font-btn {
+  width: 30px; height: 30px; background: transparent;
+  border: 1px solid var(--light); font-size: 0.8rem; color: var(--muted);
+  display: flex; align-items: center; justify-content: center;
+  transition: all 0.15s;
+}
+.nav-font-btn:hover { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+/* ─── Pages ─── */
+.page { display: none; min-height: 100vh; padding-top: 4.5rem; }
+.page.active { display: block; }
+.container { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
+.container-wide { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+/* ─── Page Header ─── */
+.page-header { padding: 2.5rem 0 1.5rem; border-bottom: var(--border-bold); margin-bottom: 2rem; }
+.page-title { font-size: 1.6rem; font-weight: 700; letter-spacing: 0.03em; }
+.page-subtitle { font-size: 0.8rem; color: var(--muted); font-family: var(--sans); letter-spacing: 0.12em; margin-top: 0.4rem; }
+
+/* ─── Back link ─── */
+.back-link {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  font-size: 0.8rem; font-family: var(--sans); letter-spacing: 0.08em;
+  color: var(--muted); cursor: pointer; margin-bottom: 2rem;
+  background: none; border: none; padding: 0;
+}
+.back-link:hover { color: var(--ink); }
+
+/* ─── HOME ─── */
+.home-hero {
+  padding: 5rem 2rem 4rem; text-align: center;
+  border-bottom: var(--border-bold);
+}
+.home-hero-title { font-size: 2.8rem; font-weight: 700; line-height: 1.4; letter-spacing: 0.04em; }
+.home-hero-en { font-size: 1rem; font-style: italic; color: var(--muted); margin-top: 0.75rem; }
+.home-hero-author {
+  margin-top: 1.5rem; font-size: 0.85rem; letter-spacing: 0.15em;
+  color: var(--muted); font-family: var(--sans);
+}
+.home-hero-rule { width: 60px; height: 2px; background: var(--ink); margin: 1.5rem auto; }
+.home-hero-quote { font-size: 1rem; color: var(--muted); font-style: italic; max-width: 520px; margin: 0 auto; }
+
+.home-cards { display: grid; grid-template-columns: 1fr 1fr; background: var(--ink); gap: 1px; border-top: 1px solid var(--ink); }
+.home-card {
+  background: var(--bg); padding: 3rem 2.5rem; cursor: pointer;
+  transition: background 0.2s; border: none; text-align: left;
+}
+.home-card:hover { background: var(--white); }
+.home-card-num { font-size: 0.75rem; color: var(--muted); font-family: var(--sans); letter-spacing: 0.15em; margin-bottom: 0.75rem; }
+.home-card-title { font-size: 1.4rem; font-weight: 700; }
+.home-card-sub { font-size: 0.82rem; color: var(--muted); font-family: var(--sans); letter-spacing: 0.05em; margin-top: 0.3rem; }
+.home-card-preview {
+  margin-top: 1.5rem; font-size: 0.9rem; line-height: 2;
+  color: var(--muted); border-top: 1px solid var(--light); padding-top: 1.2rem;
+}
+
+/* ─── Filter bar ─── */
+.filter-bar { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+.filter-btn {
+  font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.08em;
+  padding: 5px 14px; background: transparent;
+  border: 1px solid var(--light); color: var(--muted); transition: all 0.15s;
+}
+.filter-btn.active, .filter-btn:hover {
+  background: var(--ink); color: var(--bg); border-color: var(--ink);
+}
+
+/* ─── Series grid ─── */
+.series-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1px; background: var(--ink); border: var(--border-bold); }
+.series-card {
+  background: var(--bg); padding: 1.4rem 1.6rem; cursor: pointer;
+  transition: background 0.2s; display: flex; flex-direction: column;
+}
+.series-card:hover { background: var(--white); }
+.series-card-num { font-size: 0.72rem; color: var(--muted); font-family: var(--sans); letter-spacing: 0.12em; }
+.series-card-preview { font-size: 0.95rem; line-height: 1.8; font-weight: 500; margin-top: 0.5rem; flex: 1; }
+.series-card-status {
+  display: inline-block; margin-top: 0.75rem; padding: 2px 8px;
+  font-size: 0.65rem; font-family: var(--sans); letter-spacing: 0.06em;
+  border: 1px solid var(--light); color: var(--muted);
+}
+.series-card-status.unpublished { border-color: #c0a060; color: #a0803a; }
+
+/* ─── Haiku series view ─── */
+.series-hero { padding: 2rem 0; border-bottom: var(--border-bold); margin-bottom: 2.5rem; }
+.series-hero h1 { font-size: 1.5rem; font-weight: 700; }
+.series-meta { font-size: 0.8rem; color: var(--muted); font-family: var(--sans); letter-spacing: 0.1em; margin-top: 0.3rem; }
+
+/* ─── Haiku entry ─── */
+.haiku-entry { padding: 2.5rem 0; border-bottom: 1px solid var(--light); }
+.haiku-entry:last-child { border-bottom: none; }
+.haiku-id { font-size: 0.72rem; color: var(--muted); font-family: var(--sans); letter-spacing: 0.15em; margin-bottom: 1.2rem; }
+.haiku-text-zh { line-height: 2.4; }
+.haiku-line-zh { display: block; font-size: 2rem; font-weight: 700; letter-spacing: 0.04em; }
+.haiku-text-en { display: none; margin-top: 1rem; }
+.haiku-text-en.show { display: block; }
+.haiku-line-en { display: block; font-size: 1.05rem; font-style: italic; color: var(--muted); line-height: 2; }
+
+.haiku-actions { display: flex; gap: 0.6rem; margin-top: 1.5rem; flex-wrap: wrap; align-items: center; }
+.btn-sm {
+  font-family: var(--sans); font-size: 0.75rem; letter-spacing: 0.08em;
+  padding: 6px 14px; background: transparent; border: 1px solid #999;
+  color: var(--ink); transition: all 0.15s;
+}
+.btn-sm:hover, .btn-sm.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.btn-like { color: var(--muted); border-color: #ccc; }
+.btn-like.liked { color: #c0392b; border-color: #c0392b; background: transparent; }
+.like-count { font-family: var(--sans); font-size: 0.7rem; color: var(--muted); }
+
+/* ─── Notes box ─── */
+.haiku-notes {
+  display: none; margin-top: 1.5rem; padding: 1.4rem 1.6rem;
+  background: var(--white); border-left: 3px solid var(--ink);
+  font-size: 0.88rem; line-height: 1.95;
+}
+.haiku-notes.show { display: block; }
+.haiku-notes p { margin-bottom: 0.9rem; }
+.haiku-notes p:last-child { margin-bottom: 0; }
+.classic-quote {
+  border-left: 2px solid var(--light); padding-left: 1rem;
+  margin: 0.9rem 0; color: var(--muted); font-style: italic;
+}
+.ai-label { font-size: 0.68rem; font-family: var(--sans); letter-spacing: 0.1em; color: var(--muted); text-transform: uppercase; margin-bottom: 0.5rem; display: block; }
+
+/* ─── YouTube links ─── */
+.yt-links { margin-top: 1rem; display: flex; flex-direction: column; gap: 0.4rem; }
+.yt-link {
+  display: flex; align-items: center; gap: 0.5rem;
+  font-size: 0.78rem; color: #cc0000; text-decoration: none;
+  font-family: var(--sans); letter-spacing: 0.02em;
+}
+.yt-link:hover { text-decoration: underline; }
+.yt-icon { font-size: 0.68rem; }
+
+/* ─── Comments ─── */
+.comments-section { display: none; margin-top: 1rem; }
+.comments-section.show { display: block; }
+.comment-form { margin-bottom: 1rem; }
+.comment-input-row { display: flex; gap: 0.5rem; margin-bottom: 0.5rem; }
+.comment-name {
+  width: 180px; padding: 0.5rem 0.75rem; border: var(--border);
+  font-family: var(--serif); font-size: 0.85rem; background: var(--white);
+}
+.comment-text {
+  width: 100%; padding: 0.5rem 0.75rem; border: var(--border);
+  font-family: var(--serif); font-size: 0.85rem; background: var(--white);
+  resize: vertical; min-height: 70px;
+}
+.btn-comment-submit {
+  font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.08em;
+  padding: 6px 16px; background: var(--ink); color: var(--bg); border: none;
+}
+.comment-list { margin-top: 0.75rem; }
+.comment-item { padding: 0.75rem 0; border-top: 1px solid var(--light); font-size: 0.85rem; }
+.comment-author { font-size: 0.72rem; font-family: var(--sans); color: var(--muted); margin-bottom: 0.3rem; }
+.no-comments { font-size: 0.8rem; color: var(--muted); font-family: var(--sans); font-style: italic; }
+
+/* ─── Poems list ─── */
+.poems-list { display: flex; flex-direction: column; gap: 1px; background: var(--ink); border: var(--border-bold); }
+.poem-card {
+  background: var(--bg); padding: 1.8rem 2rem; cursor: pointer;
+  transition: background 0.2s; display: grid;
+  grid-template-columns: 1fr auto; gap: 1rem; align-items: start;
+}
+.poem-card:hover { background: var(--white); }
+.poem-card-title { font-size: 1.2rem; font-weight: 700; }
+.poem-card-title-en { font-size: 0.82rem; font-style: italic; color: var(--muted); margin-top: 0.2rem; }
+.poem-card-preview { margin-top: 0.75rem; font-size: 0.88rem; line-height: 1.9; color: var(--muted); }
+.poem-card-meta { text-align: right; }
+.geo-tag {
+  display: inline-block; padding: 2px 9px; border: 1px solid var(--muted);
+  font-size: 0.68rem; font-family: var(--sans); letter-spacing: 0.06em; color: var(--muted);
+  margin-bottom: 0.4rem;
+}
+.poem-card-year { display: block; font-size: 0.72rem; font-family: var(--sans); color: var(--muted); margin-top: 0.25rem; }
+
+/* ─── Poem detail ─── */
+.poem-header { padding: 2rem 0; border-bottom: var(--border-bold); margin-bottom: 2.5rem; }
+.poem-title-main { font-size: 2rem; font-weight: 700; letter-spacing: 0.04em; }
+.poem-title-en-sub { font-size: 0.95rem; font-style: italic; color: var(--muted); margin-top: 0.5rem; }
+.poem-header-meta { display: flex; gap: 1rem; align-items: center; margin-top: 1rem; flex-wrap: wrap; }
+.poem-epigraph {
+  margin-bottom: 2.5rem; padding: 1.2rem 1.6rem;
+  border-left: 3px solid var(--ink); background: var(--white);
+  font-size: 0.88rem; line-height: 1.9; color: var(--muted); font-style: italic;
+}
+.poem-epigraph-en { margin-top: 0.5rem; }
+
+.poem-body-zh { font-size: 1.05rem; line-height: 2.3; }
+.poem-body-en {
+  display: none; font-size: 0.98rem; line-height: 2.2; font-style: italic;
+  color: var(--muted); margin-top: 2rem; padding-top: 2rem;
+  border-top: 1px dashed #ccc;
+}
+.poem-body-en.show { display: block; }
+.trans-label {
+  display: block; font-family: var(--sans); font-size: 0.7rem;
+  letter-spacing: 0.12em; text-transform: uppercase; font-style: normal;
+  margin-bottom: 1.2rem; padding: 3px 9px; display: inline-block;
+}
+.trans-label.poet { border: 1px solid #ccc; color: #999; }
+.trans-label.ai { border: 1px solid #c08020; color: #c08020; }
+.trans-loading {
+  font-family: var(--sans); font-size: 0.82rem; color: var(--muted);
+  font-style: normal; padding: 0.5rem 0;
+}
+.trans-error {
+  font-family: var(--sans); font-size: 0.82rem; color: #c00;
+  font-style: normal; padding: 0.5rem 0;
+}
+.poem-stanza { margin-bottom: 1.2rem; }
+.poem-line { display: block; }
+
+.poem-commentary {
+  display: none; margin-top: 3rem; padding-top: 2rem;
+  border-top: 1px solid var(--light);
+}
+.poem-commentary.show { display: block; }
+.commentary-heading {
+  font-size: 0.75rem; font-family: var(--sans); letter-spacing: 0.15em;
+  color: var(--muted); text-transform: uppercase; margin-bottom: 1.5rem;
+}
+.commentary-body { font-size: 0.88rem; line-height: 2; }
+.commentary-body p { margin-bottom: 1rem; }
+.commentary-body p:last-child { margin-bottom: 0; }
+
+/* ─── Upload portal ─── */
+.upload-gate { max-width: 480px; margin: 5rem auto; text-align: center; padding: 0 1.5rem; }
+.upload-gate h2 { font-size: 1.4rem; font-weight: 700; }
+.upload-gate p { font-size: 0.88rem; color: var(--muted); margin-top: 0.5rem; line-height: 1.8; }
+.password-field {
+  width: 100%; padding: 0.75rem; border: var(--border-bold);
+  font-family: var(--serif); font-size: 1.1rem; text-align: center;
+  letter-spacing: 0.2em; background: var(--white); margin: 1.5rem 0;
+}
+.btn-unlock {
+  width: 100%; padding: 0.75rem; background: var(--ink); color: var(--bg);
+  border: none; font-family: var(--sans); font-size: 0.85rem; letter-spacing: 0.12em;
+}
+.upload-error { color: #c00; font-size: 0.82rem; font-family: var(--sans); margin-top: 0.5rem; display: none; }
+.upload-error.show { display: block; }
+
+.upload-form { max-width: 700px; margin: 0 auto; display: none; padding: 2rem 0; }
+.upload-form.show { display: block; }
+.upload-form h2 { font-size: 1.3rem; font-weight: 700; margin-bottom: 0.3rem; }
+.upload-form p { font-size: 0.85rem; color: var(--muted); margin-bottom: 2rem; }
+
+.form-group { margin-bottom: 1.4rem; }
+.form-label { display: block; font-size: 0.78rem; font-family: var(--sans); letter-spacing: 0.08em; color: var(--muted); margin-bottom: 0.5rem; }
+.form-input, .form-textarea, .form-select {
+  width: 100%; padding: 0.7rem 0.9rem; border: var(--border);
+  font-family: var(--serif); font-size: 0.95rem; background: var(--white);
+  outline: none; transition: border-color 0.15s;
+}
+.form-input:focus, .form-textarea:focus, .form-select:focus { border-color: var(--ink); }
+.form-textarea { min-height: 180px; resize: vertical; }
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.btn-submit {
+  width: 100%; padding: 0.85rem; background: var(--ink); color: var(--bg);
+  border: none; font-family: var(--sans); font-size: 0.85rem; letter-spacing: 0.12em;
+  transition: opacity 0.15s;
+}
+.btn-submit:hover { opacity: 0.85; }
+.upload-success { display: none; text-align: center; padding: 3rem; }
+.upload-success.show { display: block; }
+.upload-success h3 { font-size: 1.2rem; font-weight: 700; margin-bottom: 0.5rem; }
+.upload-success p { font-size: 0.88rem; color: var(--muted); }
+
+/* ─── Feedback button (floating, all pages) ─── */
+#feedback-btn {
+  position: fixed; bottom: 1.8rem; right: 1.8rem; z-index: 900;
+  background: var(--ink); color: var(--bg);
+  border: none; border-radius: 2rem;
+  padding: 0.65rem 1.2rem;
+  font-family: var(--sans); font-size: 0.8rem; letter-spacing: 0.06em;
+  cursor: pointer; box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  display: flex; align-items: center; gap: 0.4rem;
+  transition: opacity 0.15s;
+}
+#feedback-btn:hover { opacity: 0.82; }
+
+/* ─── Feedback modal ─── */
+#feedback-overlay {
+  display: none; position: fixed; inset: 0; z-index: 950;
+  background: rgba(0,0,0,0.45); align-items: center; justify-content: center;
+}
+#feedback-overlay.open { display: flex; }
+#feedback-modal {
+  background: var(--bg); width: min(480px, 92vw);
+  padding: 2.2rem 2rem 2rem; position: relative;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.22);
+}
+#feedback-modal h2 {
+  font-size: 1.15rem; font-weight: 700; margin-bottom: 0.35rem; letter-spacing: 0.02em;
+}
+#feedback-modal .feedback-subtitle {
+  font-family: var(--sans); font-size: 0.78rem; color: var(--muted);
+  margin-bottom: 1.6rem; letter-spacing: 0.04em;
+}
+#feedback-modal .form-label {
+  display: block; font-family: var(--sans); font-size: 0.72rem;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted);
+  margin-bottom: 0.4rem; margin-top: 1rem;
+}
+#feedback-modal input, #feedback-modal textarea, #feedback-modal select {
+  width: 100%; border: 1px solid var(--light); padding: 0.6rem 0.75rem;
+  font-family: var(--serif); font-size: 1rem; background: var(--bg);
+  color: var(--ink); box-sizing: border-box; resize: vertical;
+}
+#feedback-modal textarea { min-height: 110px; }
+.feedback-actions { display: flex; gap: 0.8rem; margin-top: 1.6rem; }
+.feedback-actions button { flex: 1; padding: 0.75rem; font-family: var(--sans); font-size: 0.82rem; letter-spacing: 0.08em; border: none; cursor: pointer; transition: opacity 0.15s; }
+.feedback-cancel { background: var(--light); color: var(--ink); }
+.feedback-submit { background: var(--ink); color: var(--bg); }
+.feedback-actions button:hover { opacity: 0.8; }
+.feedback-close {
+  position: absolute; top: 1rem; right: 1.2rem;
+  background: none; border: none; font-size: 1.3rem; cursor: pointer; color: var(--muted);
+}
+#feedback-success { display: none; text-align: center; padding: 1.5rem 0; }
+#feedback-success.show { display: block; }
+#feedback-success p { font-size: 1rem; color: var(--ink); line-height: 1.8; }
+
+/* ─── Admin reports panel ─── */
+#reports-overlay {
+  display: none; position: fixed; inset: 0; z-index: 960;
+  background: rgba(0,0,0,0.5); align-items: flex-start; justify-content: center;
+  padding-top: 3rem; overflow-y: auto;
+}
+#reports-overlay.open { display: flex; }
+#reports-panel {
+  background: var(--bg); width: min(700px, 94vw);
+  padding: 2rem; box-shadow: 0 8px 40px rgba(0,0,0,0.25);
+  max-height: 80vh; overflow-y: auto; position: relative;
+}
+#reports-panel h2 { font-size: 1.1rem; font-weight: 700; margin-bottom: 1.4rem; }
+.report-item {
+  border-bottom: 1px solid var(--light); padding: 1rem 0;
+  font-family: var(--sans); font-size: 0.82rem; line-height: 1.7;
+}
+.report-item:last-child { border-bottom: none; }
+.report-meta { color: var(--muted); font-size: 0.72rem; margin-bottom: 0.3rem; }
+.report-message { color: var(--ink); white-space: pre-wrap; }
+.report-type-badge {
+  display: inline-block; padding: 1px 7px; border: 1px solid #ccc;
+  font-size: 0.68rem; letter-spacing: 0.06em; margin-right: 0.4rem;
+}
+#reports-empty { color: var(--muted); font-family: var(--sans); font-size: 0.85rem; }
+.reports-close { position: absolute; top: 1rem; right: 1.2rem; background: none; border: none; font-size: 1.3rem; cursor: pointer; color: var(--muted); }
+
+/* ─── Poem actions bar ─── */
+.content-actions { display: flex; gap: 0.6rem; margin-bottom: 2rem; flex-wrap: wrap; align-items: center; }
+
+/* ─── Pagination ─── */
+.pagination { display: flex; justify-content: center; gap: 0.4rem; margin-top: 2rem; padding: 1rem 0; }
+.page-btn {
+  width: 36px; height: 36px; background: transparent; border: 1px solid var(--light);
+  font-family: var(--sans); font-size: 0.8rem; color: var(--muted);
+  display: flex; align-items: center; justify-content: center; transition: all 0.15s;
+}
+.page-btn.active, .page-btn:hover { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+/* ─── Responsive ─── */
+@media (max-width: 640px) {
+  html { font-size: 18px; }
+  nav { padding: 0.75rem 1rem; }
+  .home-cards { grid-template-columns: 1fr; }
+  .home-hero-title { font-size: 2rem; }
+  .haiku-line-zh { font-size: 1.6rem; }
+  .poem-title-main { font-size: 1.5rem; }
+  .poem-card { grid-template-columns: 1fr; }
+  .poem-card-meta { text-align: left; }
+  .nav-font-controls { display: none; }
+  .form-row { grid-template-columns: 1fr; }
+}
+
+/* ─── Print ─── */
+@media print {
+  nav, .haiku-actions, .content-actions, .filter-bar, .upload-gate { display: none !important; }
+  .haiku-notes { display: block !important; }
+}
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════
+     NAVIGATION
+════════════════════════════════════════ -->
+<nav>
+  <div class="nav-logo" onclick="showPage('home')">
+    何康隆詩集
+    <span>Poems by Khang-Loon Ho</span>
+  </div>
+  <ul class="nav-links">
+    <li><button id="nav-haiku" onclick="showPage('haiku-list')">俳句</button></li>
+    <li><button id="nav-poems" onclick="showPage('poems-list')">詩集</button></li>
+    <li><button id="nav-upload" onclick="showPage('upload')">上傳</button></li>
+    <div class="nav-font-controls">
+      <button class="nav-font-btn" onclick="adjustFont(-1)" title="縮小字體">A-</button>
+      <button class="nav-font-btn" onclick="adjustFont(1)" title="放大字體">A+</button>
+    </div>
+  </ul>
+</nav>
+
+<!-- ══════════════════════════════════════
+     PAGE: HOME
+════════════════════════════════════════ -->
+<section id="page-home" class="page active">
+  <div class="home-hero">
+    <div class="home-hero-title">何康隆詩集</div>
+    <div class="home-hero-en">Poems & Haiku by Khang-Loon Ho</div>
+    <div class="home-hero-author">何康隆 · Khang-Loon Ho</div>
+    <div class="home-hero-rule"></div>
+    <div class="home-hero-quote">「把自己，留在安靜的風景裡，看紅塵，如過客遠去。」</div>
+  </div>
+  <div class="home-cards">
+    <button class="home-card" onclick="showPage('haiku-list')">
+      <div class="home-card-num">壹</div>
+      <div class="home-card-title">現代俳句和變奏</div>
+      <div class="home-card-sub">Modern Haiku &amp; Variations · 191 系列 · 1,500+ 首</div>
+      <div class="home-card-preview">
+        或者靜聽霧的腳步<br>
+        或者細數星的光芒<br>
+        詩有自己的軌道和方向
+      </div>
+    </button>
+    <button class="home-card" onclick="showPage('poems-list')">
+      <div class="home-card-num">貳</div>
+      <div class="home-card-title">散文詩集</div>
+      <div class="home-card-sub">Free Verse Poems · 旅行 · 自然 · 回憶</div>
+      <div class="home-card-preview">
+        把婆娑之洋美麗之島的懷鄉心情，握在掌中<br>
+        Dvořák 的故鄉旋律總隨著季節悠然繚繞
+      </div>
+    </button>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════
+     PAGE: HAIKU LIST (Series Grid)
+════════════════════════════════════════ -->
+<section id="page-haiku-list" class="page">
+  <div class="container-wide">
+    <div class="page-header">
+      <div class="page-title">現代俳句和變奏</div>
+      <div class="page-subtitle">MODERN HAIKU &amp; VARIATIONS · 何康隆</div>
+    </div>
+    <div class="filter-bar" id="haiku-filter-bar">
+      <button class="filter-btn active" onclick="filterSeries('all', this)">全部</button>
+      <button class="filter-btn" onclick="filterSeries('published', this)">已發表</button>
+      <button class="filter-btn" onclick="filterSeries('unpublished', this)">未發表</button>
+    </div>
+    <div class="series-grid" id="series-grid"></div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════
+     PAGE: HAIKU SERIES (Individual Series)
+════════════════════════════════════════ -->
+<section id="page-haiku-series" class="page">
+  <div class="container">
+    <button class="back-link" onclick="showPage('haiku-list')">← 返回系列列表</button>
+    <div id="series-content"></div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════
+     PAGE: POEMS LIST
+════════════════════════════════════════ -->
+<section id="page-poems-list" class="page">
+  <div class="container">
+    <div class="page-header">
+      <div class="page-title">散文詩集</div>
+      <div class="page-subtitle">FREE VERSE POEMS · 何康隆</div>
+    </div>
+    <div class="filter-bar" id="poems-filter-bar">
+      <button class="filter-btn active" onclick="filterPoems('all', this)">全部</button>
+      <button class="filter-btn" onclick="filterPoems('Taiwan', this)">台灣</button>
+      <button class="filter-btn" onclick="filterPoems('Europe', this)">歐洲</button>
+      <button class="filter-btn" onclick="filterPoems('Arctic', this)">極地</button>
+      <button class="filter-btn" onclick="filterPoems('USA', this)">北美</button>
+    </div>
+    <div class="poems-list" id="poems-grid"></div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════
+     PAGE: POEM DETAIL
+════════════════════════════════════════ -->
+<section id="page-poem-detail" class="page">
+  <div class="container">
+    <button class="back-link" onclick="showPage('poems-list')">← 返回詩集</button>
+    <div id="poem-content"></div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════
+     PAGE: UPLOAD PORTAL
+════════════════════════════════════════ -->
+<section id="page-upload" class="page">
+  <!-- Password gate -->
+  <div class="upload-gate" id="upload-gate">
+    <h2>上傳新作品</h2>
+    <p>此頁面為私人使用。<br>請輸入密碼進入上傳區。</p>
+    <input type="password" class="password-field" id="upload-password" placeholder="••••••••" onkeydown="if(event.key==='Enter')checkPassword()">
+    <button class="btn-unlock" onclick="checkPassword()">進入 →</button>
+    <div class="upload-error" id="upload-error">密碼錯誤，請再試一次。</div>
+  </div>
+
+  <!-- Upload form (shown after auth) -->
+  <div class="upload-form" id="upload-form-container">
+    <div class="container">
+      <h2>上傳新作品</h2>
+      <p>填寫以下表格，作品將送交審核後發布。</p>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label class="form-label">作品類型 *</label>
+          <select class="form-select" id="upload-type" onchange="toggleUploadFields()">
+            <option value="haiku">俳句系列 (Modern Haiku)</option>
+            <option value="poem">散文詩 (Free Verse Poem)</option>
+          </select>
+        </div>
+        <div class="form-group" id="series-num-group">
+          <label class="form-label">系列號碼</label>
+          <input type="number" class="form-input" id="upload-series-num" placeholder="例如：192">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label">標題（詩名）</label>
+        <input type="text" class="form-input" id="upload-title" placeholder="例如：系列《192》 或 詩名">
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label class="form-label">地點 / 背景</label>
+          <input type="text" class="form-input" id="upload-geo" placeholder="例如：台灣、日本、北極">
+        </div>
+        <div class="form-group">
+          <label class="form-label">創作年份</label>
+          <input type="text" class="form-input" id="upload-year" placeholder="例如：2024">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label">中文內容 * （可全文貼上）</label>
+        <textarea class="form-textarea" id="upload-zh" style="min-height:240px;" placeholder="請貼上中文詩文…"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label">英文翻譯（選填）</label>
+        <textarea class="form-textarea" id="upload-en" placeholder="English translation (optional)…"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label">注解 / 評論（選填）</label>
+        <textarea class="form-textarea" id="upload-notes" placeholder="引用、背景說明、連結等…"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label">YouTube 連結（每行一個，選填）</label>
+        <textarea class="form-textarea" style="min-height:80px;" id="upload-yt" placeholder="https://www.youtube.com/watch?v=…"></textarea>
+      </div>
+
+      <button class="btn-submit" onclick="submitUpload()">送出作品 →</button>
+    </div>
+  </div>
+
+  <!-- Success message -->
+  <div class="upload-success" id="upload-success">
+    <div class="container">
+      <h3>謝謝！作品已送出。</h3>
+      <p>將盡快審核並發布。<br><br>
+      <button class="btn-sm" onclick="resetUploadForm()">繼續上傳另一首</button></p>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════
+     DATA
+════════════════════════════════════════ -->
+<script>
+// ─── Haiku Data ───
+// Format: { num, status, haiku: [ { n, zh: [line1,line2,line3], en: [line1,line2,line3]|null, notes, yt: [] } ] }
+const HAIKU_SERIES = [
+
+  // ── Series 1 ──
+  { num: 1, status: 'published', haiku: [
+    { n: 1, zh: ['或者靜聽霧的腳步', '或者細數星的光芒', '詩有自己的軌道和方向'], en: null, notes: null, yt: [] },
+    { n: 2, zh: ['杜甫：國破山河在', '齊柏林：國在山河破', '《看見台灣》：島嶼的美麗和哀愁'], en: null, notes: `唐・杜甫・《春望》
+
+國破山河在，城春草木深。
+感時花濺淚，恨別鳥驚心。
+烽火連三月，家書抵萬金。
+白頭搔更短，渾欲不勝簪。
+
+齊柏林：影片《看見台灣》，歷時5年，累積400小時直升機空拍視野。第50屆金馬獎最佳記錄片（2013）。6/10/2017，空中拍攝《看見台灣 2》時，墜機罹難於花蓮山海交接處。
+
+「換個高度，看得更清楚；換個態度，善待自己，善待自然。」`, yt: [] },
+    { n: 3, zh: ['回想當年晚霞', '一幅畫卷', '每一筆都爲你留白'], en: null, notes: null, yt: [] },
+    { n: 4, zh: ['AlphaGo, go, go, go', '你走你的陽關道', '我過我的獨木橋'], en: null, notes: '5/27/2017，谷歌人工智慧系統 AlphaGo 對戰中國圍棋棋王柯潔取得3連勝。「AlphaGo之父」哈薩比斯表示，AlphaGo從此退役。其棋藝已遠超九段棋力，人類無以超越。AlphaGo只花二年時間就達到目前的實力。', yt: [] },
+    { n: 5, zh: ['那是暮春最美的薫衣草', '風中飄著陣陣詩意', '等待詮譯'], en: null, notes: null, yt: [] },
+    { n: 6, zh: ['「最近好嗎？都想些什麼？」', 'Black Hole, Dark Matter, Supernova…', '到遠方自成一個宇宙'], en: null, notes: null, yt: [] },
+    { n: 7, zh: ['坐在現代的風景看古代的風景', '荷馬如此說', '司馬遷如此說'], en: null, notes: `荷馬是希臘瞎眼的吟唱詩人，留下二部古希臘文學經典《荷馬史詩》：伊里亞德和奧德賽，敘述海倫—木馬的特洛伊戰爭以及奧德賽十年海上漂泊的歷險記。
+
+司馬遷是受宮刑的西漢史學家和文學家，撰寫《史記》，被公認為中國史書典範。其史學觀念：「究天人之際，通古今之變，成一家之言。」`, yt: [] },
+    { n: 8, zh: ['霧散了', '在風景的上方', '掛着一個酩酊的夕陽'], en: null, notes: null, yt: [] },
+    { n: 9, zh: ['從此那滴雨', '就留在我的手心', '等童年的蜻蜓飛回來'], en: null, notes: null, yt: [] },
+    { n: 10, zh: ['會當凌絕頂', '一覽衆山小', '杜甫，你也來阿里山看雲海'], en: null, notes: `唐・杜甫・《望岳》
+
+岱宗夫如何，齊魯青未了。
+造化鍾神秀，陰陽割昏曉。
+蕩胸生層雲，決眦入歸鳥。
+會當凌絕頂，一覽衆山小。`, yt: [] }
+  ]},
+
+  // ── Series 30 ──
+  { num: 30, status: 'published', haiku: [
+    { n: 291, zh: ['古寺，池塘', '夏日急雨', '濺起芭蕉俳句'], en: null, notes: `日本「俳聖」松尾芭蕉的經典俳句《古池》：
+
+閑寂古池旁
+青蛙跳入
+撲通一聲響`, yt: [] },
+    { n: 292, zh: ['在花影婆娑的初夏', '在暮色漸濃的秋日', '有個地方叫從前'], en: null, notes: null, yt: [] },
+    { n: 293, zh: ['歲月從身上拂過', '繽紛的，一一飄落，只留', '一些思念，幾許無奈'], en: null, notes: null, yt: [] },
+    { n: 294, zh: ['旅程，有時', '天涯是一片草原', '有時，海角是一抹月光'], en: null, notes: null, yt: [] },
+    { n: 295, zh: ['蘋果成熟，賈伯斯探入', '但見網路密織，iPhone 飄浮', '不知雲端深處，今夕是何時？'], en: null, notes: `史蒂芬・賈伯斯（Steve Jobs, 1955–2011），蘋果公司董事長。Macintosh、iPod、iPhone、iPad 等的締造者。七次登上《時代雜誌》封面。
+
+名言三則：
+1. 保持進取的意念……堅持執著的傻勁。（Stay hungry. Stay foolish.）
+2. 你的時間有限，不要把時間虛耗在別人的生命中。最重要的是，鼓起勇氣，跟隨你的心靈與直覺。
+3. 我們必須讓小事也令人難忘。（We've got to make the small things unforgettable.）`, yt: [] },
+    { n: 296, zh: ['如果不記下幾行詞句', '怎知萬里秋雁', '帶走的是誰的孤寂'], en: null, notes: null, yt: [] },
+    { n: 297, zh: ['旅途漫漫', '那落向天涯的', '豈止昏黃的夕陽？'], en: null, notes: null, yt: [] },
+    { n: 298, zh: ['柳宗元，可否陪你走雪原', '看，千古流光', '釣，洣濛寒江'], en: null, notes: `唐・柳宗元・《江雪》
+
+千山鳥飛絕，萬徑人踪滅。
+孤舟蓑笠翁，獨釣寒江雪。`, yt: [] },
+    { n: 299, zh: ['沿溪行', '忘路之遠近', '那就浪跡天涯吧！'], en: null, notes: null, yt: [] },
+    { n: 300, zh: ['霧迷津渡，疑無路', '你來，陪我靜坐，指説', '柳暗盡處，風荷滿池'], en: null, notes: `宋・秦觀・《踏莎行》
+
+霧失樓台，月迷津渡，桃源望斷無尋處。
+可堪孤館閉春寒，杜鵑聲裡斜陽暮。
+驛寄梅花，魚傳尺素。砌成此恨無重數。
+郴江幸自繞郴山，為誰流下瀟湘去？
+
+《You Raise Me Up》 — Secret Garden / Brendan Graham
+
+When I am down, and, oh, my soul, so weary
+When troubles come, and my heart burdened be
+Then, I am still and wait here in the silence
+Until you come and sit awhile with me
+
+You raise me up, so I can stand on mountains
+You raise me up to walk on stormy seas
+I am strong when I am on your shoulders
+You raise me up to more than I can be`, yt: [] }
+  ]},
+
+  // ── Series 150 (未發表) ──
+  { num: 150, status: 'unpublished', haiku: [
+    { n: 1491, zh: ['這一方小小的水田', '是我們的天涯，照映', '恬淡交織的顏色'], en: null, notes: null, yt: [] },
+    { n: 1492, zh: ['黃昏，李叔同的笛聲', '晚風裡，飄成一封', '久未展讀的信'], en: null, notes: `【AI 延伸解讀】
+
+這三行將李叔同（弘一法師）著名的詞作《送別》進行意象上的現代轉化。它捕捉了原詞「長亭外，古道邊，芳草碧連天」的蕭瑟與哀愁，並賦予「時間」與「記憶」更具體的形狀。
+
+「飄成」二字極具動感，暗示這份情感在晚風中失了根，像是一封永遠無法投遞的殘箋。
+
+「久未展讀」是最動人的核心——那封信不是消失了，而是「不敢輕易觸碰」。
+
+意境縮影：少年時，我們在長亭揮手，以為離別只是一場晚風；中年以後才發現，那場晚風竟將整個餘生，都吹成了一封拆不開、讀不完的匿名信。`, yt: [] },
+    { n: 1493, zh: ['行到水窮處，唯有枯山水', '原來遠山比我們更沉靜', '波紋比我們更無為'], en: null, notes: `日本枯山水庭院（karesansui）源自日本禪宗縮微園林，用白細砂代表水，石組象徵山巒，旨在創造靜謐深邃的冥想空間。代表有龍安寺、銀閣寺、光明禪寺等。
+
+所謂枯山水，就是沒有真的山和水——幾塊大小不一的石頭點綴在一片白沙之中，白沙表面梳耙出圓形和長形的條紋，耐人尋味。石頭代表山、島嶼以及船隻，白沙代表水，沙上的條紋則代表水的波紋。`, yt: [] },
+    { n: 1494, zh: ['樹影沉沉，香爐裊裊', '寺中無日月，菩薩總慈眉', '風，斷續穿梭長廊空寂'], en: null, notes: null, yt: [] },
+    { n: 1495, zh: ['蒼茫裡，我是唯一的雁', '飛過晚禱後的黃昏', '留下一抹，漸行漸遠的印象'], en: null, notes: null, yt: [] },
+    { n: 1496, zh: ['那是夢裡安靜的角落', '純粹的幾何韻律', '安靜的色彩節奏'], en: null, notes: `彼埃・蒙得里安（Piet Mondrian, 1872–1944，荷蘭畫家）：1917年起創造「新造型主義」風格，運用線條和色彩區塊，將抽象派推至極限。代表作：《Composition in Red, Blue, and Yellow》（1930）。
+
+「運用直線與色塊，透過意識直覺地引導構造，帶來節奏和韻律這些最本質的美，我相信這是一種藝術。」 — 蒙得里安
+
+「所有看似最簡單的東西都是最難的。」 — E=MC²`, yt: [] },
+    { n: 1497, zh: ['離開安平古堡時夕陽餘暉剛好落入防風林之外', '那一束玉蘭花在街邊少女的髮際綻放得很古典', '花影迤邐直到赤嵌樓城牆淹沒於歷史的洄溯中'], en: null, notes: `《赤嵌樓》為1653年荷蘭人所建，最初稱「普羅民遮城」，與安平（昔稱大員）的「熱蘭遮堡」遙遙相對。城牆以糖水、糯米汁攪拌蚵殼灰作為接合料，以紅磚石疊砌而成，堅如磐石。
+
+在三百年的歷史變遷中，曾是荷蘭時代的西式城堡，曾是清領時代的閩南式樓閣，曾是日本時期的陸軍醫院，戰後的歷史文物館，見證著滄海桑田的時代演進。
+
+「世界史不只發生在遠方，臺灣本身就是世界史的現場。」`, yt: [] },
+    { n: 1498, zh: ['近處有人禪坐，遠處有人漫步', '日落黃昏，暮色漸起', '風，習習吹入客子詩卷裡'], en: null, notes: `客子光陰詩卷裡，杏花消息雨聲中。
+— 宋・陳與義・《懷天經智老因訪之》`, yt: [] },
+    { n: 1499, zh: ['那些披塵沾露的日子', '我們追念的不僅是歲月，更有', '過盡千帆皆不是的悠悠流水'], en: null, notes: `梳洗罷，獨倚望江樓
+過盡千帆皆不是
+斜暉脈脈水悠悠，腸斷白蘋洲
+— 唐・溫庭筠・《望江南・梳洗罷》
+
+「過盡千帆皆不是」：望穿秋水，上千艘船都過去了，卻沒有等到心上人。常引申為經歷許多事情、看盡世間繁華後，才明白真正所求的並不在其中，帶有滄桑和醒悟的意味。`, yt: [] },
+    { n: 1500, zh: ['風從三月吹來時', '就盼著四月的雨聲', '低掠青青水稻的白鷺鷥'], en: null, notes: '歌頌春天的中外音樂：', yt: [
+      { title: '小約翰•史特勞斯「春之聲」圓舞曲', url: 'https://www.youtube.com/watch?v=aOcWrhCd4M8' },
+      { title: 'Felix Mendelssohn — Spring Song Op. 62 No. 6', url: 'https://www.youtube.com/watch?v=bQK_GCAGPIs' },
+      { title: 'Vivaldi — The Four Seasons, Spring (1st Movement)', url: 'https://www.youtube.com/watch?v=e3nSvIiBNFo' },
+      { title: '滿山春色 — 台灣獨奏家交響樂團', url: 'https://www.youtube.com/watch?v=xyG6r1orKdM' },
+      { title: '曹雅雯：滿山春色', url: 'https://www.youtube.com/watch?v=nD6NoDZhra8' },
+      { title: '《快樂的出帆》— 台灣獨奏家交響樂團', url: 'https://www.youtube.com/watch?v=T2YyeHc_16g' },
+      { title: 'Spring Waltz (Mariage d\'Amour) — Paul de Senneville', url: 'https://www.youtube.com/watch?v=zrX_pYsQEp8' }
+    ] }
+  ]}
+];
+
+// Placeholder series (not yet fully loaded) — shown in grid but no haiku data
+const SERIES_STUBS = [
+  { num: 2, status: 'published' }, { num: 3, status: 'published' }, { num: 4, status: 'published' },
+  { num: 5, status: 'published' }, { num: 6, status: 'published' }, { num: 7, status: 'published' },
+  { num: 8, status: 'published' }, { num: 9, status: 'published' }, { num: 10, status: 'published' },
+  { num: 11, status: 'published' }, { num: 12, status: 'published' }, { num: 13, status: 'published' },
+  { num: 14, status: 'published' }, { num: 15, status: 'published' }, { num: 16, status: 'published' },
+  { num: 17, status: 'published' }, { num: 18, status: 'published' }, { num: 19, status: 'published' },
+  { num: 20, status: 'published' }, { num: 21, status: 'published' }, { num: 22, status: 'published' },
+  { num: 23, status: 'published' }, { num: 24, status: 'published' }, { num: 25, status: 'published' },
+  { num: 26, status: 'published' }, { num: 27, status: 'published' }, { num: 28, status: 'published' },
+  { num: 29, status: 'published' }, { num: 31, status: 'published' }, { num: 32, status: 'published' },
+  { num: 33, status: 'published' }, { num: 34, status: 'published' }, { num: 35, status: 'published' },
+  { num: 36, status: 'published' }, { num: 37, status: 'published' }, { num: 38, status: 'published' },
+  { num: 39, status: 'published' }, { num: 40, status: 'published' }, { num: 41, status: 'published' },
+  { num: 42, status: 'published' }, { num: 43, status: 'published' }, { num: 44, status: 'published' },
+  { num: 45, status: 'published' }, { num: 46, status: 'published' }, { num: 47, status: 'published' },
+  { num: 48, status: 'published' }, { num: 49, status: 'published' }, { num: 50, status: 'published' },
+  { num: 51, status: 'published' }, { num: 52, status: 'published' }, { num: 53, status: 'published' },
+  { num: 54, status: 'published' }, { num: 55, status: 'published' }, { num: 56, status: 'published' },
+  { num: 57, status: 'published' }, { num: 58, status: 'published' }, { num: 59, status: 'published' },
+  { num: 60, status: 'published' }, { num: 61, status: 'published' }, { num: 62, status: 'published' },
+  { num: 63, status: 'published' }, { num: 64, status: 'published' }, { num: 65, status: 'published' },
+  { num: 66, status: 'published' }, { num: 67, status: 'published' }, { num: 68, status: 'published' },
+  { num: 69, status: 'published' }, { num: 70, status: 'published' }, { num: 71, status: 'published' },
+  { num: 72, status: 'published' }, { num: 73, status: 'published' }, { num: 74, status: 'published' },
+  { num: 75, status: 'published' }, { num: 76, status: 'published' }, { num: 77, status: 'published' },
+  { num: 78, status: 'published' }, { num: 79, status: 'published' }, { num: 80, status: 'published' },
+  { num: 81, status: 'published' }, { num: 82, status: 'published' }, { num: 83, status: 'published' },
+  { num: 84, status: 'published' }, { num: 85, status: 'published' }, { num: 86, status: 'published' },
+  { num: 87, status: 'published' }, { num: 88, status: 'published' }, { num: 89, status: 'published' },
+  { num: 90, status: 'published' }, { num: 91, status: 'published' }, { num: 92, status: 'published' },
+  { num: 93, status: 'published' }, { num: 94, status: 'published' }, { num: 95, status: 'published' },
+  { num: 96, status: 'published' }, { num: 97, status: 'published' }, { num: 98, status: 'published' },
+  { num: 99, status: 'published' }, { num: 100, status: 'published' },
+  { num: 102, status: 'published' }, { num: 103, status: 'published' }, { num: 104, status: 'published' },
+  { num: 105, status: 'published' }, { num: 106, status: 'published' }, { num: 107, status: 'published' },
+  { num: 108, status: 'published' }, { num: 109, status: 'published' }, { num: 110, status: 'published' },
+  { num: 111, status: 'published' }, { num: 112, status: 'published' }, { num: 113, status: 'published' },
+  { num: 114, status: 'published' }, { num: 115, status: 'published' }, { num: 116, status: 'published' },
+  { num: 117, status: 'published' }, { num: 118, status: 'published' }, { num: 119, status: 'published' },
+  { num: 120, status: 'published' }, { num: 121, status: 'published' }, { num: 122, status: 'published' },
+  { num: 123, status: 'published' }, { num: 124, status: 'published' }, { num: 125, status: 'published' },
+  { num: 126, status: 'published' }, { num: 127, status: 'published' }, { num: 128, status: 'published' },
+  { num: 129, status: 'published' }, { num: 130, status: 'published' }, { num: 131, status: 'published' },
+  { num: 132, status: 'published' }, { num: 133, status: 'published' }, { num: 134, status: 'published' },
+  { num: 135, status: 'published' }, { num: 136, status: 'published' }, { num: 137, status: 'published' },
+  { num: 138, status: 'published' }, { num: 139, status: 'published' }, { num: 140, status: 'published' },
+  { num: 141, status: 'published' }, { num: 142, status: 'published' }, { num: 143, status: 'published' },
+  { num: 144, status: 'published' }, { num: 145, status: 'published' }, { num: 146, status: 'published' },
+  { num: 147, status: 'published' }, { num: 148, status: 'published' }, { num: 149, status: 'published' },
+  { num: 151, status: 'unpublished' }, { num: 152, status: 'unpublished' }, { num: 153, status: 'unpublished' },
+  { num: 154, status: 'unpublished' }, { num: 155, status: 'unpublished' },
+  { num: 187, status: 'unpublished' }, { num: 188, status: 'unpublished' },
+  { num: 189, status: 'unpublished' }, { num: 191, status: 'unpublished' }
+];
+
+// ─── Poem Data ───
+const POEMS_DATA = [
+  {
+    id: 'p001',
+    title_zh: '把零碎時光握在掌中',
+    title_en: 'Holding Fragmented Time in Palm',
+    subtitle: null,
+    geo: 'Taiwan / USA / Global',
+    geo_tags: ['Taiwan', 'USA'],
+    year: null,
+    themes: ['memoir', 'identity', 'diaspora'],
+    epigraph_zh: '「生活是慌忙而紛雜的，當我們靜下來回憶時，卻又變得溫馨而晶瑩如一首詩。」— 東方白',
+    epigraph_en: '"Life is hectic and full of distractions, yet when we pause to reflect, it becomes warm and luminous, like a poem." — Dongfang Bai',
+    stanzas: [
+      { zh: '把婆娑之洋美麗之島的懷鄉心情，握在掌中\nDvorak 的故鄉旋律總隨著季節悠然繚繞', en: 'Hold in my palm the homesick longing for the island, lovely amid the swaying seas.\nDvořák\'s hometown melodies drift leisurely with the turning seasons.' },
+      { zh: '把屏東公園老樹下的一池蓮花，握在掌中\n不時自問，誰是去夏最美的一朶蓮', en: 'Hold in my palm the lotus pond beneath the old trees of Pingtung Park.\nNow and then I ask: which bloom was the fairest last summer?' },
+      { zh: '把屏東中學校門那排壯麗的大王椰樹，握在掌中\n那是反共大陸收復故土不講國語罰錢的時代', en: 'Hold in my palm the grand row of royal palms outside Pingtung High.\nAn age of anti-communist slogans, reclaim-the-mainland dreams, and fines for speaking dialect.' },
+      { zh: '把自強不息壁報貼滿紅樓的臺南一中，握在掌中\n全臺首學孔廟沙加利巴棺材板度小月擔擔麵', en: 'Hold in my palm Tainan First High, its red walls covered with slogans of self-strength.\nTaiwan\'s first school, Confucian temples, Shakaliba, coffin-toast, Du Hsiao Yueh dandan noodles.' },
+      { zh: '把防風林之外還有防風林的安平夕照，握在掌中\n億載金城鹿耳門臺江赤坎樓西拉雅族梅花鹿', en: 'Hold in my palm the Anping sunset, beyond the windbreaks and yet more windbreaks.\nEternal Fortress, Luermen, Taijiang, Chihkan Tower, Siraya tribe, spotted deer.' },
+      { zh: '把臺南回屏東過下淡水溪鐵橋近鄉心情，握在掌中\n泰戈爾詩集胡適文存文星雜誌在火車裡對話', en: 'Hold in my palm the feeling of nearing home, crossing the Lower Tamsui railway bridge from Tainan.\nTagore\'s poems, Hu Shih\'s collected prose, Wenxing magazine in quiet dialogue on the train.' },
+      { zh: '把高醫安生村竹棚餐廳的豬肝炒筍絲，握在掌中\n都說熟讀一部 Cecil 的內科學可以走遍天下', en: 'Hold in my palm the stir-fried liver and bamboo shoots from the bamboo kitchen at KMU.\nThey say mastering Cecil\'s Textbook of Medicine could take you anywhere in the world.' },
+      { zh: '把山地門霧臺鄉的低低石板屋，握在掌中\n魯凱族人高醫醫療團高俊明牧師，如今安在哉', en: 'Hold in my palm the low slate houses of Wutai in Sandimen.\nThe Rukai people, the KMU medical team, Pastor Kao Chun-Ming—where are they now?' },
+      { zh: '把飄浮在臺北碧潭碧綠水波的小船，握在掌中\n書信往來的百封情書至今不敢再翻讀', en: 'Hold in my palm the little boat adrift on Bitan\'s emerald ripples in Taipei.\nThose hundred letters of love—I still dare not reread them.' },
+      { zh: '把北美洲藍天下新境界的披塵沾露，握在掌中\n人生如旅，如何揣摩下個驛站的願景', en: 'Hold in my palm the new frontiers beneath North America\'s blue sky, dusted and dew-stained.\nLife is a journey—how to divine the vision of the next station?' },
+      { zh: '把西北大學 Evanston 住院醫師的慌亂日子，握在掌中\n學校教堂的婚禮進行曲至今飄渺在斷捨離的清淡日子', en: 'Hold in my palm the hectic days of internship in Evanston at Northwestern.\nThe wedding march from the campus chapel still echoes faintly in my minimalist days.' },
+      { zh: '把加拿大 Kingston 湖邊的 Queen\'s University，握在掌中\n腦神經病理學和二個兒子都在冰凍雪地萌芽延伸', en: 'Hold in my palm Queen\'s University by the lake in Kingston, Canada.\nNeuropathology and two sons—both took root and grew amid snow and ice.' },
+      { zh: '把四季分明彩色紛繁的密西根歲月，握在掌中\n三千里地馳騁，四十年家園守望，換來風靜塵香', en: 'Hold in my palm the vividly colored, four-season years of Michigan.\nThree thousand miles of drive, forty years of homeward watch—for quiet winds and fragrant dust.' },
+      { zh: '把週末同鄉合唱團在家練唱的五音不全，握在掌中\n西北雨臺灣翠青出外人永遠的故鄉阿爸的風吹', en: 'Hold in my palm the off-key voices of weekend choir practice at home.\nNorthwest Rain, Taiwan-Lush and Green, The Sojourner, Eternal Hometown, Father\'s kite.' },
+      { zh: '把兒子棒球第九局還是零比零的漸濃暮色，握在掌中\n棒球足球空手道小提琴中文班，蜻蜓點水沾醬油', en: 'Hold in my palm the deepening dusk of a tied ninth inning in my son\'s baseball game.\nBaseball, soccer, karate, violin, Chinese class—like a dragonfly skimming the surface.' },
+      { zh: '把塞納河遊船上望見的巴黎鐵塔，握在掌中\n貝聿明捏拼的玻璃金字塔竟讓蒙娜麗莎神秘微笑', en: 'Hold in my palm the Eiffel Tower glimpsed from a boat on the Seine.\nPei\'s glass pyramid compels even Mona Lisa to smile again in mystery.' },
+      { zh: '把讓青蛙噗通跳入古寺池塘的俳聖芭蕉，握在掌中\n這是無風的草原，文字在此徘徊，留下的排列成俳句', en: 'Hold in my palm Bashō, frog-leaping into the still pond of an ancient temple.\nA windless prairie—words wander here and linger as haiku.' },
+      { zh: '把飛入莊周夢裡成爲千古隱喻的那隻蝴蝶，握在掌中\n蝴蝶效應：凡事相互效力都是為心中有愛的人得到益處', en: 'Hold in my palm the butterfly that flew into Zhuangzi\'s dream, now an eternal metaphor.\nButterfly effect: all things work together, for the good of the ones held in love.' },
+      { zh: '把長榮班機降落桃園機場播放的雨夜花，握在掌中\n夢醒時分：有些事你不必問，有些人你永遠不必等', en: 'Hold in my palm the Rainy Night Flower playing as the EVA jet lands in Taoyuan.\nWhen dreams break: some things you need not ask, some people—never wait for.' },
+      { zh: '把王維行到水窮處坐看的那片雲，握在掌中\n問路上樵夫，過了柳暗盡處，會是風荷滿池', en: 'Hold in my palm the cloud Wang Wei beheld, seated where the waters end.\nAsk the woodcutter—beyond the shaded willows, a pond of wind-lifted lotus awaits.' },
+      { zh: '把加州灣區 Foster City Lagoon Park 的晨曦晚霞，握在掌中\n落霞與孤雁齊飛，秋水共長天一色，等星光垂落', en: 'Hold in my palm the dawn and dusk of Foster City\'s quiet lagoon.\nRosy clouds fly with a lone goose, autumn waters blend with sky—await the stars\' descent.' },
+      { zh: '把你對我俳句系列的解讀感想，握在掌中\n把自己，留在安靜的風景裡，看紅塵，如過客遠去', en: 'Hold in my palm your thoughts on my haiku series—quiet words, deep echoes.\nLeave yourself in the still landscape; let the worldly dust drift by, a traveler\'s passing.' }
+    ],
+    commentary_zh: null,
+    commentary_en: null,
+    yt: []
+  },
+
+  {
+    id: 'p002',
+    title_zh: '暮春古城烟雨中',
+    title_en: 'Ancient Town in Late Spring Rain',
+    subtitle: 'Obidos, Portugal',
+    geo: 'Óbidos, Portugal',
+    geo_tags: ['Europe'],
+    year: null,
+    themes: ['travel', 'history', 'meditation'],
+    epigraph_zh: null,
+    epigraph_en: null,
+    stanzas: [
+      { zh: '暮春五月\n古城烟雨迷濛\n鵝卵石路清新錯落', en: 'Late Spring, May\nThe ancient town veiled in mist and drizzle,\nCobblestone paths lie fresh and uneven.' },
+      { zh: '這悠閒的曲徑小巷，我不熟悉\n這簡樸的紅瓦白牆，我不熟悉\n這帶著葡萄牙節奏的歌聲，我不熟悉\n這吹自大西洋垂天的雲層，我不熟悉', en: 'These quiet, winding alleys—I do not know them.\nThese plain red tiles and whitewashed walls—I do not know them.\nThis singing in the rhythm of Portugal—I do not know it.\nThese clouds, trailing from the vast Atlantic sky—I do not know them.' },
+      { zh: '是的\n你有你的曲巷，你的瓦牆\n你有你的歌聲，你的雲層\n在蒼茫歲月的深處\n在斑駁歷史的遠方', en: 'And yet—\nYou have your alleyways, your tiled walls,\nYou have your songs, your sky-born clouds,\nDeep in the vastness of passing years,\nFar in the distance of worn, weathered history.' },
+      { zh: '沿濕潤的石階而上\n細雨稀疏，傘影恍惚\n放眼處，四野沉沉\n城廓氣勢古拙，牆垣斑駁', en: 'Up the damp stone steps I climb,\nRain falls lightly, and shadows of umbrellas shimmer.\nGazing afar—the fields grow heavy in silence.\nThe old city towers with solemn grace, its walls weather-stained,' },
+      { zh: '漫漫撐住\n起伏的歷史，曖昧的往事\n石壁垂立\n獨對雲天無語', en: 'Endlessly holding\nThe undulating weight of history, the ambiguity of the past.\nStone walls stand sheer,\nFacing the sky, wordless—' },
+      { zh: '彷彿\n等待幾行詞句\n幾聲吟唱\n喚醒千古沉寂', en: 'As if\nWaiting for a few lines of verse,\nA few echoes of song,\nTo awaken centuries of silence.' },
+      { zh: '如此，往事飄渺，意境繚繞\n時空迂迴著時空，只是\n今日的足跡，能否\n喚回遠去的心情？', en: 'So, it is—\nThe past drifts like mist, its mood lingers,\nTime winding within time—\nBut can today\'s footsteps recall the feelings long faded?' },
+      { zh: '花徑蜿蜒\n繞過攀藤石牆\n綠蔭掩映著白色教堂\n巴洛克的鐘塔\n默默隱入\n漸濃的暮色', en: 'The flower path winds,\nSkirting ivy-covered stone walls,\nGreen shadows conceal a white chapel.\nA baroque bell tower\nSilently sinks\nInto the deepening dusk.' },
+      { zh: '此刻\n會不會有雲遊僧人\n自中世紀走來\n以一身風塵\n陪我靜坐，等候鐘聲？', en: 'And now—\nMight a wandering monk appear,\nStepping forth from the Middle Ages,\nBringing a body clothed in road dust,\nTo sit quietly with me, waiting for the bell to chime?' },
+      { zh: '就這樣，回望\n古城的從容\n古典的優柔\n往事交織\n心情隨雲霧飄浮\n在暮春，在烟雨中', en: 'And thus, I look back—\nAt the serenity of the old town,\nThe grace of classic gentleness.\nThe past weaves itself once more,\nAs my heart floats with the drifting mist\nIn late spring, in the soft rain.' }
+    ],
+    commentary_zh: `Óbidos 是葡萄牙古城，位於首都里斯本北方約九十公里。紀元前三百年就有腓尼基人在此居住，二千多年前，羅馬人在這裡築碉堡和設村落。第八世紀初，北非的摩爾人佔領了大部分的西班牙和葡萄牙地區，在 Óbidos 建造城堡和城牆。直到 1148 年，葡萄牙王國的第一任國王擊退摩爾人，結束了四百多年的穆斯林統治。
+
+1228 年 Dona Isabel 皇后到訪 Óbidos 古城，一見鐘情，國王 Dinis 一世為表愛意，贈送該城為結婚禮物，自此該城稱作「皇后城堡」。1441 年 10 歲的國王阿凡索五世迎娶 8 歲表妹伊莎貝爾公主，婚禮在 Santa Maria 教堂舉行，故 Óbidos 又有「白色婚禮之城」的稱謂。此古城曾票選為世界十大浪漫結婚聖地之一。
+
+Óbidos 濱臨大西洋，有「山谷中的珍珠」的美譽。高大城牆中的小城，屏絕市井車馬喧嘩，散放著中世紀的古風古調，童話般的清純迷幻。鵝卵石街巷蜿蜒交織，兩側錯落有致的房舍以白牆紅瓦、海水般的藍和大地的土黃構成主色調。徘徊蹀踱，不覺有「行到水窮處，坐看雲起時」的自足閒適。`,
+    commentary_en: `Óbidos is an ancient Portuguese town located approximately ninety kilometers north of Lisbon. Phoenicians resided here as early as 300 BC, and over two millennia ago, Romans built a fortress and settlement in this very spot. In the early 8th century, North African Moors occupied most of Spain and Portugal, constructing a castle and walls in Óbidos. It wasn't until 1148 that the first King of Portugal repelled the Moors, ending over four centuries of Muslim rule.
+
+In 1228, Queen Dona Isabel visited the ancient city and fell in love at first sight. King Dinis I gifted the city to her as a wedding present, and from then on, it was known as the "Queen's Castle." In 1441, 10-year-old King Afonso V married his 8-year-old cousin Princess Isabella in the Church of Santa Maria, earning Óbidos the moniker "City of White Weddings." The ancient city was once voted one of the world's top ten most romantic wedding destinations.
+
+Óbidos borders the Atlantic and is known as the "Pearl of the Valley." Encircled by towering stone walls, it is free from the clamor of the marketplace, exuding a medieval charm and fairytale-like quality. Cobblestone streets meander and intertwine; the houses feature white walls and red tiles, sea-blue and earthy yellow. Strolling through, one involuntarily feels the self-contented ease of "walking to the end of the water and sitting to watch the clouds rise."`,
+    yt: []
+  }
+];
+</script>
+
+<!-- ══════════════════════════════════════
+     FIREBASE CONFIG
+     (Replace with your actual Firebase project config)
+════════════════════════════════════════ -->
+<script type="module">
+  // ── Firebase Setup ──
+  // 1. Go to https://console.firebase.google.com
+  // 2. Create a project → Add web app → copy config below
+  // 3. Enable Firestore Database (Start in test mode initially)
+  const FIREBASE_CONFIG = {
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_PROJECT.firebaseapp.com",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_PROJECT.appspot.com",
+    messagingSenderId: "YOUR_SENDER_ID",
+    appId: "YOUR_APP_ID"
+  };
+
+  let db = null;
+  let firebaseReady = false;
+
+  // Only load Firebase if config is filled in
+  if (FIREBASE_CONFIG.apiKey !== "YOUR_API_KEY") {
+    try {
+      const { initializeApp } = await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js');
+      const { getFirestore, doc, getDoc, setDoc, addDoc, collection, query, where, getDocs, increment } =
+        await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js');
+      const app = initializeApp(FIREBASE_CONFIG);
+      db = getFirestore(app);
+      firebaseReady = true;
+      window._fb = { db, doc, getDoc, setDoc, addDoc, collection, query, where, getDocs, increment };
+    } catch(e) { console.log('Firebase not configured:', e.message); }
+  }
+
+  window.firebaseReady = firebaseReady;
+</script>
+
+<!-- ══════════════════════════════════════
+     APP LOGIC
+════════════════════════════════════════ -->
+<script>
+// ─── State ───
+let currentPage = 'home';
+let currentSeries = null;
+let currentPoem = null;
+let seriesFilter = 'all';
+let poemsFilter = 'all';
+let baseFontSize = 20;
+
+// Password for upload portal (change before deploying)
+const UPLOAD_PASSWORD = '诗集Ho爸爸';
+
+// Likes stored locally if Firebase not set up
+const localLikes = JSON.parse(localStorage.getItem('kl_likes') || '{}');
+
+// ─── Navigation ───
+function showPage(page) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-links button').forEach(b => b.classList.remove('active'));
+  document.getElementById('page-' + page).classList.add('active');
+  const navBtn = document.getElementById('nav-' + page.replace(/-.*/, ''));
+  if (navBtn) navBtn.classList.add('active');
+  window.scrollTo(0, 0);
+  currentPage = page;
+
+  // Initialize page content
+  if (page === 'haiku-list') renderSeriesGrid();
+  if (page === 'poems-list') renderPoemsList();
+}
+
+// ─── Font size ───
+function adjustFont(delta) {
+  baseFontSize = Math.max(16, Math.min(28, baseFontSize + delta));
+  document.documentElement.style.fontSize = baseFontSize + 'px';
+}
+
+// ─── Series Grid ───
+function getAllSeries() {
+  const full = HAIKU_SERIES.map(s => ({
+    num: s.num, status: s.status, haiku: s.haiku, loaded: true
+  }));
+  const stubs = SERIES_STUBS.map(s => ({
+    num: s.num, status: s.status, haiku: null, loaded: false
+  }));
+  return [...full, ...stubs].sort((a, b) => a.num - b.num);
+}
+
+function filterSeries(f, btn) {
+  seriesFilter = f;
+  document.querySelectorAll('#haiku-filter-bar .filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderSeriesGrid();
+}
+
+function renderSeriesGrid() {
+  const grid = document.getElementById('series-grid');
+  const all = getAllSeries();
+  const filtered = seriesFilter === 'all' ? all : all.filter(s => s.status === seriesFilter);
+
+  grid.innerHTML = filtered.map(s => {
+    const previewText = s.loaded
+      ? s.haiku[0].zh.join('\n')
+      : '（內容整理中…）';
+    const statusLabel = s.status === 'unpublished' ? '未發表' : '已發表';
+    const statusClass = s.status === 'unpublished' ? 'unpublished' : '';
+    const clickable = s.loaded ? `onclick="openSeries(${s.num})"` : '';
+    return `<div class="series-card ${s.loaded ? '' : 'stub'}" ${clickable} style="${!s.loaded ? 'opacity:0.55;cursor:default' : ''}">
+      <div class="series-card-num">系列 ${s.num} · 俳句 ${(s.num-1)*10+1}–${s.num*10}</div>
+      <div class="series-card-preview">${escHtml(previewText)}</div>
+      <div class="series-card-status ${statusClass}">${statusLabel}</div>
+    </div>`;
+  }).join('');
+}
+
+// ─── Open Series ───
+function openSeries(num) {
+  const series = HAIKU_SERIES.find(s => s.num === num);
+  if (!series) return;
+  currentSeries = series;
+  renderSeries(series);
+  showPage('haiku-series');
+}
+
+function renderSeries(series) {
+  const container = document.getElementById('series-content');
+  const statusLabel = series.status === 'unpublished' ? '未發表' : '已發表';
+
+  container.innerHTML = `
+    <div class="series-hero">
+      <h1>現代俳句和變奏 · 系列《${series.num}》</h1>
+      <div class="series-meta">何康隆 · ${statusLabel} · ${series.haiku.length} 首</div>
+    </div>
+    <div id="haiku-list-items">
+      ${series.haiku.map(h => renderHaiku(series.num, h)).join('')}
+    </div>`;
+}
+
+function renderHaiku(seriesNum, h) {
+  const id = `h${seriesNum}-${h.n}`;
+  const hasEn = h.en && h.en.length;
+  const hasNotes = h.notes && h.notes.trim();
+  const hasYt = h.yt && h.yt.length;
+
+  const zhLines = h.zh.map(l => `<span class="haiku-line-zh">${escHtml(l)}</span>`).join('');
+  // Pre-populate if poet translation exists; otherwise empty for lazy AI fetch
+  const enLines = hasEn
+    ? `<span class="trans-label poet">詩人譯文 · Poet's Translation</span>` +
+      h.en.map(l => `<span class="haiku-line-en">${escHtml(l)}</span>`).join('')
+    : '';
+
+  const notesHtml = hasNotes
+    ? formatNotes(h.notes) + (hasYt ? renderYtLinks(h.yt) : '')
+    : (hasYt ? renderYtLinks(h.yt) : '');
+
+  return `
+  <div class="haiku-entry" id="entry-${id}">
+    <div class="haiku-id">${h.n}.</div>
+    <div class="haiku-text-zh">${zhLines}</div>
+    <div class="haiku-text-en" id="en-${id}">${enLines}</div>
+    <div class="haiku-actions">
+      <button class="btn-sm" onclick="toggleHaikuEn('${id}', ${JSON.stringify(h.zh)})" id="btn-en-${id}">英文 EN</button>
+      ${(hasNotes || hasYt) ? `<button class="btn-sm" onclick="toggleNotes('${id}')" id="btn-notes-${id}">注解</button>` : ''}
+      <button class="btn-sm btn-like" id="like-${id}" onclick="toggleLike('${id}')">♡ 喜歡</button>
+      <span class="like-count" id="likes-${id}"></span>
+      <button class="btn-sm" onclick="toggleComments('${id}')">💬 留言</button>
+    </div>
+    ${(hasNotes || hasYt) ? `<div class="haiku-notes" id="notes-${id}">${notesHtml}</div>` : ''}
+    <div class="comments-section" id="comments-${id}">
+      <div class="comment-form">
+        <div class="comment-input-row">
+          <input type="text" class="comment-name" id="cname-${id}" placeholder="您的姓名（選填）">
+        </div>
+        <textarea class="comment-text" id="ctext-${id}" placeholder="寫下您的感想…"></textarea>
+        <button class="btn-comment-submit" onclick="submitComment('${id}')">送出留言</button>
+      </div>
+      <div class="comment-list" id="clist-${id}">
+        <div class="no-comments">暫無留言。</div>
+      </div>
+    </div>
+  </div>`;
+}
+
+function formatNotes(txt) {
+  if (!txt) return '';
+  const isAI = txt.startsWith('【AI');
+  const paragraphs = txt.split(/\n\n+/).filter(Boolean);
+  const html = paragraphs.map(p => {
+    const lines = p.split('\n');
+    // Detect classic poem quotes (short lines, structured)
+    if (lines.length >= 2 && lines.every(l => l.length < 30) && !p.startsWith('【')) {
+      return `<div class="classic-quote">${lines.map(l => escHtml(l)).join('<br>')}</div>`;
+    }
+    return `<p>${lines.map(l => escHtml(l)).join('<br>')}</p>`;
+  }).join('');
+  if (isAI) return `<span class="ai-label">AI 延伸解讀</span>${html}`;
+  return html;
+}
+
+function renderYtLinks(yt) {
+  if (!yt || !yt.length) return '';
+  const links = yt.map(y =>
+    `<a class="yt-link" href="${escHtml(y.url)}" target="_blank" rel="noopener">
+      <span class="yt-icon">▶</span>${escHtml(y.title)}
+    </a>`
+  ).join('');
+  return `<div class="yt-links">${links}</div>`;
+}
+
+// ─── Toggle functions ───
+function toggleEn(id) {
+  const el = document.getElementById('en-' + id);
+  const btn = document.getElementById('btn-en-' + id);
+  if (!el) return;
+  el.classList.toggle('show');
+  btn.classList.toggle('active');
+}
+
+async function toggleHaikuEn(id, zhLines) {
+  const el = document.getElementById('en-' + id);
+  const btn = document.getElementById('btn-en-' + id);
+  if (!el || !btn) return;
+
+  const isShowing = el.classList.contains('show');
+  if (isShowing) {
+    el.classList.remove('show');
+    btn.classList.remove('active');
+    btn.textContent = '英文 EN';
+    return;
+  }
+
+  // Lazy-load AI translation if empty
+  if (!el.innerHTML.trim()) {
+    btn.textContent = '翻譯中…';
+    btn.disabled = true;
+
+    const cacheKey = 'kl_htrans_' + id;
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) {
+      renderHaikuEnContent(el, JSON.parse(cached), true);
+    } else {
+      const translations = [];
+      for (const line of zhLines) {
+        try {
+          const res = await fetch(
+            `https://api.mymemory.translated.net/get?q=${encodeURIComponent(line)}&langpair=zh-TW|en`,
+            { signal: AbortSignal.timeout(8000) }
+          );
+          const json = await res.json();
+          translations.push(json.responseStatus === 200 ? json.responseData.translatedText : line);
+        } catch(e) { translations.push(line); }
+        await new Promise(r => setTimeout(r, 100));
+      }
+      localStorage.setItem(cacheKey, JSON.stringify(translations));
+      renderHaikuEnContent(el, translations, true);
+    }
+
+    btn.disabled = false;
+  }
+
+  el.classList.add('show');
+  btn.classList.add('active');
+  btn.textContent = '隱藏英文 ✕';
+}
+
+function renderHaikuEnContent(el, lines, isAI) {
+  const label = isAI
+    ? '<span class="trans-label ai">AI 機器翻譯 · Machine Translation</span>'
+    : '<span class="trans-label poet">詩人譯文 · Poet\'s Translation</span>';
+  const linesHtml = lines.map(l => `<span class="haiku-line-en">${escHtml(l)}</span>`).join('');
+  el.innerHTML = label + linesHtml;
+}
+
+function toggleNotes(id) {
+  const el = document.getElementById('notes-' + id);
+  const btn = document.getElementById('btn-notes-' + id);
+  if (!el) return;
+  el.classList.toggle('show');
+  btn.classList.toggle('active');
+}
+
+function toggleComments(id) {
+  const el = document.getElementById('comments-' + id);
+  if (!el) return;
+  const wasHidden = !el.classList.contains('show');
+  el.classList.toggle('show');
+  if (wasHidden) loadComments(id);
+}
+
+// ─── Likes ───
+function toggleLike(id) {
+  const btn = document.getElementById('like-' + id);
+  const countEl = document.getElementById('likes-' + id);
+  const liked = localLikes[id];
+  localLikes[id] = !liked;
+  localStorage.setItem('kl_likes', JSON.stringify(localLikes));
+  btn.classList.toggle('liked', !liked);
+  btn.textContent = !liked ? '♥ 喜歡' : '♡ 喜歡';
+  // Update count display (increment/decrement local count)
+  let count = parseInt(countEl.dataset.count || '0');
+  count = !liked ? count + 1 : Math.max(0, count - 1);
+  countEl.dataset.count = count;
+  countEl.textContent = count > 0 ? count : '';
+
+  // If Firebase is ready, sync to Firestore
+  if (window.firebaseReady && window._fb) {
+    const { db, doc, setDoc, increment } = window._fb;
+    setDoc(doc(db, 'likes', id), { count: increment(!liked ? 1 : -1) }, { merge: true });
+  }
+}
+
+// ─── Comments ───
+function loadComments(id) {
+  // Load from localStorage as fallback
+  const key = 'kl_comments_' + id;
+  const stored = JSON.parse(localStorage.getItem(key) || '[]');
+  renderCommentList(id, stored);
+
+  // TODO: load from Firestore if Firebase is ready
+}
+
+function renderCommentList(id, comments) {
+  const el = document.getElementById('clist-' + id);
+  if (!comments.length) {
+    el.innerHTML = '<div class="no-comments">暫無留言。</div>';
+    return;
+  }
+  el.innerHTML = comments.map(c => `
+    <div class="comment-item">
+      <div class="comment-author">${escHtml(c.author || '匿名')} · ${c.date || ''}</div>
+      <div>${escHtml(c.text)}</div>
+    </div>`).join('');
+}
+
+function submitComment(id) {
+  const name = document.getElementById('cname-' + id).value.trim();
+  const text = document.getElementById('ctext-' + id).value.trim();
+  if (!text) return;
+
+  const comment = {
+    author: name || '匿名',
+    text,
+    date: new Date().toLocaleDateString('zh-TW')
+  };
+
+  // Save locally
+  const key = 'kl_comments_' + id;
+  const stored = JSON.parse(localStorage.getItem(key) || '[]');
+  stored.unshift(comment);
+  localStorage.setItem(key, JSON.stringify(stored));
+
+  // Clear input
+  document.getElementById('ctext-' + id).value = '';
+  renderCommentList(id, stored);
+}
+
+// ─── Poems ───
+function filterPoems(f, btn) {
+  poemsFilter = f;
+  document.querySelectorAll('#poems-filter-bar .filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderPoemsList();
+}
+
+function renderPoemsList() {
+  const grid = document.getElementById('poems-grid');
+  const poems = poemsFilter === 'all'
+    ? POEMS_DATA
+    : POEMS_DATA.filter(p => p.geo_tags.includes(poemsFilter) || p.themes.includes(poemsFilter));
+
+  if (!poems.length) {
+    grid.innerHTML = '<div style="padding:2rem;color:var(--muted);font-size:0.85rem;">此分類暫無詩作。</div>';
+    return;
+  }
+
+  grid.innerHTML = poems.map(p => {
+    const preview = p.stanzas[0]
+      ? p.stanzas[0].zh.split('\n').slice(0, 2).join('\n')
+      : '';
+    return `
+    <div class="poem-card" onclick="openPoem('${p.id}')">
+      <div>
+        <div class="poem-card-title">${escHtml(p.title_zh)}</div>
+        ${p.title_en ? `<div class="poem-card-title-en">${escHtml(p.title_en)}</div>` : ''}
+        ${p.subtitle ? `<div class="poem-card-title-en">${escHtml(p.subtitle)}</div>` : ''}
+        <div class="poem-card-preview">${escHtml(preview)}</div>
+      </div>
+      <div class="poem-card-meta">
+        ${p.geo_tags.map(g => `<div class="geo-tag">${escHtml(g)}</div>`).join('')}
+        ${p.year ? `<span class="poem-card-year">${p.year}</span>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ─── Poem Detail ───
+function openPoem(id) {
+  const poem = POEMS_DATA.find(p => p.id === id);
+  if (!poem) return;
+  currentPoem = poem;
+  renderPoem(poem);
+  showPage('poem-detail');
+}
+
+function renderPoem(poem) {
+  const container = document.getElementById('poem-content');
+  const pid = poem.id;
+  const hasEn = poem.stanzas.some(s => s.en);
+  const hasCommentary = poem.commentary_zh || poem.commentary_en;
+
+  const stanzasHtml = poem.stanzas.map(s => {
+    const zhLines = s.zh.split('\n').map(l => `<span class="poem-line">${escHtml(l)}</span>`).join('');
+    return `<div class="poem-stanza">${zhLines}</div>`;
+  }).join('');
+
+  // Pre-populate poet translation if available; otherwise leave empty for lazy-load
+  const stanzasEnHtml = hasEn
+    ? `<span class="trans-label poet">詩人譯文 · Poet's Translation</span>` +
+      poem.stanzas.map(s => {
+        const enLines = (s.en || '').split('\n').map(l => `<span class="poem-line">${escHtml(l)}</span>`).join('');
+        return `<div class="poem-stanza">${enLines}</div>`;
+      }).join('')
+    : '';
+
+  const epigraphHtml = poem.epigraph_zh
+    ? `<div class="poem-epigraph">
+        <div>${escHtml(poem.epigraph_zh)}</div>
+        ${poem.epigraph_en ? `<div class="poem-epigraph-en" style="display:none" id="epi-en-${pid}">${escHtml(poem.epigraph_en)}</div>` : ''}
+       </div>` : '';
+
+  const commentaryHtml = hasCommentary
+    ? `<div class="poem-commentary" id="commentary-${pid}">
+        <div class="commentary-heading">注解 / Commentary</div>
+        <div class="commentary-body" id="commentary-zh-${pid}">
+          ${poem.commentary_zh ? poem.commentary_zh.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('') : ''}
+        </div>
+        ${poem.commentary_en ? `<div class="commentary-body" id="commentary-en-${pid}" style="display:none; font-style:italic; color:var(--muted)">
+          ${poem.commentary_en.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('')}
+        </div>` : ''}
+       </div>` : '';
+
+  container.innerHTML = `
+    <div class="poem-header">
+      <div class="poem-title-main">${escHtml(poem.title_zh)}</div>
+      ${poem.title_en ? `<div class="poem-title-en-sub">${escHtml(poem.title_en)}</div>` : ''}
+      ${poem.subtitle ? `<div class="poem-title-en-sub">${escHtml(poem.subtitle)}</div>` : ''}
+      <div class="poem-header-meta">
+        ${poem.geo_tags.map(g => `<span class="geo-tag">${escHtml(g)}</span>`).join('')}
+        ${poem.year ? `<span class="poem-card-year">${poem.year}</span>` : ''}
+      </div>
+    </div>
+
+    <div class="content-actions">
+      <button class="btn-sm" id="btn-poem-en-${pid}" onclick="togglePoemEn('${pid}')">英文翻譯 EN</button>
+      ${hasCommentary ? `<button class="btn-sm" id="btn-poem-notes-${pid}" onclick="togglePoemCommentary('${pid}')">注解</button>` : ''}
+      <button class="btn-sm btn-like" id="poem-like-${pid}" onclick="toggleLike('${pid}')">♡ 喜歡</button>
+      <span class="like-count" id="likes-${pid}"></span>
+      <button class="btn-sm" onclick="toggleComments('${pid}')">💬 留言</button>
+    </div>
+
+    ${epigraphHtml}
+
+    <div class="poem-body-zh" id="poem-zh-${pid}">${stanzasHtml}</div>
+    <div class="poem-body-en" id="poem-en-${pid}">${stanzasEnHtml}</div>
+    ${renderYtLinks(poem.yt)}
+    ${commentaryHtml}
+
+    <div class="comments-section" id="comments-${pid}" style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--light)">
+      <div class="comment-form">
+        <div class="comment-input-row">
+          <input type="text" class="comment-name" id="cname-${pid}" placeholder="您的姓名（選填）">
+        </div>
+        <textarea class="comment-text" id="ctext-${pid}" placeholder="寫下您的感想…"></textarea>
+        <button class="btn-comment-submit" onclick="submitComment('${pid}')">送出留言</button>
+      </div>
+      <div class="comment-list" id="clist-${pid}"><div class="no-comments">暫無留言。</div></div>
+    </div>`;
+}
+
+async function togglePoemEn(pid) {
+  const enEl = document.getElementById('poem-en-' + pid);
+  const btn = document.getElementById('btn-poem-en-' + pid);
+  const epiEn = document.getElementById('epi-en-' + pid);
+  const commentaryZh = document.getElementById('commentary-zh-' + pid);
+  const commentaryEn = document.getElementById('commentary-en-' + pid);
+  if (!enEl || !btn) return;
+
+  const isShowing = enEl.classList.contains('show');
+
+  // If already showing: hide and reset
+  if (isShowing) {
+    enEl.classList.remove('show');
+    btn.classList.remove('active');
+    btn.textContent = '英文翻譯 EN';
+    if (epiEn) epiEn.style.display = 'none';
+    if (commentaryZh) commentaryZh.style.display = 'block';
+    if (commentaryEn) commentaryEn.style.display = 'none';
+    return;
+  }
+
+  // Need to show: fetch translation if div is empty
+  if (!enEl.innerHTML.trim()) {
+    btn.textContent = '翻譯中…';
+    btn.disabled = true;
+    await fetchPoemTranslation(pid);
+    btn.disabled = false;
+  }
+
+  enEl.classList.add('show');
+  btn.classList.add('active');
+  btn.textContent = '隱藏英文 ✕';
+  if (epiEn) epiEn.style.display = 'block';
+  if (commentaryZh) commentaryZh.style.display = 'none';
+  if (commentaryEn) commentaryEn.style.display = 'block';
+  enEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+async function fetchPoemTranslation(pid) {
+  const poem = POEMS_DATA.find(p => p.id === pid);
+  const enEl = document.getElementById('poem-en-' + pid);
+  if (!poem || !enEl) return;
+
+  // Check localStorage cache first
+  const cacheKey = 'kl_trans_' + pid;
+  const cached = localStorage.getItem(cacheKey);
+  if (cached) {
+    try {
+      const data = JSON.parse(cached);
+      renderTranslatedPoem(enEl, data.lines, data.isAI);
+      return;
+    } catch(e) {}
+  }
+
+  // Show loading indicator
+  enEl.innerHTML = '<div class="trans-loading">翻譯中，請稍候… Translating…</div>';
+
+  // Translate stanza by stanza via MyMemory API (free, no key needed)
+  const translatedLines = [];
+  let failed = false;
+
+  for (const stanza of poem.stanzas) {
+    const text = stanza.zh;
+    if (!text) { translatedLines.push(''); continue; }
+
+    // MyMemory supports up to 500 chars per call; split long stanzas
+    const chunks = splitToChunks(text, 450);
+    const chunkResults = [];
+
+    for (const chunk of chunks) {
+      try {
+        const res = await fetch(
+          `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=zh-TW|en`,
+          { signal: AbortSignal.timeout(8000) }
+        );
+        const json = await res.json();
+        if (json.responseStatus === 200) {
+          chunkResults.push(json.responseData.translatedText);
+        } else {
+          chunkResults.push('[translation unavailable]');
+          failed = true;
+        }
+      } catch(e) {
+        chunkResults.push('[translation unavailable]');
+        failed = true;
+      }
+      // Small delay to respect rate limits
+      await new Promise(r => setTimeout(r, 120));
+    }
+    translatedLines.push(chunkResults.join(' '));
+  }
+
+  if (failed) {
+    // Partial or full failure — still show what we got
+    enEl.innerHTML = '<div class="trans-error">部分段落翻譯失敗，請稍後再試。</div>';
+    return;
+  }
+
+  // Cache result
+  localStorage.setItem(cacheKey, JSON.stringify({ lines: translatedLines, isAI: true }));
+  renderTranslatedPoem(enEl, translatedLines, true);
+}
+
+function renderTranslatedPoem(enEl, lines, isAI) {
+  const label = isAI
+    ? '<span class="trans-label ai">AI 機器翻譯 · Machine Translation</span>'
+    : '<span class="trans-label poet">詩人譯文 · Poet\'s Translation</span>';
+
+  const stanzasHtml = lines.map(t => {
+    if (!t) return '';
+    return `<div class="poem-stanza">${
+      t.split('\n').map(l => `<span class="poem-line">${escHtml(l)}</span>`).join('')
+    }</div>`;
+  }).join('');
+
+  enEl.innerHTML = label + stanzasHtml;
+}
+
+function splitToChunks(text, maxLen) {
+  if (text.length <= maxLen) return [text];
+  const lines = text.split('\n');
+  const chunks = [];
+  let current = '';
+  for (const line of lines) {
+    if ((current + '\n' + line).length > maxLen && current) {
+      chunks.push(current.trim());
+      current = line;
+    } else {
+      current = current ? current + '\n' + line : line;
+    }
+  }
+  if (current.trim()) chunks.push(current.trim());
+  return chunks;
+}
+
+function togglePoemCommentary(pid) {
+  const el = document.getElementById('commentary-' + pid);
+  const btn = document.getElementById('btn-poem-notes-' + pid);
+  if (!el) return;
+  el.classList.toggle('show');
+  btn.classList.toggle('active');
+}
+
+// ─── Upload Portal ───
+function checkPassword() {
+  const pw = document.getElementById('upload-password').value;
+  if (pw === UPLOAD_PASSWORD) {
+    document.getElementById('upload-gate').style.display = 'none';
+    document.getElementById('upload-form-container').classList.add('show');
+  } else {
+    document.getElementById('upload-error').classList.add('show');
+    document.getElementById('upload-password').value = '';
+    document.getElementById('upload-password').focus();
+  }
+}
+
+function toggleUploadFields() {
+  const type = document.getElementById('upload-type').value;
+  document.getElementById('series-num-group').style.display = type === 'haiku' ? 'block' : 'none';
+}
+
+function submitUpload() {
+  const type = document.getElementById('upload-type').value;
+  const title = document.getElementById('upload-title').value.trim();
+  const zh = document.getElementById('upload-zh').value.trim();
+  const en = document.getElementById('upload-en').value.trim();
+  const notes = document.getElementById('upload-notes').value.trim();
+  const geo = document.getElementById('upload-geo').value.trim();
+  const year = document.getElementById('upload-year').value.trim();
+  const yt = document.getElementById('upload-yt').value.trim();
+  const seriesNum = document.getElementById('upload-series-num').value.trim();
+
+  if (!zh) { alert('請填寫中文內容。'); return; }
+
+  const submission = {
+    type, title, zh, en, notes, geo, year, yt, seriesNum,
+    submittedAt: new Date().toISOString()
+  };
+
+  // Save to localStorage as fallback
+  const pending = JSON.parse(localStorage.getItem('kl_pending') || '[]');
+  pending.push(submission);
+  localStorage.setItem('kl_pending', JSON.stringify(pending));
+
+  // TODO: submit to Firestore if Firebase ready
+  if (window.firebaseReady && window._fb) {
+    const { db, addDoc, collection } = window._fb;
+    addDoc(collection(db, 'pending_uploads'), submission);
+  }
+
+  document.getElementById('upload-form-container').classList.remove('show');
+  document.getElementById('upload-success').classList.add('show');
+}
+
+function resetUploadForm() {
+  ['upload-title','upload-zh','upload-en','upload-notes','upload-geo','upload-year','upload-yt','upload-series-num']
+    .forEach(id => { document.getElementById(id).value = ''; });
+  document.getElementById('upload-success').classList.remove('show');
+  document.getElementById('upload-form-container').classList.add('show');
+}
+
+// ─── Utilities ───
+function escHtml(str) {
+  if (!str) return '';
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+// ─── Feedback / Bug Report ───
+
+function openFeedback() {
+  document.getElementById('feedback-overlay').classList.add('open');
+  document.getElementById('feedback-success').classList.remove('show');
+  document.getElementById('feedback-form-inner').style.display = '';
+  // Auto-fill current page
+  const pageMap = { 'home': '首頁', 'haiku-list': '俳句系列頁', 'series-detail': '俳句詳細頁', 'poems-list': '詩集頁', 'poem-detail': '詩作詳細頁', 'upload': '上傳頁' };
+  document.getElementById('feedback-page').value = pageMap[currentPage] || currentPage;
+}
+
+function closeFeedback() {
+  document.getElementById('feedback-overlay').classList.remove('open');
+}
+
+async function submitFeedback() {
+  const type = document.getElementById('feedback-type').value;
+  const name = document.getElementById('feedback-name').value.trim();
+  const message = document.getElementById('feedback-message').value.trim();
+  const page = document.getElementById('feedback-page').value;
+
+  if (!message) {
+    alert('請描述您遇到的問題。');
+    return;
+  }
+
+  const report = {
+    type, name: name || '匿名', message, page,
+    timestamp: new Date().toISOString(),
+    userAgent: navigator.userAgent,
+    resolved: false
+  };
+
+  // Save to Firebase if configured, otherwise localStorage
+  let saved = false;
+  try {
+    if (typeof db !== 'undefined') {
+      const { addDoc, collection } = await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js');
+      await addDoc(collection(db, 'feedback_reports'), report);
+      saved = true;
+    }
+  } catch(e) {}
+
+  if (!saved) {
+    // localStorage fallback
+    const existing = JSON.parse(localStorage.getItem('kl_feedback') || '[]');
+    existing.push(report);
+    localStorage.setItem('kl_feedback', JSON.stringify(existing));
+  }
+
+  // Clear form
+  document.getElementById('feedback-message').value = '';
+  document.getElementById('feedback-name').value = '';
+  document.getElementById('feedback-form-inner').style.display = 'none';
+  document.getElementById('feedback-success').classList.add('show');
+}
+
+// ─── Admin reports view (password-protected) ───
+
+function openReports() {
+  const pw = prompt('請輸入管理員密碼：');
+  if (pw !== UPLOAD_PASSWORD) { alert('密碼錯誤。'); return; }
+  loadReports();
+  document.getElementById('reports-overlay').classList.add('open');
+}
+
+function closeReports() {
+  document.getElementById('reports-overlay').classList.remove('open');
+}
+
+async function loadReports() {
+  const container = document.getElementById('reports-list');
+  container.innerHTML = '<div style="font-family:var(--sans);font-size:0.82rem;color:var(--muted)">載入中…</div>';
+
+  let reports = [];
+
+  // Try Firebase first
+  try {
+    if (typeof db !== 'undefined') {
+      const { getDocs, collection, orderBy, query } = await import('https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js');
+      const snap = await getDocs(query(collection(db, 'feedback_reports'), orderBy('timestamp', 'desc')));
+      snap.forEach(doc => reports.push({ id: doc.id, ...doc.data() }));
+    }
+  } catch(e) {}
+
+  // Fallback to localStorage
+  if (!reports.length) {
+    reports = JSON.parse(localStorage.getItem('kl_feedback') || '[]').reverse();
+  }
+
+  if (!reports.length) {
+    container.innerHTML = '<div id="reports-empty">目前無回報記錄。</div>';
+    return;
+  }
+
+  container.innerHTML = reports.map((r, i) => {
+    const date = new Date(r.timestamp).toLocaleString('zh-TW');
+    const typeLabel = { bug: '功能問題', display: '顯示問題', content: '內容錯誤', other: '其他' }[r.type] || r.type;
+    return `<div class="report-item">
+      <div class="report-meta">
+        <span class="report-type-badge">${typeLabel}</span>
+        ${escHtml(r.name)} · ${escHtml(r.page)} · ${date}
+      </div>
+      <div class="report-message">${escHtml(r.message)}</div>
+    </div>`;
+  }).join('');
+}
+
+function copyReportsToEmail() {
+  const items = document.querySelectorAll('.report-item');
+  if (!items.length) return;
+  let body = `何康隆詩集網站 — 問題回報記錄\n生成時間：${new Date().toLocaleString('zh-TW')}\n${'─'.repeat(40)}\n\n`;
+  items.forEach((el, i) => {
+    body += `${i+1}. ${el.querySelector('.report-meta').textContent.trim()}\n`;
+    body += `   ${el.querySelector('.report-message').textContent.trim()}\n\n`;
+  });
+  const mailto = `mailto:edgar.ho@meritamerica.org?subject=${encodeURIComponent('詩集網站問題回報')}&body=${encodeURIComponent(body)}`;
+  window.location.href = mailto;
+}
+
+// Check for ?admin=reports in URL on load
+window.addEventListener('load', () => {
+  if (new URLSearchParams(window.location.search).get('admin') === 'reports') {
+    setTimeout(openReports, 500);
+  }
+});
+
+// ─── Init ───
+document.addEventListener('DOMContentLoaded', () => {
+  // Restore font size preference
+  const savedFont = localStorage.getItem('kl_font');
+  if (savedFont) {
+    baseFontSize = parseInt(savedFont);
+    document.documentElement.style.fontSize = baseFontSize + 'px';
+  }
+
+  // Save font size on change
+  const origAdjust = adjustFont;
+  window.adjustFont = function(delta) {
+    origAdjust(delta);
+    localStorage.setItem('kl_font', baseFontSize);
+  };
+});
+</script>
+
+<!-- ─── Floating feedback button ─── -->
+<button id="feedback-btn" onclick="openFeedback()" title="回報問題或意見">
+  ✉ 意見回饋
+</button>
+
+<!-- ─── Feedback modal ─── -->
+<div id="feedback-overlay" onclick="if(event.target===this)closeFeedback()">
+  <div id="feedback-modal" role="dialog" aria-modal="true" aria-label="意見回饋">
+    <button class="feedback-close" onclick="closeFeedback()" aria-label="關閉">✕</button>
+    <h2>意見回饋 / 問題回報</h2>
+    <p class="feedback-subtitle">如果您發現任何問題或有任何建議，歡迎告訴我們。</p>
+
+    <div id="feedback-form-inner">
+      <label class="form-label" for="feedback-type">問題類型</label>
+      <select id="feedback-type">
+        <option value="display">顯示問題（字體、版面）</option>
+        <option value="bug">功能問題（按鈕、連結無效）</option>
+        <option value="content">內容錯誤（文字、詩句）</option>
+        <option value="other">其他建議</option>
+      </select>
+
+      <label class="form-label" for="feedback-message">問題說明 <span style="color:#c00">*</span></label>
+      <textarea id="feedback-message" placeholder="請描述您遇到的問題，或提供建議……"></textarea>
+
+      <label class="form-label" for="feedback-name">您的姓名（選填）</label>
+      <input type="text" id="feedback-name" placeholder="匿名亦可">
+
+      <input type="hidden" id="feedback-page">
+
+      <div class="feedback-actions">
+        <button class="feedback-cancel" onclick="closeFeedback()">取消</button>
+        <button class="feedback-submit" onclick="submitFeedback()">送出 →</button>
+      </div>
+    </div>
+
+    <div id="feedback-success">
+      <p>✓ 感謝您的回報！<br>我們會盡快處理您的問題。</p>
+      <div class="feedback-actions" style="justify-content:center;max-width:200px;margin:1.2rem auto 0;">
+        <button class="feedback-cancel" onclick="closeFeedback()">關閉</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ─── Admin reports panel ─── -->
+<div id="reports-overlay" onclick="if(event.target===this)closeReports()">
+  <div id="reports-panel">
+    <button class="reports-close" onclick="closeReports()">✕</button>
+    <h2>問題回報記錄 · Bug Reports</h2>
+    <div id="reports-list"></div>
+    <div style="margin-top:1.4rem;display:flex;gap:0.8rem;">
+      <button class="btn-sm" onclick="copyReportsToEmail()" style="font-size:0.78rem;">✉ 寄送到 Email</button>
+      <button class="btn-sm" onclick="loadReports()" style="font-size:0.78rem;">↻ 重新載入</button>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
