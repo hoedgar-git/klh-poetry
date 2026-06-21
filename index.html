@@ -824,7 +824,7 @@ function renderHaiku(seriesNum, h) {
     <div class="haiku-text-en" id="en-${id}">${enLines}</div>
     ${renderImages(h.images)}
     <div class="haiku-actions">
-      <button class="btn-sm" onclick="toggleHaikuEn('${id}', ${JSON.stringify(h.zh)})" id="btn-en-${id}">英文 EN</button>
+      <button class="btn-sm" onclick="toggleHaikuEn('${id}')" id="btn-en-${id}">英文 EN</button>
       ${(hasNotes || hasYt) ? `<button class="btn-sm" onclick="toggleNotes('${id}')" id="btn-notes-${id}">注解</button>` : ''}
       <button class="btn-sm btn-like" id="like-${id}" onclick="toggleLike('${id}')">♡ 喜歡</button>
       <span class="like-count" id="likes-${id}"></span>
@@ -894,7 +894,11 @@ function toggleEn(id) {
   btn.classList.toggle('active');
 }
 
-async function toggleHaikuEn(id, zhLines) {
+async function toggleHaikuEn(id) {
+  const m = id.match(/^h(\d+)-(\d+)$/);
+  const series = m ? HAIKU_SERIES.find(s => s.num === parseInt(m[1], 10)) : null;
+  const hItem = series ? series.haiku.find(x => x.n === parseInt(m[2], 10)) : null;
+  const zhLines = hItem ? hItem.zh : [];
   const el = document.getElementById('en-' + id);
   const btn = document.getElementById('btn-en-' + id);
   if (!el || !btn) return;
