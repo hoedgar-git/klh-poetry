@@ -519,7 +519,7 @@ nav {
     <div class="filter-bar" id="haiku-filter-bar">
       <button class="filter-btn active" onclick="filterSeries('all', this)">全部</button>
       <button class="filter-btn" onclick="filterSeries('published', this)">已發表</button>
-      <button class="filter-btn" onclick="filterSeries('unpublished', this)">未發表</button>
+      <button class="filter-btn" onclick="filterSeries('unpublished', this)">創作中</button>
     </div>
     <div class="series-grid" id="series-grid"></div>
   </div>
@@ -719,7 +719,26 @@ const UPLOAD_PASSWORD = '诗集Ho爸爸';
 const localLikes = JSON.parse(localStorage.getItem('kl_likes') || '{}');
 
 // ─── Navigation ───
-function showPage(page) {
+// Pages that map 1:1 onto a fixed URL. 'haiku-series' and 'poem-detail' are
+// excluded here because their URL depends on which item is open — openSeries()
+// and openPoem() push their own deep-link URL instead.
+function pathForPage(page) {
+  switch (page) {
+    case 'home': return '/';
+    case 'haiku-list': return '/haiku';
+    case 'poems-list': return '/poems';
+    case 'upload': return '/upload';
+    default: return null;
+  }
+}
+
+function pushUrl(path) {
+  if (window.location.pathname !== path) {
+    history.pushState(null, '', path);
+  }
+}
+
+function showPage(page, fromRouter) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.nav-links button').forEach(b => b.classList.remove('active'));
   document.getElementById('page-' + page).classList.add('active');
@@ -728,10 +747,41 @@ function showPage(page) {
   window.scrollTo(0, 0);
   currentPage = page;
 
+  if (!fromRouter) {
+    const p = pathForPage(page);
+    if (p) pushUrl(p);
+  }
+
   // Initialize page content
   if (page === 'haiku-list') renderSeriesGrid();
   if (page === 'poems-list') renderPoemsList();
 }
+
+// ─── Routing (deep links) ───
+// Reads the current URL and opens the matching content. Called once after
+// initial data load, and again on browser back/forward (popstate).
+function route() {
+  const path = window.location.pathname;
+  let m;
+  if ((m = path.match(/^\/poem\/([^/]+)\/?$/))) {
+    const id = decodeURIComponent(m[1]);
+    if (POEMS_DATA.find(p => p.id === id)) { openPoem(id, true); return; }
+  } else if ((m = path.match(/^\/haiku\/(\d+)\/?$/))) {
+    const num = parseInt(m[1], 10);
+    if (HAIKU_SERIES.find(s => s.num === num)) { openSeries(num, true); return; }
+  } else if (/^\/haiku\/?$/.test(path)) {
+    showPage('haiku-list', true); return;
+  } else if (/^\/poems\/?$/.test(path)) {
+    showPage('poems-list', true); return;
+  } else if (/^\/upload\/?$/.test(path)) {
+    showPage('upload', true); return;
+  }
+  // Unknown or root path -> home (no pushState; preserves the URL the
+  // visitor actually typed/bookmarked rather than silently rewriting it)
+  showPage('home', true);
+}
+
+window.addEventListener('popstate', route);
 
 // ─── Font size ───
 function adjustFont(delta) {
@@ -762,7 +812,7 @@ function renderSeriesGrid() {
     const previewText = s.loaded
       ? s.haiku[0].zh.join('\n')
       : '（內容整理中…）';
-    const statusLabel = s.status === 'unpublished' ? '未發表' : '已發表';
+    const statusLabel = s.status === 'unpublished' ? '創作中 · Work in Progress' : '已發表';
     const statusClass = s.status === 'unpublished' ? 'unpublished' : '';
     const clickable = s.loaded ? `onclick="openSeries(${s.num})"` : '';
     const cardLabel = s.num === 0
@@ -777,17 +827,18 @@ function renderSeriesGrid() {
 }
 
 // ─── Open Series ───
-function openSeries(num) {
+function openSeries(num, fromRouter) {
   const series = HAIKU_SERIES.find(s => s.num === num);
   if (!series) return;
   currentSeries = series;
   renderSeries(series);
-  showPage('haiku-series');
+  showPage('haiku-series', true);
+  if (!fromRouter) pushUrl('/haiku/' + num);
 }
 
 function renderSeries(series) {
   const container = document.getElementById('series-content');
-  const statusLabel = series.status === 'unpublished' ? '未發表' : '已發表';
+  const statusLabel = series.status === 'unpublished' ? '創作中 · Work in Progress' : '已發表';
 
   container.innerHTML = `
     <div class="series-hero">
@@ -1141,12 +1192,13 @@ function renderPoemsList() {
 }
 
 // ─── Poem Detail ───
-function openPoem(id) {
+function openPoem(id, fromRouter) {
   const poem = POEMS_DATA.find(p => p.id === id);
   if (!poem) return;
   currentPoem = poem;
   renderPoem(poem);
-  showPage('poem-detail');
+  showPage('poem-detail', true);
+  if (!fromRouter) pushUrl('/poem/' + encodeURIComponent(id));
 }
 
 function renderPoem(poem) {
@@ -1651,6 +1703,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   } catch(e) {
     console.error('Failed to load poetry data:', e);
   }
+
+  // Open whatever the URL points to (direct link, refresh, or bookmark)
+  route();
 
   // Restore font size preference
   const savedFont = localStorage.getItem('kl_font');
