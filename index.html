@@ -1,3 +1,9 @@
+https://raw.githubusercontent.com/hoedgar-git/klh-poetry/main/index.html
+→ https://raw.githubusercontent.com/hoedgar-git/klh-poetry/main/index.html
+Content-Type: text/plain; charset=utf-8
+
+
+
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -787,6 +793,7 @@ function renderSeries(series) {
     <div class="series-hero">
       <h1>${series.num === 0 ? (series.title_zh || '現代俳句 & 變奏') : `現代俳句和變奏 · 系列《${series.num}》`}</h1>
       <div class="series-meta">何康隆 · ${statusLabel} · ${series.haiku.length} 首</div>
+      ${renderImages(series.images)}
     </div>
     <div id="haiku-list-items">
       ${series.haiku.map(h => renderHaiku(series.num, h)).join('')}
@@ -815,8 +822,9 @@ function renderHaiku(seriesNum, h) {
     <div class="haiku-id">${h.n}.</div>
     <div class="haiku-text-zh">${zhLines}</div>
     <div class="haiku-text-en" id="en-${id}">${enLines}</div>
+    ${renderImages(h.images)}
     <div class="haiku-actions">
-      <button class="btn-sm" onclick="toggleHaikuEn('${id}')" id="btn-en-${id}">英文 EN</button>
+      <button class="btn-sm" onclick="toggleHaikuEn('${id}', ${JSON.stringify(h.zh)})" id="btn-en-${id}">英文 EN</button>
       ${(hasNotes || hasYt) ? `<button class="btn-sm" onclick="toggleNotes('${id}')" id="btn-notes-${id}">注解</button>` : ''}
       <button class="btn-sm btn-like" id="like-${id}" onclick="toggleLike('${id}')">♡ 喜歡</button>
       <span class="like-count" id="likes-${id}"></span>
@@ -886,7 +894,7 @@ function toggleEn(id) {
   btn.classList.toggle('active');
 }
 
-async function toggleHaikuEn(id) {
+async function toggleHaikuEn(id, zhLines) {
   const el = document.getElementById('en-' + id);
   const btn = document.getElementById('btn-en-' + id);
   if (!el || !btn) return;
@@ -901,11 +909,6 @@ async function toggleHaikuEn(id) {
 
   // Lazy-load AI translation if empty
   if (!el.innerHTML.trim()) {
-    const entryEl = document.getElementById('entry-' + id);
-    const zhLines = entryEl
-      ? Array.from(entryEl.querySelectorAll('.haiku-line-zh')).map(s => s.textContent)
-      : [];
-
     btn.textContent = '翻譯中…';
     btn.disabled = true;
 
