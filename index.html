@@ -742,7 +742,7 @@ function adjustFont(delta) {
 // ─── Series Grid ───
 function getAllSeries() {
   return HAIKU_SERIES.map(s => ({
-    num: s.num, status: s.status, haiku: s.haiku, loaded: true
+    num: s.num, status: s.status, haiku: s.haiku, loaded: !!(s.haiku && s.haiku.length)
   })).sort((a, b) => a.num - b.num);
 }
 
@@ -766,7 +766,7 @@ function renderSeriesGrid() {
     const statusClass = s.status === 'unpublished' ? 'unpublished' : '';
     const clickable = s.loaded ? `onclick="openSeries(${s.num})"` : '';
     const cardLabel = s.num === 0
-      ? `現代俳句 & 變奏 · ${s.haiku.length} 首`
+      ? `現代俳句 & 變奏 · ${(s.haiku||[]).length} 首`
       : `系列 ${s.num} · 俳句 ${(s.num-1)*10+1}–${s.num*10}`;
     return `<div class="series-card ${s.loaded ? '' : 'stub'}" ${clickable} style="${!s.loaded ? 'opacity:0.55;cursor:default' : ''}">
       <div class="series-card-num">${cardLabel}</div>
