@@ -2054,7 +2054,14 @@
     ],
     "commentary_zh": "米羅 ( Joan Miro 1893–1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。以超現實手法，簡約圖相，表現如夢似幻的詩意。他的畫蘊藏著異想天開，反覆無常和幽默的趣味。加上扭曲的動物，變形的有機物體和異乎尋常的幾何構造，使作品顯得特别。明亮濃麗的色彩，尤其是藍，紅，黄，綠，黑和留白，鋭利的線條，點和花樣，架構成無形狀的阿米巴圖 ( Amorphous Amoebic )。 米羅的畫風，總是有一種天真、無邪、貪玩的風格。他以單純的記號和直樸原素做畫，達到現代畫自由表現的境地，其作品雖然幻想，神秘，表現卻是明晰，畫面充滿了隱喻，幽默與輕快，表現孩童般的純樸天真，並且富有詩意。他主張繪畫所表現的神秘，必須以具體的自然形象作基礎。米羅是一名超現實主義的畫家，他企圖要摧毀理性和邏輯的主宰，把無意識和非邏輯心靈的衝力從中解放出來，並且探測不可見領域和視覺世界的奧祕。",
     "commentary_en": "",
-    "yt": []
+    "yt": [],
+    "images": [
+      {
+        "url": "images/viewing-miro-paintings/photo1.jpg",
+        "caption_zh": "Joan Miro：「Personages, Bird, Star」1978. Miro Museum, Barcelona.",
+        "caption_en": "Joan Miro: \"Personages, Bird, Star\" 1978. Miro Museum, Barcelona."
+      }
+    ]
   },
   {
     "id": "madrid-dusk",
@@ -2087,7 +2094,14 @@
     ],
     "commentary_zh": "馬德里位於西班牙中部，海抜670公尺，是歐洲地勢最高的首都。地處伊比利亞半島中心，南下可經直布羅陀海峽，與一水之隔的非洲大陸相通，北越比利牛斯山脉，直抵歐洲腹地。在歷史潮流中，因居戰略和文化交流位置而有「歐洲門戶」之稱。在馬德里，時時可以感受古代文明和現代文化的碰撞，處處散放著各族群交融的繽紛氛圍。如果爲馬德里附加一個標簽，可以是古典，也可以是時尚。有別於南部的文化之城巴塞隆納，馬德里的歷史古跡和現代建築紛繁并列，相交映輝，旣可擁抱中世紀和文藝復興時期的古香古色和滄桑，又可徜徉於現代科技文明的璀燦風格。五月的午后，細雨初停，馬德里的黃昏分外美麗，每一條人行街道都浸潤著光影和寧靜，當夕陽爲馬德里的古典和時尚，披上金黃的色彩和流動的音符，徘徊其中就是一場夢的憧憬，是心靈的回歸和感動。",
     "commentary_en": "",
-    "yt": []
+    "yt": [],
+    "images": [
+      {
+        "url": "images/madrid-dusk/photo1.jpg",
+        "caption_zh": "",
+        "caption_en": ""
+      }
+    ]
   },
   {
     "id": "sydney-sails",
@@ -2173,6 +2187,23 @@
       {
         "url": "https://www.youtube.com/watch?v=PlhUGb3N2C8&list=RDPlhUGb3N2C8&index=1",
         "title": "福爾摩莎頌【鄭智仁台灣歌謠】"
+      }
+    ],
+    "images": [
+      {
+        "url": "images/sydney-sails/photo1.jpg",
+        "caption_zh": "",
+        "caption_en": ""
+      },
+      {
+        "url": "images/sydney-sails/photo2.jpg",
+        "caption_zh": "清晨薄霧的雪梨歌劇院和雪梨市景。(攝影/何康隆)",
+        "caption_en": "Sydney Opera House and Sydney city view in the early morning mist. (Photo / Ho Khang-Loon)"
+      },
+      {
+        "url": "images/sydney-sails/photo3.jpg",
+        "caption_zh": "雪梨歌劇院製作的CD《Ode to Joy: Great Choral Masterpieces》",
+        "caption_en": "CD: \"Ode to Joy: Great Choral Masterpieces\" — Live from the Sydney Opera House"
       }
     ]
   },
@@ -2399,6 +2430,28 @@
         "url": "https://www.youtube.com/watch?v=Zp1aDnVySf8",
         "title": "《花之華爾兹》- Tchaikovsky-Waltz of the Flowers"
       }
+    ],
+    "images": [
+      {
+        "url": "images/flower-fragrance-botswana/photo1.jpg",
+        "caption_zh": "蘆葦漫生两岸的三角洲水道. (攝影/何康隆)",
+        "caption_en": "The delta waterway lined with thick reeds."
+      },
+      {
+        "url": "images/flower-fragrance-botswana/photo2.jpg",
+        "caption_zh": "蘆葦掩映的田田蓮葉 (攝影/何康隆)",
+        "caption_en": "Fields of lotus leaves shaded by reeds. (photo/ Khang-Loon Ho)"
+      },
+      {
+        "url": "images/flower-fragrance-botswana/photo3.jpg",
+        "caption_zh": "Xugana日落.",
+        "caption_en": "Sunset of Xugana. (攝影/何康隆)"
+      },
+      {
+        "url": "images/flower-fragrance-botswana/photo4.jpg",
+        "caption_zh": "",
+        "caption_en": ""
+      }
     ]
   },
   {
@@ -2452,7 +2505,29 @@
     ],
     "commentary_zh": "Obidos 是葡萄牙古城，位於首都里斯本北方約九十公里。紀元前三百年就有腓尼基人在此居住，二千多年前，羅馬人在這裡築碉堡和設村落。第八世紀初，北非的摩爾人佔領了大部分的西班牙和葡萄牙地區，在Obidos 建造城堡和城牆。直到1148年，葡萄牙王國的第一任國王擊退摩爾人，結束了四百多年的穆斯林統治。1228年 Dona Isabel 皇后到訪 Obidos 古城，一見鐘情，國王 Diniz 一世為表愛意，贈送該城為結婚禮物，自此該城稱作「皇后城堡」。1441年10歲的國王阿凡索五世 Afoso V，迎娶8歲表妹伊莎貝爾 Isabella of Coimbra 公主，婚禮在 Santa Maria 敎堂舉行， 故Obidos 又有「白色婚禮之城」的稱謂。此古城曾經票選爲世界十大浪漫結婚聖地之一。\n\nObidos 濱臨大西洋，是迷失在時代裡的古城，是石塊堆砌城牆環繞中的一片寧靜世界，有「山谷中的珍珠」的美譽。高大城牆中的小城，摒絶市井車馬喧嘩，散放著中世紀的古風古調，童話般的清純迷幻。鵝卵石街巷蜿蜒交織，曲徑短牆繁花點綴。兩側錯落有致的房舍，以白牆紅瓦，海水般的藍和大地的土黃，構成小城的主色調，予人一份自然，純樸，簡約的悠閒和愉悅。漫步其間，隨心流覽，藝品店的巧思，牆面的彩色擺置，典雅的街燈，加上巧克力和草莓的酒香，自有一番遺世獨立的淡然心情。巷弄清幽而雋永，時有詩意和美學悄然迎面而來。Santa Maria 敎堂的白色牆面和鐘塔，巴洛克的雕飾，流散著古典的婉約幽雅。古城地形起伏，彎曲小路，像一節美的旋律，漫延至山嶺和城垣。登臨城牆，放眼四望，一邊是屋舍紅瓦平排，葡萄園青濛連天而去，另一邊是城牆婉轉并列，沒入雨烟如史册沉寂。徘徊蹀踱，不覺有\"行到水窮處，坐看雲起時\"的自足閒適。\n\n奧比多斯小鎮坐落在山頂上，完全被堅固的城牆環繞著。它是中世紀建築保存完好的典範，其蜿蜒的街道、迷人的廣場、宏偉的城牆和歷史悠久的城堡都是熱門的旅遊景點。城堡本身已被改建為一家精品酒店（pousada），提供獨特的住宿體驗。",
     "commentary_en": "Óbidos is an ancient Portuguese town located approximately ninety kilometers north of the capital, Lisbon. Phoenicians resided here as early as 300 BC, and over two millennia ago, Romans built a fortress and established a settlement in this very spot. In the early 8th century, North African Moors occupied most of Spain and Portugal, constructing a castle and walls in Óbidos. It wasn't until 1148 that the first King of Portugal repelled the Moors, ending over four centuries of Muslim rule. In 1228, Queen Dona Isabel visited the ancient city of Óbidos and fell in love at first sight. King Dinis I, to express his affection, gifted the city to her as a wedding present, and from then on, the city was known as the \"Queen's Castle.\" In 1441, 10-year-old King Afonso V married his 8-year-old cousin Princess Isabella of Coimbra, with the wedding held in the Church of Santa Maria, thus earning Óbidos the moniker \"City of White Weddings.\" This ancient city was once voted one of the world's top ten most romantic wedding destinations.\n\nÓbidos, bordering the Atlantic, is an ancient city lost in time, a tranquil world encircled by stone walls, earning it the reputation of \"Pearl of the Valley.\" This small town, nestled within its towering walls, is free from the clamor of the marketplace and traffic, exuding a medieval charm and a pure, ethereal, fairytale-like quality.",
-    "yt": []
+    "yt": [],
+    "images": [
+      {
+        "url": "images/obidos-late-spring-rain/photo1.png",
+        "caption_zh": "奧比多斯小鎮坐落在山頂上，完全被堅固的城牆環繞著。它是中世紀建築保存完好的典範，其蜿蜒的街道、迷人的廣場、宏偉的城牆和歷史悠久的城堡都是熱門的旅遊景點。城堡本身已被改建為一家精品酒店（pousada），提供獨特的住宿體驗。",
+        "caption_en": "The area of the town of Óbidos is located on a hilltop, encircled by a fortified wall. Óbidos remains a well-preserved example of medieval architecture; its streets, squares, walls, and castle are popular tourist destinations. The castle now houses a pousada."
+      },
+      {
+        "url": "images/obidos-late-spring-rain/photo2.png",
+        "caption_zh": "奧比多斯：迷人的中世紀小鎮",
+        "caption_en": "Óbidos, Portugal - a Charming Medieval Town"
+      },
+      {
+        "url": "images/obidos-late-spring-rain/photo3.jpg",
+        "caption_zh": "這座教堂被認為是小鎮的第一座教堂，建於一座神廟的遺址之上，該神廟後來被改建為清真寺。儘管教堂的建造始於12世紀，但它經歷了多次修復，如今其大部分建築都呈現文藝復興風格。這座教堂在1444年聲名鵲起，當時年僅10歲的阿方索五世國王在此迎娶了他8歲的表妹伊莎貝爾。",
+        "caption_en": "This is the town's first church, built on the remains of a temple that was converted into a mosque. The building of the church began in the 12th century, yet it has been restored on several occasions, and today most of the buildings are in the Renaissance style. The temple became famous in 1444 when King Alfonso V, aged 10, married his cousin Isabel, aged 8."
+      },
+      {
+        "url": "images/obidos-late-spring-rain/photo4.jpg",
+        "caption_zh": "",
+        "caption_en": ""
+      }
+    ]
   },
   {
     "id": "antarctic-ice-floes-song",
