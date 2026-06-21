@@ -1099,7 +1099,7 @@ function renderPoem(poem) {
     <div class="content-actions">
       <button class="btn-sm" id="btn-poem-en-${pid}" onclick="togglePoemEn('${pid}')">英文翻譯 EN</button>
       ${hasCommentary ? `<button class="btn-sm" id="btn-poem-notes-${pid}" onclick="togglePoemCommentary('${pid}')">注解</button>` : ''}
-      <button class="btn-sm btn-like" id="poem-like-${pid}" onclick="toggleLike('${pid}')">♡ 喜歡</button>
+      <button class="btn-sm btn-like" id="like-${pid}" onclick="toggleLike('${pid}')">♡ 喜歡</button>
       <span class="like-count" id="likes-${pid}"></span>
       <button class="btn-sm" onclick="toggleComments('${pid}')">💬 留言</button>
     </div>
