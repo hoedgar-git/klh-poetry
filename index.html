@@ -813,9 +813,7 @@ function renderHaiku(seriesNum, h) {
       h.en.map(l => `<span class="haiku-line-en">${escHtml(l)}</span>`).join('')
     : '';
 
-  const notesHtml = hasNotes
-    ? formatNotes(h.notes) + (hasYt ? renderYtLinks(h.yt) : '')
-    : (hasYt ? renderYtLinks(h.yt) : '');
+  const notesZhHtml = hasNotes ? formatNotes(h.notes) : '';
 
   return `
   <div class="haiku-entry" id="entry-${id}">
@@ -830,7 +828,10 @@ function renderHaiku(seriesNum, h) {
       <span class="like-count" id="likes-${id}"></span>
       <button class="btn-sm" onclick="toggleComments('${id}')">💬 留言</button>
     </div>
-    ${(hasNotes || hasYt) ? `<div class="haiku-notes" id="notes-${id}">${notesHtml}</div>` : ''}
+    ${(hasNotes || hasYt) ? `<div class="haiku-notes" id="notes-${id}">
+      ${hasNotes ? `<div id="notes-zh-${id}">${notesZhHtml}</div><div id="notes-en-${id}" style="display:none; font-style:italic; color:var(--muted)"></div>` : ''}
+      ${hasYt ? renderYtLinks(h.yt) : ''}
+    </div>` : ''}
     <div class="comments-section" id="comments-${id}">
       <div class="comment-form">
         <div class="comment-input-row">
@@ -878,7 +879,7 @@ function renderImages(images) {
     const captionZh = img.caption_zh ? `<div class="poem-image-caption">${escHtml(img.caption_zh)}</div>` : '';
     const captionEn = img.caption_en ? `<div class="poem-image-caption poem-image-caption-en">${escHtml(img.caption_en)}</div>` : '';
     return `<div class="poem-image-block">
-        <img src="${escHtml(img.url)}" alt="${escHtml(img.caption_zh || img.caption_en || '')}" loading="lazy">
+        <img src="${escHtml(img.url)}" alt="${escHtml(img.caption_zh || img.caption_en || '')}">
         ${captionZh}${captionEn}
       </div>`;
   }).join('');
@@ -901,6 +902,8 @@ async function toggleHaikuEn(id) {
   const zhLines = hItem ? hItem.zh : [];
   const el = document.getElementById('en-' + id);
   const btn = document.getElementById('btn-en-' + id);
+  const notesZh = document.getElementById('notes-zh-' + id);
+  const notesEn = document.getElementById('notes-en-' + id);
   if (!el || !btn) return;
 
   const isShowing = el.classList.contains('show');
@@ -908,33 +911,43 @@ async function toggleHaikuEn(id) {
     el.classList.remove('show');
     btn.classList.remove('active');
     btn.textContent = '英文 EN';
+    if (notesZh) notesZh.style.display = 'block';
+    if (notesEn) notesEn.style.display = 'none';
     return;
   }
 
-  // Lazy-load AI translation if empty
-  if (!el.innerHTML.trim()) {
+  // Lazy-load AI translation(s) if empty
+  const needsPoemFetch = !el.innerHTML.trim();
+  const needsNotesFetch = !!(notesEn && !notesEn.innerHTML.trim() && hItem && hItem.notes);
+  if (needsPoemFetch || needsNotesFetch) {
     btn.textContent = '翻譯中…';
     btn.disabled = true;
 
-    const cacheKey = 'kl_htrans_' + id;
-    const cached = localStorage.getItem(cacheKey);
-    if (cached) {
-      renderHaikuEnContent(el, JSON.parse(cached), true);
-    } else {
-      const translations = [];
-      for (const line of zhLines) {
-        try {
-          const res = await fetch(
-            `https://api.mymemory.translated.net/get?q=${encodeURIComponent(line)}&langpair=zh-TW|en`,
-            { signal: AbortSignal.timeout(8000) }
-          );
-          const json = await res.json();
-          translations.push(json.responseStatus === 200 ? json.responseData.translatedText : line);
-        } catch(e) { translations.push(line); }
-        await new Promise(r => setTimeout(r, 100));
+    if (needsPoemFetch) {
+      const cacheKey = 'kl_htrans_' + id;
+      const cached = localStorage.getItem(cacheKey);
+      if (cached) {
+        renderHaikuEnContent(el, JSON.parse(cached), true);
+      } else {
+        const translations = [];
+        for (const line of zhLines) {
+          try {
+            const res = await fetch(
+              `https://api.mymemory.translated.net/get?q=${encodeURIComponent(line)}&langpair=zh-TW|en`,
+              { signal: AbortSignal.timeout(8000) }
+            );
+            const json = await res.json();
+            translations.push(json.responseStatus === 200 ? json.responseData.translatedText : line);
+          } catch(e) { translations.push(line); }
+          await new Promise(r => setTimeout(r, 100));
+        }
+        localStorage.setItem(cacheKey, JSON.stringify(translations));
+        renderHaikuEnContent(el, translations, true);
       }
-      localStorage.setItem(cacheKey, JSON.stringify(translations));
-      renderHaikuEnContent(el, translations, true);
+    }
+
+    if (needsNotesFetch) {
+      await fetchHaikuNotesTranslation(id, hItem, notesEn);
     }
 
     btn.disabled = false;
@@ -943,6 +956,58 @@ async function toggleHaikuEn(id) {
   el.classList.add('show');
   btn.classList.add('active');
   btn.textContent = '隱藏英文 ✕';
+  if (notesZh) notesZh.style.display = 'none';
+  if (notesEn) notesEn.style.display = 'block';
+}
+
+async function fetchHaikuNotesTranslation(id, hItem, el) {
+  const cacheKey = 'kl_ntrans_' + id;
+  const cached = localStorage.getItem(cacheKey);
+  if (cached) {
+    try {
+      renderTranslatedCommentary(el, JSON.parse(cached).paragraphs, true);
+      return;
+    } catch(e) {}
+  }
+
+  el.innerHTML = '<div class="trans-loading">翻譯中，請稍候… Translating…</div>';
+
+  const paragraphs = hItem.notes.split(/\n\n+/).filter(Boolean);
+  const translated = [];
+  let failed = false;
+
+  for (const para of paragraphs) {
+    const chunks = splitToChunks(para, 450);
+    const chunkResults = [];
+    for (const chunk of chunks) {
+      try {
+        const res = await fetch(
+          `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=zh-TW|en`,
+          { signal: AbortSignal.timeout(8000) }
+        );
+        const json = await res.json();
+        if (json.responseStatus === 200) {
+          chunkResults.push(json.responseData.translatedText);
+        } else {
+          chunkResults.push('[translation unavailable]');
+          failed = true;
+        }
+      } catch(e) {
+        chunkResults.push('[translation unavailable]');
+        failed = true;
+      }
+      await new Promise(r => setTimeout(r, 120));
+    }
+    translated.push(chunkResults.join(' '));
+  }
+
+  if (failed) {
+    el.innerHTML = '<div class="trans-error">部分段落翻譯失敗，請稍後再試。</div>';
+    return;
+  }
+
+  localStorage.setItem(cacheKey, JSON.stringify({ paragraphs: translated }));
+  renderTranslatedCommentary(el, translated, true);
 }
 
 function renderHaikuEnContent(el, lines, isAI) {
@@ -1116,9 +1181,12 @@ function renderPoem(poem) {
         <div class="commentary-body" id="commentary-zh-${pid}">
           ${poem.commentary_zh ? poem.commentary_zh.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('') : ''}
         </div>
-        ${poem.commentary_en ? `<div class="commentary-body" id="commentary-en-${pid}" style="display:none; font-style:italic; color:var(--muted)">
-          ${poem.commentary_en.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('')}
-        </div>` : ''}
+        <div class="commentary-body" id="commentary-en-${pid}" style="display:none; font-style:italic; color:var(--muted)">
+          ${poem.commentary_en
+            ? `<span class="trans-label poet">詩人譯文 · Poet's Translation</span>` +
+              poem.commentary_en.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('')
+            : ''}
+        </div>
        </div>` : '';
 
   container.innerHTML = `
@@ -1181,11 +1249,14 @@ async function togglePoemEn(pid) {
     return;
   }
 
-  // Need to show: fetch translation if div is empty
-  if (!enEl.innerHTML.trim()) {
+  // Need to show: fetch translation(s) if empty
+  const needsPoemFetch = !enEl.innerHTML.trim();
+  const needsCommentaryFetch = commentaryEn && !commentaryEn.innerHTML.trim();
+  if (needsPoemFetch || needsCommentaryFetch) {
     btn.textContent = '翻譯中…';
     btn.disabled = true;
-    await fetchPoemTranslation(pid);
+    if (needsPoemFetch) await fetchPoemTranslation(pid);
+    if (needsCommentaryFetch) await fetchCommentaryTranslation(pid);
     btn.disabled = false;
   }
 
@@ -1276,6 +1347,74 @@ function renderTranslatedPoem(enEl, lines, isAI) {
   }).join('');
 
   enEl.innerHTML = label + stanzasHtml;
+}
+
+async function fetchCommentaryTranslation(pid) {
+  const poem = POEMS_DATA.find(p => p.id === pid);
+  const el = document.getElementById('commentary-en-' + pid);
+  if (!poem || !el || !poem.commentary_zh) return;
+
+  // Check localStorage cache first
+  const cacheKey = 'kl_ctrans_' + pid;
+  const cached = localStorage.getItem(cacheKey);
+  if (cached) {
+    try {
+      const data = JSON.parse(cached);
+      renderTranslatedCommentary(el, data.paragraphs, data.isAI);
+      return;
+    } catch(e) {}
+  }
+
+  el.innerHTML = '<div class="trans-loading">翻譯中，請稍候… Translating…</div>';
+
+  // Translate paragraph by paragraph via MyMemory API (free, no key needed)
+  const paragraphs = poem.commentary_zh.split('\n\n');
+  const translated = [];
+  let failed = false;
+
+  for (const para of paragraphs) {
+    const chunks = splitToChunks(para, 450);
+    const chunkResults = [];
+
+    for (const chunk of chunks) {
+      try {
+        const res = await fetch(
+          `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=zh-TW|en`,
+          { signal: AbortSignal.timeout(8000) }
+        );
+        const json = await res.json();
+        if (json.responseStatus === 200) {
+          chunkResults.push(json.responseData.translatedText);
+        } else {
+          chunkResults.push('[translation unavailable]');
+          failed = true;
+        }
+      } catch(e) {
+        chunkResults.push('[translation unavailable]');
+        failed = true;
+      }
+      // Small delay to respect rate limits
+      await new Promise(r => setTimeout(r, 120));
+    }
+    translated.push(chunkResults.join(' '));
+  }
+
+  if (failed) {
+    el.innerHTML = '<div class="trans-error">部分段落翻譯失敗，請稍後再試。</div>';
+    return;
+  }
+
+  // Cache result
+  localStorage.setItem(cacheKey, JSON.stringify({ paragraphs: translated, isAI: true }));
+  renderTranslatedCommentary(el, translated, true);
+}
+
+function renderTranslatedCommentary(el, paragraphs, isAI) {
+  const label = isAI
+    ? '<span class="trans-label ai">AI 機器翻譯 · Machine Translation</span>'
+    : '<span class="trans-label poet">詩人譯文 · Poet\'s Translation</span>';
+  const html = paragraphs.map(p => `<p>${escHtml(p).replace(/\n/g,'<br>')}</p>`).join('');
+  el.innerHTML = label + html;
 }
 
 function splitToChunks(text, maxLen) {
