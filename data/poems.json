@@ -1867,5 +1867,940 @@
     "commentary_zh": "Svalbard位於挪威北部，北極圈内的一組群島，Spitsbergen是其中最大的島。該島最北端跨入北緯80度。Longyearbyen是Spitsbergen島的最大聚落，居民只有二千人，却是全世界最北端的最大聚落，是Svalbard北極圈遊輪的主要出入港灣。",
     "commentary_en": null,
     "yt": []
+  },
+  {
+    "id": "polar-bears-svalbard",
+    "title_zh": "北極圈內偶遇北極熊",
+    "title_en": "An Encounter with Polar Bears within the Arctic Circle",
+    "geo": "Spitsbergen, Svalbard, Norway",
+    "geo_tags": [
+      "Arctic"
+    ],
+    "themes": [
+      "climate change",
+      "wildlife"
+    ],
+    "epigraph_zh": null,
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "不問你為何遠離冰原雪地\n孤獨漫游於峽灣海面\n只問你\n寒風陣陣\n何處是你的歸程 ?",
+        "en": "I do not ask why you’ve strayed\nfrom your icy plains and snowy homeland,\nwandering alone across the fjord’s sea.\nI only ask you this—in the biting wind,\nWhere lies your path home?"
+      },
+      {
+        "zh": "不問你為何遠離冰原雪地\n踽踽獨行於衰草荒野\n只問你\n雲天沉沉\n何處是你的前程 ?",
+        "en": "I do not ask why you’ve drifted\nfar from the frozen wilderness,\nSolitary upon the desolate ground.\nI only ask you this—beneath the heavy sky,\nWhere leads your journey ahead?"
+      },
+      {
+        "zh": "你可知道\n人類失控的文明\n已經臨近臨界的點數",
+        "en": "Do you know\nthat humanity’s runaway civilization\nHas it reached its breaking point?"
+      },
+      {
+        "zh": "無力庇護\n獨特而瀕危的生態",
+        "en": "No longer able to shield\nThe unique and fragile wild,"
+      },
+      {
+        "zh": "讓你悠遊於\n原始的壯麗風景\n耽溺於滿目白雪",
+        "en": "Once your boundless haven—\nlandscapes fierce and pristine,\na world of endless snow"
+      },
+      {
+        "zh": "讓你的身影\n徘徊在極地\n像一首來自遠古的歌\n迴旋不息",
+        "en": "where your form\nlingered in the polar silence,\nlike an ancient song\nechoing without end."
+      },
+      {
+        "zh": "每一天我都如此感覺\n你的身影正逐漸消失於\n雪地，浮冰，海面",
+        "en": "Each day I feel it more:\nYour presence slowly fading\nfrom snowfields, drifting ice, and open sea."
+      },
+      {
+        "zh": "必須極力\n以想像留住你\n沒有你\n北極將是何等空寂",
+        "en": "I must strain my imagination\njust to hold on to you.\nWithout you,\nHow desolate would the Arctic be?"
+      },
+      {
+        "zh": "如果北極的旅程\n只能留記一頁\n我該寫下什麼給你 ?",
+        "en": "And if this journey to the Arctic\ncould leave behind only one page,\nWhat, dear one, should I write to you?"
+      }
+    ],
+    "commentary_zh": "北極熊的生存面臨著相當大的威脅，主要原因是氣候變遷引發的北極冰層融化。以下是一些關鍵因素，解釋為何北極熊的生存處於危險之中：\n\n冰層消融：北極熊依賴冰層來捕獵食物，特別是海豹。隨著全球變暖，北極地區的冰層正在快速融化，這讓北極熊無法像以往一樣依靠冰面移動，捕捉到足夠的食物。冰層融化的速度超過了北極熊的適應能力，這會使它們的獵食範圍縮小，進而影響生存。\n\n食物短缺：北極熊的主要食物是海豹，尤其是海豹幼崽。冰層的消融使得海豹的栖息地受到威脅，並且冰層越來越薄，北極熊難以接近它們的獵物，造成食物短缺，進而影響它們的健康和繁殖能力。\n\n生育率下降：由於食物不足、生活環境變化，北極熊的繁殖率已經開始下降。母熊在懷孕期間需要充足的脂肪儲備來支持胎兒發育，然而食物不足使它們很難維持這些儲備。\n\n人類活動影響：除氣候變遷外，人類的石油勘探、船隻活動等也對北極熊的栖息地構成威脅。污染物的排放對北極熊的健康產生了負面影響，並使得它們的生存環境更加惡劣。\n\n總體而言，北極熊並非立刻面臨滅絕的威脅，但在現有的環境變化下，它們的生存會變得越來越艱難。根據一些科學預測，如果全球氣候變暖的趨勢持續，北極熊的數量可能會大幅減少，甚至在未來幾十年內面臨滅絕的風險。全球範圍內減少碳排放、保護北極生態系統，可能是幫助保護北極熊的一個重要途徑。 (整理自ChatGPT)",
+    "commentary_en": "The polar bear's survival is under significant threat, primarily due to the melting of Arctic ice caused by climate change. The following are key reasons why polar bears are in danger:\n\nMelting sea ice: Polar bears rely on sea ice to hunt for food, especially seals. With global warming accelerating, the Arctic ice is melting rapidly, making it increasingly difficult for polar bears to travel and hunt effectively. The pace of ice loss is outstripping the bears’ ability to adapt, shrinking their hunting grounds and threatening their survival.\n\nFood shortages: Seals—particularly seal pups—are the polar bear's main food source. As sea ice melts, seal habitats are also being threatened. With thinner and more distant ice, polar bears struggle to reach their prey, leading to food scarcity and declining health and reproductive success.\n\nDeclining birth rates: The shortage of food and the shifting environment have already begun to affect polar bear reproduction. Pregnant females require substantial fat reserves to support fetal development. With insufficient nutrition, many cannot maintain these vital reserves.\n\nImpact of human activity: In addition to climate change, human activities such as oil exploration and increased marine traffic further disrupt the bears’ habitats. Pollution also has adverse effects on polar bear health, making their environment even more inhospitable.\n\nIn summary, while polar bears are not yet on the brink of extinction, their survival is becoming increasingly difficult under current environmental conditions. Scientific forecasts suggest that if global warming continues unchecked, polar bear populations could decline dramatically, facing the risk of extinction within a few decades. Global efforts to reduce carbon emissions and to protect the Arctic ecosystem may be vital steps in safeguarding the future of polar bears.\n\n(Compiled with ChatGPT)",
+    "yt": [
+      {
+        "url": "https://www.youtube.com/watch?v=vh0dljLwlvw",
+        "title": "跟随音樂欣賞北極熊 Follow the music to enjoy the polar bear"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=OJbrNOOVuC8",
+        "title": "沒有北極熊的北極？ An Arctic without polar bears?"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zYvj_VL5jSE",
+        "title": "林采欣 Bae Lin [ 北極熊 Polar Bear ]"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=c3pa9n9uxlc",
+        "title": "冰雪家園 ｜北極熊的悲歌"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=iqjukBgLU0w",
+        "title": "北極熊寶寶 polar bear cub｜ 劉道文"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=eDgSCqWC5Yk",
+        "title": "〈那裡有隻北極熊〉 單曲 黛安娜"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=LtZAP8XUlx8",
+        "title": "超可爱的北极熊 Super cute polar bears"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=lEMX7YniSc4",
+        "title": "Climate change. the starving polar bear. 飢餓的北極熊"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=1zRGzlWqce4",
+        "title": "Polar Bears 101 | 北極熊101 Nat Geo Wild"
+      }
+    ],
+    "images": [
+      {
+        "url": "images/polar-bears-svalbard/photo1.png",
+        "caption_zh": "北極熊：浮游於没有浮冰的峽灣海面。(攝影/何康隆)",
+        "caption_en": "Polar Bear: Drifting across the fjord waters, where no sea ice remains. Bellsund, Svalbard."
+      },
+      {
+        "url": "images/polar-bears-svalbard/photo2.png",
+        "caption_zh": "北極熊：踽踽獨行於荒郊野地。(攝影/何康隆)",
+        "caption_en": "Polar Bear: Walking alone across desolate tundra. Woodfjord, Svalbard."
+      },
+      {
+        "url": "images/polar-bears-svalbard/photo3.png",
+        "caption_zh": "當北極冰原逐漸消融: 在荒郊野外漫遊覓食的北極熊。",
+        "caption_en": "As the Arctic ice fields gradually melt, a polar bear roams the wilderness in search of food. (Photo by Khang-Loon Ho)"
+      },
+      {
+        "url": "images/polar-bears-svalbard/photo4.png",
+        "caption_zh": "北極圈内: 冰原消瘦，冰川退缩，浮冰鋭減。",
+        "caption_en": "Within the Arctic Circle: ice fields are thinning, glaciers retreating, and sea ice diminishing. Magdalene fjord, Svalbard. (Photo by Khang-Loon Ho)"
+      }
+    ]
+  },
+  {
+    "id": "solitary-penguin-antarctica",
+    "title_zh": "孤立雪地的企鵝",
+    "title_en": "A Lonely Penguin In The Snow",
+    "geo": "Antarctic Peninsula",
+    "geo_tags": [
+      "Antarctica"
+    ],
+    "themes": [
+      "solitude",
+      "wildlife",
+      "nature"
+    ],
+    "epigraph_zh": null,
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "不爲問你爲何離群出走\n孤獨於冰雪砌造的絕壁\n凝視 迷濛寒霧\n屏息 千年流光\n以立足天地之姿\n蹀踱於水墨畫的空茫",
+        "en": "I don't ask why you ran away from the group\nAlone on a cliff made of ice and snow\nStaring at the misty cold fog\nHold your breath, millennium streamer\nStand on the ground\nWandering in the void of ink painting"
+      },
+      {
+        "zh": "岬灣靜無波\n萬徑人縱沒",
+        "en": "Quiet Bay\nFrom path to path, no man in sight"
+      },
+      {
+        "zh": "是否可以陪你\n看浮冰悠然滑過\n聽寒風四方吹拂",
+        "en": "Can I accompany you\nWatch the ice floes slide by leisurely\nListen to the cold wind blowing everywhere"
+      },
+      {
+        "zh": "思索\n萬古的禪境空無\n人世的緣起緣落",
+        "en": "Pondering\nThe eternal Zen realm is empty\nThe origin and fall of the world"
+      }
+    ],
+    "commentary_zh": "",
+    "commentary_en": "",
+    "yt": []
+  },
+  {
+    "id": "viewing-miro-paintings",
+    "title_zh": "看米羅的畫有感",
+    "title_en": "Looking at Miro's Paintings",
+    "geo": null,
+    "geo_tags": [],
+    "themes": [
+      "art",
+      "Joan Miró",
+      "ekphrastic",
+      "Barcelona"
+    ],
+    "epigraph_zh": "Miro Museum, Barcelona, Spain",
+    "epigraph_en": "Miro Museum, Barcelona, Spain",
+    "stanzas": [
+      {
+        "zh": "看完你的畫\n館內空曠寂靜\n走出陽台\n初秋的落日搖曳樹影\n山腳下\n巴塞隆納依偎迷濛的海灣",
+        "en": "after looking through your paintings\nthe hall is empty and silent\nstep out onto the balcony\nearly autumn sunset swaying tree shadows\nat the foot of the mountain\nBarcelona nestles in misty bays"
+      },
+      {
+        "zh": "我知道\n你可以把這景色\n畫成簡單的畫\n如夢的意象",
+        "en": "I know\nyou can take this scenery, and\ndraw a simple picture\nlike a dream image"
+      },
+      {
+        "zh": "可是\n明日我離去\n應該帶走畫裡\n紅的圓 ?\n黃的點 ?\n綠的線 ?\n留下一大片深邃的黑 ?\n讓角落那一抹淺藍\n滲入日後的回憶 ?\n還是\n只帶走未浸染的白 ?",
+        "en": "but tomorrow I shall be leaving\nand from the painting, what\nshould I take away\nred circle?\nyellow dots?\ngreen line?\nleaving a large piece of deep black?\nand let the light blue in the corner\nseep into future memories?\nor take only the undyed white?"
+      },
+      {
+        "zh": "可以著墨\n可以著色\n塗所謂的無所謂\n畫不爲什麽的什麽\n如同你的畫",
+        "en": "it can be inked\nit can be colored\nit can be painted into whatever\nso-called as you wish\nor why to no why\njust like your painting"
+      }
+    ],
+    "commentary_zh": "米羅 ( Joan Miro 1893–1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。以超現實手法，簡約圖相，表現如夢似幻的詩意。他的畫蘊藏著異想天開，反覆無常和幽默的趣味。加上扭曲的動物，變形的有機物體和異乎尋常的幾何構造，使作品顯得特别。明亮濃麗的色彩，尤其是藍，紅，黄，綠，黑和留白，鋭利的線條，點和花樣，架構成無形狀的阿米巴圖 ( Amorphous Amoebic )。 米羅的畫風，總是有一種天真、無邪、貪玩的風格。他以單純的記號和直樸原素做畫，達到現代畫自由表現的境地，其作品雖然幻想，神秘，表現卻是明晰，畫面充滿了隱喻，幽默與輕快，表現孩童般的純樸天真，並且富有詩意。他主張繪畫所表現的神秘，必須以具體的自然形象作基礎。米羅是一名超現實主義的畫家，他企圖要摧毀理性和邏輯的主宰，把無意識和非邏輯心靈的衝力從中解放出來，並且探測不可見領域和視覺世界的奧祕。",
+    "commentary_en": "",
+    "yt": []
+  },
+  {
+    "id": "madrid-dusk",
+    "title_zh": "馬德里的黃昏",
+    "title_en": "Dusk in Madrid",
+    "geo": "Madrid, Spain",
+    "geo_tags": [
+      "Europe"
+    ],
+    "themes": [
+      "travel",
+      "memory",
+      "dusk/twilight"
+    ],
+    "epigraph_zh": "當時心境隨風去，如今拾來總是詩",
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "望見河岸的孤舟\n那麼清晰熟悉\n卻又陌生遙遠\n斜陽下\n你神色如斯沉寂\n掩映著\n纖柔和恬淡對比\n有如光影流動\n轉成風的私語\n以及色彩的奧秘",
+        "en": null
+      },
+      {
+        "zh": "浮雲飄散\n繁花落地\n無非是渺茫迷離\n天涯是近\n咫尺是遠\n純然是無奈難解\n今日相見\n來日相期\n就是不知何時再遇",
+        "en": null
+      },
+      {
+        "zh": "你如問我\n如今將如何\n我會無語\n只把今夕摺進往昔\n一起寫入\n隔街流來的暮色\n如一首旅人之歌\n在歲月的轉角\n侬依繚繞",
+        "en": null
+      }
+    ],
+    "commentary_zh": "馬德里位於西班牙中部，海抜670公尺，是歐洲地勢最高的首都。地處伊比利亞半島中心，南下可經直布羅陀海峽，與一水之隔的非洲大陸相通，北越比利牛斯山脉，直抵歐洲腹地。在歷史潮流中，因居戰略和文化交流位置而有「歐洲門戶」之稱。在馬德里，時時可以感受古代文明和現代文化的碰撞，處處散放著各族群交融的繽紛氛圍。如果爲馬德里附加一個標簽，可以是古典，也可以是時尚。有別於南部的文化之城巴塞隆納，馬德里的歷史古跡和現代建築紛繁并列，相交映輝，旣可擁抱中世紀和文藝復興時期的古香古色和滄桑，又可徜徉於現代科技文明的璀燦風格。五月的午后，細雨初停，馬德里的黃昏分外美麗，每一條人行街道都浸潤著光影和寧靜，當夕陽爲馬德里的古典和時尚，披上金黃的色彩和流動的音符，徘徊其中就是一場夢的憧憬，是心靈的回歸和感動。",
+    "commentary_en": "",
+    "yt": []
+  },
+  {
+    "id": "sydney-sails",
+    "title_zh": "風帆如詩",
+    "title_en": "Sails Like Poetry",
+    "geo": "Sydney Opera House, Australia",
+    "geo_tags": [
+      "Australia"
+    ],
+    "themes": [
+      "travel",
+      "architecture",
+      "music",
+      "history"
+    ],
+    "epigraph_zh": null,
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "載著軼事和傳說\nCook 船長的風帆船隊\n乘著南太平洋的潮流季風\n停泊於澳洲曲折海灣\n在明媚的秋日午后",
+        "en": "Carrying tales and legends,\nCaptain Cook's fleet of sails\nrode the monsoon tides\nof the South Pacific,\nanchoring in Australia's winding bays\non a radiant autumn afternoon."
+      },
+      {
+        "zh": "潮起潮落，海換星移\n軼事如畫，傳說如謎\n船長的風帆沉澱\n現代的風帆浮現\n音樂從此流瀉\n飄盪於碧海和藍天",
+        "en": "Tides rise and fall, stars shift with time—\ntales unfold like paintings,\nlegends linger like riddles.\nThe captain's sails lie settled,\nwhile modern sails rise anew;\nand from them, music flows,\ndrifting across blue seas and skies."
+      },
+      {
+        "zh": "Land of Hope and Glory\nHallelujah\nThe Havens are Telling\nOde to Joy\nGloria in Excelsis Duo\n以及\nFormosa 頌",
+        "en": "Land of Hope and Glory\nHallelujah\nThe Heavens are Telling\nOde to Joy\nGloria in Excelsis Deo\nand\nHymn to Formosa"
+      },
+      {
+        "zh": "就這樣\n音樂起自風帆\n日日夜夜\n迴旋於岬灣和岬灣之間\n美和夢想隨之飛翔",
+        "en": "And so it begins—\nmusic born of sails,\nday and night\nechoing between headlands,\nas beauty and dreams take flight."
+      },
+      {
+        "zh": "哦 ! Sydney\n你以風帆之姿\n把名字\n寫在波光粼粼的水上\n清澈，柔麗，明亮\n以晨昏光影的起伏\n以季節色彩的節奏\n把建築融成如風的音樂\n把音樂凝成如帆的建築",
+        "en": "Oh, Sydney,\nwith the form of a sail,\nyou inscribe your name\nupon the shimmering water—\nclear, tender, and luminous—\nshaped by shifting morning and evening light,\nmoving with the rhythm of the seasons' hues.\nYou've turned architecture into music like wind,\nand music into architecture like sails."
+      },
+      {
+        "zh": "看著你\n我終於明白\n美的感動是永恆的喜悅",
+        "en": "Watching you,\nI finally understand:\nthe beauty that stirs us\nis joy without end."
+      }
+    ],
+    "commentary_zh": "清晨薄霧的雪梨歌劇院和雪梨市景。 (攝影/何康隆)\n\n1768年庫克船長 ( Captain James Cook ) 率領船隊奮進號 ( Endeavour ) 自英國出發。1769年10月到達紐西蘭，考察紐西蘭南北二島，并命名南北两島間的海峽為「 Cook Strait 」。後來，紐西蘭最高的山也名為 Aoraki / Mt. Cook。1770年4月19日到達澳州大陸的東南端， 8月21日抵達澳洲最北端，并宣稱澳州為英國佔領地，命名為新威爾士 ( New Wales )。8月23日離開澳州，繼續往太平洋西去。1779年進行第三次航行太平洋時，喪命於夏威夷。庫克船長當年在澳州登陸的地方，現在已開闢為 Botany Bay National Park.\n\n雪梨歌劇院（Sydney Opera House）的建築形態，有如停泊於岬灣上的帆船，展開優雅的白色風帆，乘著習習海風，遨遊於碧波之上。歌劇院是音樂和建築完美結合，妥切的傳達了詩人歌德對音樂和建築的詮釋: 「音樂是流動的建築，建築是凝佇的音樂」。\n\n雪梨歌劇院是一座世界聞名的建築傑作，其獨特的外型彷彿展開的帆船，漂浮於藍天碧海之間，成為澳洲最具代表性的地標之一。由丹麥建築師約恩·烏松（Jørn Utzon）設計，整體結構融合現代主義與自然意象，展現出動態與詩意的美學。歌劇院的屋頂由多個曲線殼片構成，猶如貝殼或蓮花瓣，在陽光下閃耀如瓷，隨著天色與海光變幻呈現不同風貌，營造出和諧的視覺節奏。其建築不僅技術上創新，更在藝術上引發共鳴，將結構與美感融合得淋漓盡致。內部空間則以木質結構與優雅的幾何設計，營造出溫暖且莊嚴的氛圍，成為音樂與戲劇的殿堂。雪梨歌劇院象徵著人類勇於想像與實踐夢想的精神，其建築之美，超越時代，令人驚嘆不已。2007，雪梨歌劇院成為聯合國教科文組織世界文化遺產。\n\n「A thing of beauty is a joy for ever」 ( 美的事物是永恆的喜悅 ) 是英國詩人濟慈（ John Keats，1795-1821）的詩句。與拜倫、雪萊並稱為浪漫主義第二代詩人。1821濟慈死於旅遊羅馬途中，年僅25。墓碑上沒有他的名字，卻刻著他的遺言: 「Here lies one whose name was written in water」。 一位把名字寫在水上的詩人。\n\n列擧歌曲是 \"Sydney Philharmonic Choir\" 所唱，收錄於 Sydney Opera House 製作的CD \"Ode to Joy: Great Choral Masterpieces\"。\n\n參觀 Sydney Opera House 時，歌劇院表演廳寂靜無人，隊友Grace帶領大家合唱「Formosa 頌」。 廰內歌聲迴盪，飄起濃濃的鄉情，親情和友情。\n\nFormosa 頌 ( 抱着咱的夢 ) 詞/鄭瑞堂 曲/鄭智仁\n\nFormosa 咱的夢 咱的愛 親像阿母叫阮的名\n摇啊摇啊摇 惜啊惜 永遠抱着美麗的夢\nFormosa 咱的夢 咱的愛 有咱祖先流過的汗\n摇啊摇啊摇 惜啊惜 永遠抱着美麗的夢\nFormosa 咱的夢 咱的愛 無怨無悔來期待\n摇啊摇啊摇 惜啊惜 永遠抱着咱的夢\n\n鄭智仁 (1951--, 台湾彰化二水鄉人) ，作詞作曲家和演唱家，是著名的男性生殖醫學專家，獲有多項發明專利，兩度獲選母校中山醫學院傑出校友。2002年以作品「天頂的星」榮獲第13屆金曲獎傳統藝術音樂作品類—「最佳作詞人」及「最佳演唱人」; 同年獲高雄市政府文藝獎—「終身成就獎」。鄭智仁的歌謠，文詞優美、旋律感人，深具本土意識與人文關懷，他的許多作品被收錄在教科書。鄭智仁一直秉持:「音樂家有責任去喚醒伊成長的這塊土地上的靈魂」的信念。 獲選2000 年美國關懷台灣基金會「奉獻獎」，其獲獎的評價是: 鄭智仁是本世紀俱有深遠影響的台灣歌謠作家。",
+    "commentary_en": "Sydney Opera House and Sydney city view in the early morning mist. (Photo / Ho Khang-Loon)\n\nIn 1768, Captain James Cook set sail from Britain aboard the Endeavour, leading his fleet into the vast Pacific. In October 1769, he arrived in New Zealand, charting and exploring both the North and South Islands, naming the strait between them Cook Strait. Later, the nation's highest peak would also bear his name—Aoraki / Mount Cook. On April 19, 1770, Cook reached the southeastern tip of the Australian continent. By August 21, he had landed at its northernmost point, claiming the land for Britain and naming it New Wales. Two days later, he departed westward across the Pacific. During his third voyage in 1779, he met his end in Hawaii. Today, the site where he first landed in Australia has become Botany Bay National Park.\n\nThe Sydney Opera House, with its form like a sailboat moored in a sheltered bay, unfurls its graceful white sails, catching the gentle sea breeze, gliding across a sea of blue. It is a perfect fusion of music and architecture, a living interpretation of Goethe's reflection: \"Music is liquid architecture; Architecture is frozen music.\"\n\nThe Sydney Opera House is a world-renowned masterpiece, designed by Danish architect Jørn Utzon, that embodies both modernism and nature—a symphony of movement and poetry. Its roof, composed of curving shells, resembles open sails, lotus petals, or sea-washed shells, gleaming like porcelain in the sun, shifting with the light and sea, creating a rhythm of harmonious vision. Not only is it a marvel of engineering, but it is also a triumph of art—a space where structure breathes beauty. Inside, warm wooden forms and elegant geometry create a sacred atmosphere, a sanctuary for opera and drama alike. The Opera House stands as a beacon of human imagination and the courage to realize dreams. Its beauty transcends time, leaving all who behold it in awe. In 2007, the Sydney Opera House was inscribed as a UNESCO World Heritage Site.\n\n\"A thing of beauty is a joy forever\" is a famous line by the English poet John Keats (1795–1821), a leading figure of the second generation of Romantic poets, alongside Byron and Shelley. In 1821, Keats died while traveling in Rome, at the young age of twenty-five. His name does not appear on his tombstone—only his final words are inscribed: \"Here lies one whose name was written in water.\" A poet who inscribed his name upon the water.\n\nThe following songs were performed by the Sydney Philharmonic Choir and recorded on the Sydney Opera House CD: \"Ode to Joy: Great Choral Masterpieces.\"\n\nDuring a visit to the Sydney Opera House, when the grand performance hall stood quiet and empty, Grace led everyone in singing \"Formosa Hymn.\" The voices echoed through the hall, stirring deep feelings of homeland, family, and friendship.\n\n\"Ode to Formosa – Holding Our Dream\" Lyrics by 鄭瑞堂 (Cheng Jui-Tang), Music by 鄭智仁 (Cheng Chih-Jen):\n\nFormosa — Our Dream, Our Love\nlike a mother softly calling our name.\nSway and sway, so gently we cherish,\nforever holding a beautiful dream.\nFormosa — Our Dream, Our Love\nmarked by the sweat of our ancestors' toil.\nSway and sway, so gently we cherish,\nforever holding a beautiful dream.\nFormosa — Our Dream, Our Love\nwith no regrets, we look forward in hope.\nSway and sway, so gently we cherish,\nforever holding our dream.\n\nCheng Chih-Jen (1951– ), a native of Ershui Township in Changhua, Taiwan, is a lyricist, composer, and singer, as well as a renowned specialist in male reproductive medicine. He holds multiple invention patents and has twice been honored as a Distinguished Alumnus by his alma mater, Chung Shan Medical University. In 2002, his work \"The Star Above the Sky\" won the 13th Golden Melody Award in the Traditional Arts and Music category, receiving both \"Best Lyricist\" and \"Best Vocalist\" honors. That same year, he was awarded the \"Lifetime Achievement Award\" by the Kaohsiung City Government.\n\nCheng's songs are noted for their elegant lyrics and touching melodies, deeply rooted in local identity and humanistic concern. Many of his compositions have been included in school textbooks. He has consistently upheld the belief that \"a musician has the responsibility to awaken the soul of the land where he was raised.\" In 2000, he was selected by The American Care Taiwan Foundation as the recipient of the \"Dedication Award.\" The citation described Cheng Chih-Jen as \"a Taiwanese songwriter of profound and lasting influence in this century.\"",
+    "yt": [
+      {
+        "url": "https://www.youtube.com/watch?v=jsrUZjKYgnc&list=RDjsrUZjKYgnc&start_radio=1",
+        "title": "Land of Hope and Glory"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=weFJHtcxJt0&list=RDweFJHtcxJt0&start_radio=1",
+        "title": "Handel's 'Hallelujah!'"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=IUZEtVbJT5c&list=RDIUZEtVbJT5c&start_radio=1",
+        "title": "Handel's 'Hallelujah!'"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=yTYJm5Ae0Xo&list=RDyTYJm5Ae0Xo&start_radio=1",
+        "title": "The Heavens Are Telling"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_-mvutiDRvQ&list=RD_mvutiDRvQ&start_radio=1",
+        "title": "Beethoven's \"Ode to Joy\""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=kbJcQYVtZMo&list=RDkbJcQYVtZMo&start_radio=1",
+        "title": "Beethoven's \"Ode to Joy\""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Ah__4g01y_M&list=RDAh__4g01y_M&index=1",
+        "title": "Beethoven's \"Ode to Joy\""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=00ht_nCEG40&list=RD00ht_nCEG40&start_radio=1",
+        "title": "Vivaldi: \"Gloria in D major: I. Gloria in excelsis Deo\""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=sitK2Eym_Tk&list=RDsitK2Eym_Tk&start_radio=1",
+        "title": "福爾摩莎頌【鄭智仁台灣歌謠】"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=PlhUGb3N2C8&list=RDPlhUGb3N2C8&index=1",
+        "title": "福爾摩莎頌【鄭智仁台灣歌謠】"
+      }
+    ]
+  },
+  {
+    "id": "jiufen-rain",
+    "title_zh": "雨中九份",
+    "title_en": "Jiufen in the Rain",
+    "geo": "Jiufen, Ruifang District, New Taipei City, Taiwan",
+    "geo_tags": [
+      "Taiwan"
+    ],
+    "themes": [
+      "travel",
+      "history",
+      "nostalgia"
+    ],
+    "epigraph_zh": null,
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "山路蜿蜒，芒草搖曳\n九份山城細雨紛紛\n東北角海岸\n輪廓参差\n迷濛於雲霧煙嵐",
+        "en": null
+      },
+      {
+        "zh": "豎崎路的階梯\n一級又一級\n望之似無盡頭\n街面曲窄\n彷彿走在歷史甬道\n鹿港深巷？ 台南古街？\n此刻\n如果有一支南管奏起\n縷縷切切\n拉回一段滄桑歲月",
+        "en": null
+      },
+      {
+        "zh": "踏著石磚石板路\n茶樓店鋪櫛比鱗次\n仿若一脈細流沿岸風景\n街燈稀疏，傘影飄忽\n腳步伴著雨聲\n起起落落，滴滴答答\n「 我達達的馬蹄聲是個錯誤\n我不是歸人，是個過客 」",
+        "en": null
+      },
+      {
+        "zh": "偏遠、貧寂、繁華、沒落、復起\n這小小的山城\n畢竟負荷著\n怎樣的歷史悲情，人事滄桑\n怎樣的戀戀風塵，綿綿舊情\n旣要回首\n與鄉愁長相守\n又要期盼\n與時潮爭快慢\n有如老酒酩酊\n迷霧花影\n令人踟蹰，捉摸不清",
+        "en": null
+      },
+      {
+        "zh": "告別雨中的山城\n枯乾的基隆河，伴著\n快速的車道\n窗外雨水，滴滴答答\n遙望暮色中\n漸行漸近的台北\n不禁浮起問話連連\n何時，是歸人",
+        "en": null
+      },
+      {
+        "zh": "不是過客？",
+        "en": null
+      }
+    ],
+    "commentary_zh": "九份位於新北市瑞芳區，臨近金瓜石和雞籠山，是昔日的採金礦中心。環山面海，擁有多變的山海美景，是座小小的山城，保有純樸的舊日生活風貌。根據《台北縣誌》的文獻記載，在清朝初期，這貧寂村落只住了九户人家，因此每當外出到市集購物或是貨船來到，都是每樣要九份，遂稱此村落為九份，地名一直沿用至今。九份和金瓜石的金礦開採至少有一百年的歷史。1894年在九份一帶發現金礦礦脈，淘金和採金的人潮大批湧入，展開了九份繁華的鎏金歲月，在黄金開採最盛時期，九份曾經嬴得「小香港」或「小上海」的稱呼，當地人民的消費能力甚至凌駕台北之上，據說當時全台灣最好的酒家和餐館都集中在九份，台灣第一家電影院「昇平戲院」也在九份建立，其繁華景象可見一斑。1956年以後，九份一帶的金礦已大至採盡，產業没落之後，九份的風光便走向歷史。人口流散，殘街空户，衰敗蕭條景象漫延叢生。直到1990年代後，侯孝賢導演，吳念真編劇，所拍攝的電影「悲情城市」和「戀戀風塵」在九份取景，九份獨特的舊式街道建築，坡地石階，蒼桑風情，以及山海景色，透過電影而吸引國内外的注目，也為九份重新帶來生機和活力。這是一個沒落城市因電影的渲染而浴火重生的典型例子。九份的懷舊之美，文化傳承以及新潮人文風華的加注，所營造的藝術山城氛圍，在台灣觀光休閒產業上，開始散發著閃耀的光芒。\n\n一般所謂九份老街是由基山街，輕便街和豎﨑路三條老街縱横組成。豎﨑路是九份最早的街道，依山勢建築，全線由石頭砌成，約有三，四百石階石梯，階梯兩旁設滿茶樓，也可見「悲情城市」的招牌。台灣第一家電影院「昇平戲院」，座落於豎崎路和基山街交會處。拾階而上，至頂端可一覽九份純樸的山城景象，以及東北角海岸的廣茫視野。\n\n鄭愁予的詩：「錯誤」\n「我打江南走過，那等在季節裡的容顏如蓮花般開落。東風不來，三月的柳絮不飛，你的心如小小的寂寞的城，恰若青石的街道向晚，跫音不響。三月的春帷不揭，你底心是小小的窗扉緊掩。我達達的馬蹄聲是個錯誤，我不是歸人，是個過客。」",
+    "commentary_en": "",
+    "yt": []
+  },
+  {
+    "id": "wuling-mountain-road",
+    "title_zh": "走下武嶺的山路",
+    "title_en": "Walking Down the Mountain Road from Wuling",
+    "geo": "Wuling, Hehuan Mountain, Taiwan",
+    "geo_tags": [
+      "Taiwan"
+    ],
+    "themes": [
+      "nature",
+      "mountains",
+      "homeland",
+      "Taiwanese identity"
+    ],
+    "epigraph_zh": "從標高3275公尺的武嶺（台灣高山公路最高點），走下合歡山莊，山路平坦曲折，空氣稀薄清涼。左側的玉山箭竹揮灑一片，鋪綴著山坡成耀眼的橘黃地毯。疏落的台灣冷杉堅韌地聳立其上。南湖大山和中央尖山在北方天際遙遙相望。更遠處，想必是大甲溪和蘭陽溪千年侵奪的思源埡口吧！右側的合歡山壁，層岩疊錯，肌理似畫，削壁積雪叢叢，滴成涓涓細流。奇萊山和能高山在東南天邊綿延，在雲霧飄渺中，成嶺成脈。",
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "不必向我述說\n阿爾卑斯山的峻嶺雪峰\n黃山的烟嵐雲霧\n這裡呈現著獨特的景象\n令人驚嘆的秀麗山色",
+        "en": null
+      },
+      {
+        "zh": "斑駁的水層岩為證\n飄浮的白雲為憑\n自深邃的海底\n升向3000 公尺的高度\n百萬年來",
+        "en": null
+      },
+      {
+        "zh": "這美麗的海島\n便擁有這片蔚藍的天空\n獨自展示著秀麗的風景",
+        "en": null
+      },
+      {
+        "zh": "微風拂過玉山箭竹\n吶吶成曲：\n「遐e山，遐e湖，遐e田園\n是我出世 e 所在，祖先e開墾\n寶貴 e 文化，咱Tioh愛繼續\nKoh Kah伊保存落去，你 e 歷史Kap\n自然 e 美，咱 be 永遠記住心內。」",
+        "en": null
+      }
+    ],
+    "commentary_zh": "註：陳芳玉女士所作「Chih把土」合唱曲的歌詞。",
+    "commentary_en": "",
+    "yt": []
+  },
+  {
+    "id": "beginning-a-journey-britain",
+    "title_zh": "開始一趟旅程",
+    "title_en": "Beginning a Journey",
+    "geo": "Ireland, Northern Ireland, Scotland",
+    "geo_tags": [
+      "Europe"
+    ],
+    "themes": [
+      "travel",
+      "history",
+      "folk songs",
+      "identity"
+    ],
+    "epigraph_zh": null,
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "從......\n\n羅莽湖畔的離情\n\n安娜羅荔的信約\n\n我的邦妮的思念\n\n我開始一趟旅程\n\n蘇格蘭的雲霧煙雨\n\n是一片迷離的詩意",
+        "en": null
+      },
+      {
+        "zh": "從......\n\nCeltic 的語韻\n\nViking 的漂流\n\nBritain 的鐵騎\n\n我開始一趟旅程\n\n愛爾蘭的沉穩堅忍\n\n是一場跌宕的史詩",
+        "en": null
+      },
+      {
+        "zh": "從......\n\n佛萊明的細菌培養皿\n\n李文斯頓的非洲醫療傅道\n\n蘭大衛父子的奉献台灣典範\n\n我開始一趟旅程\n\n不列顛的磅礡精深\n\n是一篇瑰麗的人文",
+        "en": null
+      },
+      {
+        "zh": "原來\n\n旅程是一種進入的方式\n\n它的終點 是\n\n搖晃起伏的心境\n\n星光飄落的庭院\n\n風波漸起的津渡\n\n另一趟心路歷程的開始",
+        "en": null
+      }
+    ],
+    "commentary_zh": "** 羅莽湖畔（Loch Lomond），安娜羅荔（Annie Laurie）和我的邦妮《My Bonnie Lies Over the Ocean》都是傳唱已久的蘇格蘭民謠，每首歌都有人物故事的背景。蘇格蘭高地峻嶺起伏，山谷翠綠綿延，湖水掩映，雨霧煙嵐時起時散，清凄幽微的民謠傳說迴蕩其中，自有一縷動人心弦的迷濛詩意。大學時期的歌本「世界藝術名歌101」就收錄了這三首歌。\n\n**《Loch Lomond》（羅莽湖畔）是一首傳唱久遠的蘇格蘭民謠，浸染着一段蘇格蘭慘烈的歷史。1745年，以蘇格蘭高地（Highlands）氏族為主的Jacobite黨人，第二度大規模起義反抗倫敦朝廷。經過幾回征戰，起初蘇格蘭的軍隊一度還打到距倫敦只有一百三十多哩的Derby，京城倫敦為之震動。但Jacobites黨人於翌年1746年四月，在蘇格蘭Culloden的決定性一役中慘遭殲滅，歷時逾半世紀的Jacobite黨人反抗運動也因此畫下句點。在這場戰役中，英軍把俘擄的蘇格蘭人，囚禁在鄰近蘇格蘭邊界的卡萊爾（Carlisle）城堡。英格蘭人對待這些蘇格蘭戰俘沒有一定懲處的標準，而是任意挑選，有的處死，有的釋放。據說，蘇格蘭戰俘中有一人預感自己將被處決，寫了Loch Lomond這首歌，託給一位被釋放的牢友，帶回去給他住在羅莽湖畔的情人。這首哀思悲愴，悱惻幽怨的歌謠，就這樣飄盪在蘇格蘭山丘草原，在雲霧繚繞中，綿綿的傳唱至今。\n\n** 《Annie Laurie》（安娜羅荔）是一首膾炙人口的蘇格蘭民歌，旋律優美哀婉，歌詞充滿深情。這首歌的背後有一段動人的愛情故事，與17世紀的一位蘇格蘭貴族女子有關。Annie Laurie（安妮羅荔）是蘇格蘭南部Dumfries地區的真實人物。她出生於1682年，是Maxwell of Craigieburn的女兒。傳說她年輕時與一位名叫William Douglas of Fingland的青年軍官相戀，但由於門第懸殊，Annie的父親反對這段戀情，兩人最後未能結成連理。失戀的William Douglas將他對Annie的愛慕寫成了一首詩，這首詩的第一個版本大約出現在1700年前後。這段詩後來成為這首歌的核心歌詞。最早的詩歌只有幾節，風格偏古英語。後來到了19世紀中期，蘇格蘭詩人Alicia Scott（1810–1900）改寫了歌詞，使之更為婉約通俗，並譜上曲調（或改編自傳統旋律），成為今天我們熟悉的版本。\n\n** 《My Bonnie Lies Over the Ocean》（我的邦妮）是一首蘇格蘭民謠風格的歌曲，旋律流暢、朗朗上口。這首歌廣為傳唱，但其背後的起源與故事帶有歷史與傳說的色彩：最廣為人知的說法認為，這首歌與18世紀蘇格蘭王位繼承人查理·愛德華·斯圖亞特（Charles Edward Stuart）——綽號「Bonnie Prince Charlie」有關。1745年，查理王子發起「雅各賓叛亂」（Jacobite Rebellion），試圖恢復父系斯圖亞特王朝對英格蘭、蘇格蘭的統治。在1746年的卡洛登戰役（Battle of Culloden）中失敗後，查理流亡法國，從此離開了蘇格蘭。有人認為，這首歌表達的是蘇格蘭人民對他「橫渡海洋」離去後的懷念與盼望重歸。雖然這種說法沒有直接的歷史文獻證實，但「Bonnie」在蘇格蘭語中意為「美麗的、英俊的」，又與查理王子的綽號吻合，因此廣被接受。\n\n** 愛爾蘭位於歐洲最西端，本島和離島的海岸線長達五千公里，面積約台灣的2.5倍，人口為台灣的三分之二。景觀豊富多變，自然風光渾然天成，四季變換呈現旖旎各異的綠，有「翡翠綠島」之稱。愛爾蘭自古為凱爾特人（Celtic）居住地（Celtic的發音可以是Seltik或是Keltik），但屢遭北方來的維京人（Vikings）的侵犯。現今典藏於都柏林三一學院的國寶「Book of Kells」，這本西元800年的手抄聖經，被譽為西方書法代表作，就是維京人掠奪焚燒的倖存物。愛爾蘭在十二世紀進入封建社會，下半葉英國侵入，毀其典章文物習俗。1801年愛爾蘭併入英國，成立不列顛及愛爾蘭聯合王國。1922年制訂憲法成為共和國，但仍留在英聯邦內，1948年12月21日，愛爾蘭議會宣佈脫離英聯邦，獨立成愛爾蘭共和國。唯北部6郡仍為英國統治，稱北愛爾蘭。1848--1849年間愛爾蘭大飢荒，喪失約三分之一人口，并促成大量海外移民到波士頓，芝加哥等地。\n\n** 亞歷山大．佛萊明（Alexander Fleming，1881—1955），蘇格蘭人，生物學家和葯理學家，在1928年從細菌培養皿中發現了青黴素（盤尼西林），這是20世紀醫學史上，最重要的成就之一。他的發現促使生物化學醫療進入一個嶄新的紀元。1945年榮獲諾貝爾的生理醫學獎。當所有的榮耀逐漸加諸他身上時，他卻謙卑，平淡地說「我并没有做什麼事，是自然製造了盤尼西林，我只是偶然發現它而已。」\n\n** 戴維．李文斯頓（David Livingstone，1813—1873），蘇格蘭人，一生以醫生和傳教士身份，致力向非洲土著做醫療傳道事工。也是非洲最偉大探險家之一，維多利亞瀑布和馬拉維湖的發現者。被稱為「非洲之父」。死後，其心臟埋藏於非洲土地。李文斯頓啟開了英國海外醫療傳道的風潮，其影響遍及全球。同是蘇格蘭人的蘭醫生父子（蘭大衛和蘭大弼），也是受李文斯頓的精神感召，不約而同的成為醫療宣教士，來到台灣，創設「彰化基督教醫院」。在台灣七十年的醫療傳道生涯，為台灣留下了「切膚之愛」和「洗腳精神」，成為台灣醫療奉献的典範，以及信仰實踐的楷模。\n\n** 從高中時代起，便很喜歡這首蘇格蘭民謠《羅莽湖畔》，一直只當是描述山嶺湖水以及情人離別的歌。自從對歌曲背景及塞爾特人的歷史有更多瞭解後，獨自啍唱或靜聽這首古老的情歌時，心中總浮起陣陣波濤，在抒情之中，參雜著對遙遠國度那份悲愁的歷史情緒，也感染着塞爾特人堅忍卓絶的民族毅力。\n\n「羅莽湖畔」的歌詞如下：「出城郊，風光好，望遠坡，真美麗，香塵日照裡，羅莽湖畔，憶當初，雙情侶，終朝攜手共遊戲，在那美麗美麗的羅莽湖畔。你要越高山，我要屨平夷，到鄉關行路難，你來何遲，哦，哦，雙情侶從今恐無相見期，在那美麗美麗的羅莽湖畔。」\n\n「安娜羅荔」的歌詞如下：「美麗的麥威頓坡，坡上新露清淒，在那裡，安娜羅荔給我難忘的信誓，她說永不分離，我說永不相背，為著可愛的安娜羅荔，我的心至死不移。」",
+    "commentary_en": "",
+    "yt": [
+      {
+        "url": "https://www.youtube.com/watch?v=R5-NohY5l3k&list=RDR5-NohY5l3k&start_radio=1",
+        "title": "Bonnie Banks o' Loch Lomond - 羅莽湖邊"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=gb8AGuD2uOI&list=RDgb8AGuD2uOI&start_radio=1",
+        "title": "Bonnie Banks o' Loch Lomond - 羅莽湖邊"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=lRsQRyxMkz4&list=RDlRsQRyxMkz4&start_radio=1",
+        "title": "Annie Laurie - 安娜羅荔"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wslUvlll8RU&list=RDwslUvlll8RU&start_radio=1",
+        "title": "Annie Laurie - 安娜羅荔"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=dCtC2_IF8Ms&list=RDdCtC2_IF8Ms&start_radio=1",
+        "title": "My bonnie lies over the ocean - 我的邦妮"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=4-Qu6uarPD4&list=RD4-Qu6uarPD4&start_radio=1",
+        "title": "My bonnie lies over the ocean - 我的邦妮"
+      }
+    ]
+  },
+  {
+    "id": "flower-fragrance-botswana",
+    "title_zh": "今生有花香留下嗎？",
+    "title_en": "Does This Life Leave a Floral Scent Behind?",
+    "geo": "Xugana, Okavango Delta, Botswana",
+    "geo_tags": [
+      "Botswana"
+    ],
+    "themes": [
+      "nature",
+      "reflection",
+      "mortality",
+      "solitude"
+    ],
+    "epigraph_zh": "Xugana. Okavango Delta. Botswana",
+    "epigraph_en": "Xugana. Okavango Delta. Botswana",
+    "stanzas": [
+      {
+        "zh": "獨木舟緩緩划入\n淡橘色的Xugana黃昏\n波紋粼粼\n浮印着蓮葉片片\n色彩紛然\n勾勒出神秘的原始圖案",
+        "en": "The canoe glides gently\ninto Xugana's pale amber dusk.\nRipples shimmer,\nfloating beneath them—scattered lotus leaves.\nColors unfold,\nsketching primitive, mysterious patterns."
+      },
+      {
+        "zh": "周遭如此寧靜\n只有漿聲一起一落\n搖晃着遠去的心情\n越過疏離的蘆葦\n有蓮花孤立\n在向晚微風中\n沉默無語",
+        "en": "All around, a deep stillness.\nOnly the rise and fall of the paddle\nRocking a distant mood\nAs it drifts\npast estranged reeds.\nA lone lotus\nstands silent\nIn the evening breeze."
+      },
+      {
+        "zh": "\" 今生有花香留下嗎 ? \"",
+        "en": "\"Does this life leave a floral scent behind?\""
+      },
+      {
+        "zh": "隨著問話\n我把自己\n划入\n愈來愈濃的暮色",
+        "en": "With that question,\nI paddle myself\ninto\na deepening twilight."
+      }
+    ],
+    "commentary_zh": "非洲的Okavango Delta，世界最大的內陸三角洲，是 Okavango River自 Angola從北向南，經Namibia，注入Botswana境內的Kalahari沙漠而成。2014年被列爲 UNESCO第1000個世界自然遺產。時值夏季，水量豐沛，三角洲內河道曲折縱橫，湖泊，沙洲和草原參差交錯。 Xugana 是孤立於三角洲東北角上的小島。日落時分，獨木舟在蘆葦漫生的水面滑行，異國景色和原始氛圍，在倒映的晚霞夕照裡，逐次展開，迷離濃郁。晚風習習，漿影摇曳，暗然浮生 \" 小舟從此去，蒼茫寄餘生 \" 的飄散心情。",
+    "commentary_en": "The Okavango Delta, the world's largest inland delta, is formed by the Okavango River as it flows southward from Angola, passing through Namibia before entering the Kalahari Desert in Botswana. In 2014, it was inscribed as UNESCO's 1000th World Heritage Site. During the summer, waters swell and meander, threading through channels, lagoons, islands, and grasslands. Xugana lies secluded in the northeastern tip of the Delta. At sunset, the canoe drifts across reed-laced waters. Exotic landscapes and primordial silence unfold beneath the mirrored glow of evening light—hazy, lush. The breeze gently stirs, paddles leave trailing shadows, and a feeling rises: as if, from this little boat, one were quietly letting go, entrusting the rest of life to the vast unknown.",
+    "yt": [
+      {
+        "url": "https://www.youtube.com/watch?v=ItPX_lJjyPE",
+        "title": "《茉莉花》- Jasmine Flower"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=clepXM7tnjU",
+        "title": "《白牡丹》– White Peony"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=rUg_kW9da48",
+        "title": "《魯冰花》– Lupin Flower"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=l9zsuBE4dXU",
+        "title": "《雨夜花》- Flower in the Rainy Night"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=MeewDH2GeKw",
+        "title": "《夜來香》– Evening Primrose"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=dwidJlTkNoc",
+        "title": "《女人花》-《Flowery Woman》"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=27dzVVtVrEA",
+        "title": "《菊花台》- Chrysanthemum Terrace"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=bAGA3Xwfl3M",
+        "title": "《雪絨花》- \"Edelweiss\" from The Sound of Music"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=r8U25do_Lu8",
+        "title": "《茶花女》- Libiamo from Verdi Opera \"La Traviata\""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Zp1aDnVySf8",
+        "title": "《花之華爾兹》- Tchaikovsky-Waltz of the Flowers"
+      }
+    ]
+  },
+  {
+    "id": "obidos-late-spring-rain",
+    "title_zh": "暮春古城烟雨中",
+    "title_en": "Ancient Town in Late Spring Rain",
+    "geo": "Óbidos, Portugal",
+    "geo_tags": [
+      "Europe"
+    ],
+    "themes": [
+      "travel",
+      "history",
+      "nostalgia"
+    ],
+    "epigraph_zh": null,
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "暮春五月\n古城烟雨迷濛\n鵝卵石路清新錯落\n這悠閒的曲徑小巷，我不熟悉\n這簡樸的紅瓦白牆，我不熟悉\n這帶著葡萄牙節奏的歌聲， 我不熟悉\n這吹自大西洋垂天的雲層， 我不熟悉",
+        "en": "Late Spring, May\nThe ancient town veiled in mist and drizzle,\nCobblestone paths lie fresh and uneven.\nThese quiet, winding alleys—I do not know them.\nThese plain red tiles and whitewashed walls—I do not know them.\nThis singing in the rhythm of Portugal—I do not know it.\nThese clouds, trailing from the vast Atlantic sky—I do not know them."
+      },
+      {
+        "zh": "是的\n你有你的曲巷，你的瓦牆\n你有你的歌聲，你的雲層\n在蒼茫歳月的深處\n在斑駁歷史的遠方",
+        "en": "And yet—\nYou have your alleyways, your tiled walls,\nYou have your songs, your sky-born clouds,\nDeep in the vastness of passing years,\nFar in the distance of worn, weathered history."
+      },
+      {
+        "zh": "沿濕潤的石階而上\n細雨稀疏，傘影恍惚\n放眼處，四野沉沉\n城廓氣勢古拙，牆垣斑駁\n漫漫撐住\n起伏的歷史，曖昧的往事",
+        "en": "Up the damp stone steps I climb,\nRain falls lightly, and shadows of umbrellas shimmer.\nGazing afar—\nThe fields grow heavy in silence.\nThe old city towers with solemn grace, its walls weather-stained,\nEndlessly holding\nThe undulating weight of history, the ambiguity of the past."
+      },
+      {
+        "zh": "石壁垂立\n獨對雲天無語\n彷佛\n等待幾行詞句\n幾聲吟唱\n喚醒千古沉寂",
+        "en": "Stone walls stand sheer,\nFacing the sky, wordless—\nAs if\nWaiting for a few lines of verse,\nA few echoes of song,\nTo awaken centuries of silence."
+      },
+      {
+        "zh": "如此，往事飄渺，意境繚繞\n時空迂迴著時空，只是\n今日的足跡，能否\n喚回遠去的心情？",
+        "en": "So, it is—\nThe past drifts like mist, its mood lingers,\nTime winding within time—\nBut can today's footsteps\nRecall the feelings long faded?"
+      },
+      {
+        "zh": "花徑蜿蜒\n繞過攀藤石牆\n綠䕃掩映著白色敎堂\n巴洛克的鐘塔\n默默隱入\n漸濃的暮色",
+        "en": "The flower path winds,\nSkirting ivy-covered stone walls,\nGreen shadows conceal a white chapel.\nA baroque bell tower\nSilently sinks\nInto the deepening dusk."
+      },
+      {
+        "zh": "此刻\n會不會有雲遊僧人\n自中世紀走來\n以一身風塵\n陪我靜坐，等候鐘聲？",
+        "en": "And now—\nMight a wandering monk appear,\nStepping forth from the Middle Ages,\nBringing a body clothed in road dust,\nTo sit quietly with me, waiting for the bell to chime?"
+      },
+      {
+        "zh": "就這樣，回望\n古城的從容\n古典的優柔\n往事交織\n心情隨雲霧飄浮\n在暮春，在烟雨中",
+        "en": "And thus, I look back—\nAt the serenity of the old town,\nThe grace of classic gentleness.\nThe past weaves itself once more,\nAs my heart floats\nWith the drifting mist\nIn late spring,\nIn the soft rain."
+      }
+    ],
+    "commentary_zh": "Obidos 是葡萄牙古城，位於首都里斯本北方約九十公里。紀元前三百年就有腓尼基人在此居住，二千多年前，羅馬人在這裡築碉堡和設村落。第八世紀初，北非的摩爾人佔領了大部分的西班牙和葡萄牙地區，在Obidos 建造城堡和城牆。直到1148年，葡萄牙王國的第一任國王擊退摩爾人，結束了四百多年的穆斯林統治。1228年 Dona Isabel 皇后到訪 Obidos 古城，一見鐘情，國王 Diniz 一世為表愛意，贈送該城為結婚禮物，自此該城稱作「皇后城堡」。1441年10歲的國王阿凡索五世 Afoso V，迎娶8歲表妹伊莎貝爾 Isabella of Coimbra 公主，婚禮在 Santa Maria 敎堂舉行， 故Obidos 又有「白色婚禮之城」的稱謂。此古城曾經票選爲世界十大浪漫結婚聖地之一。\n\nObidos 濱臨大西洋，是迷失在時代裡的古城，是石塊堆砌城牆環繞中的一片寧靜世界，有「山谷中的珍珠」的美譽。高大城牆中的小城，摒絶市井車馬喧嘩，散放著中世紀的古風古調，童話般的清純迷幻。鵝卵石街巷蜿蜒交織，曲徑短牆繁花點綴。兩側錯落有致的房舍，以白牆紅瓦，海水般的藍和大地的土黃，構成小城的主色調，予人一份自然，純樸，簡約的悠閒和愉悅。漫步其間，隨心流覽，藝品店的巧思，牆面的彩色擺置，典雅的街燈，加上巧克力和草莓的酒香，自有一番遺世獨立的淡然心情。巷弄清幽而雋永，時有詩意和美學悄然迎面而來。Santa Maria 敎堂的白色牆面和鐘塔，巴洛克的雕飾，流散著古典的婉約幽雅。古城地形起伏，彎曲小路，像一節美的旋律，漫延至山嶺和城垣。登臨城牆，放眼四望，一邊是屋舍紅瓦平排，葡萄園青濛連天而去，另一邊是城牆婉轉并列，沒入雨烟如史册沉寂。徘徊蹀踱，不覺有\"行到水窮處，坐看雲起時\"的自足閒適。\n\n奧比多斯小鎮坐落在山頂上，完全被堅固的城牆環繞著。它是中世紀建築保存完好的典範，其蜿蜒的街道、迷人的廣場、宏偉的城牆和歷史悠久的城堡都是熱門的旅遊景點。城堡本身已被改建為一家精品酒店（pousada），提供獨特的住宿體驗。",
+    "commentary_en": "Óbidos is an ancient Portuguese town located approximately ninety kilometers north of the capital, Lisbon. Phoenicians resided here as early as 300 BC, and over two millennia ago, Romans built a fortress and established a settlement in this very spot. In the early 8th century, North African Moors occupied most of Spain and Portugal, constructing a castle and walls in Óbidos. It wasn't until 1148 that the first King of Portugal repelled the Moors, ending over four centuries of Muslim rule. In 1228, Queen Dona Isabel visited the ancient city of Óbidos and fell in love at first sight. King Dinis I, to express his affection, gifted the city to her as a wedding present, and from then on, the city was known as the \"Queen's Castle.\" In 1441, 10-year-old King Afonso V married his 8-year-old cousin Princess Isabella of Coimbra, with the wedding held in the Church of Santa Maria, thus earning Óbidos the moniker \"City of White Weddings.\" This ancient city was once voted one of the world's top ten most romantic wedding destinations.\n\nÓbidos, bordering the Atlantic, is an ancient city lost in time, a tranquil world encircled by stone walls, earning it the reputation of \"Pearl of the Valley.\" This small town, nestled within its towering walls, is free from the clamor of the marketplace and traffic, exuding a medieval charm and a pure, ethereal, fairytale-like quality.",
+    "yt": []
+  },
+  {
+    "id": "antarctic-ice-floes-song",
+    "title_zh": "南極浮冰之歌",
+    "title_en": "Antarctic Peninsula",
+    "geo": "Antarctic Peninsula",
+    "geo_tags": [
+      "Antarctica"
+    ],
+    "themes": [
+      "climate change",
+      "nature",
+      "solitude"
+    ],
+    "epigraph_zh": null,
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "沒有告別\n就離岸出走\n漂流在陌生的海域\n風寒和極光塑造的靈魂\n就這樣投入一趟\n無尤無悔的漫漫旅程",
+        "en": null
+      },
+      {
+        "zh": "你幽雅的形影\n柔美的曲線\n悠遊在迷霧輕罩的海面\n如一首旅人彈唱的旋律\n餘音還繚繞\n遠方的冰原雪地",
+        "en": null
+      },
+      {
+        "zh": "如今你孤立在長空之下\n成為潮和浪的點綴\n成為落日和殘月的守望\n成為鷗鳥偶然棲息的驛站",
+        "en": null
+      },
+      {
+        "zh": "從此\n再也沒有可回頭的遠岸\n只有一行一行的思念\n如粼粼的波浪\n在沉寂的海面舒捲",
+        "en": null
+      },
+      {
+        "zh": "而身邊的漣漪\n圈圍著多少\n逐漸淡去的許諾\n以及\n都付笑談中的往昔歲月\n也一一擱淺於\n幾度夕陽紅的蒼茫暮色",
+        "en": null
+      },
+      {
+        "zh": "彷彿知道遠行必定孤寂\n如流星劃過空茫的夜晚\n如荒原赤裸的憶起\n雪峰上隨將消隱的霞光\n你終究無悔無怨",
+        "en": null
+      },
+      {
+        "zh": "因你\n剛毅如禪坐\n平靜如無風的草原",
+        "en": null
+      },
+      {
+        "zh": "此後經年\n應是\n浩瀚海域無盡伸延\n船帆和港灣\n無非是海市蜃樓\n月落星起只能無言以對",
+        "en": null
+      },
+      {
+        "zh": "當你疲乏\n形容消悴\n如望鄉的水手\n流浪已久",
+        "en": null
+      },
+      {
+        "zh": "溫柔的季風會淨化你的心靈\n暖和的陽光會昇華你的軀體\n在春日和高秋時節\n越過藍天漫步而來的白雲\n會來覓你\n攜你南歸",
+        "en": null
+      },
+      {
+        "zh": "你會以一身的純潔\n透明又晶瑩\n飄落於恆古如一的荒茫雪地\n你日夜思念的故鄉",
+        "en": null
+      }
+    ],
+    "commentary_zh": "",
+    "commentary_en": "",
+    "yt": []
+  },
+  {
+    "id": "fragments-of-time-in-palm",
+    "title_zh": "把零碎時光握在掌中",
+    "title_en": "Holding Fragmented Time in Palm",
+    "geo": "Taiwan and the United States",
+    "geo_tags": [
+      "Taiwan",
+      "USA"
+    ],
+    "themes": [
+      "memory",
+      "homeland",
+      "family",
+      "diaspora",
+      "medicine and science",
+      "aging and mortality",
+      "art and literature",
+      "travel"
+    ],
+    "epigraph_zh": "「 生活是慌忙而紛雜的，當我們靜下來回憶時，\n卻又變得溫馨而晶瑩如一首詩。」 -- 東方白",
+    "epigraph_en": "\" Life is hectic and full of distractions, yet when we pause to reflect,\nIt becomes warm and luminous, like a poem.\"\n— Dongfang Bai",
+    "stanzas": [
+      {
+        "zh": "把婆娑之洋美麗之島的懷鄉心情，握在掌中\nDvorak 的故鄉旋律總隨著季節悠然繚繞",
+        "en": "Hold in my palm the homesick longing for the island, lovely amid the swaying seas.\nDvořák's hometown melodies drift leisurely with the turning seasons."
+      },
+      {
+        "zh": "把屏東公園老樹下的一池蓮花， 握在掌中\n不時自問，誰是去夏最美的一朶蓮",
+        "en": "Hold in my palm the lotus pond beneath the old trees of Pingtung Park.\nNow and then I ask: which bloom was the fairest last summer?"
+      },
+      {
+        "zh": "把屏東中學校門那排壯麗的大王椰樹，握在掌中\n那是反共大陸收復故土不講國語罸錢的時代",
+        "en": "Hold in my palm the grand row of royal palms outside Pingtung High.\nAn age of anti-communist slogans, reclaim-the-mainland dreams, and fines for speaking dialect."
+      },
+      {
+        "zh": "把自強不息壁報貼滿紅樓的臺南一中，握在掌中\n全臺首學孔廟沙加利巴棺材板度小月擔擔麵",
+        "en": "Hold in my palm Tainan First High, its red walls covered with slogans of self-strength.\nTaiwan's first school, Confucian temples, Shakaliba, coffin-toast, Du Hsiao Yueh dandan noodles."
+      },
+      {
+        "zh": "把防風林之外還有防風林的安平夕照，握在掌中\n億載金城鹿耳門臺江赤坎樓西拉雅族梅花鹿",
+        "en": "Hold in my palm the Anping sunset, beyond the windbreaks and yet more windbreaks.\nEternal Fortress, Luermen, Taijiang, Chihkan Tower, Siraya tribe, spotted deer."
+      },
+      {
+        "zh": "把臺南回屏東過下淡水溪鐵橋近鄉心情，握在掌中\n泰戈爾詩集胡適文存文星雜誌在火車裡對話",
+        "en": "Hold in my palm the feeling of nearing home, crossing the Lower Tamsui railway bridge from Tainan.\nTagore's poems, Hu Shih's collected prose, Wenxing magazine in quiet dialogue on the train."
+      },
+      {
+        "zh": "把高醫安生村竹棚餐㕔的豬肝炒筍絲，握在掌中\n都説熟讀一部Cecil 的内科學可以走遍天下",
+        "en": "Hold in my palm the stir-fried liver and bamboo shoots from the bamboo kitchen of Ansheng Village at KMU.\nThey say mastering Cecil's Textbook of Medicine could take you anywhere in the world."
+      },
+      {
+        "zh": "把山地門霧臺鄉的低低石板屋，握在掌中\n魯凱族人高醫醫療圑高俊明牧師，如今安在哉",
+        "en": "Hold in my palm the low slate houses of Wutai in Sandimen.\nThe Rukai people, the KMU medical team, Pastor Kao Chun-Ming—where are they now?"
+      },
+      {
+        "zh": "把飄浮在臺北碧潭碧綠水波的小船，握在掌中\n書信往來的百封情書至今不敢再翻讀",
+        "en": "Hold in my palm the little boat adrift on Bitan's emerald ripples in Taipei.\nThose hundred letters of love—I still dare not reread them."
+      },
+      {
+        "zh": "把北美洲藍天下新境界的披塵沾露，握在掌中\n人生如旅，如何揣摩下個驛站的願景",
+        "en": "Hold in my palm the new frontiers beneath North America's blue sky, dusted and dew-stained.\nLife is a journey—how to divine the vision of the next station?"
+      },
+      {
+        "zh": "把西北大學 Evanston 住院醫師的慌亂日子，握在掌中\n學校教堂的婚禮進行曲至今飄渺在斷捨離的清淡日子",
+        "en": "Hold in my palm the hectic days of internship in Evanston at Northwestern.\nThe wedding march from the campus chapel still echoes faintly in my minimalist days."
+      },
+      {
+        "zh": "把加拿大 Kingston湖邊的Queen's University，握在掌中\n腦神經病理學和二個兒子都在冰凍雪地萌芽延伸",
+        "en": "Hold in my palm Queen's University by the lake in Kingston, Canada.\nNeuropathology and two sons—both took root and grew amid snow and ice."
+      },
+      {
+        "zh": "把四季分明彩色紛繁的密西根歲月，握在掌中\n三千里地馳騁，四十年家園守望，換來風靜塵香",
+        "en": "Hold in my palm the vividly colored, four-season years of Michigan.\nThree thousand miles of drive, forty years of homeward watch—for quiet winds and fragrant dust."
+      },
+      {
+        "zh": "把顯微鏡下大千世界的日升月落潮來潮去，握在掌中\n有研討有論文有摘要有書章有哀樂的組織細胞",
+        "en": "Hold in my palm the world beneath the microscope—sunrise and tide, ebb and flow.\nThere were seminars, papers, abstracts, chapters, joys and sorrows in the cells and tissue"
+      },
+      {
+        "zh": "把週未同鄉合唱圑在家練唱的五音不全，握在掌中\n西北雨臺灣翠青出外人永遠的故鄉阿爸的風吹",
+        "en": "Hold in my palm the off-key voices of weekend choir practice at home.\nNorthwest Rain, Taiwan-Lush and Green, The Sojourner, Eternal Hometown, Father's kite"
+      },
+      {
+        "zh": "把兒子棒球第九局還是零比零的漸濃暮色，握在掌中\n棒球足球空手道小提琴中文班，蜻蜓點水沾醬油",
+        "en": "Hold in my palm the deepening dusk of a tied ninth inning in my son's baseball game.\nBaseball, soccer, karate, violin, Chinese class—like a dragonfly skimming the surface."
+      },
+      {
+        "zh": "把波士頓哈佛MIT清靜校園的學生身影，握在掌中\n少時了了，大是平常，意境傅承，快樂爲上",
+        "en": "Hold in my palm the quiet campus shadows of Harvard and MIT in Boston.\nPrecocious youth, ordinary greatness—live in meaning, pass it on, joy comes first."
+      },
+      {
+        "zh": "把你有你的江湖，我有我的風塵的俠骨劍情，握在掌中\n金庸古龍梁羽生還珠樓主臥龍生鄭丯，一劍光寒十四洲",
+        "en": "Hold in my palm the chivalrous romance: your rivers and lakes, my dusty road.\nJin Yong, Gu Long, Liang Yusheng—swords shining cold across fourteen provinces."
+      },
+      {
+        "zh": "把塞納河遊船上望見的巴黎鐵塔，握在掌中\n貝聿明揑拼的玻璃金字塔竟讓蒙娜麗莎神秘微笑",
+        "en": "Hold in my palm the Eiffel Tower glimpsed from a boat on the Seine.\nPei's glass pyramid compels even Mona Lisa to smile again in mystery."
+      },
+      {
+        "zh": "把讓青蛙噗通跳入古寺池塘的俳聖芭蕉，握在掌中\n這是無風的草原，文字在此徘徊，留下的排列成俳句",
+        "en": "Hold in my palm Bashō, frog-leaping into the still pond of an ancient temple.\nA windless prairie—words wander here and linger as haiku."
+      },
+      {
+        "zh": "把飛入莊周夢裡成爲千古隱喻的那隻蝴蝶，握在掌中\n蝴蝶效應: 凡事相互效力都是為心中有愛的人得到益處",
+        "en": "Hold in my palm the butterfly that flew into Zhuangzi's dream, now an eternal metaphor.\nButterfly effect: all things work together, for the good of the ones held in love."
+      },
+      {
+        "zh": "把一滾再滾終於滾入池塘的高爾夫球，握在掌中\n小白球的世界是個迷人，沒有黑洞的平行宇宙",
+        "en": "Hold in my palm the golf ball that rolled and rolled and finally fell into the pond.\nThis little white sphere spins in a charming, black-hole-less parallel universe."
+      },
+      {
+        "zh": "把長榮班機降落桃園機埸播放的雨夜花，握在掌中\n夢醒時分：有些事你不必問，有些人你永遠不必等",
+        "en": "Hold in my palm the Rainy Night Flower playing as the EVA jet lands in Taoyuan.\nWhen dreams break: some things you need not ask, some people—never wait for."
+      },
+      {
+        "zh": "把醫學院畢業45年旅遊臺灣的同學聚會，握在掌中\n時空飛轉，軌道分馳，髮白背駝，語音遲疑，是你嗎",
+        "en": "Hold in my palm the reunion after 45 years—classmates touring Taiwan again.\nTime sped by, paths diverged—white hair, hunched backs, hesitant voice: is that you?"
+      },
+      {
+        "zh": "把兒子小時色彩斑爛意境有無的畫紙，握在掌中\n米羅畢加索達利梵高康丁斯基廖繼春吳冠中王攀元",
+        "en": "Hold in my palm the wild-colored sketches of my son's childhood days.\nMiró, Picasso, Dalí, Van Gogh, Kandinsky, Liao, Wu, Wang—names in crayon dreams."
+      },
+      {
+        "zh": "把顯微鏡下組織切片呈現的臺灣圖形，握在掌中\n芝加哥中西部夏令會展出印象臺灣以及詩的協奏曲",
+        "en": "Hold in my palm Taiwan revealed in histological slices beneath the lens.\nAt Midwest gatherings in Chicago, exhibit \"Impressions of Taiwan\" in poetic concerto."
+      },
+      {
+        "zh": "把斯坦福大學羅丹彫塑園的黑色地獄門，握在掌中\n巴黎凱旅門臺南東門朱銘太極門婆羅門卡門羅生門",
+        "en": "Hold in my palm Rodin's black Gates of Hell in Stanford's garden of forms.\nArches and gates: Paris' Arc, Tainan's East, Ju Ming's Tai Chi, Brahmin, Carmen, Rashomon."
+      },
+      {
+        "zh": "把南極半島離群孤立於冰原雪地的企鵝，握在掌中\n可否陪我一起思索，萬古禪境空無，生命緣起緣落",
+        "en": "Hold in my palm the lone penguin adrift on Antarctic snowscape and frozen sea.\nWill you ponder with me: the vast Zen emptiness, and life's arising and fading?"
+      },
+      {
+        "zh": "把那年兒子回臺灣和祖母合照的老相片，握在掌中\n蕭泰然的歌曲出外人：話語未通，心未通",
+        "en": "Hold in my palm the faded photo of my son with his grandmother, home again.\nTyzen Hsiao sings The Sojourner—words not understood, hearts not yet joined."
+      },
+      {
+        "zh": "把布達佩斯橫跨多腦河鎖錬橋的夜晚景色，握在掌中\n光，聚在一起，照亮一個角落，散開來，照出一條路",
+        "en": "Hold in my palm Budapest's Chain Bridge, glimmering across the Danube at night.\nLight gathers to brighten one corner, then scatters to illuminate the way ahead."
+      },
+      {
+        "zh": "把王維行到水窮處坐看的那片雲，握在掌中\n問路上樵夫，過了柳暗盡處，㑹是風荷滿池",
+        "en": "Hold in my palm the cloud Wang Wei beheld, seated where the waters end.\nAsk the woodcutter—beyond the shaded willows, a pond of wind-lifted lotus awaits."
+      },
+      {
+        "zh": "把家裡牆上那幅米羅的朝聖之路繪圖，握在掌中\n試著畫所謂的無所謂，不爲什麽的什麽，如同你的畫",
+        "en": "Hold in my palm Miró's Pilgrimage Path, hanging quietly on the home wall.\nTry drawing the nothing-that-is-something, the purposeless that matters—like your art."
+      },
+      {
+        "zh": "把從雪山山脈拉拉山帶回的檜木香味，握在掌中\n玉山圓柏紅檜扁柏鐵杉雲杉樟樹青楓二葉杉森氏杜鵑",
+        "en": "Hold in my palm the scent of cypress brought from Lala Mountain's snowy ridge.\nJunipers, red and flat cypress, hemlock, fir, camphor, maples, rhododendrons in array."
+      },
+      {
+        "zh": "把那年環繞 Arizona 和 Utah 州的山林心情，握在掌中\n既自欣得此奇觀，山水有靈，亦當驚知己於千古矣",
+        "en": "Hold in my palm the feeling of that year's trek through the wilds of Arizona and Utah.\nTo behold such wonder is joy enough—but in it, find a kindred spirit across all time."
+      },
+      {
+        "zh": "把你對我俳句糸列的解讀感想，握在掌中\n把自己，留在安靜的風景裡，看紅塵，如過客遠去",
+        "en": "Hold in my palm your thoughts on my haiku series—quiet words, deep echoes.\nLeave yourself in the still landscape; let the worldly dust drift by, a traveler's passing."
+      },
+      {
+        "zh": "把蘇格蘭高地雲霧裡孤寂的野花，握在掌中\n風裡有歌聲問説，今生有花香留下嗎",
+        "en": "Hold in my palm the lone wildflower shrouded in Scottish Highland mist.\nThe wind hums a song—has any scent of bloom lingered in this life?"
+      },
+      {
+        "zh": "把摩洛哥撒哈拉沙漠夜晚的滿天星光，握在掌中\n在光年之外，在平行宇宙那邊，我們會再相遇嗎",
+        "en": "Hold in my palm the Sahara sky in Morocco, glittering with stars at night.\nBeyond the light-years, in a parallel world, will we meet again?"
+      },
+      {
+        "zh": "把南一中高中演講比賽的時勢分析題目，握在掌中\n1960年代中共入侵西藏，2023烏俄戰爭的臺灣省思",
+        "en": "Hold in my palm the high school speech on world affairs at Tainan First High.\nFrom China's 1960s invasion of Tibet to the 2023 Ukraine war—Taiwan's reflection."
+      },
+      {
+        "zh": "把遊輪上極目遠望地中海的深邃蔚藍，握在掌中\n如今雲煙千里，不再數算，誰放遂了誰，誰追悔了誰",
+        "en": "Hold in my palm the deep azure of the Mediterranean from a distant cruise deck.\nNow, across a thousand miles of haze, no more counting who left, who regrets."
+      },
+      {
+        "zh": "把從 YouTube 學習的烹飪心得，握在掌中\n再走一段，色香味與美的旅程，掩映青菜豆腐的人生",
+        "en": "Hold in my palm the flavors learned from YouTube's infinite kitchen.\nWalk another stretch—a journey of beauty, flavor, and humble tofu with greens."
+      },
+      {
+        "zh": "把 Detroit Fax Theater 上演的 Puccini 歌劇，握在掌中\n都說人生如戲，那麼，你想回到生命中的那個劇埸",
+        "en": "Hold in my palm Puccini's opera performed at Detroit's Fox Theatre.\nThey say life is but a play—so, which scene would you return to?"
+      },
+      {
+        "zh": "把 Meadow Brook 室外音樂會的璀璨星空，握在掌中\n今晚的星空非常希臘，荷馬，你彈唱那段神話史詩",
+        "en": "Hold in my palm the star-filled sky over Meadow Brook's outdoor symphony.\nTonight the sky feels Greek—Homer, sing again your mythic verse."
+      },
+      {
+        "zh": "把修剪盆栽時午後陽光斜照的枝葉投影，握在掌中\n雲淡風輕，花色溫馨 ，期待的風景漸次開展",
+        "en": "Hold in my palm the shadow-play of leaves in the slanting sun, trimming bonsai.\nLight clouds, gentle breeze, soft blossoms—the awaited scenery gently unfolds."
+      },
+      {
+        "zh": "把病理學會中發表學術論文的 PowerPoint，握在掌中\n硏究室格言: Today's research is tomorrow's routine",
+        "en": "Hold in my palm the PowerPoint slides from a pathology conference presentation.\nThe lab's motto: today's research becomes tomorrow's routine."
+      },
+      {
+        "zh": "把 Covid-19 病毒猖狂期間寫的40首俳句，握在掌中\n想像病毒遠去，前方一片澄澈，如霧散後翠綠的草原",
+        "en": "Hold in my palm forty haiku written during the rampage of Covid-19.\nImagine the virus gone, and ahead: a clearing, a green field after the mist."
+      },
+      {
+        "zh": "把編輯北美臺灣人醫師會年刊的美好時光，握在掌中\n一起編輯高醫南杏創刊號的陳東榮蔡長宗是筆會會員",
+        "en": "Hold in my palm the golden hours spent editing the Taiwanese Physicians' journal.\nCo-editors of the Kaohsiung alumni's first issue—Chen and Tsai—our writing companions."
+      },
+      {
+        "zh": "把阿茲海默癡呆症腦組織的 amyloid plaque，握在掌中\n搖啊搖搖到奈何橋，孟婆給了一碗湯，於是，恍然隔世",
+        "en": "Hold in my palm the amyloid plaques of the Alzheimer's brain.\nRocking slowly toward the bridge of no return—one bowl from Meng Po, and the world slips away."
+      },
+      {
+        "zh": "把 Canon Sony Leica iPhone 鏡頭裡的影像，握在掌中\n攝影是「shot the chance」，用直覺把瞬間定格成永恆",
+        "en": "Hold in my palm the captured images from Canon, Sony, Leica, iPhone lenses.\nPhotography—shot the chance—uses instinct to freeze the fleeting into forever."
+      },
+      {
+        "zh": "把棋盤上橫看成嶺側成峰的黑白棋子，握在掌中\n是非成敗轉頭空，青山依舊在，幾度夕陽紅",
+        "en": "Hold in my palm the black and white pieces, ridges and peaks shifting on the board.\nRight and wrong, rise and fall—emptied in a glance; the green hills linger through many red sunsets."
+      },
+      {
+        "zh": "把加州灣區 Foster City Lagoon Park 的晨曦晚霞，握在掌中\n落霞與孤雁齊飛，秋水共長天一色，等星光垂落",
+        "en": "Hold in my palm the dawn and dusk of Foster City's quiet lagoon.\nRosy clouds fly with a lone goose, autumn waters blend with sky—await the stars' descent."
+      }
+    ],
+    "commentary_zh": "",
+    "commentary_en": "",
+    "yt": []
+  },
+  {
+    "id": "shanlinxi-mist-song",
+    "title_zh": "杉林溪的雲霧是一首歌",
+    "title_en": "The Mist of Shanlinxi Is a Song",
+    "geo": "Shanlinxi, Zhushan Township, Nantou County, Taiwan",
+    "geo_tags": [
+      "Taiwan"
+    ],
+    "themes": [
+      "travel",
+      "memory",
+      "association",
+      "nature",
+      "mythology",
+      "music"
+    ],
+    "epigraph_zh": "台灣杉林溪森林生態渡假園區位於南投縣竹山鎮與鹿谷鄉交界，海拔約1,600 公尺，是一處結合原始森林、生態保育與高山休閒的著名山林園區。園區終年雲霧繚繞、氣候涼爽。杉林溪以豐富的針闊葉混合林相聞名，杉木、紅檜、台灣扁柏與楓香交錯成林，四季景色分明：春賞櫻花與牡丹，夏觀瀑布飛泉，秋看楓紅層層，冬季則有霧淞與山嵐之美。園區內的松瀧岩瀑布、天地眼、青龍瀑布等自然景觀，展現高山水文與地質演化的壯麗氣勢。 杉林溪也是重要的生態教育基地，棲息著多種鳥類、昆蟲與台灣特有植物，園區設有完善的步道系統與解說設施，讓遊客在漫步林間時，得以親近自然、理解山林的生命律動。 (整理自南投旅遊網)",
+    "epigraph_en": null,
+    "stanzas": [
+      {
+        "zh": "衫林溪的雲霧，讓我想起\n蘇格蘭高地起伏的青翠山坡\n環湖山勢的倒影，讓我想起\n紐西蘭南島壯麗的峽灣岬角\n岬角的波浪，讓我想起\n野柳雲天下孤立的女王岩\n女王的矜持，讓我想起\n長江巫峡懸崖峭壁的神女峯\n神女的傳說，讓我想起\n春秋戰國思潮的百花齊放\n百花的色澤，讓我想起\n日本北海道富良野的薰衣草\n風中薰衣草翻動的流波，讓我想起\n法國普羅斯特的追憶似水年華\n年華的流逝，讓我想起\n柯錫杰攝影捕捉生命之美的瞬間\n瞬間的美學，讓我想起\n「等待維納斯」的湛藍海域\n海域的神話，讓我想起\n愛琴海Cape Sounion的神廟\n神廟的石柱，讓我想起\nPoseidon和Athena對人類的承諾\n雅典娜的橄欖樹，讓我想起\n那首經典傳唱的校園民歌\n三毛與齊豫的《橄欖樹》\n\" 不要問我從哪裡來\n我的故鄉在遠方\n爲什麼流浪，流浪遠方---\"\n衫林溪的雲霧\n是一首歌\n陪我遊走遠方\n流浪他鄉",
+        "en": null
+      }
+    ],
+    "commentary_zh": "杉林溪高山茶園雲霧蒸騰。杉林溪茶區海拔800公尺到1950公尺，茶區以杉林溪遊樂區為中心點。年雨量2700公釐，和梨山、阿里山並列為台灣三大高山茶區。 (攝影/何康隆)\n\n蘇格蘭高地雲霧籠罩下的青翠山坡。 (攝影/何康隆) 蘇格蘭高地峻嶺起伏，山谷翠綠綿延，湖水掩映，雨霧煙嵐時起時散，清凄幽微的民謠傳說迴蕩其中，自有一縷動人心弦的迷濛詩意。羅莽湖畔《Loch Lomond》，安娜羅荔《Annie Laurie》和我的邦妮《My Bonnie Lies Over the Ocean》都是傳唱已久的蘇格蘭民謠，每首歌都有人物故事的背景。\n\n野柳女王岩 (攝影繪制/何康隆) ——「潮起潮落 / 五千年的風姿 / 孤獨又寂寞 / 為眺望遠天的渺茫 / 召喚昔日的承諾 / 錯過了無數的春花秋月 / 美麗的夢 / 留下美麗的憂愁 / 歲月流逝 / 容顏岩化 / 但是驛動的心 / 也能凝結成石嗎？」 -- (何康隆詩《野柳女王岩》第一節)\n\n長江巫山的神女峰，又名望霞峰、仙女峰、堪稱巫山十二峰之最。一根巨石突兀於青峰雲霞之中，宛若一個亭亭玉立、美麗動人的少女，故名神女峰。長江巫峽的神女峰神話主要圍繞著天上的瑤姬仙女下凡，她被巫峽美景吸引，又憐憫當地百姓受水患之苦，便化作石峰，日日迎朝霞送晚霞，為當地帶來福祉。而與楚懐王的「巫山雲雨」情緣神話故事交織，使其成為「世間最多情的石頭」；神女峰形似亭亭玉立少女，傳說為王母第十三個女兒。其故事也與屈原《九歌·山鬼》傳說相連，充滿浪漫與神秘色彩。\n\n日本北海道富良野薰衣草。世界四大薰衣草產地為法國普羅旺斯、日本北海道、俄羅斯高加索山與中國伊犁。富良野的薰衣草是以深淺紫色主調，偶而也有異色交織，紛繁其間。\n\n《追憶似水年華》是法國作家馬塞爾·普魯斯特（1871年—1922年）的作品，以其長度及意識流手法而著名。這部作品細膩刻畫出19世紀末、20世紀初的法國上流社會和文人雅士，從單純地描寫人類社會轉向對人類心理情緒的分析，完成了在文學作品中對人類情感的第一次成熟地剖析，開「意識流」小說之先河。普魯斯特認爲人的生活只有在回憶中才形成「真實的生活」。(摘自維基百科)\n\n柯錫杰：「等待維納斯」。希臘，1979。攝影。詩人鄭愁予當時看了這張照片，便言: 「啊! 愛琴海是維納斯出現的地方，你在等待維納斯啊!」這幅柯錫傑本人尚不知如何命題的作品，便以此言命名。目前台南成功大學醫學院成杏廳藝術牆懸掛此張作品。柯錫杰 (1929-2020) 以「心象攝影」膾炙國際藝壇的攝影大師，被譽為「臺灣現代攝影第一人」。\n\n蘇尼翁海岬 (Cape Sounion) 又有稱蘇尼翁角，位於希臘雅典城南70公里，是希臘阿提卡半島(Attica)最南端的一個三面環水的岬角。在岬角的最高峰有一座供奉著海神波塞冬的古希臘神廟即波塞冬神廟（Temple of Poseidon）。建於雅典黃金時期（約公元前444-440年），以其宏偉的多立克柱式建築和矗立於65米高懸崖邊的壯麗海景聞名。 (攝影/何康隆)\n\n希臘神話：希臘眾神要為一座新建城市取名字。海神波賽頓（Poseidon）和智慧女神雅典娜（Athena）都想當這座城市的守護神。於是眾神決定辦一場「比賽」，看誰送給人類的禮物最有價值。波賽頓一杖插地，湧出了一股海水和一匹飛馬，象徵力量與海上霸權。雅典娜則獻上了一棵橄欖樹，象徵和平、智慧與永續的生活。衆神思考後認為，橄欖樹能提供食物、油、木材，比戰爭的力量，更能讓城市長久繁榮。於是，女神雅典娜獲勝！這座城市便以她的名字命名為雅典（Athens）。《The Dispute of Minerva (Athena) and Neptune (Poseidon)》, Noël Hallé (1711-1781), 油畫, 1748, 法國羅浮宮 (Musée du Louvre)。\n\n《橄欖樹》 詞/三毛 曲/李泰祥 原唱：齊豫——「不要問我從哪裡來 / 我的故鄉在遠方 / 為什麼流浪 / 流浪遠方 / 流浪 / 為了天空飛翔的小鳥 / 為了山間輕流的小溪 / 為了寬闊的草原 / 流浪遠方 / 流浪 / 還有還有 / 為了夢中的橄欖樹 橄欖樹 / 不要問我從哪裡來 / 我的故鄉在遠方 / 為什麼流浪 / 為什麼流浪 / 流浪遠方 / 流浪為了我 / 夢中的橄欖樹」。《橄欖樹》是華語世界極具代表性的抒情歌曲，由三毛作詞、李泰祥作曲，歌中的「橄欖樹」並非具體地理之物，而是象徵理想、信念與內在安身之所。",
+    "commentary_en": "",
+    "yt": [
+      {
+        "url": "https://www.youtube.com/watch?v=LZb8fJZFhlo&list=RDLZb8fJZFhlo&start_radio=1",
+        "title": "齊豫 Chyi Yu【橄欖樹】Official Lyric Video"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=JtBnjrlwhUU&list=RDJtBnjrlwhUU&start_radio=1",
+        "title": "橄欖樹 / Olive Tree - Cello cover 大提琴版本 (cover by YoYo Cello)"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=PqLVmQIFiO4",
+        "title": "为什么说《橄榄树》是一首神曲？"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=VhgSja7TgwA&list=RDVhgSja7TgwA&start_radio=1",
+        "title": "胡德夫&那英《橄榄树》| 琴声流淌于天地间，隔空合唱呼唤远方归来"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=H8bobAwj_vM&list=RDH8bobAwj_vM&start_radio=1",
+        "title": "【橄欖樹】外國女生翻唱 ～ 音色甜美空靈 / Singing Beautiful Chinese Song, \"The Olive Tree\""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GkA25XNNlOM&list=RDGkA25XNNlOM&start_radio=1",
+        "title": "Chyi Yu-The Olive Tree / 橄榄树/ Gan Lan Shu. With Eng/Chinese subs"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=G5l6QVlD800",
+        "title": "橄榄树/Olive Tree/二胡：田宇"
+      }
+    ]
   }
 ]
