@@ -7,6 +7,11 @@
     "geo_tags": [
       "Taiwan"
     ],
+    "images": [
+  { "url": "images/p_yehliu/1-hero.jpeg", "caption_zh": null, "caption_en": null },
+  { "url": "images/p_yehliu/2-queenshead.jpeg", "caption_zh": "野柳女王頭。地質景觀：蕈狀石，岩石年齡5000歲，高度8公尺。", "caption_en": null },
+  { "url": "images/p_yehliu/3-queenshead-b.jpeg", "caption_zh": "頸圍：116.59公分。野柳國家地質公園照片，2024年。", "caption_en": null }
+],
     "themes": [],
     "epigraph_zh": null,
     "epigraph_en": null,
@@ -2877,5 +2882,117 @@
         "title": "橄榄树/Olive Tree/二胡：田宇"
       }
     ]
-  }
+  },
+  {
+  "id": "p_polarbear",
+  "title_zh": "北極圈內偶遇北極熊",
+  "title_en": null,
+  "geo": "Spitsbergen, Svalbard, Norway",
+  "geo_tags": ["Arctic"],
+  "themes": [],
+  "epigraph_zh": null,
+  "epigraph_en": null,
+  "images": [
+    { "url": "images/p_polarbear/1-hero.jpeg", "caption_zh": null, "caption_en": null },
+    { "url": "images/p_polarbear/2-bear.jpeg", "caption_zh": "在荒郊野外漫遊覓食的北極熊。", "caption_en": null }
+  ],
+  "stanzas": [
+    { "zh": "不問你為何遠離冰原雪地\n孤獨漫游於峽灣海面\n只問你\n寒風陣陣\n何處是你的歸程 ?", "en": null },
+    { "zh": "不問你為何遠離冰原雪地\n踽踽獨行於荒郊野地\n只問你\n雲天沉沉\n何處是你的前程 ?", "en": null },
+    { "zh": "你可知道\n人類失控的文明\n已經臨近臨界的點數\n無力庇護\n獨特而瀕危的生態\n讓你悠遊於\n原始的壯麗風景\n耽溺於滿目白雪\n讓你的身影\n徘徊在極地\n像一首來自遠古的歌\n迴旋不息", "en": null },
+    { "zh": "每一天我都如此感覺\n你的身影正逐漸消失於\n雪地 浮冰 海面\n必須極力\n以想像留住你\n沒有你\n北極將是何等空寂", "en": null },
+    { "zh": "如果北極的旅程\n只能留記一頁\n我該寫下什麼給你 ?", "en": null }
+  ],
+  "commentary_zh": "北極熊的生存面臨著相當大的威脅，主要原因是氣候變遷引發的北極冰層融化。冰層消融：北極熊依賴冰層來捕獵食物，特別是海豹。隨著全球變暖，北極地區的冰層正在快速融化，這讓北極熊無法像以往一樣依靠冰面移動，捕捉到足夠的食物。食物短缺：北極熊的主要食物是海豹，尤其是海豹幼崽。冰層的消融使得海豹的栖息地受到威脅。生育率下降：由於食物不足、生活環境變化，北極熊的繁殖率已經開始下降。人類活動影響：除氣候變遷外，人類的石油勘探、船隻活動等也對北極熊的栖息地構成威脅。",
+  "commentary_en": null,
+  "yt": [
+    { "url": "https://www.youtube.com/watch?v=vh0dljLwlvw", "title": "跟随音樂欣賞北極熊 Follow the music to enjoy the polar bear" },
+    { "url": "https://www.youtube.com/watch?v=OJbrNOOVuC8", "title": "沒有北極熊的北極？An Arctic without polar bears?" },
+    { "url": "https://www.youtube.com/watch?v=zYvj_VL5jSE", "title": "林采欣 Bae Lin [ 北極熊 Polar Bear ]" },
+    { "url": "https://www.youtube.com/watch?v=c3pa9n9uxlc", "title": "冰雪家園｜北極熊的悲歌 #polarbear#globalwarming" },
+    { "url": "https://www.youtube.com/watch?v=iqjukBgLU0w", "title": "北極熊寶寶 polar bear cub｜劉道文" },
+    { "url": "https://www.youtube.com/watch?v=eDgSCqWC5Yk", "title": "〈那裡有隻北極熊〉單曲 黛安娜" },
+    { "url": "https://www.youtube.com/watch?v=LtZAP8XUlx8", "title": "超可愛的北極熊 Super cute polar bears" },
+    { "url": "https://www.youtube.com/watch?v=lEMX7YniSc4", "title": "Climate change. the starving polar bear. 飢餓的北極熊" },
+    { "url": "https://www.youtube.com/watch?v=1zRGzlWqce4", "title": "Polar Bears 101｜北極熊101 Nat Geo Wild" }
+  ]
+},
+{
+  "id": "p_jiufen",
+  "title_zh": "雨中九份",
+  "title_en": null,
+  "geo": "九份, Taiwan",
+  "geo_tags": ["Taiwan"],
+  "themes": [],
+  "epigraph_zh": null,
+  "epigraph_en": null,
+  "images": [
+    { "url": "images/p_jiufen/1-hero.jpeg", "caption_zh": null, "caption_en": null }
+  ],
+  "stanzas": [
+    { "zh": "山路蜿蜒，芒草搖曳\n九份山城細雨紛紛\n東北角海岸\n輪廓參差\n迷濛於雲霧煙嵐", "en": null },
+    { "zh": "豎崎路的階梯\n一級又一級\n望之似無盡頭\n街面曲窄\n彷彿走在歷史甬道\n鹿港深巷？台南古街？\n此刻\n如果有一支南管奏起\n縷縷切切\n拉回一段滄桑歲月", "en": null },
+    { "zh": "踏著石磚石板路\n茶樓店鋪櫛比鱗次\n仿若一脈細流沿岸風景\n街燈稀疏，傘影飄忽\n腳步伴著雨聲\n起起落落，滴滴答答\n\" 我達達的馬蹄聲是個錯誤\n我不是歸人，是個過客", "en": null },
+    { "zh": "偏遠、貧寂、繁華、沒落、復起\n這小小的山城\n畢竟負荷著\n怎樣的歷史悲情，人事滄桑\n怎樣的戀戀風塵，綿綿舊情\n旣要回首\n與鄉愁長相守\n又要期盼\n與時潮爭快慢\n有如", "en": null },
+    { "zh": "告別雨中的山城\n枯乾的基隆河，伴著\n快速的車道\n窗外雨水，滴滴答答\n遙望暮色中\n漸行漸近的台北\n不禁浮起問話連連\n何時，是歸人\n不是過客？", "en": null }
+  ],
+  "commentary_zh": "九份位於新北市瑞芳區，臨近金瓜石和雞籠山，是昔日的採金礦中心。環山面海，擁有多變的山海美景，是座小小的山城，保有純樸的舊日生活風貌。一般所謂九份老街是由基山街，輕便街和豎崎路三條老街縱橫組成。豎崎路是九份最早的街道，依山勢建築，全線由石頭砌成。鄭愁予的詩：「錯誤」「我打江南走過，那等在季節裡的容顏如蓮花般開落。東風不來，三月的柳絮不飛，你的心如小小的寂寞的城，恰若青石的街道向晚，跫音不響。」",
+  "commentary_en": null,
+  "yt": []
+},
+{
+  "id": "p_madrid",
+  "title_zh": "馬德里的黃昏",
+  "title_en": null,
+  "geo": "Madrid, Spain",
+  "geo_tags": ["Europe"],
+  "themes": [],
+  "epigraph_zh": "當時心境隨風去，如今拾來總是詩",
+  "epigraph_en": null,
+  "images": [
+    { "url": "images/p_madrid/1-hero.jpeg", "caption_zh": null, "caption_en": null }
+  ],
+  "stanzas": [
+    { "zh": "望見河岸的孤舟\n那麼清晰熟悉\n卻又陌生遙遠\n斜陽下\n你神色如斯沉寂\n掩映著\n纖柔和恬淡對比\n有如光影流動\n轉成風的私語\n以及色彩的奧秘", "en": null },
+    { "zh": "浮雲飄散\n繁花落地\n無非是渺茫迷離\n天涯是近\n咫尺是遠\n純然是無奈難解\n今日相見\n來日相期\n就是不知何時再遇", "en": null },
+    { "zh": "你如問我\n如今將如何\n我會無語\n只把今夕摺進往昔\n一起寫入\n隔街流來的暮色\n如一首旅人之歌\n在歲月的轉角\n侬依繚繞", "en": null }
+  ],
+  "commentary_zh": "馬德里位於西班牙中部，海拔670公尺，是歐洲地勢最高的首都。地處伊比利亞半島中心，南下可經直布羅陀海峽，與一水之隔的非洲大陸相通，北越比利牛斯山脉，直抵法國。",
+  "commentary_en": null,
+  "yt": []
+},
+{
+  "id": "p_shanlinxi",
+  "title_zh": "杉林溪的雲霧是一首歌",
+  "title_en": null,
+  "geo": "杉林溪, Taiwan",
+  "geo_tags": ["Taiwan"],
+  "themes": [],
+  "epigraph_zh": null,
+  "epigraph_en": null,
+  "images": [
+    { "url": "images/p_shanlinxi/1-hero.jpeg", "caption_zh": "衫林溪的雲霧是一首歌。台灣南投竹山鎮。", "caption_en": null },
+    { "url": "images/p_shanlinxi/2-teafields.jpeg", "caption_zh": "杉林溪高山茶園雲霧蒸騰。", "caption_en": null },
+    { "url": "images/p_shanlinxi/3-scotland.jpeg", "caption_zh": "蘇格蘭高地雲霧籠罩下的青翠山坡。", "caption_en": null },
+    { "url": "images/p_shanlinxi/4-yehliu.jpeg", "caption_zh": "野柳女王岩。台灣東北海岸線。", "caption_en": null },
+    { "url": "images/p_shanlinxi/5-lavender.jpeg", "caption_zh": "日本北海道富良野薰衣草。", "caption_en": null },
+    { "url": "images/p_shanlinxi/7-capesounion.jpeg", "caption_zh": "蘇尼翁海岬 (Cape Sounion)。", "caption_en": null },
+    { "url": "images/p_shanlinxi/8-poseidon-athena-painting.jpg", "caption_zh": "The Dispute of Minerva (Athena) and Neptune (Poseidon), Noël Hallé.", "caption_en": null }
+  ],
+  "stanzas": [
+    { "zh": "衫林溪的雲霧，讓我想起\n蘇格蘭高地起伏的青翠山坡\n岬角的波浪，讓我想起\n野柳雲天下孤立的女王岩\n女王的矜持，讓我想起\n長江巫峡懸崖峭壁的神女峯\n神女的傳說，讓我想起\n春秋戰國思潮齊放的百花\n百花的色澤，讓我想起\n日本北海道富良野的薰衣草\n風中的薰衣草，讓我想起\n法國普羅旺斯追憶的似水年華\n年華的流逝，讓我想起\n柯錫杰攝影捕捉的生命瞬間\n瞬間的美學，讓我想起\n「等待維納斯」的湛藍海域\n湛藍的神話，讓我想起\n愛琴海Cape Sounion的神廟\n神廟的石柱，讓我想起\nPoseidon和Athena的對峙\nAthena的許願，讓我想起\n三毛的校園民歌\" 橄欖樹\"\n衫林溪的雲霧\n是一首歌\n陪我遊走遠方\n他鄉", "en": null },
+    { "zh": "野柳女王岩。台灣東北海岸線。\n「潮起潮落／五千年的風姿／孤獨又寂寞／為眺望遠天的渺茫／召喚昔日的承諾／錯過了無數的春花秋月／美麗的夢／留下美麗的憂愁／歲月流逝／容顏岩化」", "en": null }
+  ],
+  "commentary_zh": "長江巫山的神女峰，又名望霞峰、仙女峰，堪稱巫山十二峰之最。一根巨石突兀於青峰雲霞之中，宛若一個亭亭玉立、美麗動人的少女，故名神女峰。\n\n杉林溪高山茶區海拔800公尺到1950公尺，年雨量2700公釐，和梨山、阿里山並列為台灣三大高山茶區。\n\n蘇格蘭高地峻嶺起伏，山谷翠綠綿延，湖水掩映，雨霧煙嵐時起時散，清淒幽微的民謠傳說迴蕩其中。\n\n《追憶似水年華》是法國作家馬塞爾·普魯斯特的作品，以其長度及意識流手法而著名。\n\n柯錫杰 (1929-2020) 以「心象攝影」膾炙國際藝壇的攝影大師，被譽為「臺灣現代攝影第一人」。其作品《等待維納斯》拍攝於希臘愛琴海，1979年。詩人鄭愁予當時看了這張照片，便言：「啊!愛琴海是維納斯出現的地方，你在等待維納斯啊!」\n\n蘇尼翁海岬 (Cape Sounion) 位於希臘雅典城南70公里，是希臘阿提卡半島最南端的一個三面環水的岬角。岬角最高峰有一座供奉海神波塞冬的神廟。希臘神話中，海神波塞頓和智慧女神雅典娜都想當雅典的守護神，眾神決定比賽，看誰送給人類的禮物更有價值。",
+  "commentary_en": null,
+  "yt": [
+    { "url": "https://www.youtube.com/watch?v=LZb8fJZFhlo", "title": "齊豫 Chyi Yu【橄欖樹】Official Lyric Video" },
+    { "url": "https://www.youtube.com/watch?v=JtBnjrlwhUU", "title": "橄欖樹 / Olive Tree - Cello cover 大提琴版本『cover by YoYo Cello』" },
+    { "url": "https://www.youtube.com/watch?v=PqLVmQIFiO4", "title": "為什麼說《橄欖樹》是一首神曲？" },
+    { "url": "https://www.youtube.com/watch?v=VhgSja7TgwA", "title": "胡德夫&那英《橄欖樹》" },
+    { "url": "https://www.youtube.com/watch?v=H8bobAwj_vM", "title": "【橄欖樹】外國女生翻唱～音色甜美空靈" },
+    { "url": "https://www.youtube.com/watch?v=GkA25XNNlOM", "title": "Chyi Yu - The Olive Tree, with Eng/Chinese subs" },
+    { "url": "https://www.youtube.com/watch?v=G5l6QVlD800", "title": "橄欖樹/Olive Tree/二胡：田宇" }
+  ]
+}
 ]
