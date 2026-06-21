@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -177,6 +178,18 @@ nav {
 .ai-label { font-size: 0.68rem; font-family: var(--sans); letter-spacing: 0.1em; color: var(--muted); text-transform: uppercase; margin-bottom: 0.5rem; display: block; }
 
 /* ─── YouTube links ─── */
+.poem-images { margin: 2rem 0; display: flex; flex-direction: column; gap: 1.5rem; }
+.poem-image-block { }
+.poem-image-block img {
+  display: block; width: 100%; max-width: 640px; height: auto;
+  border: var(--border);
+}
+.poem-image-caption {
+  margin-top: 0.5rem; font-family: var(--sans); font-size: 0.78rem;
+  line-height: 1.7; color: var(--muted);
+}
+.poem-image-caption-en { font-style: italic; margin-top: 0.15rem; }
+
 .yt-links { margin-top: 1rem; display: flex; flex-direction: column; gap: 0.4rem; }
 .yt-link {
   display: flex; align-items: center; gap: 0.5rem;
@@ -853,6 +866,19 @@ function renderYtLinks(yt) {
   return `<div class="yt-links">${links}</div>`;
 }
 
+function renderImages(images) {
+  if (!images || !images.length) return '';
+  const blocks = images.map(img => {
+    const captionZh = img.caption_zh ? `<div class="poem-image-caption">${escHtml(img.caption_zh)}</div>` : '';
+    const captionEn = img.caption_en ? `<div class="poem-image-caption poem-image-caption-en">${escHtml(img.caption_en)}</div>` : '';
+    return `<div class="poem-image-block">
+        <img src="${escHtml(img.url)}" alt="${escHtml(img.caption_zh || img.caption_en || '')}" loading="lazy">
+        ${captionZh}${captionEn}
+      </div>`;
+  }).join('');
+  return `<div class="poem-images">${blocks}</div>`;
+}
+
 // ─── Toggle functions ───
 function toggleEn(id) {
   const el = document.getElementById('en-' + id);
@@ -1105,6 +1131,7 @@ function renderPoem(poem) {
     </div>
 
     ${epigraphHtml}
+    ${renderImages(poem.images)}
 
     <div class="poem-body-zh" id="poem-zh-${pid}">${stanzasHtml}</div>
     <div class="poem-body-en" id="poem-en-${pid}">${stanzasEnHtml}</div>
