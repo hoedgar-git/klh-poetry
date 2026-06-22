@@ -1205,7 +1205,8 @@ function renderPoem(poem) {
   const container = document.getElementById('poem-content');
   const pid = poem.id;
   const hasEn = poem.stanzas.some(s => s.en);
-  const hasCommentary = poem.commentary_zh || poem.commentary_en;
+  const hasBlocks = poem.commentary_blocks && poem.commentary_blocks.length;
+  const hasCommentary = poem.commentary_zh || poem.commentary_en || hasBlocks;
 
   const stanzasHtml = poem.stanzas.map(s => {
     const zhLines = s.zh.split('\n').map(l => `<span class="poem-line">${escHtml(l)}</span>`).join('');
@@ -1227,17 +1228,37 @@ function renderPoem(poem) {
         ${poem.epigraph_en ? `<div class="poem-epigraph-en" style="display:none" id="epi-en-${pid}">${escHtml(poem.epigraph_en)}</div>` : ''}
        </div>` : '';
 
+  const renderBlockZh = (b, i) => b.type === 'image'
+    ? renderImages([{url: b.url, caption_zh: b.caption_zh, caption_en: b.caption_en}])
+    : (b.zh || '').split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('');
+
+  const renderBlockEn = (b, i) => {
+    if (b.type === 'image') {
+      return renderImages([{url: b.url, caption_zh: b.caption_zh, caption_en: b.caption_en}]);
+    }
+    if (b.en) {
+      return (b.en).split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('');
+    }
+    return `<p class="pending-block-trans" data-block-idx="${i}"></p>`;
+  };
+
   const commentaryHtml = hasCommentary
-    ? `<div class="poem-commentary" id="commentary-${pid}">
+    ? `<div class="poem-commentary" id="commentary-${pid}" ${hasBlocks ? `data-has-blocks="1"` : ''}>
         <div class="commentary-heading">注解 / Commentary</div>
         <div class="commentary-body" id="commentary-zh-${pid}">
-          ${poem.commentary_zh ? poem.commentary_zh.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('') : ''}
+          ${hasBlocks
+            ? poem.commentary_blocks.map((b,i) => renderBlockZh(b,i)).join('')
+            : (poem.commentary_zh ? poem.commentary_zh.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('') : '')}
         </div>
         <div class="commentary-body" id="commentary-en-${pid}" style="display:none; font-style:italic; color:var(--muted)">
-          ${poem.commentary_en
-            ? `<span class="trans-label poet">詩人譯文 · Poet's Translation</span>` +
-              poem.commentary_en.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('')
-            : ''}
+          ${hasBlocks
+            ? (poem.commentary_blocks.some(b => b.type === 'text')
+                ? `<span class="trans-label poet">詩人譯文 · Poet's Translation</span>` + poem.commentary_blocks.map((b,i) => renderBlockEn(b,i)).join('')
+                : '')
+            : (poem.commentary_en
+                ? `<span class="trans-label poet">詩人譯文 · Poet's Translation</span>` +
+                  poem.commentary_en.split('\n\n').map(p2 => `<p>${escHtml(p2).replace(/\n/g,'<br>')}</p>`).join('')
+                : '')}
         </div>
        </div>` : '';
 
@@ -1281,6 +1302,7 @@ function renderPoem(poem) {
 }
 
 async function togglePoemEn(pid) {
+  const poem = POEMS_DATA.find(p => p.id === pid);
   const enEl = document.getElementById('poem-en-' + pid);
   const btn = document.getElementById('btn-poem-en-' + pid);
   const epiEn = document.getElementById('epi-en-' + pid);
@@ -1303,12 +1325,18 @@ async function togglePoemEn(pid) {
 
   // Need to show: fetch translation(s) if empty
   const needsPoemFetch = !enEl.innerHTML.trim();
-  const needsCommentaryFetch = commentaryEn && !commentaryEn.innerHTML.trim();
+  const isBlockCommentary = commentaryEn && commentaryEn.closest('.poem-commentary')?.dataset.hasBlocks === '1';
+  const needsCommentaryFetch = commentaryEn && (isBlockCommentary
+    ? !!commentaryEn.querySelector('.pending-block-trans')
+    : !commentaryEn.innerHTML.trim());
   if (needsPoemFetch || needsCommentaryFetch) {
     btn.textContent = '翻譯中…';
     btn.disabled = true;
     if (needsPoemFetch) await fetchPoemTranslation(pid);
-    if (needsCommentaryFetch) await fetchCommentaryTranslation(pid);
+    if (needsCommentaryFetch) {
+      if (isBlockCommentary) await fetchCommentaryTranslationBlocks(pid);
+      else await fetchCommentaryTranslation(pid);
+    }
     btn.disabled = false;
   }
 
@@ -1459,6 +1487,56 @@ async function fetchCommentaryTranslation(pid) {
   // Cache result
   localStorage.setItem(cacheKey, JSON.stringify({ paragraphs: translated, isAI: true }));
   renderTranslatedCommentary(el, translated, true);
+}
+
+async function fetchCommentaryTranslationBlocks(pid) {
+  const poem = POEMS_DATA.find(p => p.id === pid);
+  const el = document.getElementById('commentary-en-' + pid);
+  if (!poem || !el || !poem.commentary_blocks) return;
+
+  const cacheKey = 'kl_ctrans_blocks_' + pid;
+  let cache = {};
+  try { cache = JSON.parse(localStorage.getItem(cacheKey) || '{}'); } catch(e) { cache = {}; }
+
+  const pending = Array.from(el.querySelectorAll('.pending-block-trans'));
+  for (const node of pending) {
+    const idx = node.dataset.blockIdx;
+    const block = poem.commentary_blocks[idx];
+    if (!block) continue;
+
+    if (cache[idx]) {
+      node.outerHTML = `<p>${cache[idx]}</p>`;
+      continue;
+    }
+
+    const chunks = splitToChunks(block.zh || '', 450);
+    const chunkResults = [];
+    let failed = false;
+    for (const chunk of chunks) {
+      try {
+        const res = await fetch(
+          `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=zh-TW|en`,
+          { signal: AbortSignal.timeout(8000) }
+        );
+        const json = await res.json();
+        if (json.responseStatus === 200) {
+          chunkResults.push(json.responseData.translatedText);
+        } else {
+          chunkResults.push('[translation unavailable]');
+          failed = true;
+        }
+      } catch(e) {
+        chunkResults.push('[translation unavailable]');
+        failed = true;
+      }
+      await new Promise(r => setTimeout(r, 120));
+    }
+    const text = chunkResults.join(' ');
+    if (!failed) cache[idx] = text;
+    node.outerHTML = `<p>${text}</p>`;
+  }
+
+  try { localStorage.setItem(cacheKey, JSON.stringify(cache)); } catch(e) {}
 }
 
 function renderTranslatedCommentary(el, paragraphs, isAI) {
