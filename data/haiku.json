@@ -3120,6 +3120,13 @@
         "notes": "《 送別 》詞：李叔同 曲：John Pond Ordway：長亭外，古道邊，芳草碧連天，晚風拂柳笛聲殘，夕陽山外山。",
         "yt": []
       }
+    ],
+    "images": [
+      {
+        "url": "images/h21/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -3360,6 +3367,13 @@
             "url": "https://www.youtube.com/watch?v=kaoqCARilbA"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h23/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -3834,6 +3848,13 @@
           }
         ]
       }
+    ],
+    "images": [
+      {
+        "url": "images/h27/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -3949,6 +3970,13 @@
         "en": null,
         "notes": "《 Love to You Taiwan 》詞曲：美國歌手Lobo：The beauty of your island is more than you can see, You stood up for what was right you had to be free.",
         "yt": []
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h28/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
