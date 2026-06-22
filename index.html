@@ -924,13 +924,24 @@ function renderYtLinks(yt) {
   return `<div class="yt-links">${links}</div>`;
 }
 
+// Image URLs in the data are stored relative to the site root (e.g.
+// "images/h2/cover.jpeg"). Deep-link routes like /poem/<id> or /haiku/<num>
+// change window.location.pathname, which makes plain relative <img src>
+// values resolve against the wrong base (e.g. /poem/images/...). Always
+// force these to resolve from the root.
+function absImageUrl(url) {
+  if (!url) return url;
+  if (/^([a-z]+:)?\/\//i.test(url) || url.startsWith('/')) return url;
+  return '/' + url;
+}
+
 function renderImages(images) {
   if (!images || !images.length) return '';
   const blocks = images.map(img => {
     const captionZh = img.caption_zh ? `<div class="poem-image-caption">${escHtml(img.caption_zh)}</div>` : '';
     const captionEn = img.caption_en ? `<div class="poem-image-caption poem-image-caption-en">${escHtml(img.caption_en)}</div>` : '';
     return `<div class="poem-image-block">
-        <img src="${escHtml(img.url)}" alt="${escHtml(img.caption_zh || img.caption_en || '')}">
+        <img src="${escHtml(absImageUrl(img.url))}" alt="${escHtml(img.caption_zh || img.caption_en || '')}">
         ${captionZh}${captionEn}
       </div>`;
   }).join('');
