@@ -697,6 +697,13 @@
         "notes": "唐。杜甫。《望岳》會當凌絕頂，一覽衆山小。",
         "yt": []
       }
+    ],
+    "images": [
+      {
+        "url": "images/h1/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -1549,7 +1556,21 @@
         ],
         "en": null,
         "notes": "詞：葉俊麟 曲：洪一峰《淡水暮色》：淡水黃昏帶詩意，夜霧罩四邊，教堂鐘聲心空虛，響對海面去。\n\n陳澄波（1895-1947）台灣嘉義人，畫家。1947年二二八事件期間，被國民政府軍隊槍殺於嘉義火車站前。其《淡水夕照》2007年以2.15億新台幣拍出，創台灣畫家油畫最高價。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h8/80-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h8/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -2934,7 +2955,21 @@
         ],
         "en": null,
         "notes": "宋。秦觀《 踏莎行，郴州旅舍 》霧失樓台，月迷津渡，桃源望斷無覓處。\n\n《 魯冰花 》詞：姚謙 曲：陳揚：當手中握住繁華，心情卻變得荒蕪，不變的只有那首歌，在心中來回的唱。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h19/190-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h19/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -3296,7 +3331,21 @@
         ],
         "en": null,
         "notes": "莫內《日出·印象》1872年，描繪晨霧籠罩中的日出港口，是印象畫派經典之作。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h22/220-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h22/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -3544,7 +3593,21 @@
         ],
         "en": null,
         "notes": "詞曲：葉佳修《 外婆的澎湖灣 》晚風輕拂着澎湖灣，白浪逐沙灘，坐在門前的矮牆上，也是黄昏的沙灘上，有着脚印两對半。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h24/240-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h24/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -3827,7 +3890,21 @@
         ],
         "en": null,
         "notes": "席慕蓉《 一棵開花的樹 》如何讓你遇見我，在我最美麗的時刻，佛於是把我化作一棵樹，長在你必經的路旁，陽光下慎重地開滿了花，朵朵都是我前世的盼望。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h26/260-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h26/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -4198,7 +4275,21 @@
         ],
         "en": null,
         "notes": "林懷民雲門舞集《 池上松煙 》，在台東池上175公頃稻浪中演出，白色女舞者與黑色男舞者彷彿在宣紙中起舞。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h29/290-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h29/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -4259,7 +4350,14 @@
         ],
         "en": null,
         "notes": "史蒂芬.賈伯斯(1955-2011)，蘋果公司董事長，Macintosh、iPod、iPhone、iPad締造者。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h30/295-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 296,
@@ -4315,6 +4413,13 @@
         "en": null,
         "notes": "宋。秦觀《 踏莎行 》霧失樓台，月迷津渡，桃源望斷無尋處。",
         "yt": []
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h30/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -6146,7 +6251,19 @@
         ],
         "en": null,
         "notes": "「沉思者」（The Thinker），奧古斯特·羅丹 （ August Rodin, 1840-1917 ）的銅雕作品。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h43/424-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h43/424-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 425,
@@ -6168,7 +6285,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h43/426-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h43/426-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 427,
@@ -6231,6 +6360,13 @@
           }
         ]
       }
+    ],
+    "images": [
+      {
+        "url": "images/h43/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -6279,7 +6415,14 @@
         ],
         "en": null,
         "notes": "公元前550年，居魯士帶領波斯人攻克米底，正式建立波斯帝國。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h44/434-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 435,
@@ -6312,7 +6455,19 @@
         ],
         "en": null,
         "notes": "唐朝詩人王維《 使至塞上 》詩中名句: 「大漠孤煙直，長河落日圓。」",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h44/437-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h44/437-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 438,
@@ -6367,6 +6522,13 @@
             "url": "https://www.youtube.com/watch?v=TwE0_UwnuNc"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h44/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -6427,7 +6589,24 @@
         ],
         "en": null,
         "notes": "康丁斯基 (Wassily Kandinsky, 1866-1944) 出生於俄國莫斯科，被譽為抽象表現藝術之父。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h45/445-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h45/445-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h45/445-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 446,
@@ -6449,7 +6628,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h45/447-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 448,
@@ -6482,7 +6668,41 @@
         ],
         "en": null,
         "notes": "作詞：羅大佑 /李壽全 /張大春 /張艾嘉 /詹宏志 作曲：羅大佑 《 明天會更好 》",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h45/450-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h45/450-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h45/450-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h45/450-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h45/450-5.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h45/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -6532,7 +6752,14 @@
         ],
         "en": null,
         "notes": "Varanasi (瓦拉納西) 位於恆河岸邊，是印度敎徒的聖地。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h46/454-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 455,
@@ -6565,7 +6792,19 @@
         ],
         "en": null,
         "notes": "大稻埕，是臺北市大同區西南部的一個傳統地域名稱，因具有大片曬稻穀的空地而得名。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h46/457-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h46/457-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 458,
@@ -6615,7 +6854,21 @@
             "title": "https://www.youtube.com/watch?v=gDgj2_W1LfQ",
             "url": "https://www.youtube.com/watch?v=gDgj2_W1LfQ"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h46/460-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h46/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -6665,7 +6918,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h47/464-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h47/464-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 465,
@@ -6709,7 +6974,19 @@
         ],
         "en": null,
         "notes": "古斯塔夫．克林姆 ( Gustav Klimt ) 1862年出生於維也納，是奧地利知名象徵主義畫家。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h47/468-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h47/468-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 469,
@@ -6753,6 +7030,13 @@
             "url": "https://www.youtube.com/watch?v=G5KC15E_s3E"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h47/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -6802,7 +7086,24 @@
         ],
         "en": null,
         "notes": "詹姆斯·庫克（James Cook，1728年－1779年），人稱庫克船長，英國皇家海軍軍官、航海家、探險家。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h48/474-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h48/474-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h48/474-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 475,
@@ -6824,7 +7125,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h48/476-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 477,
@@ -6886,6 +7194,13 @@
             "url": "https://www.youtube.com/watch?v=yWOMiBOcNYk"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h48/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -6968,7 +7283,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h49/487-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h49/487-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h49/487-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 488,
@@ -6979,7 +7311,24 @@
         ],
         "en": null,
         "notes": "董陽孜（1942年10月6日－）台灣書法藝術家，1942年出生上海、十歲來台。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h49/488-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h49/488-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h49/488-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 489,
@@ -7018,7 +7367,26 @@
             "title": "https://www.youtube.com/watch?v=rshvlNIN8hs",
             "url": "https://www.youtube.com/watch?v=rshvlNIN8hs"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h49/490-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h49/490-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h49/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -7057,7 +7425,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h50/493-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h50/493-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 494,
@@ -7079,7 +7459,24 @@
         ],
         "en": null,
         "notes": "皮特·蒙德里安（Piet Mondrian，1872－1944），荷蘭畫家，抽象風格派核心的人物。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h50/495-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h50/495-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h50/495-3.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 496,
@@ -7101,7 +7498,14 @@
         ],
         "en": null,
         "notes": "《 誰來落款 》飛越 Okavango 內陸三角洲，Botswana，Africa 何康隆",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h50/497-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 498,
@@ -7156,6 +7560,13 @@
             "url": "https://www.youtube.com/watch?v=rcLl0A-lXIc"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h50/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
