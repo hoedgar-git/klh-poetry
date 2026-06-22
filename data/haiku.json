@@ -20797,7 +20797,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h117/1164-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h117/1164-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1165,
@@ -20819,7 +20831,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h117/1166-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h117/1166-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1167,
@@ -20830,7 +20854,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h117/1167-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1168,
@@ -20852,7 +20883,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h117/1169-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1170,
@@ -20900,7 +20938,21 @@
             "title": "https://www.youtube.com/watch?v=jmg6eymextU",
             "url": "https://www.youtube.com/watch?v=jmg6eymextU"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h117/1170-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h117/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -20961,7 +21013,34 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h118/1175-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h118/1175-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h118/1175-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h118/1175-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h118/1175-5.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1176,
@@ -20994,7 +21073,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h118/1178-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1179,
@@ -21049,7 +21135,21 @@
             "title": "https://www.youtube.com/watch?v=s7q_cSre6Gc",
             "url": "https://www.youtube.com/watch?v=s7q_cSre6Gc"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h118/1180-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h118/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -21121,7 +21221,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h119/1186-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h119/1186-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1187,
@@ -21143,7 +21255,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h119/1188-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1189,
@@ -21198,7 +21317,21 @@
             "title": "https://www.youtube.com/watch?v=TFLz2C7Le-c",
             "url": "https://www.youtube.com/watch?v=TFLz2C7Le-c"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h119/1190-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h119/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -21248,7 +21381,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h120/1194-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1195,
@@ -21270,7 +21410,29 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h120/1196-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h120/1196-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h120/1196-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h120/1196-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1197,
@@ -21339,7 +21501,31 @@
             "title": "https://www.youtube.com/watch?v=bQiPAGvA1KA",
             "url": "https://www.youtube.com/watch?v=bQiPAGvA1KA"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h120/1200-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h120/1200-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h120/1200-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h120/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -21378,7 +21564,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h121/1203-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1204,
@@ -21389,7 +21582,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h121/1204-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h121/1204-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1205,
@@ -21411,7 +21616,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h121/1206-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1207,
@@ -21444,7 +21656,14 @@
         ],
         "en": null,
         "notes": "\" 不見方三日，世上滿櫻花。\" --- 大島蓼太\n\n李白--《將進酒》\n\n君不見高堂明鏡悲白髮，朝如青絲暮成雪。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h121/1209-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1210,
@@ -21488,7 +21707,26 @@
             "title": "https://www.youtube.com/watch?v=-1HC1Xw_9no",
             "url": "https://www.youtube.com/watch?v=-1HC1Xw_9no"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h121/1210-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h121/1210-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h121/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -21538,7 +21776,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h122/1214-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h122/1214-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1215,
@@ -21582,7 +21832,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h122/1218-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h122/1218-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1219,
@@ -21653,7 +21915,21 @@
             "title": "https://www.youtube.com/watch?v=fYjW8T-GmMQ",
             "url": "https://www.youtube.com/watch?v=fYjW8T-GmMQ"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h122/1220-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h122/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -21692,7 +21968,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h123/1223-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1224,
@@ -21714,7 +21997,29 @@
         ],
         "en": null,
         "notes": "阿朗壹古道原為清代琅嶠卑南道的其中一段，是台灣現存最古老而且保存完整的古道。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h123/1225-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h123/1225-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h123/1225-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h123/1225-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1226,
@@ -21758,7 +22063,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h123/1229-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1230,
@@ -21791,6 +22103,13 @@
             "url": "https://www.youtube.com/watch?v=qivhrHCKbFU"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h123/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -21840,7 +22159,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h124/1234-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1235,
@@ -21851,7 +22177,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h124/1235-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1236,
@@ -21884,7 +22217,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h124/1238-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h124/1238-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h124/1238-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1239,
@@ -21932,6 +22282,13 @@
             "url": "https://www.youtube.com/watch?v=45fxCIRQ1ls"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h124/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -21981,7 +22338,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h125/1244-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h125/1244-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1245,
@@ -21992,7 +22361,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h125/1245-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h125/1245-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1246,
@@ -22003,7 +22384,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h125/1246-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1247,
@@ -22076,7 +22464,21 @@
             "title": "https://www.youtube.com/watch?v=sF7XXfaBPO4",
             "url": "https://www.youtube.com/watch?v=sF7XXfaBPO4"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h125/1250-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h125/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22126,7 +22528,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h126/1254-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1255,
@@ -22159,7 +22568,29 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h126/1257-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h126/1257-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h126/1257-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h126/1257-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1258,
@@ -22225,7 +22656,26 @@
             "title": "https://www.youtube.com/watch?v=UfGplI-TMN4",
             "url": "https://www.youtube.com/watch?v=UfGplI-TMN4"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h126/1260-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h126/1260-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h126/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22264,7 +22714,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h127/1263-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1264,
@@ -22297,7 +22754,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h127/1266-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h127/1266-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1267,
@@ -22378,7 +22847,21 @@
             "title": "https://www.youtube.com/watch?v=GeNIpOsmEwA",
             "url": "https://www.youtube.com/watch?v=GeNIpOsmEwA"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h127/1270-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h127/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22565,7 +23048,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h129/1283-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1284,
@@ -22620,7 +23110,14 @@
         ],
         "en": null,
         "notes": "日式花藝（又稱花道、華道）最早來源於中國隋唐的佛堂供花，傳到日本後，根據樣式、技法的不同派生出各種流派。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h129/1288-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1289,
@@ -22631,7 +23128,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h129/1289-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h129/1289-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1290,
@@ -22663,7 +23172,26 @@
             "title": "https://www.youtube.com/watch?v=1F_iT12VM7w",
             "url": "https://www.youtube.com/watch?v=1F_iT12VM7w"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h129/1290-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h129/1290-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h129/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22702,7 +23230,14 @@
         ],
         "en": null,
         "notes": "Photography can be a medium of how to view this world and\n\nlive our lives in the simple pursuit of beauty.",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h130/1293-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1294,
@@ -22713,7 +23248,14 @@
         ],
         "en": null,
         "notes": "這句拉丁諺語常被認為是迦太基名將漢尼拔說的。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h130/1294-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1295,
@@ -22735,7 +23277,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h130/1296-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h130/1296-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1297,
@@ -22746,7 +23300,14 @@
         ],
         "en": null,
         "notes": "卡夫卡（Franz Kafka，1883—1924），德語小說和短篇故事作家，被評論家們譽為20世紀最具影響力的作家之一。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h130/1297-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1298,
@@ -22768,7 +23329,14 @@
         ],
         "en": null,
         "notes": "平行宇宙論（Parallel universe; Multiverse），指的是一種在物理學裡尚未證實的假說。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h130/1299-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1300,
@@ -22804,7 +23372,21 @@
             "title": "https://www.youtube.com/watch?v=rCIXjYo9qs4",
             "url": "https://www.youtube.com/watch?v=rCIXjYo9qs4"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h130/1300-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h130/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22843,7 +23425,19 @@
         ],
         "en": null,
         "notes": "唐 。李商隱《宿駱氏亭寄懷崔雍崔袞》\n\n竹塢無塵水檻清，相思迢遞隔重城。\n\n秋陰不散霜飛晚，留得枯荷聽雨聲。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h131/1303-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h131/1303-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1304,
@@ -22865,7 +23459,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h131/1305-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1306,
@@ -22887,7 +23488,14 @@
         ],
         "en": null,
         "notes": "梭羅（Henry David Thoreau）十九世紀美國傑出的作家和哲學家，1845年，二十八歲的梭羅獨自一人來到距麻州康科特兩英里的瓦爾登湖畔，築屋種地，離群索居二年多。1854年出版了他的《湖濱散記》。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h131/1307-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1308,
@@ -22898,7 +23506,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h131/1308-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1309,
@@ -22949,7 +23564,26 @@
             "title": "https://www.youtube.com/watch?v=bq-EErHGPYU",
             "url": "https://www.youtube.com/watch?v=bq-EErHGPYU"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h131/1310-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h131/1310-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h131/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22977,7 +23611,14 @@
         ],
         "en": null,
         "notes": "Google AI \" Gemini \" 對這首俳句的解讀:\n\n清晨，代表著新的一天開始，充滿希望與可能性。黃色校車象徵著成長、學習與未來的旅程。駛入漸起的薄霧，暗示著未知的未來，充滿了神秘與挑戰。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h132/1312-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1313,
@@ -22999,7 +23640,14 @@
         ],
         "en": null,
         "notes": "｢滾石不生苔」( a rolling stone gathers no moss)",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h132/1314-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1315,
@@ -23021,7 +23669,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h132/1316-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1317,
@@ -23032,7 +23687,14 @@
         ],
         "en": null,
         "notes": "「昔者莊周夢為胡蝶，栩栩然胡蝶也。」 莊子 --《齊物論》",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h132/1317-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1318,
@@ -23043,7 +23705,14 @@
         ],
         "en": null,
         "notes": "韓江（1970 ~），韓國作家，2024諾貝爾文學獎得主。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h132/1318-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1319,
@@ -23094,7 +23763,21 @@
             "title": "https://www.youtube.com/watch?v=Us06jCbVgOA",
             "url": "https://www.youtube.com/watch?v=Us06jCbVgOA"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h132/1320-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h132/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
