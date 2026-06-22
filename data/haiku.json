@@ -22243,7 +22243,14 @@
         ],
         "en": null,
         "notes": "長亭外古道邊，夕陽山外山 李叔同（弘一法師）《送別》",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h150/1492-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1493,
@@ -22254,7 +22261,19 @@
         ],
         "en": null,
         "notes": "日本枯山水庭院（karesansui）源自日本的禪宗縮微園林。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h150/1493-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h150/1493-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1494,
@@ -22287,7 +22306,24 @@
         ],
         "en": null,
         "notes": "Piet Mondrian - Composition in Red, Blue, and Yellow. 1930.",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h150/1496-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h150/1496-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h150/1496-3.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1497,
@@ -22298,7 +22334,14 @@
         ],
         "en": null,
         "notes": "《赤嵌樓》為1653年進佔台灣南部的荷蘭人所建。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h150/1497-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1498,
@@ -22364,7 +22407,26 @@
             "title": "Spring Waltz (Mariage d'Amour)",
             "url": "https://www.youtube.com/watch?v=zrX_pYsQEp8&list=RDzrX_pYsQEp8&start_radio=1"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h150/1500-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h150/1500-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h150/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22392,7 +22454,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h151/1502-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1503,
@@ -22414,7 +22483,14 @@
         ],
         "en": null,
         "notes": "非州草原的黃昏。Sossusvlei, Namibia.",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h151/1504-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1505,
@@ -22425,7 +22501,24 @@
         ],
         "en": null,
         "notes": "星巴克的Logo是海妖塞壬（Siren），最早出處來源於希臘神話《奧德賽》。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h151/1505-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h151/1505-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h151/1505-3.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1506,
@@ -22436,7 +22529,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h151/1506-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1507,
@@ -22469,7 +22569,14 @@
         ],
         "en": null,
         "notes": "《愛麗絲夢遊仙境》（Alice's Adventures in Wonderland），路易斯·卡羅，1865年。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h151/1509-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1510,
@@ -22513,7 +22620,26 @@
             "title": "平和國小唱進東京國際舞台",
             "url": "https://www.youtube.com/watch?v=1D1fH9la5DY"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h151/1510-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h151/1510-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h151/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22541,7 +22667,14 @@
         ],
         "en": null,
         "notes": "花非花，霧非霧。夜半來，天明去。 --唐。白居易《花非花》",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h152/1512-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1513,
@@ -22563,7 +22696,14 @@
         ],
         "en": null,
         "notes": "屏東縣佳冬鄉舊稱「茄苳腳」，日治時期1920年更名為「佳冬」。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h152/1514-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1515,
@@ -22607,7 +22747,19 @@
         ],
         "en": null,
         "notes": "草月流，日本現代花道流派，1927年勅使河原蒼風創立。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h152/1518-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h152/1518-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1519,
@@ -22630,6 +22782,13 @@
         "en": null,
         "notes": "「莊周夢蝶」是戰國時期道家思想家莊子提出的著名哲學寓言。",
         "yt": []
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h152/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -22690,7 +22849,19 @@
         ],
         "en": null,
         "notes": "阿里山高山茶區位於海拔約1000至1600公尺的溫帶林。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h153/1525-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h153/1525-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1527,
@@ -22712,7 +22883,19 @@
         ],
         "en": null,
         "notes": "「星空，非常希臘」 --余光中《重上大度山》",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h153/1526-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h153/1526-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1528,
@@ -22746,6 +22929,13 @@
         "en": null,
         "notes": "《芬蘭頌》（Finlandia）是芬蘭作曲家尚・西貝流士於1899年創作的交響詩。\n\n《歡樂頌》(Ode to Joy) 是貝多芬《第九號交響曲》第四樂章，完成於1824年。\n\n宋 。陳與義《臨江仙》：杏花疏影裏，吹笛到天明。",
         "yt": []
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h153/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -23422,7 +23612,21 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h188/40-1.png",
+            "caption_zh": "(picture source: City of Philadelphia, phila.gov)",
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h188/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -23603,7 +23807,21 @@
             "title": "https://www.youtube.com/watch?v=GQ2fGCxQv2Q",
             "url": "https://www.youtube.com/watch?v=GQ2fGCxQv2Q"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h189/14-1.jpeg",
+            "caption_zh": "富山松川溪櫻花（攝影/何康隆）",
+            "caption_en": "Sakura along the Songchuan River, Fushan (photo by Khang-Loon Ho)"
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h189/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
