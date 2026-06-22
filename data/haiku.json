@@ -17782,7 +17782,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h101/1005-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h101/1005-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h101/1005-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1006,
@@ -17804,7 +17821,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h101/1007-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h101/1007-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1008,
@@ -17815,7 +17844,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h101/1008-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1009,
@@ -17863,6 +17899,13 @@
             "url": "https://www.youtube.com/watch?v=tZ46Gakkm5Q"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h101/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -17912,7 +17955,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h102/1014-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h102/1014-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h102/1014-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1015,
@@ -17923,7 +17983,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h102/1015-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h102/1015-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h102/1015-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1016,
@@ -18011,7 +18088,21 @@
             "title": "https://www.youtube.com/watch?v=zHHB4xh-Mvo",
             "url": "https://www.youtube.com/watch?v=zHHB4xh-Mvo"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h102/1020-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h102/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -18072,7 +18163,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h103/1025-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1026,
@@ -18083,7 +18181,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h103/1026-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1027,
@@ -18105,7 +18210,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h103/1028-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1029,
@@ -18162,6 +18274,13 @@
           }
         ]
       }
+    ],
+    "images": [
+      {
+        "url": "images/h103/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -18199,7 +18318,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h104/1033-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1034,
@@ -18243,7 +18369,14 @@
         ],
         "en": null,
         "notes": "唐。李商隱《登樂遊原》\n\n向晚意不適，驅車登古原。\n\n夕陽無限好，只是近黃昏。\n\n唐 。劉禹鍚《酬樂天咏志見示》\n\n「 莫道桑榆晚，為霞尚滿天。」",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h104/1037-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1038,
@@ -18297,7 +18430,26 @@
             "title": "https://www.youtube.com/watch?v=dS4nhvtnA3I",
             "url": "https://www.youtube.com/watch?v=dS4nhvtnA3I"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h104/1040-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h104/1040-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h104/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -18358,7 +18510,14 @@
         ],
         "en": null,
         "notes": "唐 。劉禹錫《陋室銘》\n\n山不在高，有仙則名。水不在深，有龍則靈。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h105/1045-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1046,
@@ -18380,7 +18539,29 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h105/1047-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h105/1047-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h105/1047-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h105/1047-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1048,
@@ -18402,7 +18583,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h105/1049-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1050,
@@ -18444,6 +18632,13 @@
           }
         ]
       }
+    ],
+    "images": [
+      {
+        "url": "images/h105/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -18470,7 +18665,14 @@
         ],
         "en": null,
         "notes": "《The Road Not Taken》 by Robert Frost\n\nI took the one less traveled by,\n\nAnd that has made all the difference.",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h106/1052-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1053,
@@ -18481,7 +18683,19 @@
         ],
         "en": null,
         "notes": "梅花鹿與台灣原住民和台灣歷史有密不可分的關連。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h106/1053-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h106/1053-2.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1054,
@@ -18518,6 +18732,13 @@
           {
             "title": "https://www.youtube.com/watch?v=bcPCKnMHG68",
             "url": "https://www.youtube.com/watch?v=bcPCKnMHG68"
+          }
+        ],
+        "images": [
+          {
+            "url": "images/h106/1056-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
           }
         ]
       },
@@ -18596,7 +18817,36 @@
             "title": "https://www.youtube.com/watch?v=wnvzwAPqniU",
             "url": "https://www.youtube.com/watch?v=wnvzwAPqniU"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h106/1060-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h106/1060-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h106/1060-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h106/1060-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h106/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -18646,7 +18896,14 @@
         ],
         "en": null,
         "notes": "The biggest lesson from Einstein's general theory of relativity is that space itself isn't a flat, unchanging, absolute entity.",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h107/1064-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1065,
@@ -18679,7 +18936,14 @@
         ],
         "en": null,
         "notes": "宋 。辛棄疾《醜奴兒·書博山道中壁》\n\n少年不識愁滋味，愛上層樓。愛上層樓，為賦新詞強說愁。\n\n而今識盡愁滋味，欲說還休。欲說還休，卻道天涼好個秋。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h107/1067-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1068,
@@ -18690,7 +18954,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h107/1068-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h107/1068-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1069,
@@ -18712,7 +18988,36 @@
         ],
         "en": null,
         "notes": "台灣，在古代的名稱，有稱之為「夷洲」，有稱之為「流求」等。\n\nLinks for :《 Ilha Formosa, 臺灣》相關歌曲\n\n《美麗島》<https://www.youtube.com/watch?v=sX9oJLA2eq0>\n\n《臺灣》<https://www.youtube.com/watch?v=VpWuJkBVoR4>\n\n《福爾摩沙頌》<https://www.youtube.com/watch?v=sitK2Eym_Tk>\n\n《嘸通嫌臺灣》<https://www.youtube.com/watch?v=ExGlzH3QpYs>\n\n《天佑臺灣》<https://www.youtube.com/watch?v=PE6v5PTz-Zs>\n\n《臺灣翠青》<https://www.youtube.com/watch?v=GWxS1FQk93k>\n\n《來自福爾摩沙的天使》<https://www.youtube.com/watch?v=ja55xnZyZoc>",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h107/1070-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h107/1070-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h107/1070-3.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h107/1070-4.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h107/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -18751,7 +19056,19 @@
         ],
         "en": null,
         "notes": "查理大橋是歐洲最古老最長的橋，建於1357年，橫跨布拉格的伏爾塔瓦河。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h108/1073-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h108/1073-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1074,
@@ -18773,7 +19090,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h108/1075-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1076,
@@ -18795,7 +19119,19 @@
         ],
         "en": null,
         "notes": "米羅 ( Joan Miro 1893–1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h108/1077-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h108/1077-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1078,
@@ -18817,7 +19153,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h108/1079-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h108/1079-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h108/1079-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1080,
@@ -18871,6 +19224,13 @@
           }
         ]
       }
+    ],
+    "images": [
+      {
+        "url": "images/h108/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -18908,7 +19268,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h109/1083-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1084,
@@ -18930,7 +19297,14 @@
         ],
         "en": null,
         "notes": "上述臺南一帶地名，源自西拉雅族，洪雅族等平埔族語。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h109/1085-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1086,
@@ -18952,7 +19326,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h109/1087-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1088,
@@ -19020,6 +19401,13 @@
           }
         ]
       }
+    ],
+    "images": [
+      {
+        "url": "images/h109/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -19057,7 +19445,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h110/1093-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h110/1093-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1094,
@@ -19090,7 +19490,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h110/1096-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1097,
@@ -19123,7 +19530,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h110/1099-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1100,
@@ -19164,6 +19578,13 @@
             "url": "https://www.youtube.com/watch?v=V9nY-T2Igm0"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h110/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -19213,7 +19634,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h111/1104-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h111/1104-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1105,
@@ -19246,7 +19679,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h111/1107-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1108,
@@ -19312,7 +19752,31 @@
             "title": "https://www.youtube.com/watch?v=2rq5hctXUt0&list=PL2QqKNSv2fD0OPBPmkj28l2ndKRu1Quam",
             "url": "https://www.youtube.com/watch?v=2rq5hctXUt0&list=PL2QqKNSv2fD0OPBPmkj28l2ndKRu1Quam"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h111/1110-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h111/1110-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h111/1110-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h111/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -19373,7 +19837,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h112/1115-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1116,
@@ -19406,7 +19877,29 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h112/1118-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h112/1118-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h112/1118-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h112/1118-4.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1119,
@@ -19457,7 +19950,21 @@
             "title": "https://www.youtube.com/watch?v=7_4nUXGz3gc",
             "url": "https://www.youtube.com/watch?v=7_4nUXGz3gc"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h112/1120-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h112/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -19496,7 +20003,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h113/1123-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1124,
@@ -19507,7 +20021,14 @@
         ],
         "en": null,
         "notes": "\"A Rolling Stone Gathers No Moss\" meaning:\n\na person who is constantly moving and never lives in one place for a long time cannot gain knowledge or wealth.",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h113/1124-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1125,
@@ -19551,7 +20072,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h113/1128-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1129,
@@ -19562,7 +20090,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h113/1129-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h113/1129-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h113/1129-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1130,
@@ -19599,6 +20144,13 @@
             "url": "https://www.youtube.com/watch?v=Zl-jI6cBcrk"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h113/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -19648,7 +20200,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h114/1134-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1135,
@@ -19670,7 +20229,24 @@
         ],
         "en": null,
         "notes": "安妮（Anne Frank）與家人為逃避德國納粹的追捕，於1942年，她剛滿十三歲時，全家避居荷蘭阿姆斯特丹一幢大樓的密室。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h114/1136-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h114/1136-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h114/1136-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1137,
@@ -19681,7 +20257,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h114/1137-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1138,
@@ -19703,7 +20286,19 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h114/1139-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h114/1139-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1140,
@@ -19751,7 +20346,26 @@
             "title": "https://www.youtube.com/watch?v=VedWrGVf6r4",
             "url": "https://www.youtube.com/watch?v=VedWrGVf6r4"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h114/1140-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h114/1140-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h114/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -19801,7 +20415,14 @@
         ],
         "en": null,
         "notes": "光害，或稱光污染（light pollution），是人類過度使用照明系統而產生的問題。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h115/1144-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1145,
@@ -19834,7 +20455,24 @@
         ],
         "en": null,
         "notes": "從茶道、和服、書法、三味線、俳句等，日本擁有許多獨具日式之美的傳統文化，其中花道更是廣受世界喜愛的代表之一。\n\n池坊是日本傳統花藝最早發展的的花道流派。\n\n小原流是日本明治末年由小原雲心（1861-1916）創立。\n\n草月流是日本戰後興起的新流派。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h115/1147-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h115/1147-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h115/1147-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1148,
@@ -19910,6 +20548,13 @@
           }
         ]
       }
+    ],
+    "images": [
+      {
+        "url": "images/h115/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
     ]
   },
   {
@@ -19958,7 +20603,14 @@
         ],
         "en": null,
         "notes": "舊約聖經 : 詩篇23篇\n\n耶和華是我的牧者，我必不致缺乏。\n\n他使我躺臥在青草地上，領我在可安歇的水邊。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h116/1154-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1155,
@@ -19991,7 +20643,24 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h116/1157-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h116/1157-2.png",
+            "caption_zh": null,
+            "caption_en": null
+          },
+          {
+            "url": "images/h116/1157-3.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1158,
@@ -20002,7 +20671,14 @@
         ],
         "en": null,
         "notes": "昔者莊周夢為胡蝶，栩栩然胡蝶也。 --- 《莊子．齊物論》",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h116/1158-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1159,
@@ -20013,7 +20689,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h116/1159-1.png",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 1160,
@@ -20058,6 +20741,13 @@
             "url": "https://www.youtube.com/watch?v=p-T6aaRV9HY"
           }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h116/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
