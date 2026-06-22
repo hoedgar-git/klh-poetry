@@ -1784,8 +1784,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   // Load data from JSON files
   try {
     const [haikuRes, poemsRes] = await Promise.all([
-      fetch('data/haiku.json'),
-      fetch('data/poems.json')
+      fetch('/data/haiku.json'),
+      fetch('/data/poems.json')
     ]);
     HAIKU_SERIES = await haikuRes.json();
     POEMS_DATA = await poemsRes.json();
