@@ -523,8 +523,63 @@
           "With drifting petals and wandering rain, once",
           "At a turning of fate, you were there"
         ],
-        "notes": null,
-        "yt": []
+        "notes": "往日時光 (songs of bygone moment)",
+        "yt": [
+          {
+            "url": "https://www.youtube.com/watch?v=9bxWEiCFaes&list=RD9bxWEiCFaes&start_radio=1",
+            "title": "閃亮的日子"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=CVC3MZpQnmk&list=RDCVC3MZpQnmk&start_radio=1",
+            "title": "The Way We Were"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=v1Qq8bNao94&list=RD9bxWEiCFaes&index=3",
+            "title": "光陰的故事"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=AgAWXdG_ck0&list=RDAgAWXdG_ck0&start_radio=1",
+            "title": "陪我看日出"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=fNQhEPwdz_A&list=RDfNQhEPwdz_A&start_radio=1",
+            "title": "Always Remember Us This Way"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=qXN4xjlpWxw&list=RDqXN4xjlpWxw&start_radio=1",
+            "title": "被遺忘的時光"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=ELNH7_3Oy44&list=RDELNH7_3Oy44&start_radio=1",
+            "title": "三百六十五里路"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=ULNVj_2JMbo&list=RDULNVj_2JMbo&start_radio=1",
+            "title": "Auld Lang Syne"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=I3o0KjjnW24&list=RDI3o0KjjnW24&start_radio=1",
+            "title": "友誼地久天長  Auld Lang Syne"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=gw6vB_hUPKE&t=1s",
+            "title": "Massenet \"Thais\" Meditation"
+          }
+        ],
+        "images": [
+          {
+            "url": "images/h0/32-1.jpeg",
+            "caption_zh": null,
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h0/cover.jpeg",
+        "caption_zh": "風景總是綻放在旅途前方",
+        "caption_en": "The landscape always blooms further down the road"
       }
     ]
   },
