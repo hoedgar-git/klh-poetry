@@ -3572,7 +3572,34 @@
         ],
         "en": null,
         "notes": "《 等待維納斯 》柯鍚杰攝影作品 1979 希臘。「那是夏天的愛琴海，畫面如此安靜，簡潔，有一種靜的力量。」",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h25/247-1.png",
+            "caption_zh": "「等待維納斯」  柯錫杰攝影作品  1979  希臘",
+            "caption_en": null
+          },
+          {
+            "url": "images/h25/247-2.png",
+            "caption_zh": "「米可諾斯教堂」  柯錫杰攝影作品  1979  希臘",
+            "caption_en": null
+          },
+          {
+            "url": "images/h25/247-3.png",
+            "caption_zh": "「觀海」  柯錫杰攝影作品  1983  美國紐澤西州",
+            "caption_en": null
+          },
+          {
+            "url": "images/h25/247-4.jpeg",
+            "caption_zh": "「老祖母瑪麗亞」  柯錫杰攝影作品  1979  葡萄牙",
+            "caption_en": null
+          },
+          {
+            "url": "images/h25/247-5.jpeg",
+            "caption_zh": "「觀海」  柯錫杰攝影作品  1983  美國紐澤西州",
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 248,
@@ -3605,7 +3632,31 @@
         ],
         "en": null,
         "notes": "莫內(1840-1926)在吉維尼住家旁開鑿人工池塘，種植蓮花。晚年共畫了250多幅蓮花畫作。\n\n台灣民謠《 孤戀花 》詞：周添旺 曲：楊三郎：水蓮花 滿滿是，靜靜等待露水滴，阮是思念郎君伊。",
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h25/250-1.jpeg",
+            "caption_zh": "Monet   Water-Lily Pond, Japanese Bridge   1900",
+            "caption_en": null
+          },
+          {
+            "url": "images/h25/250-2.jpeg",
+            "caption_zh": "Monet   Water Lilies   1916",
+            "caption_en": null
+          },
+          {
+            "url": "images/h25/250-3.jpeg",
+            "caption_zh": "Monet   Water Lilies Pond, Evening Panel   1926",
+            "caption_en": null
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h25/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
