@@ -15212,7 +15212,36 @@
             "title": "https://www.youtube.com/watch?v=CaEbHv3uuDI",
             "url": "https://www.youtube.com/watch?v=CaEbHv3uuDI"
           }
+        ],
+        "images": [
+          {
+            "url": "images/h100/100-1.png",
+            "caption_zh": "Highway 163 near Monument Valley, Utah （攝影/何康隆）",
+            "caption_en": null
+          },
+          {
+            "url": "images/h100/100-2.png",
+            "caption_zh": "Highway 150 to Colorado Great Sand Dunes National Park （攝影/何康隆）",
+            "caption_en": null
+          },
+          {
+            "url": "images/h100/100-3.png",
+            "caption_zh": "台灣墾丁國家公園。屏東 恆春 （攝影/何康隆）",
+            "caption_en": null
+          },
+          {
+            "url": "images/h100/100-4.png",
+            "caption_zh": "Snow trail near home in Michigan （攝影/何康隆）",
+            "caption_en": null
+          }
         ]
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h100/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -24102,7 +24131,14 @@
         ],
         "en": null,
         "notes": null,
-        "yt": []
+        "yt": [],
+        "images": [
+          {
+            "url": "images/h191/4194-1.png",
+            "caption_zh": "深秋的黄昏 （攝影/何康隆）",
+            "caption_en": null
+          }
+        ]
       },
       {
         "n": 4208,
@@ -24191,6 +24227,13 @@
         "en": null,
         "notes": "唐 。王維《終南別業》：行到水窮處，坐看雲起時。",
         "yt": []
+      }
+    ],
+    "images": [
+      {
+        "url": "images/h191/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   }
