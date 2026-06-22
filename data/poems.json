@@ -2035,7 +2035,14 @@
     ],
     "commentary_zh": "",
     "commentary_en": "",
-    "yt": []
+    "yt": [],
+    "images": [
+      {
+        "url": "images/solitary-penguin-antarctica/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
+    ]
   },
   {
     "id": "viewing-miro-paintings",
@@ -2310,9 +2317,16 @@
         "en": null
       }
     ],
-    "commentary_zh": "註：陳芳玉女士所作「Chih把土」合唱曲的歌詞。",
+    "commentary_zh": "從標高3275公尺的武嶺（台灣高山公路最高點），走下合歡山莊，山路平坦曲折，空氣稀薄清涼。左側的玉山箭竹揮灑一片，鋪綴著山坡成耀眼的橘黃地毯。疏落的台灣冷杉堅韌地聳立其上。南湖大山和中央尖山在北方天際遙遙相望。更遠處，想必是大甲溪和蘭陽溪千年侵奪的思源埡口吧！右側的合歡山壁，層岩疊錯，肌理似畫，削壁積雪叢叢，滴成涓涓細流。奇萊山和能高山在東南天邊綿延，在雲霧飄渺中，成嶺成脈。\n\n註：陳芳玉女士所作「Chih把土」合唱曲的歌詞。",
     "commentary_en": "",
-    "yt": []
+    "yt": [],
+    "images": [
+      {
+        "url": "images/wuling-mountain-road/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
+    ]
   },
   {
     "id": "beginning-a-journey-britain",
@@ -2374,6 +2388,13 @@
       {
         "url": "https://www.youtube.com/watch?v=4-Qu6uarPD4&list=RD4-Qu6uarPD4&start_radio=1",
         "title": "My bonnie lies over the ocean - 我的邦妮"
+      }
+    ],
+    "images": [
+      {
+        "url": "images/beginning-a-journey-britain/cover.png",
+        "caption_zh": null,
+        "caption_en": null
       }
     ]
   },
@@ -2616,7 +2637,14 @@
     ],
     "commentary_zh": "",
     "commentary_en": "",
-    "yt": []
+    "yt": [],
+    "images": [
+      {
+        "url": "images/antarctic-ice-floes-song/cover.jpeg",
+        "caption_zh": null,
+        "caption_en": null
+      }
+    ]
   },
   {
     "id": "fragments-of-time-in-palm",
@@ -2843,7 +2871,14 @@
     ],
     "commentary_zh": "",
     "commentary_en": "",
-    "yt": []
+    "yt": [],
+    "images": [
+      {
+        "url": "images/fragments-of-time-in-palm/cover.png",
+        "caption_zh": null,
+        "caption_en": null
+      }
+    ]
   },
   {
     "id": "shanlinxi-mist-song",
