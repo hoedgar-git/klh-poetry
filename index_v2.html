@@ -252,7 +252,7 @@ body.vertical .stanza.num{writing-mode:horizontal-tb;margin:0;} body.vertical .s
 const M=window.MANIFEST||{poems:[],haiku:[],artwork:[]};
 const F=window.FLOWS||{};
 let histBack='home', curKind='poem';
-const SB_URL="", SB_ANON="";   // <-- fill in at launch (Supabase Project URL + anon/public key)
+const SB_URL="https://jqwfkxujbolwwadlgnrf.supabase.co", SB_ANON="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impxd2ZreHVqYm9sd3dhZGxnbnJmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIwMDY1NTAsImV4cCI6MjA5NzU4MjU1MH0.jND_PvjcVWMqfHFiF4GWlWsYszyeXFntbE5YnLFGELY";
 const sb=(SB_URL&&SB_ANON&&window.supabase)?window.supabase.createClient(SB_URL,SB_ANON):null;
 
 function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
