@@ -1,0 +1,105 @@
+{
+ "poems": [
+  {
+   "slug": "p_c1745bf6",
+   "title": "光燦的古城",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Budapest",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_5e319b47",
+   "title": "印度之歌",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "India"
+    ],
+    "subject": [],
+    "format": "組詩 Sequence"
+   }
+  },
+  {
+   "slug": "p_c2ae755f",
+   "title": "貝加爾湖漫步隨想",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Lake Baikal",
+     "Russia"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_5cea581e",
+   "title": "那時愛琴海沒有名字",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Aegean Sea",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_c595ebe4",
+   "title": "飛越Okavango內陸三角洲",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Botswana"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  }
+ ],
+ "haiku": [
+  {
+   "slug": "hdoc15",
+   "series": "15",
+   "range": "141–150",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc30",
+   "series": "30",
+   "range": "291–300",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc61",
+   "series": "61",
+   "range": "601–610",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc105",
+   "series": "105",
+   "range": "1041–1050",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc148",
+   "series": "148",
+   "range": "1471–1480",
+   "count": 10,
+   "theme": ""
+  }
+ ],
+ "artwork": []
+}
