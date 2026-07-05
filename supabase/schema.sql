@@ -50,11 +50,11 @@ create policy feedback_insert on public.feedback
 drop policy if exists comments_admin_all on public.comments;
 create policy comments_admin_all on public.comments
   for all to authenticated
-  using (auth.jwt() ->> 'email' = 'edgar.ho@meritamerica.org')
-  with check (auth.jwt() ->> 'email' = 'edgar.ho@meritamerica.org');
+  using (auth.jwt() ->> 'email' = 'hoedgar@gmail.com')
+  with check (auth.jwt() ->> 'email' = 'hoedgar@gmail.com');
 
 drop policy if exists feedback_admin_all on public.feedback;
 create policy feedback_admin_all on public.feedback
   for all to authenticated
-  using (auth.jwt() ->> 'email' = 'edgar.ho@meritamerica.org')
-  with check (auth.jwt() ->> 'email' = 'edgar.ho@meritamerica.org');
+  using (auth.jwt() ->> 'email' = 'hoedgar@gmail.com')
+  with check (auth.jwt() ->> 'email' = 'hoedgar@gmail.com');
