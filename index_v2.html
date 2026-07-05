@@ -120,6 +120,15 @@ body.vertical .stanza.num{writing-mode:horizontal-tb;margin:0;} body.vertical .s
 .cm-item{border-left:3px solid var(--light);padding:0.5rem 0.9rem;font-size:0.92rem;line-height:1.8;white-space:pre-line;}
 .cm-date{font-family:var(--sans);font-size:0.66rem;color:#aaa;margin-top:0.3rem;}
 .cm-empty{font-family:var(--sans);font-size:0.82rem;color:var(--muted);font-style:italic;}
+/* moderation admin */
+.adm-in{display:block;width:100%;padding:0.6rem;border:var(--border);font-family:var(--sans);font-size:0.9rem;margin-bottom:0.5rem;background:#fff;box-sizing:border-box;}
+.admin-q{display:flex;flex-direction:column;gap:0.7rem;}
+.qcard{border:var(--border);background:#fff;padding:0.8rem 1rem;}
+.qcard .b{font-size:0.92rem;line-height:1.7;white-space:pre-line;}
+.qcard .meta{font-family:var(--sans);font-size:0.66rem;color:#999;margin-top:0.3rem;}
+.qcard .acts{display:flex;gap:0.5rem;margin-top:0.6rem;}
+.qcard .acts button{font-family:var(--sans);font-size:0.72rem;padding:4px 12px;border:1px solid var(--ink);background:#fff;cursor:pointer;}
+.qcard .acts .ok{background:var(--ink);color:#fff;}
 </style>
 </head>
 <body>
@@ -180,6 +189,25 @@ body.vertical .stanza.num{writing-mode:horizontal-tb;margin:0;} body.vertical .s
     <div class="cm-row"><button class="btn" onclick="submitComment('guestbook',null,'gb-text','gb-msg')">送出 Post</button><span class="cm-msg" id="gb-msg"></span></div>
   </div>
   <div class="cm-list" id="gb-list"></div>
+</div></section>
+
+<!-- ADMIN (hidden; reach via #admin) -->
+<section id="page-admin" class="page"><div class="container narrow">
+  <div class="page-header"><div class="page-title">管理 · Moderation</div><div class="page-sub">Site keeper only</div></div>
+  <div id="admin-login">
+    <div class="cm-form" style="max-width:360px">
+      <input id="adm-email" class="adm-in" type="email" placeholder="Email" autocomplete="username">
+      <input id="adm-pass" class="adm-in" type="password" placeholder="Password" autocomplete="current-password">
+      <div class="cm-row"><button class="btn" onclick="adminLogin()">登入 Sign in</button><span class="cm-msg" id="adm-msg"></span></div>
+    </div>
+  </div>
+  <div id="admin-panel" style="display:none">
+    <div class="cm-row" style="justify-content:space-between"><span class="cm-msg" id="adm-who"></span><button class="ctl" onclick="adminLogout()">登出 Sign out</button></div>
+    <h3 class="cm-h" style="margin-top:1.5rem">待審留言 · Pending comments</h3>
+    <div id="q-comments" class="admin-q"></div>
+    <h3 class="cm-h" style="margin-top:2rem">意見箱 · Feedback</h3>
+    <div id="q-feedback" class="admin-q"></div>
+  </div>
 </div></section>
 
 <!-- DETAIL -->
@@ -262,6 +290,7 @@ function go(p){
   ['poems','haiku','artwork','guestbook','contrib'].forEach(k=>{const b=document.getElementById('nav-'+k);if(b)b.classList.remove('active');});
   if(document.getElementById('nav-'+p))document.getElementById('nav-'+p).classList.add('active');
   if(p==='guestbook')loadComments('guestbook',null,document.getElementById('gb-list'));
+  if(p==='admin')initAdmin();
   if(p!=='detail')histBack=p;
   window.scrollTo(0,0);
 }
@@ -487,7 +516,47 @@ async function submitComment(scope,pageId,taId,msgId){
   msg.textContent=error?('送出失敗 '+error.message):'謝謝！您的留言將於審核後顯示。Thanks — it will appear after review.';
   if(!error)ta.value='';
 }
-counts();renderPoems();renderHaiku();renderArtwork();go('home');
+async function initAdmin(){
+  if(!sb){document.getElementById('adm-msg').textContent='Supabase not configured.';return;}
+  const {data:{session}}=await sb.auth.getSession(); showAdmin(session);
+}
+function showAdmin(session){
+  const li=document.getElementById('admin-login'), pa=document.getElementById('admin-panel');
+  if(session){li.style.display='none';pa.style.display='block';
+    document.getElementById('adm-who').textContent='Signed in as '+session.user.email;
+    loadQueue('comments');loadQueue('feedback');}
+  else{li.style.display='block';pa.style.display='none';}
+}
+async function adminLogin(){
+  const email=document.getElementById('adm-email').value.trim(), password=document.getElementById('adm-pass').value;
+  const msg=document.getElementById('adm-msg'); msg.textContent='…';
+  const {data,error}=await sb.auth.signInWithPassword({email,password});
+  if(error){msg.textContent=error.message;return;}
+  msg.textContent=''; showAdmin(data.session);
+}
+async function adminLogout(){await sb.auth.signOut();showAdmin(null);}
+async function loadQueue(table){
+  const host=document.getElementById(table==='comments'?'q-comments':'q-feedback');
+  const {data,error}=await sb.from(table).select('*').eq('status','pending').order('created_at',{ascending:true});
+  if(error){host.innerHTML='<div class="cm-empty">'+esc(error.message)+'</div>';return;}
+  if(!data.length){host.innerHTML='<div class="cm-empty">目前沒有待審項目。Nothing pending.</div>';return;}
+  host.innerHTML=data.map(r=>{
+    const where=table==='comments'?(r.scope==='guestbook'?'Guestbook':r.page_id):(r.page_id||'—');
+    const acts=table==='comments'
+      ? `<button class="ok" onclick="moderate('comments',${r.id},'approved')">&#10003; Approve</button><button onclick="moderate('comments',${r.id},'rejected')">&#10007; Reject</button>`
+      : `<button class="ok" onclick="moderate('feedback',${r.id},'reviewed')">Mark reviewed</button>`;
+    return `<div class="qcard"><div class="b">${esc(r.body)}</div><div class="meta">${esc(String(where))} · ${new Date(r.created_at).toLocaleString()}</div><div class="acts">${acts}</div></div>`;
+  }).join('');
+}
+async function moderate(table,id,status){
+  const patch={status}; if(table==='comments'&&status==='approved')patch.approved_at=new Date().toISOString();
+  const {error}=await sb.from(table).update(patch).eq('id',id);
+  if(error){alert(error.message);return;}
+  loadQueue(table);
+}
+window.addEventListener('hashchange',()=>{if(location.hash==='#admin')go('admin');});
+counts();renderPoems();renderHaiku();renderArtwork();
+if(location.hash==='#admin')go('admin'); else go('home');
 </script>
 </body>
 </html>
