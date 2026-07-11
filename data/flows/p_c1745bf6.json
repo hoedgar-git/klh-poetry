@@ -23,7 +23,9 @@
    "zh": [
     "「光，聚在一起，照亮一個角落， 散開來，照出一條路 。」"
    ],
-   "en": []
+   "en": [
+    "“Light — gathered together, it lights up a corner; scattered, it lights up a road.”"
+   ]
   },
   {
    "type": "stanza",
@@ -34,7 +36,13 @@
     "在五月向晚的輕風裡",
     "愈夜愈光燦，迷離"
    ],
-   "en": []
+   "en": [
+    "As if afloat on the Danube,",
+    "in the dense purple haze of dusk,",
+    "the old city of Budapest —",
+    "in the soft May evening breeze,",
+    "grows ever more luminous and beguiling as night deepens."
+   ]
   },
   {
    "type": "stanza",
@@ -43,7 +51,11 @@
     "把斑駁的史跡",
     "交給蒼茫的天際"
    ],
-   "en": []
+   "en": [
+    "Light shines on the hilltop castle,",
+    "handing its mottled history",
+    "over to the vast, dim sky."
+   ]
   },
   {
    "type": "stanza",
@@ -52,7 +64,11 @@
     "把安靜的信仰",
     "化成柔美的夜晚"
    ],
-   "en": []
+   "en": [
+    "Light shines on the riverside church,",
+    "turning quiet faith",
+    "into a tender, beautiful night."
+   ]
   },
   {
    "type": "stanza",
@@ -61,7 +77,11 @@
     "把粼粼的波紋",
     "映成跳躍的音符"
    ],
-   "en": []
+   "en": [
+    "Light shines on the rugged bridge piers,",
+    "casting the glittering ripples",
+    "into leaping notes of music."
+   ]
   },
   {
    "type": "stanza",
@@ -71,7 +91,12 @@
     "就在疏淡的光圈裡",
     "尋覓溫馨的心情"
    ],
-   "en": []
+   "en": [
+    "If travel, too, is a kind of practice,",
+    "then tonight,",
+    "within these faint halos of light,",
+    "let me seek a warm and tender mood."
+   ]
   },
   {
    "type": "stanza",
@@ -81,7 +106,12 @@
     "就在暈染的光譜前",
     "珍惜當下的瞬間"
    ],
-   "en": []
+   "en": [
+    "If travel, too, is following fate,",
+    "then tonight,",
+    "before this bleeding spectrum of light,",
+    "let me cherish this present moment."
+   ]
   },
   {
    "type": "stanza",
@@ -91,7 +121,12 @@
     "就在流淌的光影上",
     "追憶飄浮的印象"
    ],
-   "en": []
+   "en": [
+    "If travel, too, is looking back,",
+    "then tonight,",
+    "upon these flowing lights and shadows,",
+    "let me recall its drifting impressions."
+   ]
   },
   {
    "type": "stanza",
@@ -99,7 +134,10 @@
     "明日離去",
     "布達佩斯夜晚"
    ],
-   "en": []
+   "en": [
+    "Tomorrow I depart —",
+    "this Budapest night;"
+   ]
   },
   {
    "type": "stanza",
@@ -107,7 +145,10 @@
     "這一片光",
     "或許"
    ],
-   "en": []
+   "en": [
+    "this expanse of light,",
+    "perhaps,"
+   ]
   },
   {
    "type": "stanza",
@@ -116,14 +157,18 @@
     "回歸，閃亮",
     "摺疊出另一組紛繁意象"
    ],
-   "en": []
+   "en": [
+    "will, in some future time and space,",
+    "return and shine again,",
+    "unfolding another cluster of teeming images."
+   ]
   },
   {
    "type": "note",
    "points": [
     {
      "zh": "布達佩斯是匈牙利的首都，是歐盟境內的第七大城 ，譽稱東歐的巴黎 。其實這座城市名字的歷史還不過二百年。早先，布達佩斯分別是布達 (Buda) 和佩斯 (Pest) 兩座城巿。更精確地講是布達，老布達 (Obuda) 和佩斯三城市。這三座城巿於 1873 合併成一城市。布達是古城區, 嶺上有布達城堡 (Buda Castle ) 和漁人堡 (Fisherman’s    Bastion)堡, 佩斯是平原區，主要的行政和商業中心。鎖鏈橋  (Chain Bridge) 是布達佩斯的座標， 該橋完成於 1849 年，是橫跨多腦河的第一座大橋，也是當時最長的大橋 (75公尺)。鎖鏈橋把多腦河兩岸的布達和佩斯二城，連接成雙子城。鎖鏈橋的夜景是多腦河最美的景色，有多腦河明珠之稱。",
-     "en": ""
+     "en": "Budapest is the capital of Hungary and the seventh-largest city in the EU, praised as the “Paris of Eastern Europe.” The city’s name is in fact barely two hundred years old. Earlier, Budapest was two separate cities, Buda and Pest — more precisely three: Buda, Óbuda (Old Buda), and Pest — which merged into one city in 1873. Buda is the old quarter, with Buda Castle and the Fisherman’s Bastion on the hill; Pest is the plain, the main administrative and commercial center. The Chain Bridge is Budapest’s landmark: completed in 1849, it was the first bridge to span the Danube and the longest of its time. It joined Buda and Pest across the river into a twin city. The night view of the Chain Bridge is the loveliest sight on the Danube — called the pearl of the Danube."
     }
    ]
   },
