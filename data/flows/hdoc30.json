@@ -5,11 +5,8 @@
  "source": "現代俳句和變奏--30.docx",
  "flow": [
   {
-   "type": "stanza",
-   "zh": [
-    "現代俳句 & 變奏     系列 《 30 》"
-   ],
-   "en": []
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列 《 30 》"
   },
   {
    "type": "byline",
@@ -46,23 +43,12 @@
   },
   {
    "type": "note",
-   "zh": "日本「俳聖」松尾芭蕉的經典俳句《 古池 》:",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "閑寂古池旁",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "青蛙跳入",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "撲通一聲響",
-   "en": ""
+   "points": [
+    {
+     "zh": "日本「俳聖」松尾芭蕉的經典俳句《 古池 》:\n閑寂古池旁\n青蛙跳入\n撲通一聲響",
+     "en": ""
+    }
+   ]
   },
   {
    "type": "stanza",
@@ -181,11 +167,6 @@
    "en": []
   },
   {
-   "type": "note",
-   "zh": "",
-   "en": ""
-  },
-  {
    "type": "image",
    "src": "images/flow/hdoc30/img2.jpg",
    "caption_zh": "",
@@ -193,8 +174,12 @@
   },
   {
    "type": "note",
-   "zh": "史蒂芬 · 賈伯斯 ( Steve  Jobs, 1955年2月24日－2011年10月5日）是蘋果公司的董事長。在他生活的年代，賈伯斯是電腦業界與娛樂業界的標誌性人物，也是Macintosh Computer、iPod、iPhone、iPad等知名數碼產品的締造者。他曾七次登上《時代雜誌》的封面，被認為是当时全球最成功的策略創業者之一。2007年，賈伯斯被《財富》雜誌評為年度最强有力產品經營者。賈伯斯的生涯造就了硅谷風險創業的傳奇，他將美學至上的設計理念推廣於全世界。他對簡約及便利設計的推崇，為他贏得了美譽和無數追隨者。下面三則取自他的名言:",
-   "en": ""
+   "points": [
+    {
+     "zh": "史蒂芬 · 賈伯斯 ( Steve  Jobs, 1955年2月24日－2011年10月5日）是蘋果公司的董事長。在他生活的年代，賈伯斯是電腦業界與娛樂業界的標誌性人物，也是Macintosh Computer、iPod、iPhone、iPad等知名數碼產品的締造者。他曾七次登上《時代雜誌》的封面，被認為是当时全球最成功的策略創業者之一。2007年，賈伯斯被《財富》雜誌評為年度最强有力產品經營者。賈伯斯的生涯造就了硅谷風險創業的傳奇，他將美學至上的設計理念推廣於全世界。他對簡約及便利設計的推崇，為他贏得了美譽和無數追隨者。下面三則取自他的名言:",
+     "en": ""
+    }
+   ]
   },
   {
    "type": "stanza",
@@ -309,8 +294,12 @@
   },
   {
    "type": "note",
-   "zh": "唐。 柳宗元 《 江雪 》\n千山鳥飛絕，萬徑人踪滅。\n孤舟蓑笠翁，獨釣寒江雪。",
-   "en": ""
+   "points": [
+    {
+     "zh": "**   唐。 柳宗元 《 江雪 》\n千山鳥飛絕，萬徑人踪滅。\n孤舟蓑笠翁，獨釣寒江雪。",
+     "en": ""
+    }
+   ]
   },
   {
    "type": "stanza",
@@ -360,68 +349,16 @@
   },
   {
    "type": "note",
-   "zh": "宋。  秦觀 《 踏莎行 》",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "霧失樓台，月迷津渡，桃源望斷無尋處。",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "可堪孤館閉春寒，杜鵑聲裡斜陽暮。",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "驛寄梅花，魚傳尺素。砌成此恨無重數。",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "郴江幸自繞郴山，為誰流下瀟湘去？",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "《 You Raise Me Up 》",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "Music: Secret Garden,   Lyrics: Brendan Graham",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "When I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "You raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "YouTube :",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "Josh Groban You Raise Me Up",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "2014~You Raise Me Up [中文字幕]",
-   "en": ""
-  },
-  {
-   "type": "note",
-   "zh": "You Raise Me Up_台灣原聲童聲合唱團",
-   "en": ""
+   "points": [
+    {
+     "zh": "宋。  秦觀 《 踏莎行 》\n霧失樓台，月迷津渡，桃源望斷無尋處。\n可堪孤館閉春寒，杜鵑聲裡斜陽暮。\n驛寄梅花，魚傳尺素。砌成此恨無重數。\n郴江幸自繞郴山，為誰流下瀟湘去？",
+     "en": ""
+    },
+    {
+     "zh": "《 You Raise Me Up 》\nMusic: Secret Garden,   Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be\nJosh Groban You Raise Me Up\n2014~You Raise Me Up [中文字幕]\nYou Raise Me Up_台灣原聲童聲合唱團",
+     "en": ""
+    }
+   ]
   }
  ],
  "meta": {
