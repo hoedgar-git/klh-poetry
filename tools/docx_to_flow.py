@@ -99,10 +99,14 @@ def build_flow(blocks, kind, slug, images_dir, max_px=1600):
         # front-matter subtitle: non-star text before the byline (location line, series header)
         if not star and not byl:
             flow.append({'type':'subtitle','zh':t}); seen+=1; continue
-        # numbered haiku header -> new verse, ends any commentary
+        # numbered line: real haiku header (big number, or when not mid-commentary)
+        # vs a small "1./2./3." list item inside commentary (keep it in the commentary)
         if NUM.match(t) or NUMLEAD.match(t):
-            body=True; note=None
-            flow.append({'type':'stanza','zh':[t],'en':[],'num':True}); seen+=1; continue
+            numval=int(re.match(r'\s*(\d+)',t).group(1))
+            if note is None or numval>=100:
+                body=True; note=None
+                flow.append({'type':'stanza','zh':[t],'en':[],'num':True}); seen+=1; continue
+            note['points'][-1]['zh'] += '\n'+t; seen+=1; continue
         if star:
             if not body:
                 flow.append({'type':'preface','zh':t}); seen+=1; continue
