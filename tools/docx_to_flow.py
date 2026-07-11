@@ -1,15 +1,11 @@
 #!/usr/bin/env python3
-"""docx_to_flow.py — ingestion engine for the KLH poetry site (v4).
-Rules:
-- '**' is the ONLY commentary marker. A new '**' paragraph starts a new commentary POINT.
-- Non-'**' text that follows commentary CONTINUES the previous point.
-- Non-'**' text before the poem body is front-matter (preface), never commentary.
-- Starred text before the poem body is still preface (ignore stars) — not commentary.
-- Adjacent commentary points are grouped into ONE note block (rendered with light separators).
-- Blank lines inside a text paragraph split it into separate stanzas (no double-spacing;
-  restores N-line groupings).
-- URLs always render as link blocks (never commentary); bare labels (YouTube/Links) dropped.
-"""
+"""docx_to_flow.py — KLH poetry ingestion engine (v5).
+Key spacing rule: consecutive non-empty lines = ONE stanza (tight); a BLANK
+paragraph (or blank line) ends the stanza. Numbered haiku headers begin a new
+stanza that includes the number + its lines as one tight block.
+Commentary = '**' only (grouped into one note block of points; non-'**' continues
+the previous point; small numbered list items inside commentary stay commentary).
+Front-matter before the byline is subtitle/preface (never commentary). URLs -> links."""
 import sys, os, re, zipfile, io, argparse, json
 import xml.etree.ElementTree as ET
 W='http://schemas.openxmlformats.org/wordprocessingml/2006/main'
@@ -47,6 +43,7 @@ def parse_docx(path):
             elif tag=='br': parts.append('\n')
             elif tag=='tab': parts.append('\t')
         text=''.join(parts)
+        imgs=[]
         for blip in para.iter(f'{{{A}}}blip'):
             tgt=relmap.get(blip.get(f'{{{R}}}embed'))
             if not tgt: continue
@@ -56,8 +53,10 @@ def parse_docx(path):
             except KeyError:
                 try: data=z.read('word/'+os.path.basename(tgt))
                 except KeyError: continue
-            blocks.append({'kind':'image','data':data})
+            imgs.append(data)
+        for data in imgs: blocks.append({'kind':'image','data':data})
         if text.strip(): blocks.append({'kind':'text','text':text})
+        elif not imgs: blocks.append({'kind':'blank'})
     return blocks
 
 def _cap(t):
@@ -69,8 +68,18 @@ def _cap(t):
 def build_flow(blocks, kind, slug, images_dir, max_px=1600):
     os.makedirs(images_dir,exist_ok=True)
     flow=[]; n=0; seen=0; body=False; note=None; last=None; byl=False
+    st={'lines':[],'num':False}
+    def flush():
+        if st['lines']:
+            b={'type':'stanza','zh':st['lines'][:],'en':[]}
+            if st['num']: b['num']=True
+            flow.append(b)
+        st['lines']=[]; st['num']=False
     for b in blocks:
+        if b['kind']=='blank':
+            flush(); continue
         if b['kind']=='image':
+            flush()
             n+=1; fn=f'img{n}.jpg'
             open(os.path.join(images_dir,fn),'wb').write(_resize(b['data'],max_px))
             last={'type':'image','src':f'images/{slug}/{fn}','caption_zh':'','caption_en':''}
@@ -78,58 +87,50 @@ def build_flow(blocks, kind, slug, images_dir, max_px=1600):
         raw=b['text']; star=raw.strip().startswith('**')
         t=re.sub(r'^\*+\s*','',raw).strip()
         if not t: continue
-        # caption directly after an image
         if last is not None and not last['caption_zh']:
             if (not star and _cap(t)) or (star and len(t)<=60 and any(c in t for c in CAPCUE)):
                 last['caption_zh']=t; last=None; continue
         last=None
-        # links -> always a link block
         urls=URL.findall(t)
         if urls:
+            flush()
             if flow and flow[-1]['type']=='yt': flow[-1]['urls']+=urls
             else: flow.append({'type':'yt','urls':urls})
             note=None; continue
-        if LABEL.match(t) and len(t)<40:   # bare "YouTube" / "Links:" label
-            continue
-        # title / byline (poem)
+        if LABEL.match(t) and len(t)<40: continue
         if seen==0 and kind=='poem' and not star:
-            flow.append({'type':'title','zh':t}); seen+=1; continue
+            flush(); flow.append({'type':'title','zh':t}); seen+=1; continue
         if t in ('何康隆','Khang-Loon Ho','何康隆 Khang-Loon Ho'):
-            byl=True; flow.append({'type':'byline','zh':t}); seen+=1; continue
-        # front-matter subtitle: non-star text before the byline (location line, series header)
+            flush(); byl=True; flow.append({'type':'byline','zh':t}); seen+=1; continue
         if not star and not byl:
-            flow.append({'type':'subtitle','zh':t}); seen+=1; continue
-        # numbered line: real haiku header (big number, or when not mid-commentary)
-        # vs a small "1./2./3." list item inside commentary (keep it in the commentary)
+            flush(); flow.append({'type':'subtitle','zh':t}); seen+=1; continue
         if NUM.match(t) or NUMLEAD.match(t):
             numval=int(re.match(r'\s*(\d+)',t).group(1))
             if note is None or numval>=100:
-                body=True; note=None
-                flow.append({'type':'stanza','zh':[t],'en':[],'num':True}); seen+=1; continue
+                flush(); body=True; note=None; st['lines']=[t]; st['num']=True; seen+=1; continue
             note['points'][-1]['zh'] += '\n'+t; seen+=1; continue
         if star:
-            if not body:
-                flow.append({'type':'preface','zh':t}); seen+=1; continue
-            if note is None:
-                note={'type':'note','points':[]}; flow.append(note)
+            flush()
+            if not body: flow.append({'type':'preface','zh':t}); seen+=1; continue
+            if note is None: note={'type':'note','points':[]}; flow.append(note)
             note['points'].append({'zh':t,'en':''}); seen+=1; continue
-        # non-star text
         if note is not None:
             note['points'][-1]['zh'] += '\n'+t; seen+=1; continue
         body=True
-        for g in re.split(r'\n\s*\n', raw.strip()):
-            lines=[ln.strip() for ln in g.split('\n') if ln.strip()!='']
-            if lines: flow.append({'type':'stanza','zh':lines,'en':[]})
+        for ln in raw.split('\n'):
+            if ln.strip()=='' : flush()
+            else: st['lines'].append(ln.strip())
         seen+=1
+    flush()
     return flow
 
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument('docx'); ap.add_argument('--kind',required=True)
     ap.add_argument('--slug',required=True); ap.add_argument('--title',default=''); ap.add_argument('--repo',default='.')
     a=ap.parse_args()
-    blocks=parse_docx(a.docx); flow=build_flow(blocks,a.kind,'flow/'+a.slug,os.path.join(a.repo,'images','flow',a.slug))
+    flow=build_flow(parse_docx(a.docx),a.kind,'flow/'+a.slug,os.path.join(a.repo,'images','flow',a.slug))
     os.makedirs(os.path.join(a.repo,'data','flows'),exist_ok=True)
     json.dump({'slug':a.slug,'kind':a.kind,'title':a.title,'source':os.path.basename(a.docx),'flow':flow},
               open(os.path.join(a.repo,'data','flows',a.slug+'.json'),'w'),ensure_ascii=False,indent=1)
-    print("OK",a.slug,len(flow),"blocks")
+    print("OK",a.slug,len(flow))
 if __name__=='__main__': main()

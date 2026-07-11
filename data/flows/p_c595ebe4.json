@@ -48,33 +48,19 @@
    "zh": [
     "煙嵐漸散",
     "非洲五月的陽光",
-    "恣意地鋪陳"
-   ],
-   "en": [
-    "The mist slowly clears;",
-    "the May sunlight of Africa",
-    "spreads out at will."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "恣意地鋪陳",
     "明暗浸染的水墨圖案",
-    "極眼處"
-   ],
-   "en": [
-    "An ink-wash pattern steeped in light and shade —",
-    "at the farthest reach of sight,"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "極眼處",
     "長軸已展",
     "這蒼茫大地",
     "誰來落款 ?"
    ],
    "en": [
+    "The mist slowly clears;",
+    "the May sunlight of Africa",
+    "spreads out at will.",
+    "An ink-wash pattern steeped in light and shade —",
+    "at the farthest reach of sight,",
     "the long scroll is unrolled.",
     "This vast, hazy land —",
     "who will sign it?"
@@ -97,12 +83,5 @@
     }
    ]
   }
- ],
- "tags": {
-  "geo": [
-   "Botswana"
-  ],
-  "subject": [],
-  "format": "抒情 Lyric"
- }
+ ]
 }

@@ -25,30 +25,17 @@
   {
    "type": "stanza",
    "zh": [
-    "那時宇宙 Chaos  混沌無邊"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "開天闢地全靠神來之筆"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "大地之母 Gaia 劃出一片蒼天"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "那時宇宙 Chaos  混沌無邊",
+    "開天闢地全靠神來之筆",
+    "大地之母 Gaia 劃出一片蒼天",
     "諸神紛爭太陽系名位軌迹"
    ],
-   "en": []
+   "en": [
+    "At that time, the cosmic Chaos was endless.",
+    "Opening up the world is all by the hand of God",
+    "Mother Earth Gaia carves a clear sky",
+    "Ragnarok Solar System Nomenclature Track"
+   ]
   },
   {
    "type": "stanza",
@@ -58,7 +45,12 @@
     "Prometheus  偷來的火苗溫暖人間",
     "Pandora  盒內還有希望存留"
    ],
-   "en": []
+   "en": [
+    "when Atlas topped the globe.",
+    "Gibraltar is the end of the world",
+    "Prometheus' Stolen Fire Warms the World",
+    "There's still hope in the Pandora box."
+   ]
   },
   {
    "type": "stanza",
@@ -68,7 +60,12 @@
     "Cupid  的箭怎會射向自己",
     "Psyche  從此就是 psychology"
    ],
-   "en": []
+   "en": [
+    "At that time, the earth was divided into four seasons.",
+    "Demeter, the goddess of grain, is still a happy mother.",
+    "How did Cupid's arrow hit him?",
+    "Psyche has been psychology ever since."
+   ]
   },
   {
    "type": "stanza",
@@ -78,7 +75,12 @@
     "Zeus 在 Olympus 山上非非遐想",
     "轉變公牛誘拐情奔 Crete 島上"
    ],
-   "en": []
+   "en": [
+    "At that time, Europe was a flood.",
+    "Maiden Europa is on the verge of a flowery year",
+    "Zeus Reveries on Olympus Mountain",
+    "Transforming Bulls to Kidnap and Run on Crete"
+   ]
   },
   {
    "type": "stanza",
@@ -88,7 +90,12 @@
     "Minotaur  還在 Knossos 迷宮發狂",
     "米諾斯文明正燦爛輝煌"
    ],
-   "en": []
+   "en": [
+    "At that time, the volcano Thera",
+    "Sleeping on the island of Santorini",
+    "Minotaur still going crazy in the Knossos maze",
+    "The Minoan civilization is shining"
+   ]
   },
   {
    "type": "stanza",
@@ -98,7 +105,12 @@
     "Sphinx  的謎題一朝破解",
     "Oedipus  隨命運走入潛意識領域"
    ],
-   "en": []
+   "en": [
+    "Delphi was the navel of the world.",
+    "The Temple of Apollo begins issuing oracles",
+    "Sphinx puzzle solved",
+    "Oedipus moves into the subconscious realm with fate"
+   ]
   },
   {
    "type": "stanza",
@@ -108,7 +120,12 @@
     "Hera   Athena   Aphrodite",
     "依然美麗又善良"
    ],
-   "en": []
+   "en": [
+    "At that time, the golden apple was not yet ripe.",
+    "Prince Paris leisurely shepherding on Ida hill",
+    "Hera Athena Aphrodite",
+    "Still beautiful and kind."
+   ]
   },
   {
    "type": "stanza",
@@ -118,43 +135,35 @@
     "木馬奇襲的藍圖尚未起草",
     "Achilles 的腳踝還在一箭之遙"
    ],
-   "en": []
+   "en": [
+    "At that time, Asia Minor was the East.",
+    "Troy's walls reflect Helen's charming appearance",
+    "The Trojan attack blueprint has not yet been drafted",
+    "Achilles' ankle is still a stone's throw away"
+   ]
   },
   {
    "type": "stanza",
    "zh": [
     "那時Odysseus和水手註定十年流浪",
     "Gaia 的獨眼巨人在荒島蠢蠢欲動",
-    "女妖Siren的歌聲隨海風騷盪"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "女妖Siren的歌聲隨海風騷盪",
     "荷馬史詩在雅典街頭隨琴弦傳唱"
    ],
-   "en": []
+   "en": [
+    "when Odysseus and the sailors were destined to wander for ten years.",
+    "Gaia's Cyclops on a desert island",
+    "Banshee Siren's song roars with the sea breeze",
+    "Homeric epic strings on the streets of Athens"
+   ]
   },
   {
    "type": "stanza",
    "zh": [
-    "那時愛琴海沒有名字"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "那時愛琴海沒有名字",
     "雅典國王 Aegeus  眺望空茫海上",
     "不見白帆見黒帆",
-    "哀傷的心隨浪花破碎翻轉"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "哀傷的心隨浪花破碎翻轉",
     "如今",
     "海域澄靜，落日西沉",
     "蹀踱甲板",
@@ -164,7 +173,20 @@
     "古代的寓言已隨風而去",
     "海上只有蒼茫"
    ],
-   "en": []
+   "en": [
+    "The Aegean didn't have a name back then.",
+    "King Aegeus of Athens looks out to sea",
+    "Invisible White Sail Invisible Black Sail",
+    "Sorrowful hearts flipped as the waves broke",
+    "Nowadays",
+    "Clear waters, sunset",
+    "Pacing the deck",
+    "Reminds me of a myth with no mystery.",
+    "Wandering a few times",
+    "Even the mythical puzzles are completely forgotten.",
+    "Ancient parables have gone with the wind",
+    "There's nothing but blue in the sea."
+   ]
   },
   {
    "type": "stanza",
@@ -172,76 +194,71 @@
     "只有蒼茫",
     "籠罩愛琴海遠方"
    ],
-   "en": []
+   "en": [
+    "Only the azure",
+    "Shrouded far away in the Aegean Sea"
+   ]
   },
   {
    "type": "note",
    "points": [
     {
      "zh": "在希臘神話中，宇宙最初的形態是混沌 ( Chaos )。混沌生了大地女神蓋亞 ( Gaia )，蓋亞生了天空之神 Uranus，之後，又和Uranus 生了十二個巨人 ( Titans ) 以及三個獨眼巨怪 ( Cyclops )。Titans 中的Cronus 和Rhea 合生了Zeus 和他的五個兄姐。由此誕生了奥林巴斯山上的十二位主神 ( Twelve  Olympians )。",
-     "en": ""
+     "en": "In Greek mythology, the initial form of the universe was chaos. Chaos gave birth to Gaia, the goddess of the earth. Gaia gave birth to Uranus, the god of the sky. After that, she gave birth to twelve giants (Titans) and three cyclops (Cyclops) with Uranus. Cronus and Rhea in Titans gave birth to Zeus and his five siblings. This gave birth to the Twelve Olympians on Mount Olympus."
     },
     {
      "zh": "太陽系的行星，除了地球外，都是以希臘或羅馬神話諸神命名。而且是以天神Zeus ( Jupiter，木星 ) 爲主。水星Mercury ( Hermes ) 是Zeus的兒子，金星Venus ( Aphrodite ) 是Zeus的女兒，火星Mars ( Ares ) 是Zeus的兒子，土星Saturn ( Cronus ) 是Zeus的父親， 天王星Uranus是Zeus的祖父，海王星Neptune ( Poseidon ) 和冥王星Pluto  ( Hades ) 是Zeus 的兄長。Pluto 在2006年降爲矮行星，不在行星之列。",
-     "en": ""
+     "en": "The planets of the solar system, with the exception of Earth, are named after Greek or Roman mythological gods. And it is dominated by the celestial god Zeus (Jupiter). Mercury (Hermes) is the son of Zeus, Venus (Aphrodite) is the daughter of Zeus, Mars (Ares) is the son of Zeus, Saturn (Cronus) is the father of Zeus, Uranus is the grandfather of Zeus, Neptune (Poseidon) and Pluto (Hades) are the brothers of Zeus. Pluto was downgraded to a dwarf planet in 2006 and is not on the list of planets."
     },
     {
      "zh": "潘朵拉的盒子 ( Pandora's  box )。  繼 Prometheus 偷火苗給人類之後，天神宙斯爲了懲罰人類，給潘朵拉一個盒子，吩咐她不可以打開。潘朵拉經不起好奇心的誘惑，還是偷偷打開，一打開, 所有不幸的事物，諸如疾病，貧困，嫉妬，戰爭，天災等，一一飛入人間，寧靜的世界開始動盪不安。慌亂中，潘朵拉趕緊蓋住盒子，結果盒内還剩希望没飛出。因此，旣使人類不斷受苦受難，生活中有無數的挫敗和折磨，希望還在，永不消失。",
-     "en": ""
+     "en": "Pandora's box. After Prometheus stole the flame for the humans, the celestial god Zeus, in order to punish the humans, gave Pandora a box and told her not to open it. Pandora could not withstand the temptation of curiosity, or secretly open, as soon as it opened, all the unfortunate things, such as illness, poverty, jealousy, war, natural disasters, etc., flew into the world one by one, and the quiet world began to turmoil. In the panic, Pandora quickly covered the box, and there was still hope in the box. Therefore, the human beings continue to suffer and suffer, and there are countless frustrations and sufferings in life. Hope is still there and will never disappear."
     },
     {
      "zh": "穀神 Demeter ( 羅馬名稱是Ceres，是英文 cereal的字源 ) 掌管大地農作物。她的女兒 Persephone 被地府㝠王 Hades ( Pluto ) 捉走，哀傷的母親四處找尋不着，農作荒廢，大地凋零。天神宙斯命Hades ( Pluto) 讓Persephone －年有三個月回人間和母親相聚。Persephone離開㝠府囬人間時，Demeter歡心期待，充满希望，大地開始蘇醒向榮，是春天。母女相聚的快樂時光，大地青翠明朗，農作豊饒，是夏天。别離時刻，愁绪滋生，草木凋萎，是秋日。女兒揮别人間回到㝠府，大地隨孤寂無助的母親，荒涼頽廢，衰敗隂沉，是冬日。如此四季輪轉，年復一年，千古之下，人的心情，正如穀神 Demeter －樣，也随春夏秋冬遞換而波動起伏。",
-     "en": ""
+     "en": "The grain god Demeter (Roman name is Ceres, which is the origin of the English word cereal) controls the land crops. Her daughter Persephone was captured by Hades (Pluto), king of the underworld, and her grieving mother could not find it anywhere. The farm was abandoned and the earth withered. The god Zeus ordered Hades (Pluto) to reunite Persephone with her mother for three months. When Persephone left the world, Demeter was looking forward and full of hope. The earth began to revive and glory, and it was spring. The happy time for mother and daughter to meet, the land is lush and bright, and the farming is abundant. It is summer. Don't leave the moment, sorrow breeds, the grass and trees wither, it is autumn. The daughter wandered back to the mansion, the earth with the lonely and helpless mother, desolate and decayed, it was a winter day. As the four seasons rotate, year after year, underneath the ages, people's moods, like the grain god Demeter, also fluctuate with the change of spring, summer, autumn and winter."
     },
     {
      "zh": "愛神Cupid  和少女 Psyche 曲曲折折的愛情故事，是歷來心理學分析人性的素材和主題之一。當Psyche半夜點燈偷窺沉睡的Cupid時，傷心的Cupid說了一句讓人深思的話 :「Love can not dwell with suspicion 」。没有了信任，愛情 ( Cupid ) 也無法留在心靈 ( Psyche ) 之中。",
-     "en": ""
+     "en": "The tortuous love story of Cupid and Psyche, the goddess of love, has been one of the fodder and themes of psychology's analysis of human nature. When Psyche lights up in the middle of the night to peep into Cupid's sleep, the sad Cupid says something thought-provoking: “Love can't dwell with suspicion.” Without trust, love (Cupid) cannot remain in the heart (Psyche)."
     },
     {
      "zh": "1900年英國考古學家阿瑟 - 伊凡斯 ( Arthur Evans, 1851-1941 ) 在克里特島發掘出 Knossos Palace ，証實了傳說中的米諾斯文明 ( Minoan Civilization )，將希臘乃至於歐洲文明的起源往前推溯幾千年到7000BC。克利特島的米諾斯文明在極盛的宫殿時期 ( 1455-1170BC )  突然消落的原因，至今還是史學界的謎題。有推測說可能和聖托里尼島上的 Thera  火山在1500BC左右爆發有關，該火山爆發是人類史上最猛烈的火山爆發，引發的地震和海嘨對克里特島的直接摧毁, 和愛琴海諸島貿易網的間接破損，以及後來希臘本土邁錫尼文明 ( Mycenean Civilization) 的乘機人侵等等，都是米諾斯文明衰敗的可能因素。",
-     "en": ""
+     "en": "In 1900, the British archaeologist Arthur Evans (1851-1941) excavated the Knossos Palace on Crete, confirming the legendary Minoan Civilization, which traced the origins of Greek and even European civilization back thousands of years to 7000BC. The cause of the sudden disappearance of the Minoan civilization of Crete in the heyday of the palace period (1455-1170BC) is still a mystery in historiography. There is speculation that it may be related to the eruption of the Thera volcano on Santorini around 1500BC, which is the most violent volcanic eruption in human history, triggered by the direct destruction of Crete by earthquakes and the sea, and indirect damage to the Aegean island trade network, and later the invasion of the Greek native Mycenean civilization by passengers, etc., are all possible factors in the decline of the Minoan civilization."
     },
     {
      "zh": "Europa 是腓尼基公主，天神宙斯顗踰於她的美貌和優雅，趁她和女伴在花間嬉戲，化身爲一頭白色公牛接近她，Europa 心喜於公牛的健壯温馴，等她坐上寬厚牛背時，公牛立即躍身大海，往克里特島飛奔而去。Europa 爲宙斯生了三個兒子，大兒子 Minos 成爲克里特島國王，米諾斯文明的創始者，也是他把 Minotaur ( 牛頭人身怪物 )  關在\nKnossos 迷宫。歐洲大陸 ( Europe ) 是因着公主Europa 而得名。又，太陽系木星 ( Jupiter, Zeus ) 的第二大衛星也名爲Europa。",
-     "en": ""
+     "en": "Europa was a Phoenician princess, and the goddess Zeus marveled at her beauty and elegance. While she and her companion were playing among the flowers, she was approaching her in the form of a white bull. Europa was pleased with the robustness and tenderness of the bull. When she sat on the back of the bull, the bull immediately jumped into the sea and flew to Crete.Europa gave birth to three sons for Zeus, the eldest son Minos became King of Crete, the founder of the Minoan civilization, and he imprisoned the Minotaur.\nKnossos Labyrinth. The continent of Europe is named after the princess Europa.In addition, the second largest moon of the solar system Jupiter (Zeus) is also called Europa."
     },
     {
      "zh": "天神宙斯派遣二隻老鷹分别自地球的東西起飛，測定了希臘的 Delphi 是大地的肚臍 ( Omphalos )，世界的中心。Apollo在Delphi建造神殿，并由女祭司傳述神諭，預言命運。神殿刻有留傳千古的德爾菲咸言 ( Delphic Maxim ) :  人啊！認識你自己吧。",
-     "en": ""
+     "en": "The celestial god Zeus sent two eagles to take off from the earth's things, and determined that the Greek Delphi was the navel of the earth (Omphalos), the center of the world. Apollo built the temple in Delphi, and the priestess preached the oracle and predicted the fate. The temple is engraved with the ancient Delphic Maxim: Man! Get to know yourself."
     },
     {
      "zh": "王子 Oedipus在流浪途中誤殺了父親，解答了 Sphinx  的謎題，回到家鄉被擁戴成國王，并且依約娶了母親。事前Oedipus 對自己殺父娶母毫無所知，但其一生行徑却應驗了Apollo 神廟的諭言。希臘詩人索福克勒斯 ( Sophocles ) 根據Oedipus的故事爲劇本，寫下了古希臘三大悲劇之一的 \" Oedipus the King \"。劇本肯定人的自主精神，雖在命運的操弄擺佈下，乃有明知不能爲而爲的反抗力量。心理分析學家佛洛伊德則應用這希臘神話，發展出他潛意識中的 \"  戀母情結 \"  ( Oedipus Complex) 理論。",
-     "en": ""
+     "en": "Prince Oedipus mistakenly killed his father on the road, solved the mystery of Sphinx, returned to his hometown and was worshipped as a king, and married his mother according to the covenant. Beforehand, Oedipus knew nothing about killing his father and marrying his mother, but his life practice fulfilled the words of the Apollo temple. The Greek poet Sophocles wrote \"Oedipus the King\", one of the three great Greek tragedies, based on the story of Oedipus. The script affirms people's spirit of autonomy. Although at the mercy of the manipulation of fate, there are rebellious forces that know not to act. Psychoanalyst Freud applied this Greek myth to develop his subconscious theory of the Oedipus Complex."
     },
     {
      "zh": "Sphinx 的謎題是 :  \" 什麽動物在早晨用四隻脚走路，中午用二隻脚走路，晚上用三隻脚走路，腳最多的時候，正是速度和力量最小的時候 ？\"   答案是 \" 人 \" 。《斯芬克斯之謎 》的涵意是：人很難認清自己，而渴望瞭解自己是人的天生本性。人只有瞭解自我，瞭解自己的真正需求和願望，才能在現實中找到方向，領略生活的真諦，明白生命的意義。斯芬克斯最初源于埃及神話，是雄性的怪物。有人面獅身 ( Androsphinx ) ，羊頭獅身 ( Criosphinx )，鷹頭獅身 ( Hieracosphinx ) 等形體。在希臘神話中，斯芬克斯則轉形成雌性的邪惡怪物，有女性頭貌，鹰的翅旁和獅子的身軀，代表神對人類的懲罰。",
-     "en": ""
+     "en": "Sphinx's puzzle is: \"What animal walks on four legs in the morning, two legs at noon, three legs at night, and when the feet are at their maximum, when the speed and strength are at their minimum?\" \"The answer is\" people. \"The meaning of The Sphinx Mystery is that it is difficult for people to recognize themselves, and they are eager to understand that they are inherently human. Only when people understand themselves and their real needs and desires can they find a direction in reality, understand the true meaning of life, and understand the meaning of life. Originally derived from Egyptian mythology, the Sphinx is a male monster. There are Androsphinx, Criosphinx, Hieracosphinx, and others. In Greek mythology, the Sphinx was transformed into a female evil monster, with a female head, the wings of an eagle, and the body of a lion, representing God's punishment for mankind."
     },
     {
      "zh": "金蘋果的故事起先只圍繞在三位女神 Hera,  Athena,  Aphrodite 和Troy 王子Paris 之間，决定誰是天下最美的女人，該得金蘋果。以後牽涉到海倫皇后，引起特洛伊戰争，英雄爭威，木馬奇計以及奧底修斯 ( Odysseus) 和水手的十年驚險困頓的海上漂流。特洛伊戰爭是希臘神話，還是歷史事蹟？一直紛擾未定。19世紀後期，德國考古學家謝里曼 ( Heinrich  Schliemann ，1822--1890 ) 在土耳其發現特洛伊古城遺址, 和希臘本土邁鍚尼遺址，并發掘出大批古蹟和金銀陶製品後，歷史學者已認定希臘神話中有關特洛伊城和戰爭的描叙，確實有一些真實的成分。其發生時間正如早期歷史學家所測，就是在邁鍚尼文明 ( 公元前1600--公元前1100年 ) 的後期。但是多數學者認定特洛伊戰爭并非如荷馬史詩伊里亞德 ( Iliad ) 所述，是奪回海倫皇后的復仇戰爭，而是古希臘城邦爲爭奪特洛伊的戰略位置和貿易權益，聯合渡海遠征的侵略戰爭。",
-     "en": ""
+     "en": "At first, the story of the Golden Apple only revolved around the three goddesses Hera, Athena, Aphrodite and Prince Troy Paris, deciding who was the most beautiful woman in the world and who deserved the Golden Apple. Later, it involved Queen Helen, causing the Trojan War, heroic contention, Trojan Machiavell, and the thrilling and troubled sea drift of Odysseus and the sailors for ten years. Is the Trojan War a Greek myth or a historical event? In the late 19th century, after the German archaeologist Heinrich Schliemann (1822-1890) discovered the ruins of the ancient city of Troy in Turkey, and the ruins of the native Greek Meigny, and excavated a large number of monuments and gold and silver pottery, historians have concluded that the depictions of Troy and war in Greek mythology do have some real ingredients. It occurred, as early historians have predicted, in the late Makeni period (1600 BC - 1100 BC). However, most scholars believe that the Trojan War was not a war of revenge to retake Queen Helen, as described by the Homeric epic Iliad, but a war of aggression in which the ancient Greek city-states jointly crossed the sea to fight for Troy's strategic position and trade rights."
     },
     {
      "zh": "Achilles 是希臘聯軍圍攻特洛伊的大將，出生時母親從神諭預知他將率軍於征戰於特洛伊戰爭，把他全身浸入冥河水中，使他刀槍不入，但手提的脚踝處却没有浸泡到。爭戰時，特洛伊王子 Paris在 Apollo的指引下，把箭射向 Achilles 的腳踝，Achilles 中箭落馬致死。希臘大軍從此敗退，直到 Odysseus 設計出木馬奇襲，才攻下城牆。人體解剖學上，脚踝逐稱名爲 Achilles heel。後來，Achilles heel 引伸爲致命的弱點。",
-     "en": ""
+     "en": "Achilles was a major general in the Greek Allied siege of Troy. At birth, his mother foretold him from the oracle that he would lead the army in the Trojan War, immersing him in the water of the Underworld, so that he could not get into the knife and gun, but the handheld ankle was not soaked. During the war, Prince Troy, under the guidance of Apollo, shot the arrow at Achilles' ankle, and the arrow fell from Achilles and died. The Greek armies retreated until Odysseus devised a Trojan attack that took down the walls. Human ankles are anatomically named Achilles heel. Later, Achilles heel stretched into a fatal weakness."
     },
     {
      "zh": "特洛伊戰勝後，希臘大軍理應順利回鄉，但因Odysseus 惱怒海神 Poseidon，受到懲罰．逐在海上漂泊十年，嚐盡艱難困頓。荒島上的獨眼巨人和女妖的誘人歌聲是其中的遭遇。Gaia 是天地開闢之初的大地之母，是天神宙斯的祖母，獨眼巨人是她所生。",
-     "en": ""
+     "en": "After the victory of Troy, the Greek army should have returned home smoothly, but because Odysseus annoyed the sea god Poseidon, he was punished and drifted at sea for ten years. The seductive singing of Cyclops and Banshees on a desert island is one of those encounters. Gaia is the mother of the earth at the beginning of the world. She is the grandmother of the god Zeus. The Cyclops was born to her."
     },
     {
      "zh": "海琴海 ( Aegean Sea ) 位於希臘，土耳其和克里特島之間，島嶼羅列，包括 Santorini，Mykoros，Delos，Patmos 等小島。海琴海名稱的由來有多種傳說，其中之一是源自希臘神話。克里特島國王米諾斯因失信得罪海神，遭致皇后愛上一頭公牛，生下一個牛頭人身的怪物米諾陶( Minotaur )。國王米諾斯建造一座迷宫 ( Labyrinth ) 把兇暴的米諾陶禁閉起來。之後，米諾斯强迫被征服的雅典國王愛琴 ( Aegeus )，每年進貢7對男童女童給米諾陶當祭品。第三次進貢時，雅典王子提修斯 ( Theseus ) 奮身前往。雅典國王愛琴担心兒子安危，約定如能平安歸來，返航時把黑帆換成白帆以做標織。在克里特公主的拹助下，提修斯順利出入迷宫殺死米諾陶。回航雅典時，提修斯因故忘記把黑帆換成白帆，日夜在臨海宫殿憂心等待的國王 ，眺望到的竟是黑帆，悲痛欲絕，遂投海而死。后人爲了紀念他，把這片海域稱爲愛琴海。",
-     "en": ""
+     "en": "Situated between Greece, Turkey and Crete, the Aegean Sea is lined with islands including Santorini, Mykoros, Delos, Patmos and more. The name Haiqinhai comes from a variety of legends, one of which is derived from Greek mythology. King Minos of Crete offended the god of the sea for his disbelief, causing the queen to fall in love with a bull and give birth to a minotaur. King Minos builds a maze (Labyrinth) and locks up the violent Minotaur. Later, Minos forced Aegeus, the conquered king of Athens, to donate seven pairs of boys and girls each year to Minotaur as a sacrifice. On his third march, the Athenian prince Theseus stepped forward. King Aegean of Athens feared for his son's safety and promised that if he returned safely, he would replace the black sail with a white sail for weaving. With the help of Princess Crete, Titius enters and exits the labyrinth and kills Minotaur. When returning to Athens, Titius forgot to change the black sail into a white sail for some reason. The king, who was anxiously waiting day and night at the coastal palace, looked at the black sail. He was devastated, and then he threw himself into the sea and died. In his memory, the sea was called the Aegean Sea."
     }
    ]
   }
- ],
- "tags": {
-  "geo": [
-   "Aegean Sea",
-   "Europe"
-  ],
-  "subject": [],
-  "format": "長詩 Long-form"
- }
+ ]
 }

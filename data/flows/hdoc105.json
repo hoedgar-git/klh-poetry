@@ -21,113 +21,50 @@
   {
    "type": "stanza",
    "zh": [
-    "1041."
-   ],
-   "en": [
-    "1041"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "窗外就是青翠的視野"
-   ],
-   "en": [
-    "The view from the window is verdant."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "把自己放逐，帶回"
-   ],
-   "en": [
-    "Banish yourself and bring it back"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1041.",
+    "窗外就是青翠的視野",
+    "把自己放逐，帶回",
     "邊界景色，與盆栽分享"
    ],
    "en": [
+    "",
+    "The view from the window is verdant.",
+    "Banish yourself and bring it back",
     "Border View, Share with Bonsai"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1042."
-   ],
-   "en": [
-    "1042"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "你是王維坐看的那片雲"
-   ],
-   "en": [
-    "You are the cloud that Wang Wei sat looking at."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "舒卷有時，濕冷有時"
-   ],
-   "en": [
-    "Soothing curls sometimes, wet cold sometimes"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1042.",
+    "你是王維坐看的那片雲",
+    "舒卷有時，濕冷有時",
     "氤氳一整片山林"
    ],
    "en": [
+    "",
+    "You are the cloud that Wang Wei sat looking at.",
+    "Soothing curls sometimes, wet cold sometimes",
     "A whole mountain forest"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1043."
-   ],
-   "en": [
-    "1043"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "光，有時是粒子，有時是波"
-   ],
-   "en": [
-    "Light, sometimes particles, sometimes waves."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "風景，有時是滄海，有時是桑田"
-   ],
-   "en": [
-    "Scenery, sometimes Canghai, sometimes Sangtian"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1043.",
+    "光，有時是粒子，有時是波",
+    "風景，有時是滄海，有時是桑田",
     "説法者曰，有相皆是虛妄"
    ],
    "en": [
+    "",
+    "Light, sometimes particles, sometimes waves.",
+    "Scenery, sometimes Canghai, sometimes Sangtian",
     "The preacher said, there are people who are false."
-   ]
+   ],
+   "num": true
   },
   {
    "type": "note",
@@ -141,76 +78,34 @@
   {
    "type": "stanza",
    "zh": [
-    "1044."
-   ],
-   "en": [
-    "1044"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "疲倦的旅人，沒有趕上"
-   ],
-   "en": [
-    "Tired guests, didn't make it"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "你搭的那班列車"
-   ],
-   "en": [
-    "The train you took"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1044.",
+    "疲倦的旅人，沒有趕上",
+    "你搭的那班列車",
     "街燈昏黃，晚風寒"
    ],
    "en": [
+    "",
+    "Tired guests, didn't make it",
+    "The train you took",
     "Street lights twilight, late wind chill"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1045."
-   ],
-   "en": [
-    "1045"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "魚缸小"
-   ],
-   "en": [
-    "Small Fish Tank"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "有水草就好，魚説"
-   ],
-   "en": [
-    "Aquatic grass is fine, Fish says."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1045.",
+    "魚缸小",
+    "有水草就好，魚説",
     "陪我遨遊五湖四海"
    ],
    "en": [
+    "",
+    "Small Fish Tank",
+    "Aquatic grass is fine, Fish says.",
     "Swim the lakes with me"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -234,76 +129,34 @@
   {
    "type": "stanza",
    "zh": [
-    "1046."
-   ],
-   "en": [
-    "1046"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "走在棋盤上，只想跟你"
-   ],
-   "en": [
-    "Walking on the chessboard, I just want to be with you"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "好好下每一局，每一步棋"
-   ],
-   "en": [
-    "Play every game, every move."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1046.",
+    "走在棋盤上，只想跟你",
+    "好好下每一局，每一步棋",
     "步步經營，讓我繼續輸給你"
    ],
    "en": [
+    "",
+    "Walking on the chessboard, I just want to be with you",
+    "Play every game, every move.",
     "Run it step by step, let me keep losing to you"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1047."
-   ],
-   "en": [
-    "1047"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "旅途，幾何學的午后"
-   ],
-   "en": [
-    "Journey, Geometry Afternoon"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "適合寫一首詩"
-   ],
-   "en": [
-    "Ideal for writing a poem"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1047.",
+    "旅途，幾何學的午后",
+    "適合寫一首詩",
     "寄給遠方的自己"
    ],
    "en": [
+    "",
+    "Journey, Geometry Afternoon",
+    "Ideal for writing a poem",
     "Send to distant self"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -332,76 +185,34 @@
   {
    "type": "stanza",
    "zh": [
-    "1048."
-   ],
-   "en": [
-    "1048"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "夢回故鄉，始知"
-   ],
-   "en": [
-    "Dreaming of returning to your hometown, starting to know"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "街巷一直珍藏"
-   ],
-   "en": [
-    "The streets have always been treasured"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1048.",
+    "夢回故鄉，始知",
+    "街巷一直珍藏",
     "那枚童年的落日"
    ],
    "en": [
+    "",
+    "Dreaming of returning to your hometown, starting to know",
+    "The streets have always been treasured",
     "That childhood sunset"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1049."
-   ],
-   "en": [
-    "1049"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "我是一葉孤舟，飄泊於"
-   ],
-   "en": [
-    "I am a lone boat, drifting in"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "神話紛繁的愛琴海上"
-   ],
-   "en": [
-    "On the mythical Aegean Sea"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1049.",
+    "我是一葉孤舟，飄泊於",
+    "神話紛繁的愛琴海上",
     "等待星空非常希臘的夜晚"
    ],
    "en": [
+    "",
+    "I am a lone boat, drifting in",
+    "On the mythical Aegean Sea",
     "Waiting for a very Greek night in the stars"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -425,129 +236,52 @@
   {
    "type": "stanza",
    "zh": [
-    "如今"
-   ],
-   "en": [
-    "Nowadays"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "海域澄靜，落日西沉"
-   ],
-   "en": [
-    "Clear waters, sunset"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "蹀踱甲板"
-   ],
-   "en": [
-    "Pacing the deck"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "憶起一則沒有謎底的神話"
-   ],
-   "en": [
-    "Reminds me of a myth with no mystery."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "幾度徬徨"
-   ],
-   "en": [
-    "Wandering a few times"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "連神話的謎題也全然遺忘"
-   ],
-   "en": [
-    "Even the mythical puzzles are completely forgotten."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "古代的寓言已隨風而去"
-   ],
-   "en": [
-    "Ancient parables have gone with the wind"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "如今",
+    "海域澄靜，落日西沉",
+    "蹀踱甲板",
+    "憶起一則沒有謎底的神話",
+    "幾度徬徨",
+    "連神話的謎題也全然遺忘",
+    "古代的寓言已隨風而去",
     "海上只有蒼茫"
    ],
    "en": [
+    "Nowadays",
+    "Clear waters, sunset",
+    "Pacing the deck",
+    "Reminds me of a myth with no mystery.",
+    "Wandering a few times",
+    "Even the mythical puzzles are completely forgotten.",
+    "Ancient parables have gone with the wind",
     "There's nothing but blue in the sea."
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "只有蒼茫"
-   ],
-   "en": [
-    "Only the azure"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "只有蒼茫",
     "籠罩愛琴海遠方"
    ],
    "en": [
+    "Only the azure",
     "Shrouded far away in the Aegean Sea"
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "1050."
-   ],
-   "en": [
-    "1050"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "暮色漸漸蒼茫"
-   ],
-   "en": [
-    "Twilight is fading"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "那一份思念，又在"
-   ],
-   "en": [
-    "That thought, again,"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1050.",
+    "暮色漸漸蒼茫",
+    "那一份思念，又在",
     "詩的字裡行間來回流轉"
    ],
    "en": [
+    "",
+    "Twilight is fading",
+    "That thought, again,",
     "Poetry moves back and forth between the lines."
-   ]
+   ],
+   "num": true
   },
   {
    "type": "note",
@@ -570,12 +304,5 @@
     "https://www.youtube.com/watch?v=S-PzctJ4krI"
    ]
   }
- ],
- "meta": {
-  "slug": "hdoc105",
-  "series": "105",
-  "range": "1041–1050",
-  "count": 10,
-  "theme": ""
- }
+ ]
 }

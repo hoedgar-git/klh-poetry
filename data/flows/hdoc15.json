@@ -21,113 +21,50 @@
   {
    "type": "stanza",
    "zh": [
-    "141."
-   ],
-   "en": [
-    "(141)"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "人生是幾何圖形"
-   ],
-   "en": [
-    "Life is geometry"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "幾筆畢卡索"
-   ],
-   "en": [
-    "A couple of Picasso's."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "141.",
+    "人生是幾何圖形",
+    "幾筆畢卡索",
     "立體而且變奏"
    ],
    "en": [
+    "",
+    "Life is geometry",
+    "A couple of Picasso's.",
     "3-D and Variations"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "142."
-   ],
-   "en": [
-    "142"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "落葉繽紛"
-   ],
-   "en": [
-    "Fallen Leaves"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "脫離，也是一種態度"
-   ],
-   "en": [
-    "Disengagement is also an attitude"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "142.",
+    "落葉繽紛",
+    "脫離，也是一種態度",
     "旅程的開始"
    ],
    "en": [
+    "",
+    "Fallen Leaves",
+    "Disengagement is also an attitude",
     "The start of your trip"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "143."
-   ],
-   "en": [
-    "143"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "文字迴旋不到的遠方"
-   ],
-   "en": [
-    "Distant where the text does not circle"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "德弗札克的新世界"
-   ],
-   "en": [
-    "Dvorak's New World"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "143.",
+    "文字迴旋不到的遠方",
+    "德弗札克的新世界",
     "敲響，地平線外的想像"
    ],
    "en": [
+    "",
+    "Distant where the text does not circle",
+    "Dvorak's New World",
     "Ringing, imagination beyond the horizon"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "note",
@@ -147,76 +84,34 @@
   {
    "type": "stanza",
    "zh": [
-    "144."
-   ],
-   "en": [
-    "144"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "木魚之聲    空"
-   ],
-   "en": [
-    "Wooden Fish Sound Sky"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "拈花之手    空"
-   ],
-   "en": [
-    "Flower Picking Empty Hands"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "144.",
+    "木魚之聲    空",
+    "拈花之手    空",
     "輪迴之夢    空"
    ],
    "en": [
+    "",
+    "Wooden Fish Sound Sky",
+    "Flower Picking Empty Hands",
     "Reincarnation of Dream Void"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "145."
-   ],
-   "en": [
-    "145"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "一杯酒，十年燈"
-   ],
-   "en": [
-    "A glass of wine, ten years of lights"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "你有你的江湖"
-   ],
-   "en": [
-    "You have your rivers and lakes"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "145.",
+    "一杯酒，十年燈",
+    "你有你的江湖",
     "我有我的風塵"
    ],
    "en": [
+    "",
+    "A glass of wine, ten years of lights",
+    "You have your rivers and lakes",
     "I have my dust."
-   ]
+   ],
+   "num": true
   },
   {
    "type": "note",
@@ -230,187 +125,82 @@
   {
    "type": "stanza",
    "zh": [
-    "146."
-   ],
-   "en": [
-    "146"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "蹀踱甲板，薄霧濕涼"
-   ],
-   "en": [
-    "Pacing the deck, foggy and wet"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "心情隨風飄散"
-   ],
-   "en": [
-    "Mood floats with the wind"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "146.",
+    "蹀踱甲板，薄霧濕涼",
+    "心情隨風飄散",
     "從一個海灣到下一個海灣"
    ],
    "en": [
+    "",
+    "Pacing the deck, foggy and wet",
+    "Mood floats with the wind",
     "from one bay to the next."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "147."
-   ],
-   "en": [
-    "147"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "任晚風去追尋"
-   ],
-   "en": [
-    "Any evening breeze to pursue"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "落葉的足跡"
-   ],
-   "en": [
-    "Footprints of Deciduous Leaves"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "147.",
+    "任晚風去追尋",
+    "落葉的足跡",
     "我們，沿花徑回去"
    ],
    "en": [
+    "",
+    "Any evening breeze to pursue",
+    "Footprints of Deciduous Leaves",
     "Let's go back down the flower path."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "148."
-   ],
-   "en": [
-    "148"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "看落日"
-   ],
-   "en": [
-    "Watching the sunset"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "你有你的解讀"
-   ],
-   "en": [
-    "You have your interpretation."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "148.",
+    "看落日",
+    "你有你的解讀",
     "我有我的心事"
    ],
    "en": [
+    "",
+    "Watching the sunset",
+    "You have your interpretation.",
     "I have something on my mind"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "149."
-   ],
-   "en": [
-    "149"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "此岸  ?"
-   ],
-   "en": [
-    "Shigan"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "彼岸  ?"
-   ],
-   "en": [
-    "Paramita"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "149.",
+    "此岸  ?",
+    "彼岸  ?",
     "擺渡人的迷惘"
    ],
    "en": [
+    "",
+    "Shigan",
+    "Paramita",
     "Shuttle people's confusion"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "150."
-   ],
-   "en": [
-    "150"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "年輕時為你寫的詩"
-   ],
-   "en": [
-    "A poem written for you when you were young"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "留下的畫面"
-   ],
-   "en": [
-    "Screenshots left behind"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "150.",
+    "年輕時為你寫的詩",
+    "留下的畫面",
     "如煙，浮上眼前"
    ],
    "en": [
+    "",
+    "A poem written for you when you were young",
+    "Screenshots left behind",
     "Like smoke, floating in front of you"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "note",
@@ -427,12 +217,5 @@
     "https://www.youtube.com/watch?v=v1Qq8bNao94"
    ]
   }
- ],
- "meta": {
-  "slug": "hdoc15",
-  "series": "15",
-  "range": "141–150",
-  "count": 10,
-  "theme": ""
- }
+ ]
 }

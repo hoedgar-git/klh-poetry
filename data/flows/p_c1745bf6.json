@@ -49,22 +49,15 @@
    "zh": [
     "光，亮在嶺上的城堡",
     "把斑駁的史跡",
-    "交給蒼茫的天際"
-   ],
-   "en": [
-    "Light shines on the hilltop castle,",
-    "handing its mottled history",
-    "over to the vast, dim sky."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "交給蒼茫的天際",
     "光，亮在岸邊的教堂",
     "把安靜的信仰",
     "化成柔美的夜晚"
    ],
    "en": [
+    "Light shines on the hilltop castle,",
+    "handing its mottled history",
+    "over to the vast, dim sky.",
     "Light shines on the riverside church,",
     "turning quiet faith",
     "into a tender, beautiful night."
@@ -132,32 +125,18 @@
    "type": "stanza",
    "zh": [
     "明日離去",
-    "布達佩斯夜晚"
-   ],
-   "en": [
-    "Tomorrow I depart —",
-    "this Budapest night;"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "布達佩斯夜晚",
     "這一片光",
-    "或許"
-   ],
-   "en": [
-    "this expanse of light,",
-    "perhaps,"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "或許",
     "會在未來的時空裡",
     "回歸，閃亮",
     "摺疊出另一組紛繁意象"
    ],
    "en": [
+    "Tomorrow I depart —",
+    "this Budapest night;",
+    "this expanse of light,",
+    "perhaps,",
     "will, in some future time and space,",
     "return and shine again,",
     "unfolding another cluster of teeming images."
@@ -184,13 +163,5 @@
    "caption_zh": "鎖錬橋和對面的佩斯行政商業區。 (攝影/何康隆)",
    "caption_en": ""
   }
- ],
- "tags": {
-  "geo": [
-   "Budapest",
-   "Europe"
-  ],
-  "subject": [],
-  "format": "長詩 Long-form"
- }
+ ]
 }

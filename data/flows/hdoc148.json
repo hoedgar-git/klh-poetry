@@ -21,76 +21,34 @@
   {
    "type": "stanza",
    "zh": [
-    "1471."
-   ],
-   "en": [
-    "1471"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "露濕庭草風不定"
-   ],
-   "en": [
-    "Wet garden grass is indefinite"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "一片紅葉"
-   ],
-   "en": [
-    "A red leaf."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1471.",
+    "露濕庭草風不定",
+    "一片紅葉",
     "落苔階"
    ],
    "en": [
+    "",
+    "Wet garden grass is indefinite",
+    "A red leaf.",
     "Falling Moss Floor"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1472."
-   ],
-   "en": [
-    "1472"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "法國小酒莊，遙念文君當爐"
-   ],
-   "en": [
-    "French small winery, Yaonian Wenjun as a stove"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "一個美麗的潦倒，是過客"
-   ],
-   "en": [
-    "A beautiful downer, a passer-by."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1472.",
+    "法國小酒莊，遙念文君當爐",
+    "一個美麗的潦倒，是過客",
     "何必釃酒臨江？明日又天涯"
    ],
    "en": [
+    "",
+    "French small winery, Yaonian Wenjun as a stove",
+    "A beautiful downer, a passer-by.",
     "Why is it necessary to drink sake in the river? Tomorrow and Beyond"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -143,18 +101,11 @@
   {
    "type": "stanza",
    "zh": [
-    "一、首句：時空的疊影"
-   ],
-   "en": [
-    "I. First sentence: The superposition of time and space"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "一、首句：時空的疊影",
     "「法國小酒莊，遙念文君當爐」"
    ],
    "en": [
+    "I. First sentence: The superposition of time and space",
     "\"French small winery, Yaonian Wenjun as a stove\""
    ]
   },
@@ -163,21 +114,14 @@
    "zh": [
     "這一句極妙。",
     "法國小酒莊，是異域、現代、旅途中的現實場景；",
-    "文君當爐，則是中國古典文化中最著名的愛情與勇氣典故之一。"
-   ],
-   "en": [
-    "That's a brilliant phrase.",
-    "French small wineries are exotic, modern, and realistic scenes on the road.",
-    "Wenjun is one of the most famous allusions to love and courage in Chinese classical culture."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "文君當爐，則是中國古典文化中最著名的愛情與勇氣典故之一。",
     "兩者並置，形成一種時空錯位的疊影：",
     "異國的葡萄酒香，喚起千年前臨邛酒肆裡的炊煙與人影。"
    ],
    "en": [
+    "That's a brilliant phrase.",
+    "French small wineries are exotic, modern, and realistic scenes on the road.",
+    "Wenjun is one of the most famous allusions to love and courage in Chinese classical culture.",
     "The two are juxtaposed to form a stack of spatiotemporal dislocations:",
     "The exotic wine scent evokes the cooking smoke and people in the Rinju Wine House a thousand years ago."
    ]
@@ -185,56 +129,35 @@
   {
    "type": "stanza",
    "zh": [
-    "這不是單純的懷古，而是 ----"
-   ],
-   "en": [
-    "It's not just nostalgia, it 's--"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "這不是單純的懷古，而是 ----",
     "當下的飲酒之人，與歷史中敢於「潦倒而美」的靈魂，短暫對望。"
    ],
    "en": [
+    "It's not just nostalgia, it 's--",
     "The drinkers of the moment, and the souls who dare to be \"down and beautiful\" in history, are facing each other for a short time."
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "二、第二句：對「潦倒」的重新命名"
-   ],
-   "en": [
-    "II. Second sentence: renaming \"abject\""
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "二、第二句：對「潦倒」的重新命名",
     "「一個美麗的潦倒，是過客」"
    ],
    "en": [
+    "II. Second sentence: renaming \"abject\"",
     "\"A beautiful downfall, a passer-by\""
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "這一句是全詩的精神核心。"
-   ],
-   "en": [
-    "This sentence is the spiritual core of the whole poem."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "這一句是全詩的精神核心。",
     "「潦倒」本是失意、貧落、漂泊的詞，",
     "卻被你加上「美麗的」三字，",
     "於是它不再是失敗，而成為一種姿態。"
    ],
    "en": [
+    "This sentence is the spiritual core of the whole poem.",
     "\"Humiliation\" is originally a word for frustration, poverty, and wandering.",
     "But you added the word \"beautiful\" to it.",
     "So it is no longer a failure, but a gesture."
@@ -245,38 +168,24 @@
    "zh": [
     "「是過客」更關鍵——",
     "這潦倒不是命運的定義，而是旅途中的一站。",
-    "如文君與相如當年短暫的困頓，如此刻旅人在酒莊的一杯酒。"
+    "如文君與相如當年短暫的困頓，如此刻旅人在酒莊的一杯酒。",
+    "潦倒因為短暫，而顯得美。邂逅因為短暫，而顯得珍貴。"
    ],
    "en": [
     "\"Is a passer-by\" is more important--",
     "This is not a definition of destiny, but a stop in the journey.",
-    "Like Wenjun and the short-lived troubles of that year, such a moment is a glass of wine for guests at the winery."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "潦倒因為短暫，而顯得美。邂逅因為短暫，而顯得珍貴。"
-   ],
-   "en": [
+    "Like Wenjun and the short-lived troubles of that year, such a moment is a glass of wine for guests at the winery.",
     "Impoverishment is beautiful because it is short-lived. Encounters are precious because they are short-lived."
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "三、第三句：反問中的超脫"
-   ],
-   "en": [
-    "III. Third sentence: transcendence in rhetorical questions"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "三、第三句：反問中的超脫",
     "「何必釃酒臨江？」"
    ],
    "en": [
+    "III. Third sentence: transcendence in rhetorical questions",
     "“Why is there a need for sake in the river?”"
    ]
   },
@@ -296,38 +205,24 @@
    "zh": [
     "但你在此反問：",
     "既然只是過客，既然不打算把短暫的感傷升格為永恆的嘆息，",
-    "那又何必刻意借酒對天地發言？對歷史慨嘆？"
+    "那又何必刻意借酒對天地發言？對歷史慨嘆？",
+    "這是一種對生活姿態本身的自覺與節制。"
    ],
    "en": [
     "But here's your rhetoric:",
     "Since it is just a passer-by, since it is not intended to elevate the temporary sentiment into an eternal sigh,",
-    "Then why do you deliberately use alcohol to speak to the world? Marveling at history?"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "這是一種對生活姿態本身的自覺與節制。"
-   ],
-   "en": [
+    "Then why do you deliberately use alcohol to speak to the world? Marveling at history?",
     "It is an awareness and moderation of the way of life itself."
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "四、結句：灑脫的收束"
-   ],
-   "en": [
-    "IV. Conclusion: The End of the Spill"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "四、結句：灑脫的收束",
     "「明日又天涯」"
    ],
    "en": [
+    "IV. Conclusion: The End of the Spill",
     "\"Tomorrow and Beyond\""
    ]
   },
@@ -371,59 +266,31 @@
    "zh": [
     "這首詩寫的是，在異鄉路過酒莊時，與古人短暫對酌。",
     "承認人生的潦倒，卻拒絕把它演成悲劇。",
-    "因為明日，又是天涯，又是另一番景象。"
+    "因為明日，又是天涯，又是另一番景象。",
+    "走向一種現代旅人式的清醒，溫柔與瀟灑。"
    ],
    "en": [
     "The poem is about a brief encounter with the ancients as they pass a winery in a foreign land.",
     "Acknowledging life's downfall, but refusing to turn it into a tragedy.",
-    "Because tomorrow is the end of the world and another scene."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "走向一種現代旅人式的清醒，溫柔與瀟灑。"
-   ],
-   "en": [
+    "Because tomorrow is the end of the world and another scene.",
     "Towards a modern guest-like sobriety, gentleness and sleekness."
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "1473."
-   ],
-   "en": [
-    "1473"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "我們看海的潮汐，如何柔美的掀起浪花"
-   ],
-   "en": [
-    "We look at the tides of the sea, how gentle the waves are."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "我們看海的倒影，如何波動的掩映岩岸"
-   ],
-   "en": [
-    "We look at the reflection of the sea, how it fluctuates to obscure the rocky shore."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1473.",
+    "我們看海的潮汐，如何柔美的掀起浪花",
+    "我們看海的倒影，如何波動的掩映岩岸",
     "海明威看海的遠方，想老人與海的糾纒"
    ],
    "en": [
+    "",
+    "We look at the tides of the sea, how gentle the waves are.",
+    "We look at the reflection of the sea, how it fluctuates to obscure the rocky shore.",
     "Hemingway looked at the distance of the sea and thought of the old man's struggle with the sea."
-   ]
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -443,112 +310,49 @@
   {
    "type": "stanza",
    "zh": [
-    "1474."
+    "1474.",
+    "一朵花之内，一片葉之上",
+    "天藍得那麽澄清，地睡得那麽安静",
+    "風吹得那麽柔美，草長得那麽翠青"
    ],
    "en": [
-    "1474"
+    "",
+    "Inside a flower, above a leaf",
+    "Sky blue is so clear, sleeps so quietly",
+    "The wind blows so softly, the grass grows so emerald"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "一朵花之内，一片葉之上"
-   ],
-   "en": [
-    "Inside a flower, above a leaf"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "天藍得那麽澄清，地睡得那麽安静"
-   ],
-   "en": [
-    "Sky blue is so clear, sleeps so quietly"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "風吹得那麽柔美，草長得那麽翠青"
-   ],
-   "en": [
-    "The wind blows so softly, the grass grows so emerald"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "「一花一世界，一葉一如來」是出自《華嚴經》的佛教偈語，意思是從微觀的細節中"
-   ],
-   "en": [
-    "\"One flower, one world, one leaf is the same\" is a Buddhist phrase from the Hua Yan Sutra, meaning from the microscopic details"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "可以洞察到宏觀的宇宙真理。 它強調了「心境」的重要性，當心清淨時，就能在平凡"
-   ],
-   "en": [
-    "Macro-cosmic truths can be discerned. It emphasizes the importance of the “state of mind” that when you are cleansed, you will be able to"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "的事物中見到無窮的世界與襌性。 這句偈語也常被引申為一種哲學觀念，提醒人們要"
-   ],
-   "en": [
-    "Infinite worlds and natures are seen in things. This catchphrase is also often echoed as a philosophical reminder to"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "「一花一世界，一葉一如來」是出自《華嚴經》的佛教偈語，意思是從微觀的細節中",
+    "可以洞察到宏觀的宇宙真理。 它強調了「心境」的重要性，當心清淨時，就能在平凡",
+    "的事物中見到無窮的世界與襌性。 這句偈語也常被引申為一種哲學觀念，提醒人們要",
     "學會從細微之處看見宏大的世界，並尊重每一個生命與事物。"
    ],
    "en": [
+    "\"One flower, one world, one leaf is the same\" is a Buddhist phrase from the Hua Yan Sutra, meaning from the microscopic details",
+    "Macro-cosmic truths can be discerned. It emphasizes the importance of the “state of mind” that when you are cleansed, you will be able to",
+    "Infinite worlds and natures are seen in things. This catchphrase is also often echoed as a philosophical reminder to",
     "Learn to see the big world in small ways and respect every life and thing."
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "1475."
-   ],
-   "en": [
-    "1475"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "前菜，紅酒醋浸醃的蟹肉馬丁尼 Crabtini"
-   ],
-   "en": [
-    "Appetizer, red wine vinegar marinated crab martini Crabtini"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "主菜，腴嫩香甜略帶油脂的肋眼牛排 Ribeye"
-   ],
-   "en": [
-    "Main course, ribeye steak with tender, sweet and greasy ribeye"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1475.",
+    "前菜，紅酒醋浸醃的蟹肉馬丁尼 Crabtini",
+    "主菜，腴嫩香甜略帶油脂的肋眼牛排 Ribeye",
     "甜點，溫熱香脆濃郁細緻的焦糖布丁 Creme Brulee"
    ],
    "en": [
+    "",
+    "Appetizer, red wine vinegar marinated crab martini Crabtini",
+    "Main course, ribeye steak with tender, sweet and greasy ribeye",
     "Dessert, warm, crispy and delicate caramel pudding Creme Brulee"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "note",
@@ -562,39 +366,18 @@
   {
    "type": "stanza",
    "zh": [
-    "1476."
-   ],
-   "en": [
-    "1476"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "有人看到黄葉飄落"
-   ],
-   "en": [
-    "Somebody saw the yellow leaves falling."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "會聽到"
-   ],
-   "en": [
-    "you'll hear it."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1476.",
+    "有人看到黄葉飄落",
+    "會聽到",
     "白雪纷飛的聲音"
    ],
    "en": [
+    "",
+    "Somebody saw the yellow leaves falling.",
+    "you'll hear it.",
     "The sound of snow flying"
-   ]
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -623,218 +406,92 @@
   {
    "type": "stanza",
    "zh": [
-    "1477."
+    "1477.",
+    "人在",
+    "承諾還在",
+    "走在快抵達的旅途中"
    ],
    "en": [
-    "1477"
+    "",
+    "People",
+    "The promise is still there.",
+    "On your fast-track trip"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "人在"
-   ],
-   "en": [
-    "People"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "承諾還在"
-   ],
-   "en": [
-    "The promise is still there."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "走在快抵達的旅途中"
-   ],
-   "en": [
-    "On your fast-track trip"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "美國詩人佛洛斯特（Robert Frost）的詩作："
-   ],
-   "en": [
-    "Poetry by American poet Robert Frost:"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "美國詩人佛洛斯特（Robert Frost）的詩作：",
     "〈雪夜林畔，Stopping by Woods on a Snowy Evening〉"
    ],
    "en": [
+    "Poetry by American poet Robert Frost:",
     "\"Stopping by Woods on a Snowy Evening\""
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "「這樹林可愛，幽暗而深邃，但我還要信守某些承諾，"
-   ],
-   "en": [
-    "“The woods are lovely, dark and deep, but I have certain promises to keep."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "「這樹林可愛，幽暗而深邃，但我還要信守某些承諾，",
     "還要趕好幾哩路才安睡，還要趕好幾哩路才安睡。」"
    ],
    "en": [
+    "“The woods are lovely, dark and deep, but I have certain promises to keep.",
     "It's miles to sleep, miles to sleep. ”"
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "The woods are lovely, dark and deep"
-   ],
-   "en": [
-    "The woods are lovely, dark and deep"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "But I have promises to keep"
-   ],
-   "en": [
-    "But I have promises to keep"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "The woods are lovely, dark and deep",
+    "But I have promises to keep",
+    "And miles to go before I sleep",
     "And miles to go before I sleep"
    ],
    "en": [
+    "The woods are lovely, dark and deep",
+    "But I have promises to keep",
+    "And miles to go before I sleep",
     "And miles to go before I sleep"
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "And miles to go before I sleep"
+    "1478.",
+    "昨晚的星空，很古典很希臘",
+    "今晚的星空，很夢幻很米羅",
+    "明晚的星空，很深奧很AI"
    ],
    "en": [
-    "And miles to go before I sleep"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1478."
-   ],
-   "en": [
-    "1478"
+    "",
+    "Last night's starry sky, very classical, very Greek.",
+    "Tonight's starry sky is very dreamy and very milo",
+    "Tomorrow night's starry sky is very profound and AI"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "昨晚的星空，很古典很希臘"
-   ],
-   "en": [
-    "Last night's starry sky, very classical, very Greek."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "今晚的星空，很夢幻很米羅"
-   ],
-   "en": [
-    "Tonight's starry sky is very dreamy and very milo"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "明晚的星空，很深奧很AI"
-   ],
-   "en": [
-    "Tomorrow night's starry sky is very profound and AI"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "《重上大度山》余光中，1961"
-   ],
-   "en": [
-    "\"Revisiting Mt. Dadu\" in the Afterglow, 1961"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "姑且步黑暗的龍脊而下"
-   ],
-   "en": [
-    "Walk down the dark dragon's ridge."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "用觸覺透視"
-   ],
-   "en": [
-    "with tactile perspective."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "也可以走完這一列中世紀"
-   ],
-   "en": [
-    "or you can go through this medieval column."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "小葉和聰聰"
-   ],
-   "en": [
-    "Little Yeh and Satoshi"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "撥開你長睫上重重的夜"
-   ],
-   "en": [
-    "Dismiss the heavy night on your long eyelashes"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "就發現神話很守時"
-   ],
-   "en": [
-    "I found the myth to be punctual."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "《重上大度山》余光中，1961",
+    "姑且步黑暗的龍脊而下",
+    "用觸覺透視",
+    "也可以走完這一列中世紀",
+    "小葉和聰聰",
+    "撥開你長睫上重重的夜",
+    "就發現神話很守時",
     "星空，非常希臘    (第一段)"
    ],
    "en": [
+    "\"Revisiting Mt. Dadu\" in the Afterglow, 1961",
+    "Walk down the dark dragon's ridge.",
+    "with tactile perspective.",
+    "or you can go through this medieval column.",
+    "Little Yeh and Satoshi",
+    "Dismiss the heavy night on your long eyelashes",
+    "I found the myth to be punctual.",
     "Starry sky, very Greek (first paragraph)"
    ]
   },
@@ -856,18 +513,11 @@
   {
    "type": "stanza",
    "zh": [
-    "米羅:《戴著漂亮帽子的女人，星星 (Woman with a beautiful hat, star) 》1978。"
-   ],
-   "en": [
-    "Miró: Woman with a beautiful hat, star (1978)."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "米羅:《戴著漂亮帽子的女人，星星 (Woman with a beautiful hat, star) 》1978。",
     "這張油畫作品純粹又純真，而且深受當時收藏家喜愛。圖中右下方有一個黑圓點，其目的在讓作品中的結構達到平衡，與左邊的放射狀星星達到對等重量。畫面上藍底的中心有一個水滴的造型，代表著是女人身體，強烈的紅色把所有的焦點集中在她身上，她帶著一頂帽子，帽子帶有「角」的形狀；背景的藍天有著層次的筆觸讓畫面看起來更有「味道」。星星以「米」字代表，是黑暗中指引出希望座標的象徵。"
    ],
    "en": [
+    "Miró: Woman with a beautiful hat, star (1978).",
     "The painting was pure and innocent and loved by collectors at the time. There is a black dot at the bottom right of the diagram, which aims to balance the structure in the work and achieve the same weight as the radial star on the left. The center of the blue bottom on the screen has a shape of water droplets, representing the woman's body. The intense red color focuses all on her. She is wearing a hat with the shape of \"horns\"; the blue sky in the background has layers of brush strokes to make the picture look more \"flavorful\". The stars are represented by the word \"m\", which is a symbol that guides the coordinates of hope in the dark."
    ]
   },
@@ -898,76 +548,34 @@
   {
    "type": "stanza",
    "zh": [
-    "1479."
-   ],
-   "en": [
-    "1479"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "雪白的鮮筍，青紫的笳子，當然"
-   ],
-   "en": [
-    "Snow-white bamboo shoots, green purple pomfrets, of course."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "還有漬薑皮蛋之類清粥，然後"
-   ],
-   "en": [
-    "and porridge like pickled ginger peel and eggs, and then"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1479.",
+    "雪白的鮮筍，青紫的笳子，當然",
+    "還有漬薑皮蛋之類清粥，然後",
     "快樂地追憶，南台灣一個初夏清晨"
    ],
    "en": [
+    "",
+    "Snow-white bamboo shoots, green purple pomfrets, of course.",
+    "and porridge like pickled ginger peel and eggs, and then",
     "Happy memories of an early summer morning in southern Taiwan"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1480."
-   ],
-   "en": [
-    "1480"
    ],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "秋風起兮，草木黃落"
-   ],
-   "en": [
-    "Autumn breeze, yellowing of vegetation"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "群雁南飛，俯首叮嚀野花"
-   ],
-   "en": [
-    "The geese flew south, bowing their heads to the wildflowers"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "1480.",
+    "秋風起兮，草木黃落",
+    "群雁南飛，俯首叮嚀野花",
     "說，明年回來看你們"
    ],
    "en": [
+    "",
+    "Autumn breeze, yellowing of vegetation",
+    "The geese flew south, bowing their heads to the wildflowers",
     "said, coming back to see you guys next year."
-   ]
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -978,18 +586,11 @@
   {
    "type": "stanza",
    "zh": [
-    "蘭有秀兮菊有芳，懷佳人兮不能忘。"
-   ],
-   "en": [
-    "Lan Youxiu and Chrysanthemum are fragrant, and the loving lady can't forget."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "蘭有秀兮菊有芳，懷佳人兮不能忘。",
     "--漢 。劉徹《秋風辞》"
    ],
    "en": [
+    "Lan Youxiu and Chrysanthemum are fragrant, and the loving lady can't forget.",
     "--Han. Liu Che \"Autumn Rhetoric\""
    ]
   },
@@ -1006,12 +607,5 @@
     }
    ]
   }
- ],
- "meta": {
-  "slug": "hdoc148",
-  "series": "148",
-  "range": "1471–1480",
-  "count": 10,
-  "theme": ""
- }
+ ]
 }

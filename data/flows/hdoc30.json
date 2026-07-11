@@ -21,150 +21,91 @@
   {
    "type": "stanza",
    "zh": [
-    "291."
-   ],
-   "en": [],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "古寺，池塘"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "291.",
+    "古寺，池塘",
     "夏日急雨",
     "濺起芭蕉俳句"
    ],
-   "en": []
+   "en": [
+    "",
+    "Ancient Temple, Pond",
+    "Summer torrential rain",
+    "Splash the banana haiku"
+   ],
+   "num": true
   },
   {
    "type": "note",
    "points": [
     {
      "zh": "日本「俳聖」松尾芭蕉的經典俳句《 古池 》:\n閑寂古池旁\n青蛙跳入\n撲通一聲響",
-     "en": ""
+     "en": "Basho Matsuo's classic haiku \"Koike\":\nBy the quiet ancient pond\nFrog bounces in\nA plopping sound"
     }
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "292."
-   ],
-   "en": [],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "在花影婆娑的初夏"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "在暮色漸濃的秋日"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "292.",
+    "在花影婆娑的初夏",
+    "在暮色漸濃的秋日",
     "有個地方叫從前"
    ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "293."
+   "en": [
+    "",
+    "In the early summer of the flower shadow mother-in-law",
+    "In the dusk of autumn,",
+    "There's a place called Once Upon a Time"
    ],
-   "en": [],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "歲月從身上拂過"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "繽紛的，一一飄落，只留"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "293.",
+    "歲月從身上拂過",
+    "繽紛的，一一飄落，只留",
     "一些思念，幾許無奈"
    ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "294."
+   "en": [
+    "",
+    "The years pass by",
+    "Colorful, drifting one by one, leaving only",
+    "Some thoughts, some helplessness"
    ],
-   "en": [],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "旅程，有時"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "天涯是一片草原"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "294.",
+    "旅程，有時",
+    "天涯是一片草原",
     "有時， 海角是一抹月光"
    ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "295."
+   "en": [
+    "",
+    "Journeys, sometimes",
+    "Tianya is a grassland",
+    "Sometimes the cape is a glimmer of moonlight."
    ],
-   "en": [],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "蘋果成熟 ，賈伯斯探入"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "但見網路密織，iPhone  飄浮"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "295.",
+    "蘋果成熟 ，賈伯斯探入",
+    "但見網路密織，iPhone  飄浮",
     "不知雲端深處，今夕是何時 ?"
    ],
-   "en": []
+   "en": [
+    "",
+    "Ripe apples, Jobs enters",
+    "But I see the web is dense, the iPhone is floating",
+    "Deep in the clouds, what time is it tonight?"
+   ],
+   "num": true
   },
   {
    "type": "image",
@@ -177,171 +118,111 @@
    "points": [
     {
      "zh": "史蒂芬 · 賈伯斯 ( Steve  Jobs, 1955年2月24日－2011年10月5日）是蘋果公司的董事長。在他生活的年代，賈伯斯是電腦業界與娛樂業界的標誌性人物，也是Macintosh Computer、iPod、iPhone、iPad等知名數碼產品的締造者。他曾七次登上《時代雜誌》的封面，被認為是当时全球最成功的策略創業者之一。2007年，賈伯斯被《財富》雜誌評為年度最强有力產品經營者。賈伯斯的生涯造就了硅谷風險創業的傳奇，他將美學至上的設計理念推廣於全世界。他對簡約及便利設計的推崇，為他贏得了美譽和無數追隨者。下面三則取自他的名言:\n1.  保持進取的意念.....堅持執著的傻勁。（Stay hungry .....  Stay foolish。這是賈伯斯最著名的語錄之一，於2005年在史丹福演講時，將這句曾在雜誌上看到的話分享給所有的學生。對這句話有各種不同的解讀，而有各式的翻譯。）\n2.   你的時間有限，不要把時間虛耗在別人的生命中，不要陷入別人信奉的教條中，那不過是他人思考過的結果罷了，別讓自己內心的聲音被其他人的囉唆蓋掉。最重要的是，鼓起勇氣，跟隨你的心靈與直覺，追逐你心中想成為的人。\n3.  我們必須讓小事也令人難忘。We’ve got to make the small things unforgettable.",
-     "en": ""
+     "en": "Steve Jobs (February 24, 1955 - October 5, 2011) was the chairman of Apple. During his lifetime, Jobs was an icon in the computer and entertainment industries, and the creator of well-known digital products such as the Macintosh Computer, iPod, iPhone, and iPad. He appeared on the cover of Time magazine seven times and was considered one of the most successful strategic entrepreneurs in the world at the time. In 2007, Jobs was named Fortune Magazine's Most Powerful Product Operator of the Year. Jobs's career has created the legend of Silicon Valley venture entrepreneurship, and he has promoted aesthetic-oriented design ideas all over the world. His admiration for simplicity and convenience in design has earned him a reputation and countless followers. Here are three quotes from him:\n1. Maintain an enterprising mind..... the sillyness of persistence. (Stay hungry..... Stay foolish. This is one of Jobs' most famous quotes, which he shared with all of his students when he spoke at Stanford in 2005. There are various interpretations of this sentence, and there are various translations. ）\n2. Your time is limited. Do not waste time in other people's lives. Do not fall into the dogma that others believe. That is just the result of other people's thinking. Do not let your inner voice be overshadowed by other people's. Most importantly, summon the courage to follow your heart and intuition and chase the person you want to be in your heart. 3. We must make small things memorable. We've got to make the small things unforgettable."
     }
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "296."
-   ],
-   "en": [],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "如果不記下幾行詞句"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "怎知萬里秋雁"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "296.",
+    "如果不記下幾行詞句",
+    "怎知萬里秋雁",
     "帶走的是誰的孤寂"
    ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "297."
+   "en": [
+    "",
+    "If you don't memorize a few lines,",
+    "How do you know the Ten Thousand Mile Autumn Go",
+    "Whose loneliness did it take?"
    ],
-   "en": [],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "旅途漫漫"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "那落向天涯的"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "297.",
+    "旅途漫漫",
+    "那落向天涯的",
     "豈止昏黃的夕陽 ?"
    ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "298."
+   "en": [
+    "",
+    "It's a long trip",
+    "that falls to the ends of the earth",
+    "More than a twilight sunset?"
    ],
-   "en": [],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "柳宗元，可否陪你走雪原"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "看，千古流光"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "298.",
+    "柳宗元，可否陪你走雪原",
+    "看，千古流光",
     "釣，洣濛寒江"
    ],
-   "en": []
+   "en": [
+    "",
+    "Liu Zongyuan, can I accompany you to Xueyuan?",
+    "Look, the everlasting stream of light",
+    "Fishing, frozen river"
+   ],
+   "num": true
   },
   {
    "type": "note",
    "points": [
     {
      "zh": "**   唐。 柳宗元 《 江雪 》\n千山鳥飛絕，萬徑人踪滅。\n孤舟蓑笠翁，獨釣寒江雪。",
-     "en": ""
+     "en": "* * Tang Dynasty. Liu Zongyuan \"Jiang Xue\"\nThousands of mountain birds flew away, and thousands of paths were lost.\nLonely Boat Lei Qiweng, fishing alone in the cold river and snow."
     }
    ]
   },
   {
    "type": "stanza",
    "zh": [
-    "299."
-   ],
-   "en": [],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "299.",
     "沿溪行",
     "忘路之遠近",
     "那就浪跡天涯吧 !"
    ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "300."
+   "en": [
+    "",
+    "Bike along the creek",
+    "Far and Near Forgotten Road",
+    "Then wander the ends of the earth!"
    ],
-   "en": [],
    "num": true
   },
   {
    "type": "stanza",
    "zh": [
-    "霧迷津渡，疑無路"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "你來，陪我靜坐，指說"
-   ],
-   "en": []
-  },
-  {
-   "type": "stanza",
-   "zh": [
+    "300.",
+    "霧迷津渡，疑無路",
+    "你來，陪我靜坐，指說",
     "柳暗盡處，風荷滿池"
    ],
-   "en": []
+   "en": [
+    "",
+    "Misty Jindu, doubtless no way",
+    "You come, meditate with me, and say",
+    "Willow in the Dark, Windy Pool"
+   ],
+   "num": true
   },
   {
    "type": "note",
    "points": [
     {
      "zh": "宋。  秦觀 《 踏莎行 》\n霧失樓台，月迷津渡，桃源望斷無尋處。\n可堪孤館閉春寒，杜鵑聲裡斜陽暮。\n驛寄梅花，魚傳尺素。砌成此恨無重數。\n郴江幸自繞郴山，為誰流下瀟湘去？",
-     "en": ""
+     "en": "Song. Qin Guan \"Tu Sha Xing\"\nThe fog lost its platform, the moon lost its way, and there was nowhere to find Taoyuan.\nThe lonely house was closed in the spring cold, and Du Yan's voice was sloping at dusk.\nSend plum blossoms, fish ration.Masonry this hate without multiplication.\nChenjiang is fortunate enough to go around the mountains, for whom to shed the Hunan?"
     },
     {
      "zh": "《 You Raise Me Up 》\nMusic: Secret Garden,   Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be\nJosh Groban You Raise Me Up\n2014~You Raise Me Up [中文字幕]\nYou Raise Me Up_台灣原聲童聲合唱團",
-     "en": ""
+     "en": "\"You Raise Me Up\"\nMusic: Secret Garden, Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be\nJosh Groban You Raise Me Up\n2014 ~ You Raise Me Up [Chinese subtitle]\nYou Raise Me Up_Taiwan Acoustic Children's Choir"
     }
    ]
   }
- ],
- "meta": {
-  "slug": "hdoc30",
-  "series": "30",
-  "range": "291–300",
-  "count": 10,
-  "theme": ""
- }
+ ]
 }
