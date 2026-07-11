@@ -2,7 +2,7 @@
  "slug": "hdoc15",
  "kind": "haiku",
  "title": "現代俳句和變奏 15",
- "source": "現代俳句和變奏--已發表‐-15.docx",
+ "source": "現代俳句和變奏--15.docx",
  "flow": [
   {
    "type": "stanza",
@@ -114,6 +114,13 @@
    "en": ""
   },
   {
+   "type": "yt",
+   "label": "",
+   "urls": [
+    "https://www.youtube.com/watch?v=dEcVrniE9Z0"
+   ]
+  },
+  {
    "type": "stanza",
    "zh": [
     "144."
@@ -194,14 +201,14 @@
   {
    "type": "stanza",
    "zh": [
-    "心情隨風飄散，從一個"
+    "心情隨風飄散"
    ],
    "en": []
   },
   {
    "type": "stanza",
    "zh": [
-    "海灣，到下一個海灣"
+    "從一個海灣到下一個海灣"
    ],
    "en": []
   },
@@ -360,6 +367,13 @@
    "type": "note",
    "zh": "而初次流淚的青春",
    "en": ""
+  },
+  {
+   "type": "yt",
+   "label": "",
+   "urls": [
+    "https://www.youtube.com/watch?v=v1Qq8bNao94"
+   ]
   }
  ],
  "meta": {

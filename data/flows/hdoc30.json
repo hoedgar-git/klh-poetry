@@ -2,7 +2,7 @@
  "slug": "hdoc30",
  "kind": "haiku",
  "title": "現代俳句和變奏 30",
- "source": "現代俳句和變奏--已發表‐-30.docx",
+ "source": "現代俳句和變奏--30.docx",
  "flow": [
   {
    "type": "stanza",
@@ -347,7 +347,7 @@
   {
    "type": "stanza",
    "zh": [
-    "你來，陪我靜坐，指説"
+    "你來，陪我靜坐，指說"
    ],
    "en": []
   },
@@ -401,6 +401,26 @@
   {
    "type": "note",
    "zh": "You raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be",
+   "en": ""
+  },
+  {
+   "type": "note",
+   "zh": "YouTube :",
+   "en": ""
+  },
+  {
+   "type": "note",
+   "zh": "Josh Groban You Raise Me Up",
+   "en": ""
+  },
+  {
+   "type": "note",
+   "zh": "2014~You Raise Me Up [中文字幕]",
+   "en": ""
+  },
+  {
+   "type": "note",
+   "zh": "You Raise Me Up_台灣原聲童聲合唱團",
    "en": ""
   }
  ],
