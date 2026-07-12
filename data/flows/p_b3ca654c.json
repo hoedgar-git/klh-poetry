@@ -1,0 +1,119 @@
+{
+ "slug": "p_b3ca654c",
+ "kind": "poem",
+ "title": "亞德里亞海變奏曲",
+ "source": "亞德里亞海變奏曲.docx",
+ "flow": [
+  {
+   "type": "title",
+   "zh": "亞德里亞海變奏曲\nAdriatic Coast. Croatia"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/p_b3ca654c/img1.jpg",
+   "caption_zh": "離開 Dubrovnik古城\nDalmatia沿海山路\n蜿蜒險峻\n一如它詭譎的歷史\n晌午的風雨",
+   "caption_en": ""
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "一陣緊似一陣",
+    "急促地敲擊車窗",
+    "揚起茫茫煙霧",
+    "掩遮了浮島和岬角",
+    "更遠處",
+    "迷濛的亞德里亞海",
+    "那些流浪於奧狄塞史詩裡",
+    "疲困又望鄉的水手",
+    "怎能抵擋",
+    "這一片風雨煙嵐",
+    "回到他們故國的港灣 ？"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "夜宿海濱",
+    "濤聲沖岸",
+    "弦月寒涼"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "明日北上",
+    "穿越Diocletian 古道",
+    "村落，一個比一個陌生",
+    "地名，一個比一個蒼老",
+    "浸染著希臘和羅馬色澤",
+    "在Split",
+    "或許在 Trogir",
+    "臨海的城堡",
+    "牆垣華麗",
+    "壁畫剝離",
+    "守著北門",
+    "或許是南門",
+    "聽潮浪，等風向",
+    "蹺首盼望",
+    "鼓聲自海上響起",
+    "威尼斯的船艦商旅",
+    "破浪而來",
+    "踐赴一場曾是輝煌的史蹟"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "像水手浪跡天涯",
+    "船隻遠遊四海",
+    "在這異鄉古老的土地",
+    "我們似乎也漂泊得很久",
+    "或許該讓",
+    "飄浮的思緒",
+    "流動的光影",
+    "隨着疲憊的夕陽",
+    "一起旋落於",
+    "亞德里亞海的暮靄霞光",
+    "也是",
+    "雲和帆隱沒的地方"
+   ],
+   "en": []
+  },
+  {
+   "type": "note",
+   "points": [
+    {
+     "zh": "Dubrovnik ( 杜布鲁夫尼克城堡 )is a historical old city on the Adriatic coast ( 亞德里亞海沿岸 ) of Croatia, positioned at the southern terminal end of Croatia. It is one of the most famous tourist towns on the Adriatic Sea.  In 1979, the walled city of Dubrovnik joined the UNESCO list of the World Heritage Sites.",
+     "en": ""
+    },
+    {
+     "zh": "Dalmatia is an historical region of Croatia on the eastern coast of the Adriatic Sea.",
+     "en": ""
+    },
+    {
+     "zh": "奧狄塞 (Odyssey)是希臘詩人荷馬所寫二大史詩之一，敘述因强奪海倫皇后，攻打特洛伊 (Troy)後，戰士們在還鄉途中，在海上漫長漂泊過程，所經歷的艱危困苦。愛倫坡 ( Edgar Allen Poe )所寫的「 致海倫，To  Helen 」一詩中的第一段：\n「 海倫，你的美麗對於我／有如昔日尼西亞的帆船／在芬芳的海上悠然滑過／       載著疲困流浪的水手還鄉／回到他們故國的海灣。」",
+     "en": ""
+    },
+    {
+     "zh": "Diocletian, a Roman Emperor from 284 to 305 AD, was born to a low status in the Roman province of Dalmatia (now Croatia). He decided in 286 to divide the Roman empire between himself in the east  ( 東羅馬 ) and Maximian in the west ( 西羅馬 )。",
+     "en": ""
+    },
+    {
+     "zh": "Split and Trogir, two historic old towns on the Adriatic coast, are prominent tourist destinations in Croatia. Both are famed for their well-preserved palace and old city.",
+     "en": ""
+    },
+    {
+     "zh": "威尼斯是威尼斯共和國 (13世纪到16 世紀 ) 的行政，貿易和文藝中心。鼎盛時期擁有船艦三千艘，來往於意大利，拜占庭和伊斯蘭諸國間，主宰亞德里亞海，愛琴海和地中海的海上貿易活動。",
+     "en": ""
+    }
+   ]
+  }
+ ]
+}

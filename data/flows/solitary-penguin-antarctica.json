@@ -1,0 +1,124 @@
+{
+ "slug": "solitary-penguin-antarctica",
+ "kind": "poem",
+ "title": "孤立雪地的企鵝",
+ "source": "孤立雪地的企鵝--中文，英文.docx",
+ "flow": [
+  {
+   "type": "title",
+   "zh": "孤立雪地的企鵝"
+  },
+  {
+   "type": "subtitle",
+   "zh": "Antarctic Peninsula"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/solitary-penguin-antarctica/img1.jpg",
+   "caption_zh": "不問你為何離群出走",
+   "caption_en": ""
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "孤獨於冰雪砌造的絕壁",
+    "凝視   迷濛寒霧",
+    "屏息   千年流光",
+    "以立足天地之姿",
+    "蹀踱於水墨畫的渺茫"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "岬灣靜無波",
+    "萬徑人蹤沒",
+    "我是否可以陪你",
+    "看浮冰悠然滑過",
+    "聽寒風沿岸吹拂",
+    "一起思索",
+    "萬古的禪境空無",
+    "歲月的緣起緣落"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "------------------------------------------"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "《孤立雪地的企鵝》  by  KL Ho"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "不問你爲何離群出走",
+    "孤獨於冰雪砌造的絕壁",
+    "凝視 迷濛寒霧",
+    "屏息 千年流光",
+    "以立足天地之姿",
+    "蹀踱於水墨畫的空茫"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "岬灣靜無波",
+    "萬徑人縱沒",
+    "是否可以陪你",
+    "看浮冰悠然滑過",
+    "聽寒風四方吹拂",
+    "思索",
+    "萬古的禪境空無",
+    "人世的緣起緣落"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "\" A Lonely Penguin In The Snow \"    by KL Ho"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "I don't ask why you ran away from the group",
+    "Alone on a cliff made of ice and snow",
+    "Staring at the misty cold fog",
+    "Hold your breath, millennium streamer",
+    "Stand on the ground",
+    "Wandering in the void of ink painting"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "Quiet Bay",
+    "From path to path, no man in sight",
+    "Can I accompany you",
+    "Watch the ice floes slide by leisurely",
+    "Listen to the cold wind blowing everywhere",
+    "Pondering",
+    "The eternal Zen realm is empty",
+    "The origin and fall of the world"
+   ],
+   "en": []
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "p_new_1IgUEC",
+ "kind": "poem",
+ "title": "飛越 Okavango内陸三角洲",
+ "source": "飛越 Okavango内陸三角洲.docx",
+ "flow": [
+  {
+   "type": "title",
+   "zh": "飛越  Okavango 內陸三角洲\nBotswana,  Africa"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/p_new_1IgUEC/img1.jpg",
+   "caption_zh": "Okavango 內陸三角洲,  Botswana,  Africa",
+   "caption_en": ""
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "大地終於攤開一張玄紙",
+    "素描剛落筆",
+    "大河就彎彎曲曲",
+    "自天邊橫斜過來",
+    "畫了兩三行渾厚的篆草",
+    "磅礡如趙無極的抽象",
+    "勾勒留白處",
+    "隱藏著米羅欲說",
+    "未說的什麼"
+   ],
+   "en": [
+    "At last the earth unrolls a sheet of dark paper.",
+    "The sketch has barely begun",
+    "when the great river, winding and bending,",
+    "slants in from the edge of the sky,",
+    "drawing two or three bold strokes of seal-script grass —",
+    "magnificent as a Zao Wou-Ki abstraction;",
+    "and in the blank of the outline",
+    "hides what Miró meant to say",
+    "and left unsaid."
+   ]
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "煙嵐漸散",
+    "非洲五月的陽光",
+    "恣意地鋪陳",
+    "明暗浸染的水墨圖案",
+    "極眼處",
+    "長軸已展",
+    "這蒼茫大地",
+    "誰來落款 ?"
+   ],
+   "en": [
+    "The mist slowly clears;",
+    "the May sunlight of Africa",
+    "spreads out at will.",
+    "An ink-wash pattern steeped in light and shade —",
+    "at the farthest reach of sight,",
+    "the long scroll is unrolled.",
+    "This vast, hazy land —",
+    "who will sign it?"
+   ]
+  },
+  {
+   "type": "note",
+   "points": [
+    {
+     "zh": "非洲的Okavango Delta，世界最大的內陸三角洲，是 Okavango River自 Angola從北向南，經Namibia，注入Botswana境內的Kalahari沙漠而成。2014年被列爲 UNESCO第1000個世界自然遺產。時值夏季，水量豐沛，三角洲內河道曲折縱橫，湖泊，沙洲和草原參差交錯。從機艙俯望，近處幾何圖形，色彩繁富，遠處煙嵐渺茫，幻成迷離意境。",
+     "en": "Africa’s Okavango Delta, the world’s largest inland delta, is formed by the Okavango River flowing south from Angola, through Namibia, into the Kalahari Desert in Botswana. In 2014 it became UNESCO’s 1,000th World Heritage Site. In summer, when the water is abundant, the delta’s channels twist and interlace, with lakes, sandbars, and grasslands scattered among them. Seen from the plane, the near view is a wealth of geometric shapes and colours, the far view a dim haze — resolving into a dreamlike, elusive scene."
+    },
+    {
+     "zh": "趙無極 ( 1921 - 2013 ), 法籍華裔畫家，以油畫色彩呈現水墨浸染的意境。被譽為「 西方現代抒情抽象派的代表 」。",
+     "en": "Zao Wou-Ki (1921–2013), a French-Chinese painter who rendered the spirit of ink-wash in the colours of oil painting. He is regarded as “a representative of modern Western lyrical abstraction.”"
+    },
+    {
+     "zh": "米羅 ( Joan Miro 1893 - 1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。以超現實手法，簡約圖相，表現如夢似幻的詩意。",
+     "en": "Miró (Joan Miró, 1893–1983) is one of Spain’s three great painters, ranked with Picasso and Dalí. With surrealist methods and pared-down imagery, he expressed a dreamlike poetry."
+    }
+   ]
+  }
+ ]
+}

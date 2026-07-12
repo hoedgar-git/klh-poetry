@@ -1,0 +1,67 @@
+{
+ "slug": "flower-fragrance-botswana",
+ "kind": "poem",
+ "title": "今生有花香留下嗎？",
+ "source": "今生有花香留下嗎？.docx",
+ "flow": [
+  {
+   "type": "title",
+   "zh": "今生有花香留下嗎 ?\nOkavango Delta， Botswana"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/flower-fragrance-botswana/img1.jpg",
+   "caption_zh": "獨木舟緩緩划入\nXugana 淡橘色的黃昏\n波紋粼粼\n浮印着蓮葉片片\n色彩紛然\n勾勒出神秘的原始圖案",
+   "caption_en": ""
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "周遭如此寧靜",
+    "只有漿聲一起一落",
+    "搖晃着遠去的心情",
+    "越過疏離的蘆葦",
+    "有蓮花孤立",
+    "在向晚微風中",
+    "沉默無語"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "\" 今生有花香留下嗎? \""
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "隨著問話",
+    "我把自己",
+    "划入",
+    "愈來愈濃的暮色"
+   ],
+   "en": []
+  },
+  {
+   "type": "note",
+   "points": [
+    {
+     "zh": "非洲的Okavango Delta，世界最大的內陸三角洲，是 Okavango River自 Angola從北向南，經Namibia，注入Botswana境內的Kalahari沙漠而成。2014年被列爲 UNESCO第1000個世界自然遺產。時值夏季，水量豐沛，三角洲內河道曲折縱橫，湖泊，沙洲和草原參差交錯。 Xugana 是孤立於三角洲東北角上的小島。日落時分，獨木舟在蘆葦漫生的水面滑行, 異國景色和原始氛圍, 在倒映的晚霞夕照裡，逐次展開，迷離濃郁。晚風習習，漿影摇曳，暗然浮生 \" 小舟從此去，蒼茫寄餘生 \" 的飄散心情。",
+     "en": ""
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "src": "images/flow/flower-fragrance-botswana/img2.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ]
+}
