@@ -3,7 +3,7 @@
  "kind": "haiku",
  "title": "現代俳句和變奏 15",
  "source": "現代俳句和變奏--15.docx",
- "flow": [
+ "front": [
   {
    "type": "subtitle",
    "zh": "現代俳句 & 變奏     系列 《 15 》"
@@ -17,204 +17,256 @@
    "src": "images/flow/hdoc15/img1.jpg",
    "caption_zh": "",
    "caption_en": ""
-  },
+  }
+ ],
+ "haiku": [
   {
-   "type": "stanza",
-   "zh": [
-    "141.",
-    "人生是幾何圖形",
-    "幾筆畢卡索",
-    "立體而且變奏"
-   ],
-   "en": [
-    "",
-    "Life is geometry",
-    "A couple of Picasso's.",
-    "3-D and Variations"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "142.",
-    "落葉繽紛",
-    "脫離，也是一種態度",
-    "旅程的開始"
-   ],
-   "en": [
-    "",
-    "Fallen Leaves",
-    "Disengagement is also an attitude",
-    "The start of your trip"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "143.",
-    "文字迴旋不到的遠方",
-    "德弗札克的新世界",
-    "敲響，地平線外的想像"
-   ],
-   "en": [
-    "",
-    "Distant where the text does not circle",
-    "Dvorak's New World",
-    "Ringing, imagination beyond the horizon"
-   ],
-   "num": true
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 141,
+   "flow": [
     {
-     "zh": "德弗札克 ( Antonin Leopold Dvorak,  1841-1904 ) 是捷克最偉大的作曲家。1891年受邀到美國紐約擔任國民音樂院院長，因緣際會，創作了備受歡迎和肯定的第九號交響曲「 From the New World 」。台灣樂界稱之為「新世界交響曲」。此交響曲融合了捷克波西米亞旋律，美國民謠和黑人靈歌，極富旋律性，令人難忘。其中第二樂章是緩板，也是大家熟悉的「念故鄉」，旋律如泣如訴，感人肺腑。第四樂章則是燦爛華麗的奏鳴曲，呈現出火焰般的快板，樂曲齊奏，有如千軍萬馬奔騰，讓人震撼，感動不已。",
-     "en": "Antonin Leopold Dvorak (1841-1904) was the greatest Czech composer. In 1891, he was invited to New York, USA, as the president of the National Conservatory, where he composed the popular and affirmed Ninth Symphony \"From the New World\". Taiwanese music circles call it the New World Symphony. This symphony is a melodic and unforgettable blend of Czech bohemian melodies, American folk songs, and black spiritual songs. The second movement is a slow board, and it is also a familiar \"nostalgic hometown\". The melody is sobbing and moving. The fourth movement is a brilliant and gorgeous sonata, showing a flaming fast board. The music is played together, like a thousand armies and horses rushing, which is shocking and moving."
+     "type": "stanza",
+     "zh": [
+      "141.",
+      "人生是幾何圖形",
+      "幾筆畢卡索",
+      "立體而且變奏"
+     ],
+     "en": [
+      "",
+      "Life is geometry",
+      "A couple of Picasso's.",
+      "3-D and Variations"
+     ],
+     "num": true
     }
    ]
   },
   {
-   "type": "yt",
-   "urls": [
-    "https://www.youtube.com/watch?v=dEcVrniE9Z0"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "144.",
-    "木魚之聲    空",
-    "拈花之手    空",
-    "輪迴之夢    空"
-   ],
-   "en": [
-    "",
-    "Wooden Fish Sound Sky",
-    "Flower Picking Empty Hands",
-    "Reincarnation of Dream Void"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "145.",
-    "一杯酒，十年燈",
-    "你有你的江湖",
-    "我有我的風塵"
-   ],
-   "en": [
-    "",
-    "A glass of wine, ten years of lights",
-    "You have your rivers and lakes",
-    "I have my dust."
-   ],
-   "num": true
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 142,
+   "flow": [
     {
-     "zh": "北宋  。黄庭堅 《 寄黄几復 》\n 我居北海君南海，寄雁傳書謝不能。\n 桃李春風一杯酒，江湖夜雨十年燈。\n 持家但有四立壁，治病不蕲三折肱。\n 想見讀書頭已白，隔溪猿哭瘴溪藤。",
-     "en": "Northern Song Dynasty. Huang Tingjian \"Sending Huang Guifu\"\n I live in the Beihai Junnanhai, and I can't send a book to the geese. Thank you.\n Peach and plum spring breeze a glass of wine, Jianghu night rain ten years lamp.\n Although he is the head of the family, he has four vertical walls, and his healing is not triple-folded.\n I want to see that the reading head is white, and the ape weeps in the canyon."
+     "type": "stanza",
+     "zh": [
+      "142.",
+      "落葉繽紛",
+      "脫離，也是一種態度",
+      "旅程的開始"
+     ],
+     "en": [
+      "",
+      "Fallen Leaves",
+      "Disengagement is also an attitude",
+      "The start of your trip"
+     ],
+     "num": true
     }
    ]
   },
   {
-   "type": "stanza",
-   "zh": [
-    "146.",
-    "蹀踱甲板，薄霧濕涼",
-    "心情隨風飄散",
-    "從一個海灣到下一個海灣"
-   ],
-   "en": [
-    "",
-    "Pacing the deck, foggy and wet",
-    "Mood floats with the wind",
-    "from one bay to the next."
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "147.",
-    "任晚風去追尋",
-    "落葉的足跡",
-    "我們，沿花徑回去"
-   ],
-   "en": [
-    "",
-    "Any evening breeze to pursue",
-    "Footprints of Deciduous Leaves",
-    "Let's go back down the flower path."
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "148.",
-    "看落日",
-    "你有你的解讀",
-    "我有我的心事"
-   ],
-   "en": [
-    "",
-    "Watching the sunset",
-    "You have your interpretation.",
-    "I have something on my mind"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "149.",
-    "此岸  ?",
-    "彼岸  ?",
-    "擺渡人的迷惘"
-   ],
-   "en": [
-    "",
-    "Shigan",
-    "Paramita",
-    "Shuttle people's confusion"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "150.",
-    "年輕時為你寫的詩",
-    "留下的畫面",
-    "如煙，浮上眼前"
-   ],
-   "en": [
-    "",
-    "A poem written for you when you were young",
-    "Screenshots left behind",
-    "Like smoke, floating in front of you"
-   ],
-   "num": true
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 143,
+   "flow": [
     {
-     "zh": "詞  / 曲 :    羅大佑\n《 光陰的故事 》\n發黃的相片，古老的信\n以及，褪色的聖誕卡 \n年輕時為你寫的歌\n恐怕你早已忘了吧 \n過去的誓言，就像\n那課本裡繽紛的書籤 \n刻畫著多少美麗的詩\n可是，終究是一陣煙 \n流水它帶走光陰的故事\n改變了兩個人 \n就在那多愁善感\n而初次流淚的青春",
-     "en": "Lyrics/Music: Luo Dayou\n“The Story of Time”\nYellowing photos, old letters\nAnd, faded Christmas cards. \nSongs written for you when you were young\nI'm afraid you've already forgotten. \nPast vows, like\nThe colorful bookmarks in that textbook. \ndepicting how many beautiful poems\nBut, after all, it was a puff of smoke. \nFlowing Water It Takes Away the Story of Time\nChanged two people \nRight there, sentimental.\nAnd the youth of the first tears"
+     "type": "stanza",
+     "zh": [
+      "143.",
+      "文字迴旋不到的遠方",
+      "德弗札克的新世界",
+      "敲響，地平線外的想像"
+     ],
+     "en": [
+      "",
+      "Distant where the text does not circle",
+      "Dvorak's New World",
+      "Ringing, imagination beyond the horizon"
+     ],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "德弗札克 ( Antonin Leopold Dvorak,  1841-1904 ) 是捷克最偉大的作曲家。1891年受邀到美國紐約擔任國民音樂院院長，因緣際會，創作了備受歡迎和肯定的第九號交響曲「 From the New World 」。台灣樂界稱之為「新世界交響曲」。此交響曲融合了捷克波西米亞旋律，美國民謠和黑人靈歌，極富旋律性，令人難忘。其中第二樂章是緩板，也是大家熟悉的「念故鄉」，旋律如泣如訴，感人肺腑。第四樂章則是燦爛華麗的奏鳴曲，呈現出火焰般的快板，樂曲齊奏，有如千軍萬馬奔騰，讓人震撼，感動不已。",
+       "en": "Antonin Leopold Dvorak (1841-1904) was the greatest Czech composer. In 1891, he was invited to New York, USA, as the president of the National Conservatory, where he composed the popular and affirmed Ninth Symphony \"From the New World\". Taiwanese music circles call it the New World Symphony. This symphony is a melodic and unforgettable blend of Czech bohemian melodies, American folk songs, and black spiritual songs. The second movement is a slow board, and it is also a familiar \"nostalgic hometown\". The melody is sobbing and moving. The fourth movement is a brilliant and gorgeous sonata, showing a flaming fast board. The music is played together, like a thousand armies and horses rushing, which is shocking and moving."
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=dEcVrniE9Z0"
+     ]
     }
    ]
   },
   {
-   "type": "yt",
-   "urls": [
-    "https://www.youtube.com/watch?v=v1Qq8bNao94"
+   "n": 144,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "144.",
+      "木魚之聲    空",
+      "拈花之手    空",
+      "輪迴之夢    空"
+     ],
+     "en": [
+      "",
+      "Wooden Fish Sound Sky",
+      "Flower Picking Empty Hands",
+      "Reincarnation of Dream Void"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "145.",
+      "一杯酒，十年燈",
+      "你有你的江湖",
+      "我有我的風塵"
+     ],
+     "en": [
+      "",
+      "A glass of wine, ten years of lights",
+      "You have your rivers and lakes",
+      "I have my dust."
+     ],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "北宋  。黄庭堅 《 寄黄几復 》\n 我居北海君南海，寄雁傳書謝不能。\n 桃李春風一杯酒，江湖夜雨十年燈。\n 持家但有四立壁，治病不蕲三折肱。\n 想見讀書頭已白，隔溪猿哭瘴溪藤。",
+       "en": "Northern Song Dynasty. Huang Tingjian \"Sending Huang Guifu\"\n I live in the Beihai Junnanhai, and I can't send a book to the geese. Thank you.\n Peach and plum spring breeze a glass of wine, Jianghu night rain ten years lamp.\n Although he is the head of the family, he has four vertical walls, and his healing is not triple-folded.\n I want to see that the reading head is white, and the ape weeps in the canyon."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 146,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "146.",
+      "蹀踱甲板，薄霧濕涼",
+      "心情隨風飄散",
+      "從一個海灣到下一個海灣"
+     ],
+     "en": [
+      "",
+      "Pacing the deck, foggy and wet",
+      "Mood floats with the wind",
+      "from one bay to the next."
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 147,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "147.",
+      "任晚風去追尋",
+      "落葉的足跡",
+      "我們，沿花徑回去"
+     ],
+     "en": [
+      "",
+      "Any evening breeze to pursue",
+      "Footprints of Deciduous Leaves",
+      "Let's go back down the flower path."
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 148,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "148.",
+      "看落日",
+      "你有你的解讀",
+      "我有我的心事"
+     ],
+     "en": [
+      "",
+      "Watching the sunset",
+      "You have your interpretation.",
+      "I have something on my mind"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 149,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "149.",
+      "此岸  ?",
+      "彼岸  ?",
+      "擺渡人的迷惘"
+     ],
+     "en": [
+      "",
+      "Shigan",
+      "Paramita",
+      "Shuttle people's confusion"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 150,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "150.",
+      "年輕時為你寫的詩",
+      "留下的畫面",
+      "如煙，浮上眼前"
+     ],
+     "en": [
+      "",
+      "A poem written for you when you were young",
+      "Screenshots left behind",
+      "Like smoke, floating in front of you"
+     ],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "詞  / 曲 :    羅大佑\n《 光陰的故事 》\n發黃的相片，古老的信\n以及，褪色的聖誕卡 \n年輕時為你寫的歌\n恐怕你早已忘了吧 \n過去的誓言，就像\n那課本裡繽紛的書籤 \n刻畫著多少美麗的詩\n可是，終究是一陣煙 \n流水它帶走光陰的故事\n改變了兩個人 \n就在那多愁善感\n而初次流淚的青春",
+       "en": "Lyrics/Music: Luo Dayou\n“The Story of Time”\nYellowing photos, old letters\nAnd, faded Christmas cards. \nSongs written for you when you were young\nI'm afraid you've already forgotten. \nPast vows, like\nThe colorful bookmarks in that textbook. \ndepicting how many beautiful poems\nBut, after all, it was a puff of smoke. \nFlowing Water It Takes Away the Story of Time\nChanged two people \nRight there, sentimental.\nAnd the youth of the first tears"
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=v1Qq8bNao94"
+     ]
+    }
    ]
   }
  ]

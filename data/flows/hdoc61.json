@@ -3,7 +3,7 @@
  "kind": "haiku",
  "title": "現代俳句和變奏 61",
  "source": "現代俳句和變奏--61.docx",
- "flow": [
+ "front": [
   {
    "type": "subtitle",
    "zh": "現代俳句 & 變奏     系列《61》"
@@ -17,260 +17,312 @@
    "src": "images/flow/hdoc61/img1.jpg",
    "caption_zh": "",
    "caption_en": ""
-  },
+  }
+ ],
+ "haiku": [
   {
-   "type": "stanza",
-   "zh": [
-    "601.",
-    "風起，薄霧漸散",
-    "留下一縷",
-    "看花的心情"
-   ],
-   "en": [
-    "",
-    "The wind blows and the fog dissipates",
-    "Leave a drop",
-    "Look at the mood of the flowers"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "602.",
-    "人生，長長的牆",
-    "我們輪流上色塗染",
-    "用潑夢的方式？"
-   ],
-   "en": [
-    "",
-    "Life, long walls",
-    "We take turns painting.",
-    "In a dreamy way?"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "603.",
-    "今夜，不想再與世界，再與",
-    "自己評價爭論，只待羊群",
-    "一隻一隻，跳進晚秋漸冷的夢境"
-   ],
-   "en": [
-    "",
-    "Tonight, I don't want to be with the world again, with",
-    "Evaluate and argue on your own, only for the flock",
-    "One by one, jumping into the cold dream of late autumn"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "604.",
-    "午時，第凡尼橱窗，浮光映照",
-    "人群面罩晃晃，一時恍然，回到",
-    "威尼斯嘉年華會，面具華麗又紛繁"
-   ],
-   "en": [
-    "",
-    "Afternoon Floating Tiffany Window",
-    "The crowd's masks dangled, and suddenly, back",
-    "Venice Carnival, gorgeous and flamboyant masks"
-   ],
-   "num": true
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc61/img2.jpg",
-   "caption_zh": "",
-   "caption_en": ""
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 601,
+   "flow": [
     {
-     "zh": "威尼斯嘉年華會 （ Carnival of Venice，義大利文為Carnevale ），又稱為面具節，意指封齋前的狂歡慶典。其歷史可追朔自11世紀，當時的威尼斯共和國戰勝了鄰國烏爾瑞科，民眾們為了慶祝勝利而湧入威尼斯聖馬各廣埸，連日狂歡。爾後威尼斯國力日漸強大，到了13世紀後便將流傳已久的狂歡盛會，依照宗教曆法將時間固定下來，遂以「嘉年華」的名稱在每年復活節四旬齋（Quaresima）之前舉行，為期約10-12天。什麼是四旬齋呢？根據天主教曆法，復活節於每年3、4月間舉行，為了紀念耶穌受難，故將復活節前40天訂為封齋期，又稱「四旬齋」；這段期間嚴禁教徒葷食及飲酒作樂，所以教徒們都趕在封齋前先放縱自己幾天，盡情享樂一番。（ 按， 嘉年華會carnevale這一字的來源，拉丁文carnem (肉) + levale  (拿掉，去除)， levare carne…把肉拿掉，不吃肉的意思.）\n面具（Masquerade ）的出現是在13世紀左右，由於威尼斯十分繁榮，卻也拉大了貴族與平民間的貧富差距，所以在嘉年華期間讓所有人都戴上面具，穿上最好的裝扮，不分階級的一起恣意狂歡，共同享受慶典的歡樂。既然是面具節，也就是可以盡情打扮的化妝舞會，不管是當地人或旅客，在這個時候都可以拋下現實，穿著中古世紀的服裝，再配上華麗的珠寶及羽毛，個個都能化身為宮廷中的耀眼主角，再戴上詭譎、富戲劇性的的面具，不僅神秘又充滿想像空間。  （ 整理自 Skyscanner, 2019 ）",
-     "en": "Carnival of Venice (Carnevale in Italian), also known as the Mask Festival, refers to the carnival before the fast. Its history can be traced back to the 11th century, when the Republic of Venice defeated the neighboring country of Ulrico, and people poured into the city of San Marco to celebrate their victory. After that, Venice became more and more powerful. After the 13th century, the carnival, which had been circulating for a long time, fixed the time according to the religious calendar, and it was held before the Easter Lent (Quaresima) every year for about 10-12 days under the name of \"carnival\". What is Lent? According to the Catholic calendar, Easter is held in March and April every year. In order to commemorate Jesus' crucifixion, the first 40 days of Easter were set as a fasting period, also known as \"Lent\". During this period, it is strictly forbidden for Christians to eat and drink for fun, so Christians are in a hurry to indulge themselves for a few days before fasting and enjoy themselves. (According to the source of the word carnevale for carnival, carnem (meat) + levale (remove, remove) in Latin, levare carne... the meaning of removing meat and not eating meat.)\nThe appearance of the mask (Masquerade) was around the 13th century. Because Venice was very prosperous, but it also widened the gap between the rich and poor between the nobility and the commoners, so during the carnival, everyone wore masks, dressed in the best costumes, and enjoyed the joy of the celebration together, regardless of class. Since it is a mask festival, that is, a masquerade party where you can dress up as you please, whether it is locals or tourists, at this time, you can leave reality behind, wear medieval costumes, with gorgeous jewelry and feathers, each one can become a dazzling protagonist in the court, and wear a sly and dramatic mask, which is not only mysterious but also full of imagination. (Compiled from Skyscanner, 2019)"
+     "type": "stanza",
+     "zh": [
+      "601.",
+      "風起，薄霧漸散",
+      "留下一縷",
+      "看花的心情"
+     ],
+     "en": [
+      "",
+      "The wind blows and the fog dissipates",
+      "Leave a drop",
+      "Look at the mood of the flowers"
+     ],
+     "num": true
     }
    ]
   },
   {
-   "type": "image",
-   "src": "images/flow/hdoc61/img3.jpg",
-   "caption_zh": "Masquerade.  Carnival of Venice.",
-   "caption_en": ""
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc61/img4.jpg",
-   "caption_zh": "Masquerade.  Carnival of Venice.",
-   "caption_en": ""
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc61/img5.jpg",
-   "caption_zh": "COVID-19.    繽紛時潮的面罩。     （ 網路照片）",
-   "caption_en": ""
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc61/img6.jpg",
-   "caption_zh": "COVID-19.    華麗實用的面罩。      （ 網路照片）",
-   "caption_en": ""
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "605.",
-    "今年，COVID-19暗裡匍伏",
-    "推倒前方骨牌，一路",
-    "冷笑，翻轉歷史"
-   ],
-   "en": [
-    "",
-    "This year, COVID-19 lurks",
-    "Push back the dominoes in front, all the way",
-    "Sneer, flip history"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "606.",
-    "如今，疫苗與疫情較勁，這一波",
-    "翻滚的COVID-19，如何退縮",
-    "局勢，長風破浪會有時？"
-   ],
-   "en": [
-    "",
-    "Nowadays, vaccines and epidemics are competing, and this wave",
-    "Rolling COVID-19, how to back down",
-    "Situation, long winds and waves sometimes?"
-   ],
-   "num": true
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 602,
+   "flow": [
     {
-     "zh": "唐   。李白 《 行路難，其一 》\n行路難，行路難，多歧路，今安在。\n長風破浪會有時，直掛雲帆濟滄海。",
-     "en": "Tang. Li Bai, The Difficulty of Traveling, Part One\nDifficult roads, difficult roads, divergent roads, now at peace.\nThe long wind breaks the waves sometimes, and the clouds sail straight up to the sea."
+     "type": "stanza",
+     "zh": [
+      "602.",
+      "人生，長長的牆",
+      "我們輪流上色塗染",
+      "用潑夢的方式？"
+     ],
+     "en": [
+      "",
+      "Life, long walls",
+      "We take turns painting.",
+      "In a dreamy way?"
+     ],
+     "num": true
     }
    ]
   },
   {
-   "type": "image",
-   "src": "images/flow/hdoc61/img7.jpg",
-   "caption_zh": "（ 網路照片）",
-   "caption_en": ""
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "607.",
-    "臨摹傳説的獨釣寒江雪",
-    "朗讀現代的星空非常希臘",
-    "又得COVID-19 半日閒"
-   ],
-   "en": [
-    "",
-    "Copy the legendary solo fishing cold river snow",
-    "Read the modern starry sky very Greek",
-    "and get half a day of COVID-19."
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "608.",
-    "冬日，細雪紛紛",
-    "窗框轉成畫框，一幅幅",
-    "隨暮色襲來的心事"
-   ],
-   "en": [
-    "",
-    "Snow on a winter's day",
-    "Window Frame to Picture Frame, One Frame",
-    "What comes with the twilight"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "609.",
-    "一首詩，飄落於",
-    "暮色深處，月色升起",
-    "會有人凝神細讀  ?"
-   ],
-   "en": [
-    "",
-    "A poem that floats on",
-    "Deep in the twilight, the moon rises",
-    "Will someone read it intently?"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "610.",
-    "有風的日子，真好",
-    "茉莉花，飄入",
-    "杜蘭朵公主的髮角"
-   ],
-   "en": [
-    "",
-    "It's nice on a windy day.",
-    "Jasmine, drifting in",
-    "Princess Durando's Hair"
-   ],
-   "num": true
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc61/img8.jpg",
-   "caption_zh": "",
-   "caption_en": ""
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc61/img9.jpg",
-   "caption_zh": "",
-   "caption_en": ""
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 603,
+   "flow": [
     {
-     "zh": "義大利歌劇大師喬柯摩．普契尼 (Giacomo Puccini, 1858-1924) 的最後遺作「杜蘭朵」(Turandot)，在作曲家罹咽喉癌逝世的1年半後，1926年4月25日於米蘭史卡拉歌劇院，由普契尼好友托斯卡尼尼舉行盛大首演。早在1904年，普契尼憑藉「蝴蝶夫人」歌劇，讓人們驚艷他在異國文化中所施展的精妙融合的天賦。在「杜蘭朵」中，普契尼更將觸角延伸到對當時西方人極為神祕又遙遠的古代中國，並將江蘇民歌「茉莉花」曲調寫入歌劇中。整埸歌劇中，茉莉花旋律共出現八次。譬如，首次出現在第一幕，“The Mountains of The East”，波斯王子出來之前，一隊兒童邊唱歌邊走來，“Princess come to me…”，  “Everything will bloom, everything will shine” 。  普契尼 一生共留下十二部歌劇作品，全都與愛情有關，被公認是繼威爾第 (Giuseppe Verdi) 之後，最偉大的義大利歌劇作曲家。",
-     "en": "Turandot, the last work of the Italian opera master Giacomo Puccini (1858-1924), was premiered by Puccini's friend Toscanini at the La Scala Opera in Milan on April 25, 1926, a year and a half after the composer's death from throat cancer. As early as 1904, Puccini used the opera Madame Butterfly to amaze people with his exquisite blend of talents in exotic cultures. In \"Durando\", Puccini extended his tentacles to ancient China, which was very mysterious and distant to Westerners at that time, and wrote the Jiangsu folk song \"Jasmine\" into the opera. In the whole opera, the jasmine melody appeared a total of eight times. For example, in the first act, \"The Mountains of The East\", before the Prince of Persia came out, a group of children sang and walked, \"Princess come to me...\", \"Everything will bloom, everything will shine\". Puccini left behind twelve operas, all related to love, and is recognized as the greatest Italian opera composer since Giuseppe Verdi."
+     "type": "stanza",
+     "zh": [
+      "603.",
+      "今夜，不想再與世界，再與",
+      "自己評價爭論，只待羊群",
+      "一隻一隻，跳進晚秋漸冷的夢境"
+     ],
+     "en": [
+      "",
+      "Tonight, I don't want to be with the world again, with",
+      "Evaluate and argue on your own, only for the flock",
+      "One by one, jumping into the cold dream of late autumn"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 604,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "604.",
+      "午時，第凡尼橱窗，浮光映照",
+      "人群面罩晃晃，一時恍然，回到",
+      "威尼斯嘉年華會，面具華麗又紛繁"
+     ],
+     "en": [
+      "",
+      "Afternoon Floating Tiffany Window",
+      "The crowd's masks dangled, and suddenly, back",
+      "Venice Carnival, gorgeous and flamboyant masks"
+     ],
+     "num": true
     },
     {
-     "zh": "劇情大要\n在古代中國，政府下令，欲娶公主杜蘭朵（Turandot）者，須猜對公主的三個謎語；但如有猜錯，便要處死。流亡中國的韃靼王子卡拉富（卡拉夫）和父親帖木兒（Timur），侍女柳兒（Liù）在北京城重逢後，即看到波斯王子遭處決，以及杜蘭朵在卡拉富王子被杜蘭朵公主的美貌吸引，不顧父親，柳兒和三位大臣平（Ping），龐（Pang），彭（Pong）的反對來應婚，答對了所有問題，原來這三道謎題的答案分別是“希望”，“熱情”和\n“杜蘭朵”。但杜蘭朵拒絕認輸，向父皇撒賴，不願嫁給卡拉富王子，於是王子自己出了一道謎題，只要公主在天亮前猜出他的名字，卡拉富不但不娶公主，還願意被處死，公主捉到了王子的父親帖木兒和丫鬟柳兒，並且嚴刑逼供。柳兒自盡以示保守秘密。帖木兒此指責杜蘭朵十分無情。天亮時，公主尚未得知王子之名，但王子的強吻融化了她冰般冷漠的心，而王子也把真名告訴了公主。公主也沒宣布王子的真名，反而宣布天下下嫁王子，並說王子的名字叫：“ Amore”，意大利語即“ 愛 ”。   （ 整理自維基百科）",
-     "en": "Drama Digest\nIn ancient China, the government ordered those who wanted to marry Princess Turandot to guess the three riddles of the princess; but if they guessed wrong, they would be put to death.Tatar Prince Karafu (Karaf) and his father Timur and his maid Liù in exile in China saw the execution of the Prince of Persia after their reunion in Beijing, and Durando was attracted to the beauty of Princess Durando in Karafu. Despite the opposition of his father, Liu and three ministers, Ping, Pang and Pong, they agreed to marry and answered all the questions correctly. It turns out that the answers to these three puzzles are \"hope\", \"enthusiasm\" and \"hope\".\n\"Turandot\".However, Durando refused to admit defeat and was unwilling to marry his father, the emperor, and the prince himself posed a puzzle. As long as the princess guessed his name before dawn, Carafour not only did not marry the princess, but also was willing to be executed. The princess captured the prince's father, Timur and Yaliul, and severely tortured him to extract a confession.Will kill herself as a sign of secrecy.Tamerlane rebuked Turandot for his ruthlessness.At dawn, the princess had not yet learned the prince's name, but the prince's kiss melted her cold heart, and the prince also told the princess his real name.The princess did not announce the prince's real name, but instead announced that the world would marry the prince, saying that the prince's name was \"Amore\", Italian for \"love\".   (from Wikipedia)"
+     "type": "image",
+     "src": "images/flow/hdoc61/img2.jpg",
+     "caption_zh": "",
+     "caption_en": ""
     },
     {
-     "zh": "《茉莉花》，是一首著名的中國民歌，該曲調歷史久遠，最早源於清朝乾隆年間，初名為《鮮花調》，一直為民間小調。《茉莉花》在中國地區有多個版本流傳，各個版本的曲調、歌詞大同小異。流傳最廣的是南京、揚州、蘇州一帶的民歌。《茉莉花》不但在中國流行傳唱，更因杜蘭朵歌劇的宣染，在西方音樂界中廣為流傳。\n好一朵美麗的茉莉花\n好一朵美麗的茉莉花\n芬芳美麗滿枝椏\n又香又白人人誇\n讓我來將你摘下\n送給別人家\n茉莉花呀茉莉花",
-     "en": "\"Jasmine\" is a famous Chinese folk song with a long history. It originated in the Qianlong period of the Qing Dynasty and was originally called \"Flower Tune\". It has always been a folk minor.\"Jasmine\" has been circulated in various versions in China, and the tune and lyrics of each version are similar.The most widely circulated are folk songs from Nanjing, Yangzhou, and Suzhou.\"Jasmine\" is not only popular in China, but also widely circulated in the Western music industry due to the publicity of Durando's opera.\nWhat a beautiful jasmine.\nWhat a beautiful jasmine.\nThe fragrance is beautiful and full of branches\nSmells white and boasts\nLet me take you off.\nGive to someone else\nJasmine! Jasmine!"
+     "type": "note",
+     "points": [
+      {
+       "zh": "威尼斯嘉年華會 （ Carnival of Venice，義大利文為Carnevale ），又稱為面具節，意指封齋前的狂歡慶典。其歷史可追朔自11世紀，當時的威尼斯共和國戰勝了鄰國烏爾瑞科，民眾們為了慶祝勝利而湧入威尼斯聖馬各廣埸，連日狂歡。爾後威尼斯國力日漸強大，到了13世紀後便將流傳已久的狂歡盛會，依照宗教曆法將時間固定下來，遂以「嘉年華」的名稱在每年復活節四旬齋（Quaresima）之前舉行，為期約10-12天。什麼是四旬齋呢？根據天主教曆法，復活節於每年3、4月間舉行，為了紀念耶穌受難，故將復活節前40天訂為封齋期，又稱「四旬齋」；這段期間嚴禁教徒葷食及飲酒作樂，所以教徒們都趕在封齋前先放縱自己幾天，盡情享樂一番。（ 按， 嘉年華會carnevale這一字的來源，拉丁文carnem (肉) + levale  (拿掉，去除)， levare carne…把肉拿掉，不吃肉的意思.）\n面具（Masquerade ）的出現是在13世紀左右，由於威尼斯十分繁榮，卻也拉大了貴族與平民間的貧富差距，所以在嘉年華期間讓所有人都戴上面具，穿上最好的裝扮，不分階級的一起恣意狂歡，共同享受慶典的歡樂。既然是面具節，也就是可以盡情打扮的化妝舞會，不管是當地人或旅客，在這個時候都可以拋下現實，穿著中古世紀的服裝，再配上華麗的珠寶及羽毛，個個都能化身為宮廷中的耀眼主角，再戴上詭譎、富戲劇性的的面具，不僅神秘又充滿想像空間。  （ 整理自 Skyscanner, 2019 ）",
+       "en": "Carnival of Venice (Carnevale in Italian), also known as the Mask Festival, refers to the carnival before the fast. Its history can be traced back to the 11th century, when the Republic of Venice defeated the neighboring country of Ulrico, and people poured into the city of San Marco to celebrate their victory. After that, Venice became more and more powerful. After the 13th century, the carnival, which had been circulating for a long time, fixed the time according to the religious calendar, and it was held before the Easter Lent (Quaresima) every year for about 10-12 days under the name of \"carnival\". What is Lent? According to the Catholic calendar, Easter is held in March and April every year. In order to commemorate Jesus' crucifixion, the first 40 days of Easter were set as a fasting period, also known as \"Lent\". During this period, it is strictly forbidden for Christians to eat and drink for fun, so Christians are in a hurry to indulge themselves for a few days before fasting and enjoy themselves. (According to the source of the word carnevale for carnival, carnem (meat) + levale (remove, remove) in Latin, levare carne... the meaning of removing meat and not eating meat.)\nThe appearance of the mask (Masquerade) was around the 13th century. Because Venice was very prosperous, but it also widened the gap between the rich and poor between the nobility and the commoners, so during the carnival, everyone wore masks, dressed in the best costumes, and enjoyed the joy of the celebration together, regardless of class. Since it is a mask festival, that is, a masquerade party where you can dress up as you please, whether it is locals or tourists, at this time, you can leave reality behind, wear medieval costumes, with gorgeous jewelry and feathers, each one can become a dazzling protagonist in the court, and wear a sly and dramatic mask, which is not only mysterious but also full of imagination. (Compiled from Skyscanner, 2019)"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc61/img3.jpg",
+     "caption_zh": "Masquerade.  Carnival of Venice.",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc61/img4.jpg",
+     "caption_zh": "Masquerade.  Carnival of Venice.",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc61/img5.jpg",
+     "caption_zh": "COVID-19.    繽紛時潮的面罩。     （ 網路照片）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc61/img6.jpg",
+     "caption_zh": "COVID-19.    華麗實用的面罩。      （ 網路照片）",
+     "caption_en": ""
     }
    ]
   },
   {
-   "type": "yt",
-   "urls": [
-    "https://www.youtube.com/watch?v=frcKDw9IVgY",
-    "https://www.youtube.com/watch?v=o4ajxa1nrIA",
-    "https://www.youtube.com/watch?v=LG2U98mJxl8",
-    "https://www.youtube.com/watch?v=PAAUqGjOSxw",
-    "https://www.youtube.com/watch?v=EqqwdgaBv9g",
-    "https://www.youtube.com/watch?v=0HtbbXdKFZw&list=PLnBzjDXKfTeLSr6jmhh6hKZlT3Hx56h7T",
-    "https://www.youtube.com/watch?v=suj-2sbSFKs"
+   "n": 605,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "605.",
+      "今年，COVID-19暗裡匍伏",
+      "推倒前方骨牌，一路",
+      "冷笑，翻轉歷史"
+     ],
+     "en": [
+      "",
+      "This year, COVID-19 lurks",
+      "Push back the dominoes in front, all the way",
+      "Sneer, flip history"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 606,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "606.",
+      "如今，疫苗與疫情較勁，這一波",
+      "翻滚的COVID-19，如何退縮",
+      "局勢，長風破浪會有時？"
+     ],
+     "en": [
+      "",
+      "Nowadays, vaccines and epidemics are competing, and this wave",
+      "Rolling COVID-19, how to back down",
+      "Situation, long winds and waves sometimes?"
+     ],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐   。李白 《 行路難，其一 》\n行路難，行路難，多歧路，今安在。\n長風破浪會有時，直掛雲帆濟滄海。",
+       "en": "Tang. Li Bai, The Difficulty of Traveling, Part One\nDifficult roads, difficult roads, divergent roads, now at peace.\nThe long wind breaks the waves sometimes, and the clouds sail straight up to the sea."
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc61/img7.jpg",
+     "caption_zh": "（ 網路照片）",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 607,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "607.",
+      "臨摹傳説的獨釣寒江雪",
+      "朗讀現代的星空非常希臘",
+      "又得COVID-19 半日閒"
+     ],
+     "en": [
+      "",
+      "Copy the legendary solo fishing cold river snow",
+      "Read the modern starry sky very Greek",
+      "and get half a day of COVID-19."
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 608,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "608.",
+      "冬日，細雪紛紛",
+      "窗框轉成畫框，一幅幅",
+      "隨暮色襲來的心事"
+     ],
+     "en": [
+      "",
+      "Snow on a winter's day",
+      "Window Frame to Picture Frame, One Frame",
+      "What comes with the twilight"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 609,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "609.",
+      "一首詩，飄落於",
+      "暮色深處，月色升起",
+      "會有人凝神細讀  ?"
+     ],
+     "en": [
+      "",
+      "A poem that floats on",
+      "Deep in the twilight, the moon rises",
+      "Will someone read it intently?"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 610,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "610.",
+      "有風的日子，真好",
+      "茉莉花，飄入",
+      "杜蘭朵公主的髮角"
+     ],
+     "en": [
+      "",
+      "It's nice on a windy day.",
+      "Jasmine, drifting in",
+      "Princess Durando's Hair"
+     ],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc61/img8.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc61/img9.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "義大利歌劇大師喬柯摩．普契尼 (Giacomo Puccini, 1858-1924) 的最後遺作「杜蘭朵」(Turandot)，在作曲家罹咽喉癌逝世的1年半後，1926年4月25日於米蘭史卡拉歌劇院，由普契尼好友托斯卡尼尼舉行盛大首演。早在1904年，普契尼憑藉「蝴蝶夫人」歌劇，讓人們驚艷他在異國文化中所施展的精妙融合的天賦。在「杜蘭朵」中，普契尼更將觸角延伸到對當時西方人極為神祕又遙遠的古代中國，並將江蘇民歌「茉莉花」曲調寫入歌劇中。整埸歌劇中，茉莉花旋律共出現八次。譬如，首次出現在第一幕，“The Mountains of The East”，波斯王子出來之前，一隊兒童邊唱歌邊走來，“Princess come to me…”，  “Everything will bloom, everything will shine” 。  普契尼 一生共留下十二部歌劇作品，全都與愛情有關，被公認是繼威爾第 (Giuseppe Verdi) 之後，最偉大的義大利歌劇作曲家。",
+       "en": "Turandot, the last work of the Italian opera master Giacomo Puccini (1858-1924), was premiered by Puccini's friend Toscanini at the La Scala Opera in Milan on April 25, 1926, a year and a half after the composer's death from throat cancer. As early as 1904, Puccini used the opera Madame Butterfly to amaze people with his exquisite blend of talents in exotic cultures. In \"Durando\", Puccini extended his tentacles to ancient China, which was very mysterious and distant to Westerners at that time, and wrote the Jiangsu folk song \"Jasmine\" into the opera. In the whole opera, the jasmine melody appeared a total of eight times. For example, in the first act, \"The Mountains of The East\", before the Prince of Persia came out, a group of children sang and walked, \"Princess come to me...\", \"Everything will bloom, everything will shine\". Puccini left behind twelve operas, all related to love, and is recognized as the greatest Italian opera composer since Giuseppe Verdi."
+      },
+      {
+       "zh": "劇情大要\n在古代中國，政府下令，欲娶公主杜蘭朵（Turandot）者，須猜對公主的三個謎語；但如有猜錯，便要處死。流亡中國的韃靼王子卡拉富（卡拉夫）和父親帖木兒（Timur），侍女柳兒（Liù）在北京城重逢後，即看到波斯王子遭處決，以及杜蘭朵在卡拉富王子被杜蘭朵公主的美貌吸引，不顧父親，柳兒和三位大臣平（Ping），龐（Pang），彭（Pong）的反對來應婚，答對了所有問題，原來這三道謎題的答案分別是“希望”，“熱情”和\n“杜蘭朵”。但杜蘭朵拒絕認輸，向父皇撒賴，不願嫁給卡拉富王子，於是王子自己出了一道謎題，只要公主在天亮前猜出他的名字，卡拉富不但不娶公主，還願意被處死，公主捉到了王子的父親帖木兒和丫鬟柳兒，並且嚴刑逼供。柳兒自盡以示保守秘密。帖木兒此指責杜蘭朵十分無情。天亮時，公主尚未得知王子之名，但王子的強吻融化了她冰般冷漠的心，而王子也把真名告訴了公主。公主也沒宣布王子的真名，反而宣布天下下嫁王子，並說王子的名字叫：“ Amore”，意大利語即“ 愛 ”。   （ 整理自維基百科）",
+       "en": "Drama Digest\nIn ancient China, the government ordered those who wanted to marry Princess Turandot to guess the three riddles of the princess; but if they guessed wrong, they would be put to death.Tatar Prince Karafu (Karaf) and his father Timur and his maid Liù in exile in China saw the execution of the Prince of Persia after their reunion in Beijing, and Durando was attracted to the beauty of Princess Durando in Karafu. Despite the opposition of his father, Liu and three ministers, Ping, Pang and Pong, they agreed to marry and answered all the questions correctly. It turns out that the answers to these three puzzles are \"hope\", \"enthusiasm\" and \"hope\".\n\"Turandot\".However, Durando refused to admit defeat and was unwilling to marry his father, the emperor, and the prince himself posed a puzzle. As long as the princess guessed his name before dawn, Carafour not only did not marry the princess, but also was willing to be executed. The princess captured the prince's father, Timur and Yaliul, and severely tortured him to extract a confession.Will kill herself as a sign of secrecy.Tamerlane rebuked Turandot for his ruthlessness.At dawn, the princess had not yet learned the prince's name, but the prince's kiss melted her cold heart, and the prince also told the princess his real name.The princess did not announce the prince's real name, but instead announced that the world would marry the prince, saying that the prince's name was \"Amore\", Italian for \"love\".   (from Wikipedia)"
+      },
+      {
+       "zh": "《茉莉花》，是一首著名的中國民歌，該曲調歷史久遠，最早源於清朝乾隆年間，初名為《鮮花調》，一直為民間小調。《茉莉花》在中國地區有多個版本流傳，各個版本的曲調、歌詞大同小異。流傳最廣的是南京、揚州、蘇州一帶的民歌。《茉莉花》不但在中國流行傳唱，更因杜蘭朵歌劇的宣染，在西方音樂界中廣為流傳。\n好一朵美麗的茉莉花\n好一朵美麗的茉莉花\n芬芳美麗滿枝椏\n又香又白人人誇\n讓我來將你摘下\n送給別人家\n茉莉花呀茉莉花",
+       "en": "\"Jasmine\" is a famous Chinese folk song with a long history. It originated in the Qianlong period of the Qing Dynasty and was originally called \"Flower Tune\". It has always been a folk minor.\"Jasmine\" has been circulated in various versions in China, and the tune and lyrics of each version are similar.The most widely circulated are folk songs from Nanjing, Yangzhou, and Suzhou.\"Jasmine\" is not only popular in China, but also widely circulated in the Western music industry due to the publicity of Durando's opera.\nWhat a beautiful jasmine.\nWhat a beautiful jasmine.\nThe fragrance is beautiful and full of branches\nSmells white and boasts\nLet me take you off.\nGive to someone else\nJasmine! Jasmine!"
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=frcKDw9IVgY",
+      "https://www.youtube.com/watch?v=o4ajxa1nrIA",
+      "https://www.youtube.com/watch?v=LG2U98mJxl8",
+      "https://www.youtube.com/watch?v=PAAUqGjOSxw",
+      "https://www.youtube.com/watch?v=EqqwdgaBv9g",
+      "https://www.youtube.com/watch?v=0HtbbXdKFZw&list=PLnBzjDXKfTeLSr6jmhh6hKZlT3Hx56h7T",
+      "https://www.youtube.com/watch?v=suj-2sbSFKs"
+     ]
+    }
    ]
   }
  ]

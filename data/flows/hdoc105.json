@@ -3,7 +3,7 @@
  "kind": "haiku",
  "title": "現代俳句和變奏 105",
  "source": "現代俳句和變奏--105.docx",
- "flow": [
+ "front": [
   {
    "type": "subtitle",
    "zh": "現代俳句 & 變奏   系列《105》"
@@ -17,291 +17,343 @@
    "src": "images/flow/hdoc105/img1.jpg",
    "caption_zh": "",
    "caption_en": ""
-  },
+  }
+ ],
+ "haiku": [
   {
-   "type": "stanza",
-   "zh": [
-    "1041.",
-    "窗外就是青翠的視野",
-    "把自己放逐，帶回",
-    "邊界景色，與盆栽分享"
-   ],
-   "en": [
-    "",
-    "The view from the window is verdant.",
-    "Banish yourself and bring it back",
-    "Border View, Share with Bonsai"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1042.",
-    "你是王維坐看的那片雲",
-    "舒卷有時，濕冷有時",
-    "氤氳一整片山林"
-   ],
-   "en": [
-    "",
-    "You are the cloud that Wang Wei sat looking at.",
-    "Soothing curls sometimes, wet cold sometimes",
-    "A whole mountain forest"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1043.",
-    "光，有時是粒子，有時是波",
-    "風景，有時是滄海，有時是桑田",
-    "説法者曰，有相皆是虛妄"
-   ],
-   "en": [
-    "",
-    "Light, sometimes particles, sometimes waves.",
-    "Scenery, sometimes Canghai, sometimes Sangtian",
-    "The preacher said, there are people who are false."
-   ],
-   "num": true
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 1041,
+   "flow": [
     {
-     "zh": "「 凡所有相皆是虛妄，若見諸相非相，即見如來。」\n---- 《金剛經》",
-     "en": "“Every man is a liar, and if he sees things as they are, he sees the Tathagata.”\n---- Diamond Sutra"
+     "type": "stanza",
+     "zh": [
+      "1041.",
+      "窗外就是青翠的視野",
+      "把自己放逐，帶回",
+      "邊界景色，與盆栽分享"
+     ],
+     "en": [
+      "",
+      "The view from the window is verdant.",
+      "Banish yourself and bring it back",
+      "Border View, Share with Bonsai"
+     ],
+     "num": true
     }
    ]
   },
   {
-   "type": "stanza",
-   "zh": [
-    "1044.",
-    "疲倦的旅人，沒有趕上",
-    "你搭的那班列車",
-    "街燈昏黃，晚風寒"
-   ],
-   "en": [
-    "",
-    "Tired guests, didn't make it",
-    "The train you took",
-    "Street lights twilight, late wind chill"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1045.",
-    "魚缸小",
-    "有水草就好，魚説",
-    "陪我遨遊五湖四海"
-   ],
-   "en": [
-    "",
-    "Small Fish Tank",
-    "Aquatic grass is fine, Fish says.",
-    "Swim the lakes with me"
-   ],
-   "num": true
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc105/img2.jpg",
-   "caption_zh": "魚缸裡的魚。               ( 攝影/何康隆 )",
-   "caption_en": ""
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 1042,
+   "flow": [
     {
-     "zh": "「魚缸裡的魚」是一部音樂舞台劇，訴說人類與自然永續的想像故事， 由崇右技術學院演藝事業系的學生們，所創作的作品。 以阿美族原住民家庭成員為主角，省思環境家園與生命心靈的探索。 每個人心裡都有一個魚缸，那是受限的居所，或是真情的貯存場，這是一個只有自己才能決定答案。（原住民族文化事業基金會）",
-     "en": "\"Fish in the Fish Tank\" is a musical stage drama that tells the imaginary story of the sustainability of humans and nature, created by students of the Performing Arts Department of the Chongyou Institute of Technology. Reflect on the exploration of environmental homes and the soul of life with members of Aboriginal Aramco families as the protagonists. Everyone has a fish tank in their heart, which is a restricted dwelling place, or a storehouse of truth, which is an answer that only they can decide. (Indigenous Peoples Cultural Enterprise Foundation)"
+     "type": "stanza",
+     "zh": [
+      "1042.",
+      "你是王維坐看的那片雲",
+      "舒卷有時，濕冷有時",
+      "氤氳一整片山林"
+     ],
+     "en": [
+      "",
+      "You are the cloud that Wang Wei sat looking at.",
+      "Soothing curls sometimes, wet cold sometimes",
+      "A whole mountain forest"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1043,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1043.",
+      "光，有時是粒子，有時是波",
+      "風景，有時是滄海，有時是桑田",
+      "説法者曰，有相皆是虛妄"
+     ],
+     "en": [
+      "",
+      "Light, sometimes particles, sometimes waves.",
+      "Scenery, sometimes Canghai, sometimes Sangtian",
+      "The preacher said, there are people who are false."
+     ],
+     "num": true
     },
     {
-     "zh": "唐 。劉禹錫《陋室銘》\n山不在高，有仙則名。水不在深，有龍則靈。斯是陋室，惟吾德馨。苔痕上階綠，草色入簾青。談笑有鴻儒，往來無白丁。可以調素琴，閱金經。無絲竹之亂耳，無案牘之勞形。南陽諸葛廬，西蜀子云亭。孔子云：何陋之有？",
-     "en": "Tang Dynasty. Liu Yuxi \"Mud Room Inscription\"\nThe mountain is not high, it has a fairy name.The water is not deep, there are dragons and spirits.Si is a shabby room, but WU Dexin.The moss marks are green on the upper floor, and the grass enters the curtain.There is talk and jokes with Hong Ru, and there is no white din.You can tune the violin and the Pension Sutra.The disorderly ears of silkless bamboo, the labor of no case.Nanyang Zhuge Lu, Xishuzi Yunting.Confucius Cloud: How ugly is he?"
+     "type": "note",
+     "points": [
+      {
+       "zh": "「 凡所有相皆是虛妄，若見諸相非相，即見如來。」\n---- 《金剛經》",
+       "en": "“Every man is a liar, and if he sees things as they are, he sees the Tathagata.”\n---- Diamond Sutra"
+      }
+     ]
     }
    ]
   },
   {
-   "type": "stanza",
-   "zh": [
-    "1046.",
-    "走在棋盤上，只想跟你",
-    "好好下每一局，每一步棋",
-    "步步經營，讓我繼續輸給你"
-   ],
-   "en": [
-    "",
-    "Walking on the chessboard, I just want to be with you",
-    "Play every game, every move.",
-    "Run it step by step, let me keep losing to you"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1047.",
-    "旅途，幾何學的午后",
-    "適合寫一首詩",
-    "寄給遠方的自己"
-   ],
-   "en": [
-    "",
-    "Journey, Geometry Afternoon",
-    "Ideal for writing a poem",
-    "Send to distant self"
-   ],
-   "num": true
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc105/img3.jpg",
-   "caption_zh": "Nuuk.  Greenland         ( 攝影/何康隆 )",
-   "caption_en": ""
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc105/img4.jpg",
-   "caption_zh": "Mykonos.  Greece       ( 攝影/何康隆 )",
-   "caption_en": ""
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc105/img5.jpg",
-   "caption_zh": "Crete.  Greece       ( 攝影/何康隆 )",
-   "caption_en": ""
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc105/img6.jpg",
-   "caption_zh": "臺中國家歌劇院.  臺灣       ( 攝影/何康隆 )",
-   "caption_en": ""
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1048.",
-    "夢回故鄉，始知",
-    "街巷一直珍藏",
-    "那枚童年的落日"
-   ],
-   "en": [
-    "",
-    "Dreaming of returning to your hometown, starting to know",
-    "The streets have always been treasured",
-    "That childhood sunset"
-   ],
-   "num": true
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1049.",
-    "我是一葉孤舟，飄泊於",
-    "神話紛繁的愛琴海上",
-    "等待星空非常希臘的夜晚"
-   ],
-   "en": [
-    "",
-    "I am a lone boat, drifting in",
-    "On the mythical Aegean Sea",
-    "Waiting for a very Greek night in the stars"
-   ],
-   "num": true
-  },
-  {
-   "type": "image",
-   "src": "images/flow/hdoc105/img7.jpg",
-   "caption_zh": "愛琴海的黃昏：駛向克里特島       （攝影/何康隆）",
-   "caption_en": ""
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "《那時愛琴海沒有名字》（節錄）"
-   ],
-   "en": [
-    "“There Was No Name for the Aegean Sea” (Excerpt)"
-   ]
-  },
-  {
-   "type": "byline",
-   "zh": "何康隆"
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "如今",
-    "海域澄靜，落日西沉",
-    "蹀踱甲板",
-    "憶起一則沒有謎底的神話",
-    "幾度徬徨",
-    "連神話的謎題也全然遺忘",
-    "古代的寓言已隨風而去",
-    "海上只有蒼茫"
-   ],
-   "en": [
-    "Nowadays",
-    "Clear waters, sunset",
-    "Pacing the deck",
-    "Reminds me of a myth with no mystery.",
-    "Wandering a few times",
-    "Even the mythical puzzles are completely forgotten.",
-    "Ancient parables have gone with the wind",
-    "There's nothing but blue in the sea."
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "只有蒼茫",
-    "籠罩愛琴海遠方"
-   ],
-   "en": [
-    "Only the azure",
-    "Shrouded far away in the Aegean Sea"
-   ]
-  },
-  {
-   "type": "stanza",
-   "zh": [
-    "1050.",
-    "暮色漸漸蒼茫",
-    "那一份思念，又在",
-    "詩的字裡行間來回流轉"
-   ],
-   "en": [
-    "",
-    "Twilight is fading",
-    "That thought, again,",
-    "Poetry moves back and forth between the lines."
-   ],
-   "num": true
-  },
-  {
-   "type": "note",
-   "points": [
+   "n": 1044,
+   "flow": [
     {
-     "zh": "唐 。孟郊《遊子吟》\n慈母手中線，遊子身上衣。\n臨行密密縫，意恐遲遲歸。\n誰言寸草心，報得三春暉。",
-     "en": "Tang Dynasty. Mengjiao \"Youzi Yin\"\nMother Lovingly holds the line in her hand and plays with the top.\nThe process is tightly seamed, meaning that it may be delayed.\nWhoever speaks grass hearts will be rewarded with San Chunhui."
+     "type": "stanza",
+     "zh": [
+      "1044.",
+      "疲倦的旅人，沒有趕上",
+      "你搭的那班列車",
+      "街燈昏黃，晚風寒"
+     ],
+     "en": [
+      "",
+      "Tired guests, didn't make it",
+      "The train you took",
+      "Street lights twilight, late wind chill"
+     ],
+     "num": true
     }
    ]
   },
   {
-   "type": "yt",
-   "urls": [
-    "https://www.youtube.com/watch?v=fAs1-INZjps",
-    "https://www.youtube.com/watch?v=-BJw3b2itLA",
-    "https://www.youtube.com/watch?v=fe36taZ19Oc",
-    "https://www.youtube.com/watch?v=GcuMG_-159U",
-    "https://www.youtube.com/watch?v=sdyxlPwmpxM",
-    "https://www.youtube.com/watch?v=F2BxNx1Ikpg",
-    "https://www.youtube.com/watch?v=S-PzctJ4krI"
+   "n": 1045,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1045.",
+      "魚缸小",
+      "有水草就好，魚説",
+      "陪我遨遊五湖四海"
+     ],
+     "en": [
+      "",
+      "Small Fish Tank",
+      "Aquatic grass is fine, Fish says.",
+      "Swim the lakes with me"
+     ],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc105/img2.jpg",
+     "caption_zh": "魚缸裡的魚。               ( 攝影/何康隆 )",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "「魚缸裡的魚」是一部音樂舞台劇，訴說人類與自然永續的想像故事， 由崇右技術學院演藝事業系的學生們，所創作的作品。 以阿美族原住民家庭成員為主角，省思環境家園與生命心靈的探索。 每個人心裡都有一個魚缸，那是受限的居所，或是真情的貯存場，這是一個只有自己才能決定答案。（原住民族文化事業基金會）",
+       "en": "\"Fish in the Fish Tank\" is a musical stage drama that tells the imaginary story of the sustainability of humans and nature, created by students of the Performing Arts Department of the Chongyou Institute of Technology. Reflect on the exploration of environmental homes and the soul of life with members of Aboriginal Aramco families as the protagonists. Everyone has a fish tank in their heart, which is a restricted dwelling place, or a storehouse of truth, which is an answer that only they can decide. (Indigenous Peoples Cultural Enterprise Foundation)"
+      },
+      {
+       "zh": "唐 。劉禹錫《陋室銘》\n山不在高，有仙則名。水不在深，有龍則靈。斯是陋室，惟吾德馨。苔痕上階綠，草色入簾青。談笑有鴻儒，往來無白丁。可以調素琴，閱金經。無絲竹之亂耳，無案牘之勞形。南陽諸葛廬，西蜀子云亭。孔子云：何陋之有？",
+       "en": "Tang Dynasty. Liu Yuxi \"Mud Room Inscription\"\nThe mountain is not high, it has a fairy name.The water is not deep, there are dragons and spirits.Si is a shabby room, but WU Dexin.The moss marks are green on the upper floor, and the grass enters the curtain.There is talk and jokes with Hong Ru, and there is no white din.You can tune the violin and the Pension Sutra.The disorderly ears of silkless bamboo, the labor of no case.Nanyang Zhuge Lu, Xishuzi Yunting.Confucius Cloud: How ugly is he?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1046,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1046.",
+      "走在棋盤上，只想跟你",
+      "好好下每一局，每一步棋",
+      "步步經營，讓我繼續輸給你"
+     ],
+     "en": [
+      "",
+      "Walking on the chessboard, I just want to be with you",
+      "Play every game, every move.",
+      "Run it step by step, let me keep losing to you"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1047,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1047.",
+      "旅途，幾何學的午后",
+      "適合寫一首詩",
+      "寄給遠方的自己"
+     ],
+     "en": [
+      "",
+      "Journey, Geometry Afternoon",
+      "Ideal for writing a poem",
+      "Send to distant self"
+     ],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc105/img3.jpg",
+     "caption_zh": "Nuuk.  Greenland         ( 攝影/何康隆 )",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc105/img4.jpg",
+     "caption_zh": "Mykonos.  Greece       ( 攝影/何康隆 )",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc105/img5.jpg",
+     "caption_zh": "Crete.  Greece       ( 攝影/何康隆 )",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc105/img6.jpg",
+     "caption_zh": "臺中國家歌劇院.  臺灣       ( 攝影/何康隆 )",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 1048,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1048.",
+      "夢回故鄉，始知",
+      "街巷一直珍藏",
+      "那枚童年的落日"
+     ],
+     "en": [
+      "",
+      "Dreaming of returning to your hometown, starting to know",
+      "The streets have always been treasured",
+      "That childhood sunset"
+     ],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1049,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1049.",
+      "我是一葉孤舟，飄泊於",
+      "神話紛繁的愛琴海上",
+      "等待星空非常希臘的夜晚"
+     ],
+     "en": [
+      "",
+      "I am a lone boat, drifting in",
+      "On the mythical Aegean Sea",
+      "Waiting for a very Greek night in the stars"
+     ],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc105/img7.jpg",
+     "caption_zh": "愛琴海的黃昏：駛向克里特島       （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《那時愛琴海沒有名字》（節錄）"
+     ],
+     "en": [
+      "“There Was No Name for the Aegean Sea” (Excerpt)"
+     ]
+    },
+    {
+     "type": "byline",
+     "zh": "何康隆"
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "如今",
+      "海域澄靜，落日西沉",
+      "蹀踱甲板",
+      "憶起一則沒有謎底的神話",
+      "幾度徬徨",
+      "連神話的謎題也全然遺忘",
+      "古代的寓言已隨風而去",
+      "海上只有蒼茫"
+     ],
+     "en": [
+      "Nowadays",
+      "Clear waters, sunset",
+      "Pacing the deck",
+      "Reminds me of a myth with no mystery.",
+      "Wandering a few times",
+      "Even the mythical puzzles are completely forgotten.",
+      "Ancient parables have gone with the wind",
+      "There's nothing but blue in the sea."
+     ]
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "只有蒼茫",
+      "籠罩愛琴海遠方"
+     ],
+     "en": [
+      "Only the azure",
+      "Shrouded far away in the Aegean Sea"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1050,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1050.",
+      "暮色漸漸蒼茫",
+      "那一份思念，又在",
+      "詩的字裡行間來回流轉"
+     ],
+     "en": [
+      "",
+      "Twilight is fading",
+      "That thought, again,",
+      "Poetry moves back and forth between the lines."
+     ],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐 。孟郊《遊子吟》\n慈母手中線，遊子身上衣。\n臨行密密縫，意恐遲遲歸。\n誰言寸草心，報得三春暉。",
+       "en": "Tang Dynasty. Mengjiao \"Youzi Yin\"\nMother Lovingly holds the line in her hand and plays with the top.\nThe process is tightly seamed, meaning that it may be delayed.\nWhoever speaks grass hearts will be rewarded with San Chunhui."
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=fAs1-INZjps",
+      "https://www.youtube.com/watch?v=-BJw3b2itLA",
+      "https://www.youtube.com/watch?v=fe36taZ19Oc",
+      "https://www.youtube.com/watch?v=GcuMG_-159U",
+      "https://www.youtube.com/watch?v=sdyxlPwmpxM",
+      "https://www.youtube.com/watch?v=F2BxNx1Ikpg",
+      "https://www.youtube.com/watch?v=S-PzctJ4krI"
+     ]
+    }
    ]
   }
  ]
