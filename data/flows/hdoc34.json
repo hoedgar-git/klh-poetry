@@ -1,0 +1,272 @@
+{
+ "slug": "hdoc34",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 34",
+ "source": "現代俳句和變奏--34.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列 《 34 》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc34/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 331,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "331.",
+      "這是菊花與酒的午后",
+      "菊，採自陶淵明的東籬",
+      "酒，色如愛琴海的晨曦"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 332,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "332.",
+      "老子之水 :   至柔",
+      "千古之下",
+      "潤物細無聲"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "老子《 道德經 》78章:  「天下莫柔弱于水，而攻堅強者莫之能勝，以其無以易元。弱之勝強，柔之勝剛、天下莫不知，莫能行。」",
+       "en": ""
+      },
+      {
+       "zh": "唐。  杜甫  《 春夜喜雨 》\n「 好雨知時節，當春乃發生。隨風潛入夜，潤物細無聲。\n野徑雲俱黑，江船火燭明。曉看紅濕處，花重錦官城。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 333,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "333.",
+      "孔子之水 :  長流",
+      "千古之下",
+      "直掛雲帆濟滄海"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《 論語。子罕 》:  子在川上曰 :「 逝者如斯夫，不捨畫夜。」",
+       "en": ""
+      },
+      {
+       "zh": "唐。李白《 行路難，三首其一 》\n金樽清酒斗十千，玉盤珍羞直萬錢。\n停杯投箸不能食，拔劍四顧心茫然。\n欲渡黃河冰塞川，將登太行雪滿山。\n閑來垂釣碧溪上，忽復乘舟夢日邊。\n行路難，行路難 !  多歧路，今安在 ﹖\n長風破浪會有時，直掛雲帆濟滄海。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 334,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "334.",
+      "行到水窮處",
+      "回首，來時路",
+      "飛雨，落花，迷霧"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 335,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "335.",
+      "深夜，有誰",
+      "翻書之餘，讀",
+      "窗外的風雨"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 336,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "336.",
+      "街上無人",
+      "除了細雨，除了路灯",
+      "馬德里的黃昏"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 337,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "337.",
+      "松下問童子",
+      "夏日最後的蟬聲",
+      "飄向何處 ?"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐   。賈島  《 尋隱者不遇 》 \n「 松下問童子， 言師採藥去。 \n     只在此山中， 雲深不知處？」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 338,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "338.",
+      "咖啡香裡",
+      "重拾千里之外",
+      "看山的心情"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 339,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "339.",
+      "君子之交，淡如",
+      "一抹暮春雨霧",
+      "偶而有白鷺飛出"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 340,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "340."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc34/img2.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc34/img3.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc34/img4.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "薩爾瓦多．達利（Salvador Dali, 1904－1989），是20世紀超現實主義畫派的巨匠，也是西班牙著名印象派、主體派、達達主義畫家和古怪的抽象藝術的創始者。達利是一位精通物理、化學、數學、哲學、美學、科學的全才藝術家。很少有藝術家能像他那麼直截了當地碰觸那麼多複雜而多元的議題，是世界藝術史評家所認定繼達文西之後的「全才天才大師」，被國際公認最「超現實」的西班牙藝術家。在長達六十年的創作生涯中，產出了無數令人驚艷，叫人目瞪口呆的作品，而當中一件為人熟悉，而且不斷被藝術家置疑，引發靈感的作品，就是1931年創作的「永恆的記憶」 ( The Persistence of Memory ) ， 又名「柔軟的錶」 ( The Soft Watches ) ，關於作品蘊含的意義，藝評家們為此爭論不休，所提出的意見也是五花八門；雖然達利曾就這幅畫的由來做了一些說明，也沒能幫助觀者解開畫中謎題。但不論原來的涵義為何，或許根本沒有意義，此幅既強烈又撼動人心的畫，被視為超現實經典之作應不為過。\n「在凝固的時間裡，記憶是恆久的。在柔軟的時間裡，藝術昇華，超越了可見的局限。」",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc34/img5.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "Turn! Turn! Turn!   (To Everything There Is a Season)\nSong written by Pete Seeger,   1950s\nTo everything   (turn, turn, turn)\nThere is a season  (turn, turn, turn)\nAnd a time to every purpose, under heaven\nA time to be born, a time to die\nA time to plant, a time to reap\nA time to kill, a time to heal\nA time to laugh, a time to weep\nA time to build up, a time to break down\nA time to dance, a time to mourn\nA time to cast away stones, a time to gather stones together\nA time of love, a time of hate\nA time of war, a time of peace\nA time…\n(   歌詞是舊約聖經  傳道書第三章1 ~ 8節   )",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=2zx6j4vI8lE&list=RD2zx6j4vI8lE&start_radio=1",
+      "https://www.youtube.com/watch?v=K3kKqfTjsj0&list=RDK3kKqfTjsj0&start_radio=1"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc34",
+  "series": "34",
+  "range": "331–340",
+  "count": 10,
+  "theme": ""
+ }
+}

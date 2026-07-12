@@ -1,0 +1,340 @@
+{
+ "slug": "hdoc85",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 85",
+ "source": "現代俳句和變奏--85.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏    系列《85》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc85/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 841,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "841.",
+      "有時，情緒轉折起伏",
+      "如交響樂跌宕飛揚",
+      "一種舒展，微帶黯然"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 842,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "842.",
+      "起初，偶然相遇",
+      "然後是漫長如一生",
+      "之後，熟透的果，飽滿"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img2.jpg",
+     "caption_zh": "Strawberry Tree .  Fruits. （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img3.jpg",
+     "caption_zh": "Strawberry Tree .  （攝影/何康隆）   Particularly large specimens of the strawberry tree may reach 30 or 40 feet in height, but many are on the smaller side; the plant is slow growing, making it a good choice for many garden settings. Like other Arbutus trees, it sports flashy, orange-red bark that peels aesthetically to reveal smooth inner layers. Its rubbery, rhododendron-like leaves are deep green, contrasting nicely with both the bark itself and the sprays of whitish pink flowers and red berries. It blooms and fruits throughout the year, with peak production often in spring and autumn.",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 843,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "843.",
+      "日光浸透艾菲爾鐵塔，如是説",
+      "世事錯綜如支架，要時時",
+      "觀照自己的高度和深度"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img4.jpg",
+     "caption_zh": "艾菲爾鐵塔：日光穿透鐵架。（攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img5.jpg",
+     "caption_zh": "艾菲爾鐵塔。 2016.   （攝影/何康隆）",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 844,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "844.",
+      "長亭外，晚風拂柳",
+      "走遠路的人，把古道",
+      "走成，天地悠悠"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 845,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "845.",
+      "雨傘不懂雨的情緒",
+      "風景不懂風的低語",
+      "旅行不懂行的足迹"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 846,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "846.",
+      "月落烏啼，滿天白霜飄過山寺楓橋",
+      "客船未眠，讀一排江楓，幾點漁火",
+      "夜半鐘聲，遲遲送來幾行詩詞韻脚"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐  。張繼《楓橋夜泊》\n月落烏啼霜滿天。江楓漁火對愁眠。\n姑蘇城外寒山寺。夜半鐘聲到客船。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 847,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "847.",
+      "大佛襌坐，鏡心澄明",
+      "我們的繁華你已看盡？",
+      "我們的虛無你已参悟？"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img6.jpg",
+     "caption_zh": "日本高岡青銅坐佛。 高岡大佛與奈良大佛、",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "鎌倉大佛，並稱為日本三大佛。（攝影/何康隆）"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 848,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "848.",
+      "笑是美麗而抽象的概念",
+      "而淚，是春天的小雨",
+      "潤物細無聲"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐 。杜甫《春夜喜雨》\n好雨知時節，當春乃發生。\n隨風潛入夜，潤物細無聲。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 849,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "849.",
+      "Night, it is so moonlit, so starry, so clear",
+      "So bright it is, could collect needles",
+      "If only for a moment, come beloved,  to Ukraine"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "Ukrainian folk song :  《 A Moonlight Night 》\nThe night is so moonlit, so starry, so bright\nThere's so much light you could gather needles\nCome, my love, weary with toil\nIf just for one minute to the grove\nDon't be afraid that you'll get your feet wet in the cold dew\nI will carry you home, my dear one, I will carry you home\nI will carry you home, my dear one, I will carry you home",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img7.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "The current Ukrainian flag consists of two horizontal bands of yellow",
+      "and blue, the colors represent the wide blue skies and the yellow represents",
+      "the wheat fields that characterize the country. From a psychological point of",
+      "view, blue symbolizes calm,  while yellow symbolizes joy."
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Links for《A Moonlight Night》and 《Ukrainian National Anthem》："
+     ],
+     "en": []
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=aaOChwNPg5o&list=RDaaOChwNPg5o&start_radio=1",
+      "https://www.youtube.com/watch?v=glL_mWmzXoM",
+      "https://www.youtube.com/watch?v=xDeQVaoTvJM",
+      "https://www.youtube.com/watch?v=YGjicPkxb0s"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 850,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "850.",
+      "三月，春色柔麗如畫，一路展覽，豈知",
+      "烏克蘭，基輔城門内外，風狂雨殘",
+      "花落，花落，烏克蘭，烏克蘭，知多少 ?"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《 展覽會之畫：基輔城門 》\n俄羅斯作曲家穆索斯基在 1874所作的鋼琴組曲。\n靈感來自於参觀一位已逝朋友的畫作展覽會。\n組曲分爲十組曲段，最後一組是《基輔城門》。",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img8.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img9.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "**  Modest Mussorgsky (1839-1881) was a Russian composer, one of the group known as \"The Five\". He was an innovator of Russian music in the Romantic period. He strove to achieve a uniquely Russian musical identity, often in deliberate defiance of the established conventions of Western music.  Many of his works were inspired by Russian history, Russian folklore, and other national themes. Such works include the opera Boris Godunov, the orchestral tone poem Night on Bald Mountain and the piano suite Pictures at an Exhibition.    《Pictures at an Exhibition》 is a suite of ten pieces plus a recurring, varied Promenade。 The suite is Mussorgsky's most famous piano composition and has become a showpiece for virtuoso pianists.  It should be noted that the Mussorgsky work was originally composed for piano and only orchestrated later by Maurice Ravel.",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc85/img10.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Links for《 Pictures at an exhibition: The Great Gate of Kiev》："
+     ],
+     "en": []
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=vw7OM_Q810k",
+      "https://www.youtube.com/watch?v=Dtf5NDC0w00&t=331s",
+      "https://www.youtube.com/watch?v=kZkoW1Ta3ew",
+      "https://www.youtube.com/watch?v=rt3oFm2gn0I",
+      "https://www.youtube.com/watch?v=F1pk1MzX61Q"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc85",
+  "series": "85",
+  "range": "841–850",
+  "count": 10,
+  "theme": ""
+ }
+}

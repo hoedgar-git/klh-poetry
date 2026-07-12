@@ -98,5 +98,23 @@
     }
    ]
   }
- ]
+ ],
+ "tags": {
+  "geo": [
+   "Taiwan and the United States",
+   "Taiwan",
+   "USA"
+  ],
+  "subject": [
+   "memory",
+   "homeland",
+   "family",
+   "diaspora",
+   "medicine and science",
+   "aging and mortality",
+   "art and literature",
+   "travel"
+  ],
+  "format": "抒情 Lyric"
+ }
 }

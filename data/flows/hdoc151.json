@@ -1,0 +1,493 @@
+{
+ "slug": "hdoc151",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 151",
+ "source": "現代俳句和變奏--151.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏  系列《151》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc151/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 1501,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1501.",
+      "總該有一行詩句，填補",
+      "那年落花時節，我們",
+      "錯身而過的遺憾"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1502,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1502.",
+      "把玩三稜鏡，數算折射率",
+      "有時，你融會我的天涯",
+      "有時，我貫通你的海角"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img2.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "牛頓認為色散會發生，是因為白光是由各種顏色的光組成的。當白光經過三稜鏡後，因為不同顏色的光，折射角度都不同，所以每種顏色的光在通過三稜鏡後，行進路線會分散開來，所以就看到白光從三稜鏡出來變成彩虹，也就是我們所知道的色散。"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "ChatGPT AI 對這首俳句的解讀:",
+      "這是一首以科學意象承載情感與關係哲思的極簡詩，語言冷靜，內裡卻極為溫熱。它巧妙地把「物理的折射」轉化為「心靈的相遇與穿越」。"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1. 首句：理性之手，觸碰感性之光",
+      "《把玩三稜鏡，數算折射率》",
+      "這一句刻意選用科學、精確、理性的語彙——",
+      "把玩：不是實驗，而是閒適、親密的接觸",
+      "三稜鏡：讓單一之光分裂成多色的器物",
+      "折射率：理性、可量化、冷靜的數值",
+      "詩一開始，像是站在理性與控制的一端，試圖理解世界、理解關係：我用理智去測量情感，用公式靠近不可測的你。這是一種現代人的姿態：用知識靠近愛。"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "2. 中段轉折：邊界開始溶解",
+      "《有時你融會我的天涯》",
+      "「天涯」象徵的是距離、孤獨、自我世界的邊界。",
+      "而「你」的出現，使那原本遙不可及的盡頭，開始融化、交疊、被理解。",
+      "這不是佔有，而是——你走進我生命最遠的地方，那裡原本只屬於我。",
+      "「融會」二字非常關鍵：它不是侵入，也不是消失，而是共存、交疊、彼此調和。"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "3. 最美的一行：關係的對稱與回聲",
+      "《有時我貫通你的海角》",
+      "「天涯」對「海角」，形成極美的對稱結構。",
+      "這一行，完成了詩中最重要的情感倫理--互為主體。",
+      "不是只有你走向我，而是，我也願意穿越你最遙遠的所在。",
+      "「貫通」比「融會」更為主動、有力量，卻仍然不是征服，而是理解的穿越。"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "4. 整體詩意：愛，是光的折射",
+      "整首詩可以讀成一句話：",
+      "愛不是直線的照射，而是在彼此差異中，反覆折射、交會、分光。三稜鏡讓光變複雜，而關係，讓「我」與「你」不再單色。",
+      "這首詩在說的不是浪漫的靠近，而是成熟關係中最難得的一件事：",
+      "我不取消你，你也不消失我；我們在彼此的折射裡，看見更完整的光譜色彩。"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1503,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1503.",
+      "暮靄低沈，星光垂落",
+      "是松針搖晃了月影",
+      "還是月影浮動了松針"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "六祖惠能大師來到廣州法性寺時，因風吹幡動，見著兩位僧人在一旁爭論，一說是風動，一說是幡動，惠能大師於是走上前說：「不是風動，不是幡動，仁者心動！」這便是著名的風動幡動公案。在平常日用當中，我們也時時在面對到底是風動、幡動，還是自己的心在動的問題。"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1504,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1504.",
+      "牆上一幅攝影，凝視中，漸漸模糊",
+      "遠方似有鼓聲，光澤隨節奏起伏放散",
+      "又從Namibia草原的澄橘黃昏，隔窗流淌"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img3.jpg",
+     "caption_zh": "非州草原的黃昏。Sossusvlei, Namibia.   (攝影/何康隆)",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 1505,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1505.",
+      "歷史在歷史的軸輪，傾軋",
+      "時代在時代的荒謬，錯亂",
+      "史詩之怒翻轉人性的狂妄"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "波斯灣，阿拉伯海，荷姆茲海峽，美國，以色列和伊朗之間的 ” 史詩之怒 ”戰事。",
+      "Persian Gulf, Arabian Sea, Strait of Hormuz, Operation Epic Fury. 2026"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "2026年2月28日，以色列和美國對伊朗境內多個目標發動協同聯合攻擊，由此引發2026年伊朗戰爭。此次軍事行動的美方代號為「史詩之怒」（英文：Operation Epic Fury），而以方代號則為「咆哮之獅」（英文: Roaring Lion），行動目標包括伊朗核心官員、軍事指揮官和軍事設施，旨在全面摧毀伊朗核武設備，推翻伊朗政權。"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img4.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "The Strait of Hormuz: What it is and why it matters to global trade",
+      "*World’s most important oil chokepoint linking the Persian Gulf to the Arabian Sea",
+      "*Handles ~20% of global oil and natural gas trade",
+      "*Disruptions have triggered oil price spikes and global economic impact",
+      "*Tensions and blockades due to Iran and Israel war threaten energy security, especially for Asia"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img5.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "* The Strait of Hormuz’s location sits between Iran (north) and the Musandam Peninsula (south),",
+      "an Omani/UAE exclave on the Arabian Peninsula.",
+      "* It is about 104 miles long, narrowing to just ~21–24 nautical miles (39 km) at its tightest",
+      "point.",
+      "* Shipping lanes run through it: two one-way lanes (each ~2 miles wide) are separated by a small",
+      "buffer zone.",
+      "* On a world map one clearly sees how this narrow strait is the only sea outlet from the Persian",
+      "Gulf to the open ocean.",
+      "* The Iranian shore is mountainous and dotted with islands (e.g. Qeshm, Hormuz), while the",
+      "Arabian (Oman/UAE) shore has cliffs and coves.",
+      "* At the narrowest point the tanker lanes lie in Omani territorial waters, before entering Iranian",
+      "waters.",
+      "* This geography means Iran controls the north side and Oman the south, giving Iran leverage",
+      "over the strait’s security.               ( 摘自 India Today)"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1506,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1506.",
+      "那年寫在水上，你的名字",
+      "淡淡的緣起，隨風隨夢",
+      "淡淡的緣滅，如波如紋"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1507,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1507.",
+      "綻放的主題，十分明確",
+      "凋謝的結局，卻頗曖昧",
+      "托爾斯泰捕捉的花影故事"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "「幸福的家庭大致相同，不幸的家庭各有其不幸。」",
+      "All happy families resemble one another.",
+      "Each unhappy family is unhappy in its own way."
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "是俄國文豪 列夫・托爾斯泰（Leo Tolstoy）的長篇小說《安娜・卡列尼娜》（Anna Karenina）的開場第一句，也是世界文學史上最著名的開篇筆勢之一。"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "這一句話其實不只是敘述家庭，而是整部小說的精神總綱：",
+      "「幸福」似乎有共通結構（包容、理解、責任、理念）",
+      "「不幸」卻源於各種細微而複雜的人性裂縫"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1508,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1508.",
+      "不再追逐那最後的完滿",
+      "此後日子也不必為誰而美",
+      "就讓歌聲停在那年的落花時節"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1509,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1509.",
+      "白兔，紅皇后，柴郡貓，相繼離去",
+      "愛麗絲走出夢境，走出童年",
+      "回到現實的平行宇宙"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《愛麗絲夢遊仙境》（Alice's Adventures in Wonderland），是英國數學家查爾斯··道奇森以筆名路易斯·卡羅出版的兒童文學作品。故事的主角愛麗絲，從兔子洞掉進充滿擬人化動物的夢幻世界，遇到各種懂得說話的動物。1865年《愛麗絲夢遊仙境》出版後，不合邏輯的故事情節，毫無敘事結構的奇幻冒險，因而被歸類在荒唐文學的領域。但即便經歷了一百多年，仍然是極具影響力的經典童書。已被翻譯為174種語言出版。時至今日再次翻開，重回孩提時代的視角，逃離現實世界的枯燥與煩悶，走進夢遊仙境，重新面對自己。"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img6.jpg",
+     "caption_zh": "為兒童打開奇妙的幻想之門，給大人啟發無窮的想像世界。",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "「路易斯・卡洛爾讓我們看到孩子眼裡上下顛倒的世界，讓我們像孩子一樣開懷而笑。《愛麗絲夢遊仙境》及《鏡中奇緣》不是給兒童，而是給大人看的。因為大人讀了之後，就變成孩子。」 --維吉尼亞‧吳爾芙 (二十世紀現實主義與女性主義文學的先鋒)",
+      "精選佳句 :",
+      "* 沒有什麼比一無所有好，因為你可以擁有更多！",
+      "* 如果你不知道要去哪裡， 那麼現在你在哪裡一點都不重要。",
+      "* 無論如何，嘗試一下也没有壞處。",
+      "* 回到昨天没有任何意義，因爲那時的我跟現在不同。",
+      "* 你不需要爲了取悦别人而活，因爲當你面對着最終的考驗時，你將是孤軍奮戰的。",
+      "* 走哪條路都沒有關係，只要走得夠遠，你總會到達。",
+      "* 我並不奇怪、怪誕，又不瘋癲，只是我眼中的現實跟你眼中的現實不同。",
+      "* 只要認真尋找，凡事皆有寓意。",
+      "* 想像是抵抗現實的絕佳武器。",
+      "* 你要一直拚命跑，才能保持在同一個位置；如果你想前進，就必須跑得比現在快兩倍才",
+      "行。"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1510,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1510.",
+      "午後的陽光照得她們一臉純樸的童年",
+      "一個踢歪了的毽子，撲向池旁青草",
+      "背後傳來的笑聲，拉得比樹枝還要高"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img7.jpg",
+     "caption_zh": "公園步道上的童畫。 (攝影/何康隆)",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img8.jpg",
+     "caption_zh": "公園步道上的童畫。 (攝影/何康隆)",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc151/img9.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "本事 Old Time"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《憶兒時》詞：李叔同 曲：海斯 William S.Hays"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "羅大佑 童年"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "尤静波《那年我们的世界》致70、80后小伙伴"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "童声合唱《世界赠予我的》 Gifts from the World -"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "【钢琴】理查德·克莱德曼《爱的纪念》（童年的回忆）"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "光陰的故事/ 校園民歌 - 飛颺的種子 合唱"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "當我們小的時候"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "青青校樹 Graduation Song"
+     ],
+     "en": []
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc151",
+  "series": "151",
+  "range": "1–1510",
+  "count": 14,
+  "theme": ""
+ }
+}

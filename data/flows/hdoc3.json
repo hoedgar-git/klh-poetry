@@ -1,0 +1,80 @@
+{
+ "slug": "hdoc3",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 3",
+ "source": "現代俳句和變奏--3.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏       系列 《 3 》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc3/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 21,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "21.",
+      "勸君更盡一杯酒",
+      "西出陽關無故人",
+      "蘭舟催發，去或不去 ?"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐   。 王維 《 渭城曲 》\n渭城朝雨浥輕塵，客舍青青柳色新。 \n勸君更進一杯酒，西出陽關無故人。",
+       "en": ""
+      },
+      {
+       "zh": "宋   。 柳永《 雨霖鈴 》\n寒蟬淒切，對長亭晚，\n驟雨初歇。\n都門帳飲無緒，\n留戀處、蘭舟催發。\n執手相看淚眼，\n竟無語凝噎。\n念去去、千里煙波，\n暮靄沉沉楚天闊。\n22.\n午后，蓮花靜坐\n蜻蜒點水\n禪意隨風飄走                AI 解讀\n23.\n魚竿停在空中\n不知釣到什麼\n青蛙，撲通跳下水\n24.\n都看清楚了嗎 ?\n其實這跟視力無關\nThe devil is in the details",
+       "en": ""
+      },
+      {
+       "zh": "The idiom, \"The devil is in the detail\" refers to a catch or mysterious element hidden in the details, meaning that something might seem simple at a first look but will take more time and effort to complete than expected and derives from the earlier phrase, \"God is in the detail\" expressing the idea that whatever one does should be done thoroughly; i.e. details are important.  (  from Wikipedia )\n25.\n悠悠的小提琴結束後\n輪到我的故事\n你的沉默\n26.\n遍地盛開茉莉花\n廣場飄掦太陽花，街頭女孩\n低聲求 : 買朵玉蘭花 ?",
+       "en": ""
+      },
+      {
+       "zh": "茉莉花革命 ( Revolution de jasmine ) ，指發生於2010年末至2011年初，北非突尼西亞反政府示威，導致政權倒台的事件。因茉莉花是該國國花而得名。這是阿拉伯國家中第一個因人民起義，導致推翻現任政權的革命。茉莉花革命的示威抗議模式為其他國家民眾所效法，如阿爾及利亞，埃及等，在其後幾個月內反政府示威浪潮，波及整個北非和中東地區。突尼西亞此後成立過渡政府，成爲茉莉花革命中，唯一達成民主轉型的國家。",
+       "en": ""
+      },
+      {
+       "zh": "太陽花運動是指2014年3月18日，反對中國國民黨單方面將《海峽两岸服務貿易恊議》宣告存查的學生所發起佔據立法院議場的行動。而在這同時來自台灣各地的學生和群眾紛紛前往立法院聲援，形勢湧汹，從而發展為後來的太陽花世代學運。影響所及包括2016的政黨輪替，時代力量的興起等。",
+       "en": ""
+      },
+      {
+       "zh": "玉蘭花又名白蘭，白玉蘭，望春花等，因其花苞開放時，有如白玉酒杯聳立枝頭，又幽香宛若蘭花，而得名「玉蘭」。早期的婦女更常將花朵做為髮飾或別在衣襟上做裝飾，不但美觀又香味宜人，一直深受台灣人喜愛。數百年前遠渡重洋來台灣的玉蘭花，早已深入尋常百姓的生活與感情，成為代表台灣本土最美的花。王蘭花性喜濕熱，台灣玉蘭花的最大產地是屏東縣高樹鄉和鹽埔鄉。\n27.\n夢的街角遇見\n三輪車夫，補鞋匠，捻麵人---\n一聲“ 燒肉粽 ”驚醒了我\n28.\n宣紙一攤開\n稻穗就熟黃了\n故鄉印象\n29.\n這首歌仍然使我憂傷\n憂傷得很遙遠\n幾個畫面忘不了\n30.\n你逐漸沉入風景\n成山成林，隨風逐雲\n美術舘的午后",
+       "en": ""
+      },
+      {
+       "zh": "羅智成  《 壁畫。在阿里山 》\n不要說話\n陪我獨處。看\n一卷橫軸正開展\n黃昏有些清涼\n山有些紫\n林有些深\n我們背手雲遊\n整個世界正在打烊 .....",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc3",
+  "series": "3",
+  "range": "21–21",
+  "count": 1,
+  "theme": ""
+ }
+}

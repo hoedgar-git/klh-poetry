@@ -1,0 +1,494 @@
+{
+ "slug": "hdoc31",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 31",
+ "source": "現代俳句和變奏--31.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列 《 31 》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc31/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 301,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "301."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "昨日 :  E ＝ MC 一次方",
+      "今日 :  E ＝ MC 二次方",
+      "明日 :  E ＝ MC三次方"
+     ],
+     "en": []
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "In physic, mass–energy equivalence states that anything having mass has an equivalent amount of energy and vice versa, with these fundamental quantities directly relating to one another by Albert Einstein’s famous formula:     E=MC2{\\displaystyle E=mc^{2}}\nThis formula states that the equivalent energy (E) can be calculated as the mass (m) multiplied by the speed of light (c = ~3×108 m/s) squared. Similarly, anything having energy exhibits a corresponding mass m given by its energy E divided by the speed of light squared c2. Because the speed of light is a very large number in everyday units, the formula implies that even an everyday object at rest with a modest amount of mass has a very large amount of energy intrinsically. Chemical, nuclear, and other energy transformations may cause a system to lose some of its energy content (and thus some corresponding mass), releasing it as the radiant energy of light or as thermal energy for example.                         ( Wikipedia )",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 302,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "302."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img2.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img3.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img4.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "莊子《 知北遊 》\n「天地有大美而不言，四時有明法而不議，萬物有成理而不說。」\n聖人者，原天地之美而達萬物之理。是故至人無為，大聖不作，觀於天地之謂也。」 \n「 天地大美有三：一曰形之美，二曰道之美，三曰德之美。 \n形之美，曰充盈，曰精致。道之美，曰通達，曰剛健。德之美，曰包容，曰不伐。 \n天地有大美而不言，故聖人述而不作。非不作也，述而不失其美也，觀其述而知其美也。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 303,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "303."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img5.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img6.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img7.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "Regent Seven Seas Cruise.    Newfoundland to Greenland.",
+       "en": ""
+      },
+      {
+       "zh": "Hawaii, Kauai.   Sheraton Resort beach.",
+       "en": ""
+      },
+      {
+       "zh": "日本本州東北海岸，不老不死溫泉旅舍。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 304,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "304."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img8.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img9.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img10.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐。  李白《 黄鶴樓送孟浩然之廣陵 》\n故人西辭黄鶴樓，烟花三月下楊州。\n孤帆遠影碧空盡，唯見長江天際流。",
+       "en": ""
+      },
+      {
+       "zh": "唐。 張繼《 楓橋夜泊 》\n月落烏啼霜滿天，江楓漁火對愁眠。\n姑蘇城外寒山寺，夜半鐘聲到客船",
+       "en": ""
+      },
+      {
+       "zh": "宋。 蘇軾《 臨江仙 》\n夜飲東坡醒復醉，歸來彷彿三更。家童鼻息已雷鳴。敲門都不應，倚杖聽江聲。\n 長恨此身非我有，何時忘卻營營。夜闌風靜縠紋平。小舟從此逝，江海寄餘生。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 305,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "305."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img11.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img12.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img13.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "在康河的柔波里，我甘心做一條水草！\n《 再別康橋 》     徐志摩\n輕輕的我走了，正如我輕輕地来；\n我輕輕地招手，作别西邊的雲彩。\n那河畔的金柳，是夕陽中的新娘；\n波光里的艶影，在我的心頭盪漾。\n軟泥上的青荇，油油的在水底招摇；\n在康河的柔波里，我甘心做一條水草！\n那榆蔭下的一潭，不是清泉，是天上虹；\n揉碎在浮藻間，沉澱着彩虹似的夢。\n尋夢？撑一支長篙，向青草更青處漫溯；\n满載一船星輝，在星輝斑斓里放歌。\n但我不能放歌，悄悄是别離的笙簫；\n夏虫也我沉默，沉默是今晚的康橋！\n悄悄的我走了，正如我悄悄地来；\n我揮一揮衣袖，不帶走一片雲彩。",
+       "en": ""
+      },
+      {
+       "zh": "攝影圖片\na.   後院池塘秋景。\nb.   Serbia, Belgrade. 多腦河晨間河畔倒影。\nc.   荷蘭, 阿娒斯特丹近郊河道水色。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 306,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "306."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img14.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img15.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img16.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 307,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "307."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img17.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img18.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img19.jpg",
+     "caption_zh": "孤立雪地的企鵝",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Antarctic Peninsula        何康隆"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "不問你為何離群走出",
+      "孤獨於冰雪砌造的絕壁",
+      "凝視   迷濛寒霧",
+      "屏息   千年流光",
+      "以立足天地之姿",
+      "沉寂於水墨畫的渺茫"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "岬灣靜無波",
+      "萬徑人蹤沒",
+      "我是否可以陪你",
+      "看浮冰悠然滑過",
+      "聽寒風沿岸吹拂",
+      "一起思索",
+      "萬古禪境空無",
+      "浮生緣起緣落"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 308,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "308."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img20.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img21.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img22.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "曹操 《 短歌行 》\n對酒當歌，人生幾何。譬如朝露，去日苦多。  \n慨當以慷，憂思難忘。何以解憂？惟有杜康。",
+       "en": ""
+      },
+      {
+       "zh": "幾何學﹝Geometry﹞是研究物體的形狀、大小及位置關係的一門數學分支。 \n幾何起源很早，可追溯到上古時期，據古希臘歷史學家希羅多德﹝前484~ 424﹞的說法，由於埃及尼羅河的周期性泛濫，淹沒土地、沖毀地界。由於重新測量，劃分土地的工作有其需要，故產生了幾何學。因此「幾何」一詞拉丁文叫geometria，它的希臘文是「土地」「測量」二詞組合而成，意即土地測量。集古希臘幾何研究之大成的著作是希臘歐幾里得的《幾何原本》。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 309,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "309."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img23.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img24.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img25.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "畢卡索自畫像 (1907, 26歲)。  眼大，目光炯炯，眼神深邃，散放吞吐萬象，開創新局，震攝人心的氣勢。",
+       "en": ""
+      },
+      {
+       "zh": "宋代「知行合一」哲學家王陽明12歲詩作:\n「 山近月遠覺月小， 便道此山大于月。\n若人有眼大如天， 還見山高月更闊。」",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img26.jpg",
+     "caption_zh": "畢卡索最后的自畫像 (1972, 91歲)。",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《亞維農的少女》（法語：Les Demoiselles d'Avignon ）是知名的西班牙畫家巴伯羅·畢卡索的作品，於1907年在西班牙的妓院中所繪。對於少女眼神的捕捉是這幅畫重要的成就之一，是代表畢卡索進入非洲原始面具時期的象徵。此畫抛棄了透視法，轉而使用平板的原始主義畫法。這幅原始立體主義畫作，被認為是後來的立體主義與現代藝術的發端之一，是20世紀最重要的作品之一。目前《亞維農的少女》收藏在美國紐約的現代藝術館內 (MOMA)。",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img27.jpg",
+     "caption_zh": "畢卡索 《亞維農的少女》1907     New York , MOMA",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 310,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "310."
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img28.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img29.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc31/img30.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "** 《 阮若打開心內的門 》\n詞：王昶雄　曲：呂泉生\n阮若打開心內的門，就會看見五彩的春光，\n雖然春天無久長，總會暫時消阮滿腹辛酸。\n春光春光你何在，望你永遠在阮心內。\n阮若打開心內的門，就會看見五彩的春光。\n阮若打開心內的門，就會看見故鄉的田園，\n雖然路途千里遠，總會暫時給阮思念想要返。\n故鄉故鄉今何在，望你永遠在阮心內。\n阮若打開心內的門，就會看見故鄉的田園。",
+       "en": ""
+      },
+      {
+       "zh": "台灣50年代農業人口大量外移到都市求發展，城市中同時聚集著許多不同生活背景的人，且人際之間關係日趨疏離冷漠，彼此競爭和磨擦。呂泉生和王昶雄於是創作了這首「阮若打開心內的門窗」歌曲，鼓勵大家放寬心胸、包容他人, 響往安和的社會。也因為詞曲優美、意境深遠，充滿鼓勵與希望，因此傳唱很廣。",
+       "en": ""
+      },
+      {
+       "zh": "呂泉生 (1916 ~ 2008 )  出生台中神岡客家音樂家。以作曲和聲樂的成就為人所知，并\n以台湾音樂史編作為一生志業。早年致力於採集，改編台湾民謠，為台灣保留了珍貴的文化資產，也是將民謠藝術化的先驅之一。編譜的民謠有《丢丢銅仔》，《六月田水》，《一隻鳥仔哮救救》，《邵族歌謠》等。呂泉生秉持其中心思想，推動歌唱音樂，是以本土為根的創作者。他寫過無數膾炙人口，歷久不衰的作品，如〈搖嬰仔歌〉，〈杯底不可飼金魚〉，〈阮若打開心內的門窗〉等。他也是帶領「榮星兒童合唱團」，創造出許多台  灣音樂奇蹟，寫下台灣音樂史上光燦一頁的傳奇人物。 他不但是台灣合唱音樂之父，也是將台灣歌曲藝術化的第一人， 更是讓二十世紀台灣有「自己的歌」可唱的作曲家。\n幾何學﹝Geometry﹞是研究物體的形狀、大小及位置關係的一門數學分支。 \n幾何起源很早，可追溯到上古時期，據古希臘歷史學家希羅多德﹝前484~ 424﹞的說法，由於埃及尼羅河的周期性泛濫，淹沒土地、沖毀地界。由於重新測量，劃分土地的工作有其需要，故產生了幾何學。因此「幾何」一詞拉丁文叫geometria，它的希臘文是「土地」「測量」二詞組合而成，意即土地測量。集古希臘幾何研究之大成的著作是希臘歷山大前期歐幾里得的《幾何原本》。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc31",
+  "series": "31",
+  "range": "301–310",
+  "count": 10,
+  "theme": ""
+ }
+}

@@ -1,6 +1,101 @@
 {
  "poems": [
   {
+   "slug": "p_5712a11f",
+   "title": "Alaska 的北極光",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Fairbanks",
+     "Arctic"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_56fd66bf",
+   "title": "Longyearbyen 的清晨",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Spitsbergen",
+     "Arctic"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_4775df61",
+   "title": "五月的空濛湖",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Lake Como",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_b3ca654c",
+   "title": "亞德里亞海變奏曲",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Adriatic Coast",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "flower-fragrance-botswana",
+   "title": "今生有花香留下嗎？",
+   "title_en": "Does This Life Leave a Floral Scent Behind?",
+   "tags": {
+    "geo": [
+     "Xugana",
+     "Botswana"
+    ],
+    "subject": [
+     "nature",
+     "reflection",
+     "mortality",
+     "solitude"
+    ],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_54d6264e",
+   "title": "伊斯坦堡印象",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Istanbul",
+     "Turkey"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_3c1f5cee",
+   "title": "你如何尋我",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
    "slug": "p_c1745bf6",
    "title": "光燦的古城",
    "title_en": "",
@@ -10,7 +105,63 @@
      "Europe"
     ],
     "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_501df2a7",
+   "title": "冰島黃金瀑布",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Gullfoss",
+     "Iceland"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "polar-bears-svalbard",
+   "title": "北極圈內偶遇北極熊",
+   "title_en": "An Encounter with Polar Bears within the Arctic Circle",
+   "tags": {
+    "geo": [
+     "Spitsbergen",
+     "Arctic"
+    ],
+    "subject": [
+     "climate change",
+     "wildlife"
+    ],
     "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_new_18xaeJ",
+   "title": "北緯七十八度的植物化石",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "antarctic-ice-floes-song",
+   "title": "南極浮冰之歌",
+   "title_en": "Antarctic Peninsula",
+   "tags": {
+    "geo": [
+     "Antarctic Peninsula",
+     "Antarctica"
+    ],
+    "subject": [
+     "climate change",
+     "nature",
+     "solitude"
+    ],
+    "format": "抒情 Lyric"
    }
   },
   {
@@ -26,6 +177,473 @@
    }
   },
   {
+   "slug": "p_023b3f02",
+   "title": "哭牆",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Jerusalem",
+     "Israel"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_1033b3ca",
+   "title": "土耳其海邊隨想",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Mersin",
+     "Turkey"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_08dc33b9",
+   "title": "夜宿隱者客棧",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Aoraki/Mt.Cook National Park",
+     "New Zealand"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_355dd9e9",
+   "title": "太魯閣峽谷",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "太魯閣",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_new_1FaX3-",
+   "title": "如果人生像一行詩",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_885ad5f0",
+   "title": "如果有一座古寺",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Kom Ombo",
+     "Egypt"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_bef4dc21",
+   "title": "孤寂時刻",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "solitary-penguin-antarctica",
+   "title": "孤立雪地的企鵝",
+   "title_en": "A Lonely Penguin In The Snow",
+   "tags": {
+    "geo": [
+     "Antarctic Peninsula",
+     "Antarctica"
+    ],
+    "subject": [
+     "solitude",
+     "wildlife",
+     "nature"
+    ],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_new_1VO3Cb",
+   "title": "富士山的遙想",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_9f14f957",
+   "title": "尤加利樹上的無尾熊",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Queensland",
+     "Australia"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_8e8d5870",
+   "title": "布萊德湖的波紋",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Lake Bled",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_d07e7c7f",
+   "title": "我想為你找一個邊境",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Spitsbergen Svalbard",
+     "Arctic"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "fragments-of-time-in-palm",
+   "title": "把零碎時光握在掌中",
+   "title_en": "Holding Fragmented Time in Palm",
+   "tags": {
+    "geo": [
+     "Taiwan and the United States",
+     "Taiwan",
+     "USA"
+    ],
+    "subject": [
+     "memory",
+     "homeland",
+     "family",
+     "diaspora",
+     "medicine and science",
+     "aging and mortality",
+     "art and literature",
+     "travel"
+    ],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_5bb9f45c",
+   "title": "拔摩島",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Patmos",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_5fe48bbb",
+   "title": "文明在此起落紛繁--瑪雅遺跡",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Yucatan Peninsula",
+     "Mexico"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_21586c4a",
+   "title": "於是音符開始飄落於六月的黃昏",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_0e09c427",
+   "title": "星光下的音樂會",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Meadow Brook Music Festival",
+     "USA"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "obidos-late-spring-rain",
+   "title": "暮春古城烟雨中",
+   "title_en": "Ancient Town in Late Spring Rain",
+   "tags": {
+    "geo": [
+     "Óbidos",
+     "Europe"
+    ],
+    "subject": [
+     "travel",
+     "history",
+     "nostalgia"
+    ],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_602c698f",
+   "title": "暮色中看小企鵝回家",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Phillip Island",
+     "Australia"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_2c642810",
+   "title": "有歌聲如風",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Spitsbergen",
+     "Arctic"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_656f3ff9",
+   "title": "杜布魯夫尼克城堡",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Dubrovnik",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_ad9128ca",
+   "title": "歲月依然寂靜",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Sahara Desert",
+     "Morocco"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_00b8fa44",
+   "title": "浮升的意象",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_ae731948",
+   "title": "淒風苦雨訪綠島",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "綠島",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_9cfd2840",
+   "title": "湖光水色的遙想",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Plitvice Lakes National Park",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "viewing-miro-paintings",
+   "title": "看米羅的畫有感",
+   "title_en": "Looking at Miro's Paintings",
+   "tags": {
+    "geo": [],
+    "subject": [
+     "art",
+     "Joan Miró",
+     "ekphrastic",
+     "Barcelona"
+    ],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_239d7e4a",
+   "title": "穴水小鎭漫歩隨想",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "能登半島",
+     "Japan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_new_1b_EUm",
+   "title": "等待北極光的夜晚",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_ddeecaea",
+   "title": "細漢兮黑森溪",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "屏東",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_fa715b2f",
+   "title": "細雨飄落於波西米亞平原",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Karlovy Vary",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_312bb834",
+   "title": "羅東天燈",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "羅東",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_b909ee4e",
+   "title": "艾爾斯岩的獨白",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Ayers Rock",
+     "Australia"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_317a3ffd",
+   "title": "茱麗葉故居",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Verona",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_new_1X0aAr",
+   "title": "衫林溪的雲霧",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_2f951172",
+   "title": "許檜木林一個蒼翠未來",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "棲蘭山",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_fe772049",
+   "title": "詩意的畫  苦寂的心",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Van Gogh Museum",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
    "slug": "p_c2ae755f",
    "title": "貝加爾湖漫步隨想",
    "title_en": "",
@@ -35,7 +653,38 @@
      "Russia"
     ],
     "subject": [],
-    "format": "長詩 Long-form"
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "wuling-mountain-road",
+   "title": "走下武嶺的山路",
+   "title_en": "Walking Down the Mountain Road from Wuling",
+   "tags": {
+    "geo": [
+     "Wuling",
+     "Taiwan"
+    ],
+    "subject": [
+     "nature",
+     "mountains",
+     "homeland",
+     "Taiwanese identity"
+    ],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_9aea5d74",
+   "title": "那年夏日海風如歌",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Inside Passage",
+     "USA"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
    }
   },
   {
@@ -52,6 +701,144 @@
    }
   },
   {
+   "slug": "yehliu-queen-rock",
+   "title": "野柳女王岩",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "野柳",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "beginning-a-journey-britain",
+   "title": "開始一趟旅程",
+   "title_en": "Beginning a Journey",
+   "tags": {
+    "geo": [
+     "Ireland",
+     "Europe"
+    ],
+    "subject": [
+     "travel",
+     "history",
+     "folk songs",
+     "identity"
+    ],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "jiufen-rain",
+   "title": "雨中九份",
+   "title_en": "Jiufen in the Rain",
+   "tags": {
+    "geo": [
+     "Jiufen",
+     "Taiwan"
+    ],
+    "subject": [
+     "travel",
+     "history",
+     "nostalgia"
+    ],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_new_18FxzH",
+   "title": "雨中看小企鵝回家",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_e43ca3f9",
+   "title": "雨夜看西安大雁塔",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "西安",
+     "China"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_19c83be1",
+   "title": "霧迷龜山島",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "龜山島",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "sydney-sails",
+   "title": "風帆如詩",
+   "title_en": "Sails Like Poetry",
+   "tags": {
+    "geo": [
+     "Sydney Opera House",
+     "Australia"
+    ],
+    "subject": [
+     "travel",
+     "architecture",
+     "music",
+     "history"
+    ],
+    "format": "長詩 Long-form"
+   }
+  },
+  {
+   "slug": "p_d069408e",
+   "title": "風景因此而美",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Bryce Canyon National Park",
+     "USA"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_8d53e68d",
+   "title": "飄浮的水城",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "Venice",
+     "Europe"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
+   "slug": "p_new_1IgUEC",
+   "title": "飛越 Okavango内陸三角洲",
+   "title_en": "",
+   "tags": {
+    "geo": [],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
    "slug": "p_c595ebe4",
    "title": "飛越Okavango內陸三角洲",
    "title_en": "",
@@ -62,13 +849,233 @@
     "subject": [],
     "format": "抒情 Lyric"
    }
+  },
+  {
+   "slug": "madrid-dusk",
+   "title": "馬德里的黃昏",
+   "title_en": "Dusk in Madrid",
+   "tags": {
+    "geo": [
+     "Madrid",
+     "Europe"
+    ],
+    "subject": [
+     "travel",
+     "memory",
+     "dusk/twilight"
+    ],
+    "format": "抒情 Lyric"
+   }
   }
  ],
  "haiku": [
   {
+   "slug": "hdoc100",
+   "series": "0",
+   "range": "1–4324",
+   "count": 121,
+   "theme": "行到水窮處"
+  },
+  {
+   "slug": "hdoc1",
+   "series": "1",
+   "range": "1–2",
+   "count": 2,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc2",
+   "series": "2",
+   "range": "11–11",
+   "count": 1,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc3",
+   "series": "3",
+   "range": "21–21",
+   "count": 1,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc4",
+   "series": "4",
+   "range": "31–31",
+   "count": 1,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc5",
+   "series": "5",
+   "range": "41–42",
+   "count": 2,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc6",
+   "series": "6",
+   "range": "51–52",
+   "count": 2,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc7",
+   "series": "7",
+   "range": "61–70",
+   "count": 6,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc8",
+   "series": "8",
+   "range": "71–74",
+   "count": 4,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc9",
+   "series": "9",
+   "range": "81–84",
+   "count": 4,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc10",
+   "series": "10",
+   "range": "91–100",
+   "count": 5,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc11",
+   "series": "11",
+   "range": "101–110",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc12",
+   "series": "12",
+   "range": "111–120",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc13",
+   "series": "13",
+   "range": "121–130",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc14",
+   "series": "14",
+   "range": "131–140",
+   "count": 10,
+   "theme": ""
+  },
+  {
    "slug": "hdoc15",
    "series": "15",
    "range": "141–150",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc16",
+   "series": "16",
+   "range": "151–160",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc17",
+   "series": "17",
+   "range": "161–170",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc18",
+   "series": "18",
+   "range": "171–180",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc19",
+   "series": "19",
+   "range": "181–190",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc20",
+   "series": "20",
+   "range": "191–200",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc21",
+   "series": "21",
+   "range": "201–210",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc22",
+   "series": "22",
+   "range": "211–220",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc23",
+   "series": "23",
+   "range": "221–230",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc24",
+   "series": "24",
+   "range": "231–240",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc25",
+   "series": "25",
+   "range": "241–250",
+   "count": 9,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc26",
+   "series": "26",
+   "range": "251–260",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc27",
+   "series": "27",
+   "range": "261–270",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc28",
+   "series": "28",
+   "range": "271–280",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc29",
+   "series": "29",
+   "range": "281–290",
    "count": 10,
    "theme": ""
   },
@@ -80,9 +1087,506 @@
    "theme": ""
   },
   {
+   "slug": "hdoc31",
+   "series": "31",
+   "range": "301–310",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc32",
+   "series": "32",
+   "range": "311–320",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc33",
+   "series": "33",
+   "range": "321–330",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc34",
+   "series": "34",
+   "range": "331–340",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc35",
+   "series": "35",
+   "range": "341–350",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc36",
+   "series": "36",
+   "range": "351–360",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc37",
+   "series": "37",
+   "range": "361–370",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc38",
+   "series": "38",
+   "range": "371–380",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc39",
+   "series": "39",
+   "range": "381–390",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc40",
+   "series": "40",
+   "range": "391–400",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc41",
+   "series": "41",
+   "range": "401–410",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc42",
+   "series": "42",
+   "range": "411–420",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc43",
+   "series": "43",
+   "range": "421–430",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc44",
+   "series": "44",
+   "range": "431–440",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc45",
+   "series": "45",
+   "range": "441–450",
+   "count": 9,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc46",
+   "series": "46",
+   "range": "451–460",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc47",
+   "series": "47",
+   "range": "461–470",
+   "count": 9,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc48",
+   "series": "48",
+   "range": "471–480",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc49",
+   "series": "49",
+   "range": "481–490",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc50",
+   "series": "50",
+   "range": "491–500",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc51",
+   "series": "51",
+   "range": "501–510",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc52",
+   "series": "52",
+   "range": "511–520",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc53",
+   "series": "53",
+   "range": "521–530",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc54",
+   "series": "54",
+   "range": "531–540",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc55",
+   "series": "55",
+   "range": "541–550",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc56",
+   "series": "56",
+   "range": "551–560",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc57",
+   "series": "57",
+   "range": "561–570",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc58",
+   "series": "58",
+   "range": "571–580",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc60",
+   "series": "60",
+   "range": "591–600",
+   "count": 10,
+   "theme": ""
+  },
+  {
    "slug": "hdoc61",
    "series": "61",
    "range": "601–610",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc62",
+   "series": "62",
+   "range": "611–620",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc63",
+   "series": "63",
+   "range": "621–630",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc64",
+   "series": "64",
+   "range": "631–640",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc65",
+   "series": "65",
+   "range": "641–650",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc66",
+   "series": "66",
+   "range": "651–660",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc67",
+   "series": "67",
+   "range": "661–670",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc68",
+   "series": "68",
+   "range": "671–680",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc69",
+   "series": "69",
+   "range": "681–690",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc70",
+   "series": "70",
+   "range": "691–700",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc71",
+   "series": "71",
+   "range": "701–710",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc72",
+   "series": "72",
+   "range": "711–720",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc73",
+   "series": "73",
+   "range": "720–729",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc74",
+   "series": "74",
+   "range": "731–740",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc75",
+   "series": "75",
+   "range": "741–750",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc76",
+   "series": "76",
+   "range": "751–760",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc77",
+   "series": "77",
+   "range": "761–770",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc78",
+   "series": "78",
+   "range": "771–780",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc79",
+   "series": "79",
+   "range": "781–790",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc80",
+   "series": "80",
+   "range": "791–800",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc81",
+   "series": "81",
+   "range": "801–810",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc82",
+   "series": "82",
+   "range": "811–820",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc83",
+   "series": "83",
+   "range": "821–830",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc84",
+   "series": "84",
+   "range": "831–840",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc85",
+   "series": "85",
+   "range": "841–850",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc86",
+   "series": "86",
+   "range": "851–860",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc87",
+   "series": "87",
+   "range": "861–870",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc88",
+   "series": "88",
+   "range": "871–880",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc89",
+   "series": "89",
+   "range": "881–890",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc90",
+   "series": "90",
+   "range": "891–900",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc91",
+   "series": "91",
+   "range": "901–910",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc92",
+   "series": "92",
+   "range": "911–920",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc93",
+   "series": "93",
+   "range": "921–930",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc94",
+   "series": "94",
+   "range": "931–940",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc95",
+   "series": "95",
+   "range": "941–950",
+   "count": 9,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc96",
+   "series": "96",
+   "range": "951–960",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc97",
+   "series": "97",
+   "range": "961–970",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc98",
+   "series": "98",
+   "range": "971–980",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc99",
+   "series": "99",
+   "range": "981–990",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc101",
+   "series": "101",
+   "range": "1001–1010",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc102",
+   "series": "102",
+   "range": "1011–1020",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc103",
+   "series": "103",
+   "range": "1021–1030",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc104",
+   "series": "104",
+   "range": "1031–1040",
    "count": 10,
    "theme": ""
   },
@@ -94,10 +1598,353 @@
    "theme": ""
   },
   {
+   "slug": "hdoc106",
+   "series": "106",
+   "range": "1051–1060",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc107",
+   "series": "107",
+   "range": "1061–1070",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc108",
+   "series": "108",
+   "range": "1071–1080",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc109",
+   "series": "109",
+   "range": "1081–1090",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc110",
+   "series": "110",
+   "range": "1091–1100",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc111",
+   "series": "111",
+   "range": "1101–1110",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc112",
+   "series": "112",
+   "range": "1111–1120",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc113",
+   "series": "113",
+   "range": "1121–1130",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc114",
+   "series": "114",
+   "range": "1131–1140",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc115",
+   "series": "115",
+   "range": "1141–1150",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc116",
+   "series": "116",
+   "range": "1151–1160",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc117",
+   "series": "117",
+   "range": "1161–1170",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc118",
+   "series": "118",
+   "range": "1171–1180",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc119",
+   "series": "119",
+   "range": "1181–1190",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc120",
+   "series": "120",
+   "range": "1191–1200",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc121",
+   "series": "121",
+   "range": "1201–1210",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc122",
+   "series": "122",
+   "range": "1211–1220",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc123",
+   "series": "123",
+   "range": "1221–1230",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc124",
+   "series": "124",
+   "range": "1231–1240",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc125",
+   "series": "125",
+   "range": "1241–1250",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc126",
+   "series": "126",
+   "range": "1251–1260",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc127",
+   "series": "127",
+   "range": "1261–1270",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc128",
+   "series": "128",
+   "range": "1271–1280",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc129",
+   "series": "129",
+   "range": "1281–1290",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc130",
+   "series": "130",
+   "range": "1291–1300",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc131",
+   "series": "131",
+   "range": "1301–1310",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc132",
+   "series": "132",
+   "range": "1311–1320",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc133",
+   "series": "133",
+   "range": "1321–1330",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc134",
+   "series": "134",
+   "range": "1331–1340",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc135",
+   "series": "135",
+   "range": "1341–1350",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc136",
+   "series": "136",
+   "range": "1351–1360",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc137",
+   "series": "137",
+   "range": "1361–1370",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc138",
+   "series": "138",
+   "range": "1371–1380",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc139",
+   "series": "139",
+   "range": "1381–1390",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc140",
+   "series": "140",
+   "range": "1391–1934",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc141",
+   "series": "141",
+   "range": "1401–1410",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc142",
+   "series": "142",
+   "range": "1411–1420",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc143",
+   "series": "143",
+   "range": "1421–1430",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc144",
+   "series": "144",
+   "range": "1–1440",
+   "count": 19,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc145",
+   "series": "145",
+   "range": "1441–1450",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc146",
+   "series": "146",
+   "range": "1451–1460",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc147",
+   "series": "147",
+   "range": "1461–1470",
+   "count": 10,
+   "theme": ""
+  },
+  {
    "slug": "hdoc148",
    "series": "148",
    "range": "1471–1480",
    "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc149",
+   "series": "149",
+   "range": "1481–1490",
+   "count": 10,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc150",
+   "series": "150",
+   "range": "1–1500",
+   "count": 13,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc151",
+   "series": "151",
+   "range": "1–1510",
+   "count": 14,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc152",
+   "series": "152",
+   "range": "1–1520",
+   "count": 14,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc153",
+   "series": "153",
+   "range": "1522–1530",
+   "count": 9,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc154",
+   "series": "154",
+   "range": "1–1540",
+   "count": 13,
+   "theme": ""
+  },
+  {
+   "slug": "hdoc155",
+   "series": "155",
+   "range": "1–1550",
+   "count": 13,
    "theme": ""
   }
  ],

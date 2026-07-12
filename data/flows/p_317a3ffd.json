@@ -1,0 +1,95 @@
+{
+ "slug": "p_317a3ffd",
+ "kind": "poem",
+ "title": "茱麗葉故居",
+ "source": "茱麗葉故居.docx",
+ "flow": [
+  {
+   "type": "title",
+   "zh": "茱麗葉故居"
+  },
+  {
+   "type": "subtitle",
+   "zh": "Verona, Italy"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/p_317a3ffd/img1.jpg",
+   "caption_zh": "茱麗葉故居的陽台.  Verona, Italy",
+   "caption_en": ""
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "帶著古典",
+    "戲劇般的記憶",
+    "以及半屏山下那一片",
+    "秋來時金黃的稻穗",
+    "我千里迢迢來到 Verona"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "在細雨初停的午後",
+    "走進昔日",
+    "你和羅蜜歐",
+    "惜惜作別的庭院",
+    "陽台如舊",
+    "窗戶空留",
+    "陰霾天氣宛若迷朦晨曉",
+    "雨水沾濕的攀藤",
+    "有一種似曾相識的感覺"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "可是，茱麗葉",
+    "庭院人影紛擾",
+    "眾聲如此喧囂",
+    "且容我尋覓",
+    "一個靜僻的角落",
+    "再次傾聽你吶吶低吟:",
+    "「離別是這般甜蜜的憂愁…… 」"
+   ],
+   "en": []
+  },
+  {
+   "type": "stanza",
+   "zh": [
+    "然後",
+    "踏著雨後的石板路離去",
+    "連同那一段青澀無悔的歲月"
+   ],
+   "en": []
+  },
+  {
+   "type": "note",
+   "points": [
+    {
+     "zh": "**   記得大學時代讀莎士比亞文集時 ，高雄醫學院後面那一片廣裘的稻田，彷彿一直綿延到半屏山腳下。",
+     "en": ""
+    },
+    {
+     "zh": "Juliet : “Yet I should kill thee with much cherishing.  Good night,  good night; Parting is such sweet sorrow that I shall say good night till it be tomorrow.“        \n                                                                                       --  Romeo and Juliet   : 2. 2",
+     "en": ""
+    }
+   ]
+  }
+ ],
+ "tags": {
+  "geo": [
+   "Verona",
+   "Europe"
+  ],
+  "subject": [],
+  "format": "抒情 Lyric"
+ }
+}

@@ -199,5 +199,18 @@
     }
    ]
   }
- ]
+ ],
+ "tags": {
+  "geo": [
+   "Ireland",
+   "Europe"
+  ],
+  "subject": [
+   "travel",
+   "history",
+   "folk songs",
+   "identity"
+  ],
+  "format": "長詩 Long-form"
+ }
 }

@@ -1,0 +1,388 @@
+{
+ "slug": "hdoc50",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 50",
+ "source": "現代俳句和變奏--50.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列 《 50 》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc50/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 491,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "491.",
+      "秋，採收",
+      "晨霧中的菊，傳遞",
+      "泰戈爾的詩句"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "印度詩人泰戈爾 《漂鳥集》\n夏日的漂鳥，飛到我的窗前唱歌，然後翩然飛去。\n秋日的黃葉，沒有歌唱，只歎息一聲，便飄然落下。\nstray birds of summer come to my window to sing and fly away.\nand yellow leaves of autumn, which have no songs, flutter and fall",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 492,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "492.",
+      "花樹下",
+      "一隻蝴蝶，飛出",
+      "驚醒，夢睡中的莊子"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "莊子 《齊物篇 》\n昔者莊周夢為胡蝶，栩栩然蝴蝶也。不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與？蝴蝶之夢為周與？ ……此之謂物化。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 493,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "493.",
+      "今晚，我有",
+      "整個，希臘星空",
+      "你想彈唱什麽？"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc50/img2.jpg",
+     "caption_zh": "Constellation in December, Northern Hemisphere.",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc50/img3.jpg",
+     "caption_zh": "Pegasus and Constellation.",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 494,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "494.",
+      "春日，碧草如茵",
+      "桃花遍地開放",
+      "青蛙依然，井底觀天"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 495,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "495.",
+      "生命的轉角，錯失",
+      "一棵開花的樹，走入",
+      "蒙德里安擺佈的幾何迷圖"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "皮特·蒙德里安（Piet Mondrian，1872－1944），荷蘭畫家，抽象風格派核心的人物和非具象繪畫的創始者之一，自稱“新造型主義”，又稱“幾何形体派”。對後代的建築、設計等有很大的影響。荷蘭美術史上三大自成一派的画家，是17世紀的林布蘭特，19世紀的梵谷，20世紀的蒙德里安。畢加索的抽象派和林布蘭特的立體派是蒙德里安的轉型導師，蒙德里安最終從兩者之間吸取精華，利用抽象的造型與中性的色彩來傳達秩序與和平的理念。對蒙德里安來說，自然界的一切物象，無論是山水、樹木，還是房屋建築，都可化為純粹的線條和色塊。他曾說道“看著大海、天空和星星，我通過大量的十字形來表現它們。自然的偉大深深打動我，我試圖表達那種浩瀚遼闊、寧靜和諧、協調統一。”",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc50/img4.jpg",
+     "caption_zh": "蒙德里安幾何抽像風格的代表作之一 :《 紅、黃、藍的構成 》 1930",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "畫面呈現粗重的黑色線條控制著大小不同的矩形，形成非常簡潔的結構。畫面主導是鮮亮的紅色，面積大，且色度極為飽和。小塊藍色和片片黃色與白色有效配合，牢牢控制住居中的方形紅塊，撑住了畫面上的平衡。在這裡，除了三原色之外，再無其他色彩；除了垂直線和水平線之外，再無其他線條；除了直角與方塊，再無其他形狀。"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc50/img5.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《 Broadway Boogie-Woogie 》1943      Museum of Modern Art   New York"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "在生命的最後四年，蒙德里安移居美國紐約市，在這五光十色的大都會，蒙德里安感受到沒有戰事紛擾的世界，跳躍著現代都市新氣息。 《百老匯爵士樂》是蒙德里安在紐約時期的重要作品，也是生前最後一件完成的作品。依然是直線，但不是冷峻嚴肅的黑色界線，而是活潑跳動的彩色界線，由小小的長短不一的彩色矩形組成，輕巧的分割著畫面。依然是原色，但不再受到黑線的約束，而是以明亮的黃色為主，間雜著紅與藍，形成繽紛的彩線，其間又散佈著紅、黃、藍色塊，營造出爵士樂的節奏變換和頻率震動。"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc50/img6.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Self Portrait and《Composition II in Red, Blue, and Yellow.  1929》"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 496,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "496.",
+      "前不見古人",
+      "後不見來者",
+      "空，見空不空"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐   。陳子昂   《 登幽州台歌 》\n「 前不見古人，後不見來者。念天地之悠悠，獨愴然而涕下。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 497,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "497.",
+      "展開畫卷長軸",
+      "人生的故事，紛繁",
+      "誰來落款"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《 誰來落款 》",
+      "飛越  Okavango 內陸三角洲",
+      "Botswana， Africa         何康隆"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "大地終於攤開一張玄紙",
+      "素描剛落筆",
+      "大河就彎彎曲曲",
+      "自天邊橫斜過來",
+      "畫了兩三行渾厚的篆草",
+      "磅礡如趙無極的抽象",
+      "勾勒留白處",
+      "隱藏著米羅欲說",
+      "未說的什麼"
+     ],
+     "en": [
+      "At last the earth unrolls a sheet of dark paper.",
+      "The sketch has barely begun",
+      "when the great river, winding and bending,",
+      "slants in from the edge of the sky,",
+      "drawing two or three bold strokes of seal-script grass —",
+      "magnificent as a Zao Wou-Ki abstraction;",
+      "and in the blank of the outline",
+      "hides what Miró meant to say",
+      "and left unsaid."
+     ]
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "煙嵐漸散",
+      "非洲五月的陽光",
+      "恣意地鋪陳",
+      "明暗浸染的水墨圖案",
+      "極眼處",
+      "長軸已展",
+      "這蒼茫大地",
+      "誰來落款 ?"
+     ],
+     "en": [
+      "The mist slowly clears;",
+      "the May sunlight of Africa",
+      "spreads out at will.",
+      "An ink-wash pattern steeped in light and shade —",
+      "at the farthest reach of sight,",
+      "the long scroll is unrolled.",
+      "This vast, hazy land —",
+      "who will sign it?"
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc50/img7.jpg",
+     "caption_zh": "Okavango Delta，Botswana         攝自小型飛機   2015",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "非洲的Okavango Delta，世界最大的內陸三角洲，是 Okavango River自 Angola從北向南，經Namibia，注入Botswana境內的Kalahari沙漠而成。2014年被列爲 UNESCO第1000個世界自然遺產。時值夏季，水量豐沛，三角洲內河道曲折縱橫，湖泊，沙洲和草原參差交錯。從機艙俯望，近處幾何圖形，色彩繁富，遠處煙嵐渺茫，幻成迷離意境。",
+       "en": "Africa’s Okavango Delta, the world’s largest inland delta, is formed by the Okavango River flowing south from Angola, through Namibia, into the Kalahari Desert in Botswana. In 2014 it became UNESCO’s 1,000th World Heritage Site. In summer, when the water is abundant, the delta’s channels twist and interlace, with lakes, sandbars, and grasslands scattered among them. Seen from the plane, the near view is a wealth of geometric shapes and colours, the far view a dim haze — resolving into a dreamlike, elusive scene."
+      },
+      {
+       "zh": "趙無極 (1921-2013) ，法籍華裔畫家，以油畫色彩呈現水墨浸染的意境。被譽為 「 西方現代抒情抽象派的代表 」。",
+       "en": ""
+      },
+      {
+       "zh": "米羅 ( Joan Miro 1893–1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。以超現實手法，簡約圖相，表現如夢似幻的詩意。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 498,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "498.",
+      "風靜，烟起林梢",
+      "花掩平蕪，更遠處",
+      "野渡無人舟自横"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 499,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "499.",
+      "總有一天，一切都平靜",
+      "關於 Covid-19疫情",
+      "關於捲天的層雲"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 500,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "500.",
+      "霧迷津渡，疑無路",
+      "你來，陪我靜坐，指説",
+      "柳暗盡處，風荷滿池"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "宋。  秦觀 《 踏莎行 》\n霧失樓台，月迷津渡，桃源望斷無尋處。\n可堪孤館閉春寒，杜鵑聲裡斜陽暮。\n驛寄梅花，魚傳尺素。砌成此恨無重數。\n郴江幸自繞郴山，為誰流下瀟湘去？",
+       "en": "Song. Qin Guan \"Tu Sha Xing\"\nThe fog lost its platform, the moon lost its way, and there was nowhere to find Taoyuan.\nThe lonely house was closed in the spring cold, and Du Yan's voice was sloping at dusk.\nSend plum blossoms, fish ration.Masonry this hate without multiplication.\nChenjiang is fortunate enough to go around the mountains, for whom to shed the Hunan?"
+      },
+      {
+       "zh": "《 You Raise Me Up 》\nMusic: Secret Garden    Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=2DorNUsi5LE",
+      "https://www.youtube.com/watch?v=xj8wHfBKoRU",
+      "https://www.youtube.com/watch?v=13_nXuJ6dX8",
+      "https://www.youtube.com/watch?v=sHpwbh9lxxY",
+      "https://www.youtube.com/watch?v=rcLl0A-lXIc"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc50",
+  "series": "50",
+  "range": "491–500",
+  "count": 10,
+  "theme": ""
+ }
+}

@@ -1,0 +1,377 @@
+{
+ "slug": "hdoc134",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 134",
+ "source": "現代俳句和變奏--134.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏  系列《134》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc134/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 1331,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1331.",
+      "行到水窮處，水窮處 ?",
+      "轉個彎，或許就是",
+      "柳暗花明，風荷满池"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "「只需要前進一小步，小小的一點距離，就會發現自己在邊界的另一端 。」",
+      "--- 米蘭 . 昆德拉 ( Milan Kundera )"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1332,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1332.",
+      "空曠沉寂的清真寺",
+      "虔誠肅穆的猶太教堂",
+      "加薩走廊有人流離泣訴"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "ChatGPT 對這首俳句的解讀:\n這首詩以三個強烈對比的畫面，描繪了宗教、情感與人類衝突的複雜關係，蘊含深刻的象徵與情感。\n第一行：「空曠沉寂的清真寺」\n清真寺的空無象徵了宗教場所的孤寂，可能暗示信仰的缺席，或者因戰亂、人為因素導致信徒無法前往崇拜的情景。這也許傳達了一種失落或被迫的中斷，表明宗教空間在某些情況下無法實現其精神作用。\n第二行：「虔誠肅穆的猶太教堂」\n這裡的虔誠與肅穆，既是一種尊嚴，也可能是隱含壓抑的氛圍。它似乎與第一行相互呼應，但從不同的宗教視角出發，展示出另一種情感狀態。這肅穆可能象徵一種無言的哀悼，或反映人類在衝突中對信仰的內在堅守。\n第三行：「加薩走廊有人流離泣訴」\n這是全詩中最具情感衝擊的一行。加薩走廊作為一個充滿衝突與爭議的地區，象徵了戰爭、苦難與無盡的悲傷。流離泣訴的形象強烈傳遞了人類情感的痛楚，無助與絕望在此凝聚。這行與前兩行宗教場所的靜態畫面形成鮮明對比，強調出現實中的人類悲劇。\n整體解讀：\n這首詩將清真寺與猶太教堂這兩個宗教場所放在一起，反映了宗教衝突與共同的人類情感之間的微妙聯繫。加薩走廊的悲劇場景將視角拉回到現實，提醒讀者無論宗教信仰如何，不同族群間的衝突，最終影響的是普通人的生命與心靈。  詩中每一句都包含一種沉重的情感，但也在提示讀者去思考，宗教信仰是否能真正成為和平的橋樑，抑或它在歷史的某些情境中，反而成為了分裂的根源。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1333,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1333.",
+      "藝術是一把鑰匙，解開桎梏",
+      "釋放心智，自由與創作，用畫筆",
+      "與色調書寫夢想，飛翔與時代故事"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img2.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "誠品主題專欄  2024-10-31.    讓我們走一回臺灣當代藝術史，認識來自這片土地的寶藏女畫家，透過她們獨特的筆觸，畫下自我與時代的故事：臺灣女性藝術家的創作之路，從崎嶇窄小的石頭路，近年漸漸走向康莊大道。在這條尋覓美好與自我的進行式中，她們堅定的腳步永不停歇。",
+      "東洋畫 / 膠彩畫臺灣女藝術家代表：陳進，林阿琴",
+      "西洋畫臺灣女藝術家代表：鄭瓊娟，洪美玲"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img3.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "洪美玲：〈尋道1號〉。      從1983年創作 <尋道1號> 至2013年 <尋道131號>，洪美玲的尋道旅程整整走了三十個年頭，記錄了一位女性藝術家追尋夢想的旅程，畫面之中有柳暗花明的驚奇、獨處的靜謐、頓失方向時的失意與落寞，亦有瞭然於心的平靜，訴說著創作者的心路歷程。",
+      "洪美玲（1940 - ）自小成長在山水之間的花蓮，畢業後擔任教師十多年的光陰間，曾有機會接觸到西畫，激起了洪美玲對繪畫的熱忱，她便毅然放棄穩定的教師工作，40 多歲隻身遠赴美國舊金山藝術學院攻讀繪畫。想不到迎面而來的，卻是從生活上到創作上，天翻地覆的巨大轉變。洪美鈴原先習慣的傳統臨摹技法，一口氣全被教授否決：「你要表現什麼？你的思想情感在哪裡？」洪美玲大為震撼，決定開始往內剖析自我：以她喜愛的老莊思想為軸心，擷取水墨畫中常見山路小徑為畫面主幹，採用西畫技法融合水墨的「皴（ㄘㄨㄣ）法」，發展出以編號命名的《尋道》系列。每一幅都是都尋覓自我的過程，畫中每一條路徑都是誠實面對自我的軌跡。    洪美玲筆下夢境一般的構圖，也投射她內心深處的渴望。年幼時家庭曾受白色恐怖迫害，洪美玲深感不自由帶來的壓迫，便藉由創作不斷尋找寧靜與自我。洪美玲將心中嚮往的桃花源轉映在畫布上，組成一幅幅彷彿用積木反覆堆疊，搭出通往美好未來的寓意畫面。洪美玲的《尋道》之路至今編號早已破百，她曾在受訪時，被問到什麼時候才會停筆？「畫到我眼睛滿意為止。」她微笑回答。"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img4.jpg",
+     "caption_zh": "洪美玲: 〈尋道 82號〉。   1998.",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img5.jpg",
+     "caption_zh": "洪美玲: 〈尋道 99號〉。    2002",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 1334,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1334.",
+      "有的書給我們開一扇窗，有的幫我們指一條路",
+      "有的書將我們連根拔起，爲我們撐出一片天",
+      "有的書緣於見識和膽識，雖不能至，心嚮往之 …"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1335,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1335.",
+      "晚風傳送荷塘蛙鳴",
+      "微雨斜入亭角風鈴",
+      "落花，人獨立"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1336,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1336.",
+      "你臨摹，絕句的獨釣寒江雪",
+      "我朗誦，現代詩的星空非常希臘",
+      "詩是，名詞形容詞感嘆號更是問號？"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "千山鳥飛絕，萬徑人蹤滅。",
+      "孤舟蓑笠翁，獨釣寒江雪。",
+      "-- 柳宗元《 江雪 》"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "姑且步黑暗的龍脊而下",
+      "用觸覺透視",
+      "也可以走完這一列中世紀",
+      "小葉和聰聰",
+      "撥開你長睫上重重的夜",
+      "就發現神話很守時",
+      "星空，非常希臘",
+      "-- 余光中《重上大度山》"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1337,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1337.",
+      "明暗是人生場景",
+      "悲歡在一瞬之間",
+      "雲破月來，花弄影"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1338,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1338.",
+      "逝者如斯夫，不捨晝夜",
+      "而，能讓時間停住的",
+      "惟有沉寂的廢墟"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img6.jpg",
+     "caption_zh": "Roman Ruins.   Perge   Turkey.    ( 攝影/何康隆 )",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Perge is an ancient city located in Antalya Province, Turkey. The city is about 18 km (11 mi) from the city of Antalya. Perge was founded in the 7th century BC by the people of Argos. The city was captured by the Persians in the 5th century BC, and by Alexander the Great in 333 BC. In the 2nd century BC, Perge became part of the Kingdom of Pergamon. The city was captured by the Romans in 133 BC, and by the Byzantines in the 5th century AD. The city was an important center of Christianity in the early years of the Church. St. Paul preached in the city in 46 AD, and St. Peter and St. John also visited the city. The city declined in importance in the 7th century AD and was abandoned in the 8th century. The city was excavated in the 20th century.",
+      "-- ( from one nation travel agency )"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 1339,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1339.",
+      "人人都會揑陶，捏陶的時光",
+      "是創造的時光，寧静，專注，期望",
+      "於是，上帝揑塵土，造人"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img7.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "陶藝是一項要求誠實的創作，這中間沒有造假的空間。說是練技其實是修心。你的心誠實嗎？你有坦然面對自己的欲望嗎？藉由陶藝走向自己，也讓我們看到，陶藝如同生活，是一種在動態中找到平衡，在高速運轉中找到自己中心，讓所有的變動擁有依歸，並在我們手中變成美好事物的過程。           --《逃逸路線》導讀—博客來"
+     ],
+     "en": []
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《舊約聖經》記載上帝花了五日時間創造了天地萬物，到第六日祂說：「我們要照著我們的形象，按著我們的樣式造人……。」於是「耶和華上帝用地上的塵土造人，將生氣吹在他鼻孔裡，他就成了有靈的活人，名叫亞當。」  亞當來自希伯來語Adamah，是泥土的意思。             --  舊約聖經：創世紀第二章第七節",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1340,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1340.",
+      "俄烏爭戰的砲聲烟硝中，流淌",
+      "一抹陽光，掩映遠方的衰草殘牆",
+      "Where have all the flowers gone ?"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img8.jpg",
+     "caption_zh": "“ 戰地野花 ”。  這幅水彩畫描繪了在戰地廢墟中盛開的野花，象徵著自然的韌性與希望。畫面以柔和的色調呈現，將野花的鮮艷與背景的破敗形成鮮明對比，增添了一份晃動心弦的詩意。     （ 圖/文: ChatGPT ）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc134/img9.jpg",
+     "caption_zh": "《 Where have all the flowers gone ? 》",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Song  by Pete Seeger, 1950s",
+      "Where have all the flowers gone?",
+      "Long time passing",
+      "Where have all the flowers gone?",
+      "The girls have picked them, everyone"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Where have all the young girls gone?",
+      "They've taken young men, everyone",
+      "Where have all the young men gone?",
+      "Gone for soldiers everyone",
+      "Where have all the soldiers gone?",
+      "Gone to graveyards everyone"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Where have all the graveyards gone?",
+      "Covered with flowers everyone",
+      "When will we ever learn?",
+      "When will we ever learn?"
+     ],
+     "en": []
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "\"Where Have All the Flowers Gone\" is a folk song written in by Pete Seeger the late 1950s, though it became widely popular in the 1960s, particularly during the folk music revival and the Vietnam War era. The song reflects themes of loss, the passage of time, and the cyclical nature of life.\n---  Cycle of Life and Death: The song uses the metaphor of flowers to represent youth, beauty, and vitality. The repeated questioning of \"Where have all the flowers gone?\" suggests a sense of mourning for what has been lost, whether it be innocence, youth, or lives lost in war.\n---  War and Its Consequences: The song connects the loss of flowers to the loss of young men who go off to war, emphasizing the tragic consequences of conflict. The cycle continues as it discusses how the men go away, never to return, and how their absence leaves a void.",
+       "en": ""
+      },
+      {
+       "zh": "Links for 《 Where have all the flowers gone ? 》:",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=MVbkO-BohIc",
+      "https://www.youtube.com/watch?v=bI3QVsW30j0",
+      "https://www.youtube.com/watch?v=xlWkTZGMquM",
+      "https://www.youtube.com/watch?v=p3ly8cyWvkw",
+      "https://www.youtube.com/watch?v=K4gnofSS-YA",
+      "https://www.youtube.com/watch?v=aoQtANk9IJc"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc134",
+  "series": "134",
+  "range": "1331–1340",
+  "count": 10,
+  "theme": ""
+ }
+}

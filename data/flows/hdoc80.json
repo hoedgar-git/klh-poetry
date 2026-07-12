@@ -1,0 +1,279 @@
+{
+ "slug": "hdoc80",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 80",
+ "source": "現代俳句和變奏--80.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏    系列《80》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc80/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 791,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "791.",
+      "行到水窮處，雲",
+      "還是王維的雲",
+      "我，已非昨日的我"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "王維詩句:\n「 行到水窮處，坐看雲起時。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 792,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "792.",
+      "旅程漫漫，雲煙迷離",
+      "也曾在偏僻陌生的村落獨行",
+      "也曾對似曾相識的旅情無語"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 793,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "793.",
+      "隨著一個個離去的名字",
+      "穿梭悠悠歲月，懷念",
+      "總是静靜地落在迭換的季節"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 794,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "794.",
+      "人生是幾何圖形",
+      "紛繁又抽象，音符",
+      "流過康丁斯基的色彩"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc80/img2.jpg",
+     "caption_zh": "Wassily Kandinsky ： \" Composition VIII \"     1923",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "\"Lend your ears to music, open your eyes to painting, and... stop thinking! Just ask yourself whether the work has enabled you to 'walk about' into a hitherto unknown world. If the answer is yes, what more do you want? \"           --- Wassily Kandinsky"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc80/img3.jpg",
+     "caption_zh": "Wassily Kandinsky ：\" Delicate Tension \"     1923",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "In creating this artwork, it is as though Kandinsky was compelled to draw carefully with a stencil and let loose with a paintbrush, to let his imagination take flight and lead with form and structure： that perfectly reflects a fundamental truth in all our daily lives—the constant need to navigate the delicate tensions between competing desires: to work or play, to jump up or sit down, to drink water or wine. It‘s both exhausting and exhilarating."
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 795,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "795.",
+      "一粒沙的世界裡",
+      "草色清麗，每次凝視",
+      "水岸温柔，遠山寂寂"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 796,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "796.",
+      "一朵花的宇宙裡",
+      "天空澄静，每次回首",
+      "時歲静好，詩酒依依"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "** 《 A Grain of Sand 》 by  William Blake\nTo see a world in a grain of sand,\nAnd a heaven in a wildflower,\nHold infinity in the palm of your hand,\nAnd eternity in an hour.",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 797,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "797.",
+      "離開漁村的午后",
+      "旅程的記憶，浮在",
+      "小船波盪的水色"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "**",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc80/img4.jpg",
+     "caption_zh": "Cudillero,  西班牙北邊安静的漁村        ( 攝影/何康隆 )",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 798,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "798.",
+      "日子密麻如篩子細孔",
+      "我們顛簸其中，反思其中",
+      "終究，在最後一格濾過"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 799,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "799.",
+      "曾經約定成爲彼此的風景",
+      "如是，若無閑事掛心頭",
+      "便是人間好時節"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "宋 。慧開禪師《無門關，第十九次節》\n「春有百花秋有月，夏有涼風冬有雪；若無閒事掛心頭，便是人間好時節。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 800,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "800.",
+      "色彩與美的旅程",
+      "一段一段，掩映",
+      "青菜豆腐的人生"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《牽手》    詞/曲：李子恒\n因為愛著你的愛　因為夢著你的夢\n所以悲傷著你的悲傷　幸福著你的幸福\n因為路過你的路　因為苦過你的苦\n所以快樂著你的快樂　追逐著你的追逐\n沒有風雨躲得過　沒有坎坷不必走\n所以安心地牽你的手　不去想該不該回頭\n所以牽了手的手　來生還要一起走\n所以有了伴的路　沒有歲月可回頭",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=KrDKT8UcD3w",
+      "https://www.youtube.com/watch?v=SS0IvgvWdBc",
+      "https://www.youtube.com/watch?v=1-O0ljktoHc",
+      "https://www.youtube.com/watch?v=M-u1rvkzXa8",
+      "https://www.youtube.com/watch?v=G-XK_mBQNxY",
+      "https://www.youtube.com/watch?v=sDUq9_KXAEE"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc80",
+  "series": "80",
+  "range": "791–800",
+  "count": 10,
+  "theme": ""
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "slug": "hdoc23",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 23",
+ "source": "現代俳句和變奏--23.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列 《 23 》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc23/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 221,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "221.",
+      "推開想像",
+      "飛入E = MC 平方",
+      "滿天星光璀燦"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "Albert Einstein  :\n\"  Imagination is more important than knowledge. For knowledge is limited, whereas\nimagination embraces the entire world, stimulating progress, giving birth to evolution. \"",
+       "en": ""
+      },
+      {
+       "zh": "In physics, mass–energy equivalence states that anything having mass has an equivalent amount of energy and vice versa, with these fundamental quantities directly relating to one another by Albert Einstein’s famous formula :    E = MC2\n{\\textstyle E=mc^{2}}This formula states that the equivalent energy (E) can be calculated as the mass (m) multiplied by the speed of light (c = about 3×108 m/s) squared. Similarly, anything having energy exhibits a corresponding mass m given by its energy E divided by the speed of light squared c². Because the speed of light is a very large number in everyday units, the formula implies that even an everyday object at rest with a modest amount of mass has a very large amount of energy intrinsically. Chemical, nuclear, and other energy transformations may cause a system to lose some of its energy content (and thus some corresponding mass), releasing it as the radiant energy of light or as thermal energy for example.    ( from Wikipedia )",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 222,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "222.",
+      "世事如棋",
+      "殘局，靜守",
+      "孤燈月影 ?"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 223,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "223.",
+      "霧，蒼茫",
+      "深處，藏",
+      "一生的許諾"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 224,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "224.",
+      "江清月近的構圖已完成",
+      "就等漁舟，隨鐘聲",
+      "搖入垂落的星光"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐。孟浩然  《 宿建德江 》\n移舟泊烟渚，日暮客愁新。\n野曠天低樹，江清月近人。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 225,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "225.",
+      "也罷，就讓花",
+      "風中飄落",
+      "歸雁飛入暮色"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 226,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "226.",
+      "偶而，也另有聲音",
+      "回應我",
+      "縱然，只是偶而"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 227,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "227.",
+      "寺院",
+      "安靜的信仰",
+      "黑袍教士，掩映斜陽"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 228,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "228.",
+      "就是那枯藤",
+      "就是那昏鴉，我隨",
+      "馬致遠走天涯"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "元 。馬致遠 《 天净沙 · 秋思 》\n枯藤，老樹，昏鴉\n小橋，流水，人家\n古道，西風，瘦馬\n夕陽西下\n斷腸人在天涯",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 229,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "229.",
+      "綻放時，綻放",
+      "飄零時，飄零",
+      "就是如此，五月桐花"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 230,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "230.",
+      "行到水窮處，坐看",
+      "韋瓦第的「四季」",
+      "隨雲霧飄起"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐。王維《 終南別業 》\n中歲頗好道，晚家南山陲。 興來每獨往，勝事空自知。\n行到水窮處，坐看雲起時。 偶然值林叟，談笑無還期。",
+       "en": ""
+      },
+      {
+       "zh": "韋瓦第（Antonio Lucio Vivaldi，1678－1741）是出生在威尼斯的義大利人，水都威尼斯是一個極為浪漫又充滿了音樂的城市。當時的義大利已經發展成巴洛克時期的歐洲音樂重鎮，天時、地利正好孕育韋瓦第偉大的音樂。韋瓦第流傳後世最傑出的音樂類型為「歌劇」以及「協奏曲」，在他眾多協奏曲中，最傑出也最知名的一首當屬「四季」小提琴協奏曲。在將近三百年後的今日，這首曲子聽起來還是那麼新穎，完全掙脫時空對它的束縛，是人類偉大的音樂藝術資產。「四季」是小提琴協奏曲，標題分別是第一號「春」、第二號「夏」、第三號「秋」、第四號「冬」，每一號由標準的協奏曲快、慢、快三個樂章構成。換句話說，「四季」其實是四首獨立的三樂章小提琴協奏曲，但是因主題（季節）的相關性而被看成一組作品，統稱為「四季」。音樂搭配著十四行詩而進行，內容以四季的獨特景觀為描寫對象。",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=TKthRw4KjEg",
+      "https://www.youtube.com/watch?v=kaoqCARilbA",
+      "https://www.youtube.com/watch?v=Z21_VpNipfg",
+      "https://www.youtube.com/watch?v=ZPdk5GaIDjo"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc23",
+  "series": "23",
+  "range": "221–230",
+  "count": 10,
+  "theme": ""
+ }
+}

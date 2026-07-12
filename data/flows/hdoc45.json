@@ -1,0 +1,290 @@
+{
+ "slug": "hdoc45",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 45",
+ "source": "現代俳句和變奏--45.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列 《 45 》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc45/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 441,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "441.",
+      "月出，桂花落",
+      "驚走白鷺，也驚醒",
+      "山村一盞一盞的街燈"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐   。王維 《 鳥鳴澗 》\n人閒桂花落，夜靜春山空。\n月出驚山鳥，時鳴春澗中。\n442．\n暮色漸起\n薄光中\n群雁，遠去",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 443,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "443.",
+      "To be or not to be?",
+      "笑而不語",
+      "襌意"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 444,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "444.",
+      "是煙",
+      "必升為雲",
+      "飄遠"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 445,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "445.",
+      "紅色，黄色，藍綠紫  …  白和黑",
+      "圓形，方形，三角形  …  點和線",
+      "聽，康丁斯基浪漫的幾何音樂"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "康丁斯基 (Wassily Kandinsky,  1866-1944) 出生於俄國莫斯科，被譽為抽象表現藝術（abstract expressionism）之父，並非只基於他的藝術創作，更因他也是藝術理論家、美學批判以及教育家，這是藝術史上少有的。他的著作如《藝術的精神性》、《點、線、面》等，都是現代藝術理論的經典文獻。他最生動的美學思想，就是「音樂性的藝術喚醒」，或許是從小受古典音樂的薰陶，康丁斯基運用色彩的靈感大多來自音樂：不受視覺限制的音符排列看似自由散漫，實則有著很強的邏輯和秩序，失之毫釐就不能達致「悅耳」的境界。所以康丁斯基的理論和實踐，就是要從色彩、線條和畫布跟内在的心靈產生共鳴，康定斯基在他後期的創作中，融合了自己早期直覺式的畫風和後來的幾何圖形風格，而使他的作品增添了嶄新的理念。他是一位能將色彩與音樂綴合起來的畫家，讓人們能夠「聆聽」繪畫，「描繪」音樂。他説：「顏色是琴鍵，眼睛是琴槌，靈魂是鋼琴的琴絃。藝術家就是演奏的手，撫弄著一個又一個琴鍵，讓靈魂震顫。」（Colour is the keyboard, the eyes are the hammers, the soul is the piano with many strings. The artist is the hand that plays, touching one key or another, to cause vibrations in the soul. ）",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img2.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《 Composition 8 》1923     New York, Solomon R. Guggenheim Museum"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img3.jpg",
+     "caption_zh": "《 Yellow-Red-Blue 》1925       法國巴黎龐畢度藝術文化中心",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img4.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 446,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "446.",
+      "松下問童子",
+      "是否，有一株花",
+      "在雲霧中安靜地香 ？"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐   。賈島 《 尋隱者不遇 》\n松下問童子，言師採藥去。\n只在此山中，雲深不知處。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 447,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "447.",
+      "後浪推前浪",
+      "前浪走到淡水河畔",
+      "驚見，一輪夕陽"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img5.jpg",
+     "caption_zh": "《淡水夕照》    （取自網路）",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 448,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "448.",
+      "威尼斯，請問",
+      "聖馬可廣場的海鷗",
+      "是否記得，天外有天 ?"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "聖馬可廣場和嘆息橋是威尼斯的主要地標。聖馬可廣場 (Piazza San Marco) 以及其大教堂總是擠滿來自世界各地的旅客，也是旅客歸去後，對於威尼斯所留下的深刻記憶。馬可是耶穌的門徒，聖經馬可福音書的作者，威尼斯人奉他為護城聖者。相傳兩個威尼斯商人，從埃及亞歷山大把馬聖徒馬可遺骨偷運到威尼斯，并於同年為聖馬可興建教堂。堂內有馬可陵墓，大教堂以聖馬可命名，教堂前面的廣場也得名為聖馬可廣場。19世紀拿破崙贊稱之為「歐洲最美的客廳」。廣埸上最令人驚奇的景象，是密密麻麻的海鷗，安靜時，逐步啄食，驚動時，舉翅齊飛，掩遮廣埸天空，有若掀動的披風，十分壯觀。有謂無鷗不成廣場，是歐洲城市的特色，以聖馬可廣場為最。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 449,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "449.",
+      "無竹令人俗 ?",
+      "東坡肉，還來一盤",
+      "竹筍炒肉絲"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "宋   。蘇軾 《於濳僧緑筠軒 》\n「 可使食無肉，不可使居無竹，無肉令人瘦， 無竹令人俗，人瘦尚可肥，俗士不可醫。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 450,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "450.",
+      "Life can be music",
+      "Rainbows can be reached",
+      "Believe: Tomorrow will be better"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "作詞：羅大佑 /李壽全 /張大春 /張艾嘉 /詹宏志\n作曲：羅大佑\n《 明天會更好 》\n日出喚醒清晨\n大地光彩重生\n讓和風拂出的音響\n譜成生命的樂章\n唱出你的熱情\n伸出你雙手\n讓我擁抱著你的夢\n讓我擁有你真心的面孔\n讓我們的笑容\n充滿著青春的驕傲\n讓我們期待明天會更好\n《 Tomorrow will be better 》\nWhen you wake up in the morning\nWhen you haven't started to think\nThere is a whole brand new day\nOpen wide and waiting for you\nThe world is out there calling\nEverything will be alive\nunder the sunshine's smile",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img6.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img7.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img8.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img9.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc45/img10.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc45",
+  "series": "45",
+  "range": "441–450",
+  "count": 9,
+  "theme": ""
+ }
+}

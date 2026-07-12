@@ -1,0 +1,330 @@
+{
+ "slug": "hdoc87",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 87",
+ "source": "現代俳句和變奏--87.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏    系列《87》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc87/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 861,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "861.",
+      "那年，杏花疏影裡",
+      "晚風穿過我們的話題",
+      "月光拉近彼此的距離"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 862,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "862.",
+      "旅程漫漫，把山水",
+      "留給漂泊的雲，心情",
+      "回歸漸濃的暮色"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 863,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "863.",
+      "掛鐘，秒針一步一步走",
+      "心裡一直盤算，如何",
+      "才能打發周而復始的歲月"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "舊約聖經：詩篇 90 : 12\n「求你指教我們怎樣數算自己的日子，\n好叫我們得着智慧的心。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 864,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "864.",
+      "五月桐花開在溪旁，在小徑",
+      "在雨中，所有桐花都明白",
+      "因爲綻放，所以飄零"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc87/img2.jpg",
+     "caption_zh": "桐花，又名五月雪。     （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc87/img3.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc87/img4.jpg",
+     "caption_zh": "飄落的桐花鋪成的雪白小路  （網路照片）。    桐花的雄花花柄極細，相當易斷，花謝時會連花柄一起掉落。而雌花則是從花瓣一片片地掉落，其中心的雌蕊會留下來發育為果實。特別的是，雌花的花量較少，一個枝條不會超過十朵花，而雄花的一個枝條則可達上百朵。這也是為何遍地雪白的桐花，幾乎都是完整的一朵朵雄花花瓣，少見一片片的雌花花瓣。",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 865,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "865.",
+      "烏克蘭，如此美麗的名字",
+      "一夕之間，蜕變成今晚星空",
+      "一縷遙遠的凄冷，哀傷"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc87/img5.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Ukraine : As it’s happening.      Since the beginning of the war in Ukraine on February 24, Mariupol has been one of the worst-hit cities by Russian bombardments. The port city, which had a population of 400,000 before the war, has been a key target area for Russian forces in their attempt to create a land bridge between the Crimean peninsula, which Moscow seized from Ukraine back in 2014.         ( The Hindustan Times,   4-22-2022 )"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc87/img6.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Ukraine war : Devastating siege of Mariupol continues as humanitarian",
+      "crisis  worsens.           ( The New York Times )"
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc87/img7.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Ukraine war :  All normal life is gone.         ( BBC  News )"
+     ],
+     "en": []
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《孫子兵法》名句：\n。 兵者，國之大事，死生之地，存亡之道，不可不察也。《始計篇》\n。 百戰百勝，非善之善者也；不戰而屈人之兵，善之善者也。《謀攻篇》\n。 善守者，藏于九地之下，善攻者，動于九天之上，故能自保而全勝也。《軍形篇》\n。 上兵伐謀，其次伐交，其次伐兵，其下攻城。《謀攻篇》\n。 兵者，詭道也。故能而示之不能，用而示之不用，近而示之遠，遠而示之近。利而誘        之，亂而取之，實而備之，強而避之，怒而撓之，卑而驕之，俠而勞之，親而離之。攻其無備，出其不意。此兵家之勝，不可先傳也。《計篇》",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 866,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "866.",
+      "雖是暮年，也可以",
+      "拉開沉寂的天空",
+      "讓夕陽映照晚霞满天"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 867,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "867.",
+      "看罷羅浮宫的畫",
+      "走過貝聿銘的金字塔",
+      "你静坐，成虚擬世界的風景"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc87/img8.jpg",
+     "caption_zh": "巴黎羅浮宫廣埸的玻璃映像         （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "A virtual world（虚擬世界，元宇宙，Metaverse）is a computer-simulated environment which may be populated by many users who can create a personal avatar, and simultaneously and independently explore the virtual world, participate in its activity, and communicate with others.\n( Wikipedia )",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 868,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "868.",
+      "走在九份石階上，心想",
+      "如果飄來一分細雨",
+      "幾聲南管，就十分完美"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《雨中九份》（第2節）"
+     ],
+     "en": []
+    },
+    {
+     "type": "byline",
+     "zh": "何康隆"
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "豎崎路的石階",
+      "一級又一級",
+      "望之似無盡頭",
+      "街面曲窄",
+      "彷彿走在歷史甬道",
+      "鹿港深巷？台南古街？",
+      "此刻",
+      "如果有一支南管奏起",
+      "凄凄，切切",
+      "拉回一段滄桑歲月"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 869,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "869.",
+      "那時，一定有霧",
+      "你離去的身影",
+      "迷濛如花"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 870,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "870.",
+      "那年跟隨著母親的脚步",
+      "在花香中迷了路，很久很久",
+      "迂迴走進了惦念的日子"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《 母親你在何方 》\n詞：毛文波  曲：司徒容\n雁陣兒飛來飛去白雲裡\n經過那萬里可曾看仔細\n雁兒呀我想問你\n我的母親可有消息\n兒時的情景似夢般\n依稀母愛的溫暖永難忘記\n母親呀我真想你\n恨不能夠時光倒移",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=6lkIbeHPLIg",
+      "https://www.youtube.com/watch?v=wCX7aj6_LIs",
+      "https://www.youtube.com/watch?v=Dhr5_mPUfEU",
+      "https://mail.yahoo.com/d/folders/1/messages/AKSY8xgLoIvWYm8PjQPUePxY2eg",
+      "https://www.youtube.com/watch?v=B4OmkW9xsvM",
+      "https://www.youtube.com/watch?v=S-PzctJ4krI",
+      "https://www.youtube.com/watch?v=Xk254EyXLYA"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc87",
+  "series": "87",
+  "range": "861–870",
+  "count": 10,
+  "theme": ""
+ }
+}

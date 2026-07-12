@@ -2,7 +2,7 @@ import json,glob,os,re
 poems=json.load(open("data/poems.json")); byid={p["id"]:p for p in poems}
 flows={}
 for f in glob.glob("data/flows/*.json"):
-    if os.path.basename(f)=="manifest.json": continue
+    if os.path.basename(f).startswith("_") or os.path.basename(f)=="manifest.json": continue
     r=json.load(open(f)); flows[r["slug"]]=r
 def poem_format(flow):
     st=[b for b in flow if b["type"]=="stanza"]
@@ -50,7 +50,7 @@ man["poems"].sort(key=lambda x:x["title"]); man["haiku"].sort(key=lambda x:int(x
 json.dump(man,open("data/flows/manifest.json","w"),ensure_ascii=False,indent=1)
 flows2={}
 for f in glob.glob("data/flows/*.json"):
-    if os.path.basename(f)=="manifest.json": continue
+    if os.path.basename(f).startswith("_") or os.path.basename(f)=="manifest.json": continue
     rr=json.load(open(f)); flows2[rr["slug"]]=rr
 open("data/flows/_embedded.js","w").write("window.MANIFEST="+json.dumps(man,ensure_ascii=False)+";\nwindow.FLOWS="+json.dumps(flows2,ensure_ascii=False)+";\n")
 print("enriched; haiku meta:",[(h["series"],h["range"]) for h in man["haiku"]])

@@ -1,0 +1,279 @@
+{
+ "slug": "hdoc78",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 78",
+ "source": "現代俳句和變奏--78.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏    系列《78》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc78/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 771,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "771.",
+      "當楓葉飄入習習晚風",
+      "就知道，有些話",
+      "隨漸濃的暮色襲來"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 772,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "772.",
+      "最是那，冷落清秋節",
+      "最是那，梧桐葉落時",
+      "風裡有歌，不知誰對誰唱"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "宋。柳永《雨霖鈴·寒蟬淒切》\n多情自古傷離別，更那堪，冷落清秋節。\n今宵酒醒何處？楊柳岸，曉風殘月。",
+       "en": ""
+      },
+      {
+       "zh": "唐。白居易 《長恨歌》\n歸來池苑皆依舊，太液芙蓉未央柳。\n芙蓉如面柳如眉，對此如何不淚垂。\n春風桃李花開日，秋雨梧桐葉落時。\n西宫南内多秋草，落葉滿階紅不掃。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 773,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "773.",
+      "午后，凝望雲端，試圖",
+      "找尋數位化的陳年往事",
+      "taka23&mc25@icloud.pps"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 774,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "774.",
+      "都説，翻臉如翻書",
+      "如今，翻開臉書，浮出",
+      "紛繁虚擬的 metaverse"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc78/img2.jpg",
+     "caption_zh": "New meta logo billboard at Facebook’s headquarters.   Facebook founder Mark Zuckerberg announced on October 28, 2021 that the giant tech company is now changing its name to ‘meta’ – with a new logo resembling a distorted infinity loop. This decision puts a spotlight on the founder’s next step in connecting people virtually, which he calls the ‘metaverse’ plan. In Greek, the word ‘meta’ translates to ‘beyond’ and verse, universe -- echoing Zuckerberg’s belief that ‘there is always more to build’.      ( photo from designboom )",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "What is the metaverse  ( 元宇宙，虚擬世界 ) ?\nThe metaverse is a digital reality that combines aspects of social media, online gaming, augmented reality (AR), virtual reality (VR), and cryptocurrencies to allow users to interact virtually. Augmented reality overlays visual elements, sound, and other sensory input onto real-world settings to enhance the user experience. In contrast, virtual reality is entirely virtual and enhances fictional realities. As the metaverse grows, it will create online spaces where user interactions are more multidimensional than current technology supports. Instead of just viewing digital content, users in the metaverse will be able to immerse themselves in a space where the digital and physical worlds converge.         ( from investopedia, 10/28/2021 )",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 775,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "775.",
+      "不知，屈原李白雪萊",
+      "落水之後，是否隨潮流",
+      "飄浮到迷茫的現代"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "屈原：楚國詩人，懷沙自投汩羅江，公元前287年，年65歲",
+      "李白：唐朝詩人，酒醉水中撈月溺水，公元762年，年62歲",
+      "雪萊：英國詩人，旅居意大利翻船溺水，公元1822年，年29歲"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 776,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "776.",
+      "或是，竹林獨坐",
+      "或是，山泉靜聽",
+      "風聲，溪花，禪寂"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 777,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "777.",
+      "神木歷經土石流折磨",
+      "斷成漂流木，枝節撮合",
+      "塑成書法文字  :  立誠則神在"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc78/img3.jpg",
+     "caption_zh": "《誠》字：董陽孜木件書法作品，2018。作品在台灣各地巡迴展出。",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "這件寬3公尺、高2公尺的木雕，外形看來就像一株飽經風霜、繁華落盡的千年神木，枝椏及老幹蘊含著書法意境，渾然天成。「誠」字雕塑展出，也同時舉行「心弦音樂會」，多位爵士樂手演出，搭配著董陽孜書法的多媒體投影。董陽孜說，書法是無聲的音樂，線條和墨點就是音符；她相信每個人寫書法、看書法的時候，都聽到各自不同的聲音。"
+     ],
+     "en": []
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "董陽孜（1942年 一）台灣書法藝術家。師大美術畢業後，赴美國深造藝術創作，就讀麻州大學藝術系，主修油畫，副修陶藝。1977年返台定居後投入書藝劊作。早期偏重顔真卿楷書和魏碑創作，近年偏向王羲之和懷素的書法感覺，創作中溶入西洋構圖理論，兼具現代平面設計與傳統書法美學。自2002年至2018年前後約十五年間，在既成創作風格上，探索大尺幅創作。大開大闔的巨幅書寫，挑戰觀衆對書法作品的觀展體驗。身爲台灣重要書藝家，董陽孜即使已過古稀之年，創作依然不懈不怠，不僅跨界創作，與現代音 樂，舞蹈結合，更期望將文字線條與書法表現之美，藉由不同書寫手法的詮釋，向新世代傳遞東方文字美學。獲得第31屆行政院文化奬。（節錄自維基百科）",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 778,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "778.",
+      "蝸牛，慢走",
+      "路遠無須愁日暮",
+      "歲月依然静好"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc78/img4.jpg",
+     "caption_zh": "蝸牛 ：漫步於歲月靜好的路上   （攝影/何康隆）",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 779,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "779.",
+      "你送的青瓷，空着",
+      "没有花的日子",
+      "更讓我懷念"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 780,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "780.",
+      "那晚，爵士音樂奏完",
+      "Rhapsody in Blue，街灯",
+      "掩映着紐奥良昏黄的薄霧"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc78/img5.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Rhapsody in Blue is a 1924 musical composition written by George Gershwin for solo piano and jazz band, which combines elements of classical music with jazz-influenced effects. Commissioned by bandleader Paul Whiteman, the work premiered in a concert titled \"An Experiment in Modern Music\" on February 12, 1924, in Aeolian Hall, New York City. Whiteman's band performed the rhapsody with Gershwin playing the piano. The rhapsody is one of Gershwin's most recognizable creations and a key composition that defined the Jazz Age. Gershwin's piece inaugurated a new era in America's musical history, established Gershwin's reputation as an eminent composer, and eventually became one of the most popular of all concert works. The American Heritage magazine posits that the famous opening clarinet glissando has become as instantly recognizable to concert audiences as Beethoven's Fifth.          ( Wikipedia )"
+     ],
+     "en": []
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=VAuTouBhN5k",
+      "https://www.youtube.com/watch?v=0IsQ29EL6tA",
+      "https://www.youtube.com/watch?v=Fpsku1TwQ7E",
+      "https://mail.yahoo.com/d/folders/1/messages/AB3cn8l00IEdYYtL1QM0UKHsHFo",
+      "https://www.youtube.com/watch?v=mEYOoAjakdg"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc78",
+  "series": "78",
+  "range": "771–780",
+  "count": 10,
+  "theme": ""
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "slug": "hdoc111",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 111",
+ "source": "現代俳句和變奏--111.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "+現代俳句 & 變奏  系列《111》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc111/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 1101,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1101.",
+      "旅程漫漫，自問",
+      "前方是否有一片草原",
+      "可以走幽靜的小路"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1102,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1102.",
+      "徐志摩，你揮一揮衣䄂",
+      "不帶走一片雲彩",
+      "夢裡，是否浮著康河的柔波"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《再別康橋》  徐志摩\n那河畔的金柳，是夕陽中的新娘；\n波光裡的豔影，在我的心頭盪漾。\n輭泥上的青荇，油油的在水底招搖；\n在康河的柔波裡，我甘心做一條水草。\n那榆蔭下的一潭，不是清泉，是天上虹；\n揉碎在浮藻間，沉澱著彩虹似的夢。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1103,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1103.",
+      "於是，把你種回塵土",
+      "等你發芽，等你",
+      "長成一棵樹，可以對話"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "「樹葬」是將火化後的骨灰經過研磨處理，再將處理後的骨灰埋入土中，並植花草樹木於上，或於樹木根部周圍埋葬骨灰，並且不造墓、不立碑、不留下任何記號，待一段時日後，骨灰便化作春泥回歸大自然。 樹葬為環保葬的一種，最直接的優點即為對環境友善，沒有過多的儀式、無須耗費不必要的資源，骨灰回歸大自然延續生命的永恆。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1104,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1104.",
+      "漫長的人生旅程上，是否",
+      "存在著紅與黑，暗與亮的對話",
+      "曾經，以窺探的心境去看一幅畫？"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc111/img2.jpg",
+     "caption_zh": "陳庭詩：日與夜，#98。  1985",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc111/img3.jpg",
+     "caption_zh": "陳庭詩：日與夜.  #36。  1976",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "陳庭詩（1913 - 2002）生於福建長樂，是台灣50、60年代抽象繪畫興起的重要成員，深深影響台灣現代藝術「抽象化」的發展。作者的創作早期為寫實木刻版畫和水墨畫，後期轉為蔗板版畫和壓克力創作。中年以後，改以大量的廢鐵為創作媒材。畫家鍾俊雄曾評論：「黑，不只代表一種顏色，而是血和肉的存在，在精神的感動與知性的喜悅之餘，『黑』還使眼睛飽嘗無比堅固的調和。」陳庭詩用加倍的寧靜去撞擊生理的寂靜，他的作品畫面大多為黑色或雙色套色，帶給觀者凝實的感受。1999年，《二十世紀的藝術》一書於〈鐵與空間大師〉的篇章之中，陳庭詩的名字及鑄鐵作品《約翰走路》與世界著名的雕塑家同列，陳庭詩是全書除了貝聿銘外，唯一的華人藝術家。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1105,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1105.",
+      "時間隨沙漏一分一秒流散",
+      "風已吹向天涯海角",
+      "愚公，還一鋤一鋤移山"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1106,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1106.",
+      "讓我設想，在群星之中",
+      "有一顆，虔誠如你",
+      "默默爲我許願"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1107,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1107.",
+      "茶碗圓潤，茶湯墨綠濃淡，猶有回香",
+      "彷彿，清風拂過江面，遙引山月",
+      "悠然徘徊天地之間，安靜自然"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc111/img4.jpg",
+     "caption_zh": "紅玻璃茶碗和抹茶。    星野友幸作品",
+     "caption_en": ""
+    }
+   ]
+  },
+  {
+   "n": 1108,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1108.",
+      "一瞬與永恆，誰較長",
+      "珍珠與明月，誰較亮",
+      "費思量，費思量"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "宋  。蘇軾《前赤壁賦》\n蘇子曰：「客亦知夫水與月乎？逝者如斯，而未嘗往也；盈虛者如彼，而卒莫消長也，蓋將自其變者而觀之，則天地曾不能以一瞬；自其不變者而觀之，則物與我皆無盡也，而又何羨乎？且夫天地之間，物各有主，苟非吾之所有，雖一毫而莫取。惟江上之清風，與山間之明月，耳得之而為聲，目遇之而成色，取之無禁，用之不竭，是造物者之無盡藏也，而吾與子之所共适。」",
+       "en": ""
+      },
+      {
+       "zh": "「敢在時間裡自焚，必在永恆裡結晶。」    --- 《逍遙遊》 余光中",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1109,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1109.",
+      "夏日最後的玫瑰，你知道嗎？",
+      "前生來世，緣起緣滅",
+      "我們都活在輪迴的故事裡"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 1110,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "1110.",
+      "你是夏日最後一朵玫瑰",
+      "綻放或者凋萎，詮釋的是",
+      "色彩，傳奇，還是生命的無常？"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc111/img5.jpg",
+     "caption_zh": "夏日最後的玫瑰。      （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc111/img6.jpg",
+     "caption_zh": "夏日凋萎的玫瑰。      （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc111/img7.jpg",
+     "caption_zh": "飄零的玫瑰花瓣 ∶ 化作春泥更護花。   （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《The Last Rose of Summer》愛爾蘭民歌\nAs summer is quietly giving way to autumn, we still fondly remember those warm and carefree summer days. The passing of the seasons and a deep sense of isolation and loneliness also filled the mind of the Irish poet Thomas Moore as he penned the poem “The Last Rose of Summer” in 1805.  Moore beautifully captures the sense of sadness of being left alone towards the end of life, and the poem was set to a traditional Irish folk tune and harmonized by Andrew Stevenson. The song became immensely popular in the first half of the 19th century and furnished the foundation for a substantial number of fantasies and variation sets.      （by George Predota:  Interlude, 9-2021）\n'Tis the last rose of summer left blooming alone\nAll her lovely companions are faded and gone\nNo flower of her kindred, no rosebud is nigh\nTo reflect back her blushes and give sigh for sigh\nSo soon may I follow when friendships decay\nAnd from love's shining circle the gems drop away\nWhen true hearts lie withered and fond ones are flown\nOh who would inhabit this bleak world alone?\nThis bleak world alone",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=g2pxolx_8j0",
+      "https://www.youtube.com/watch?v=ReSOGJCNiJE",
+      "https://www.youtube.com/watch?v=m6P3F-VlAUs",
+      "https://www.youtube.com/watch?v=NPnAGwu0MoU",
+      "https://www.youtube.com/watch?v=vZfpG7FOK7s",
+      "https://www.youtube.com/watch?v=6B_Ui0RNXhw",
+      "https://www.youtube.com/watch?v=-Pznujlzyls",
+      "https://www.youtube.com/watch?v=2rq5hctXUt0&list=PL2QqKNSv2fD0OPBPmkj28l2ndKRu1Quam"
+     ]
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "Clara-Jumi Kang"
+     ],
+     "en": []
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc111",
+  "series": "111",
+  "range": "1101–1110",
+  "count": 10,
+  "theme": ""
+ }
+}

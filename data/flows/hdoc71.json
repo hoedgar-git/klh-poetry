@@ -1,0 +1,319 @@
+{
+ "slug": "hdoc71",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 71",
+ "source": "現代俳句和變奏--71.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列《71》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc71/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 701,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "701.",
+      "我用日子思念你",
+      "在閃閃涙光中，看見",
+      "一起走過的風景，飽滿翠綠"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 702,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "702.",
+      "山外山，夕陽無限好",
+      "雲不想下山，風不想下山",
+      "我陪李商隱靜坐，等黄昏來到"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐。李商隱 《登樂遊原》\n向晚意不適，驅車登古原。\n夕陽無限好，只是近黄昏。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 703,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "703.",
+      "炒飯，炒生活瑣事",
+      "煎魚，煎迷茫餘生",
+      "翻食譜，翻歲月滋味"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 704,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "704.",
+      "穿梭Barcelona樹影街巷",
+      "透過光和造形，想像",
+      "Gaudi如何在風裡任性飛翔"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "瀕臨地中海的Barcelona是西班牙最受歡迎的都市。巴塞隆納 除了擁有豐富多元的觀光內涵如海灘，古老巷弄，前衛建築，博物館，美術館，藝文演出， 美食與現代時尚外，真正讓這個城市光耀四射，令人徘徊懷想的，是偉大建築師高第（Gaudi）在市內留下的七座世界文化遺產作品。諸如聖家堂 Sagrada Família ，奎爾宮Palau Guell ，米拉之家 Casa Mila ，巴特略之家 Casa Batllo，奎爾公園 Park Guell 等。\nAntoni Gaudi (1852 – 1926) was a Catalan architect known as the greatest exponent of Catalan Modernism. Gaudi’s works have a highly individualized, one-of-a-kind style. Most are located in Barcelona, including his main work, the church of the Sagrada Familia.         (Wikipedia)\nGaudi的建築把當時歐洲回歸自然的新藝術運動（Art Nouveau）推向另一個層次，最重要的特性就是充滿活力、波浪和流動的線條。Gaudi建築中可以找到很多來自大自然的靈感與幻想， 作品充滿有機，色彩， 曲線以及光線的互動和跳躍等特色。 高第曾說  ”直線屬於人類，曲線屬於上帝“。他採用大自然的造型如昆蟲的翅膀，海浪的弧度、海螺的纹路、蜂巢的曲線，搭配其他如錐體、螺旋體、拋物曲線，最後加上五彩的顏色和透視的光線，創造出許多奇特的造型。他曾說“ 沒有什麼是人類創造的，一切早就存在大自然之中“。",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc71/img2.jpg",
+     "caption_zh": "高第的建築：Casa Batllo。  （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc71/img3.jpg",
+     "caption_zh": "Casa Mila 屋頂造形。       （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc71/img4.jpg",
+     "caption_zh": "Sagrada Familia  聖家堂。 （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "The Sagrada Familia is Barcelona's most famous symbol and certainly one of its most impressive sights. The church is huge in its dimensions, so it is often called the \"cathedral\", although it is without a bishop's headquarters. 2010, the Sagrada Familia was consecrated by Pope Benedict XVI and elevated to the status of a basilica."
+     ],
+     "en": []
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc71/img5.jpg",
+     "caption_zh": "Sagrada Familia 内部造形。  （攝影/何康隆）",
+     "caption_en": ""
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc71/img6.jpg",
+     "caption_zh": "Sagrada Familia 内部造形。光透過純樸對稱的玻璃窗，",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "彷彿可與上帝對話。    （攝影/何康隆）"
+     ],
+     "en": []
+    }
+   ]
+  },
+  {
+   "n": 705,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "705.",
+      "都説，上帝關上一道門",
+      "就爲你敞開一扇窗",
+      "爲何，你在門外徘徊"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 706,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "706.",
+      "所有的小羊",
+      "已都跳過牧埸的溪水",
+      "午夜，幾時夢回"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 707,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "707.",
+      "春潮帶雨晚來急",
+      "野渡孤舟起伏，誰是",
+      "風雨中的擺渡人"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐   。韋應物《滁州西澗》\n獨憐幽草澗邊生，上有黃鸝深樹鳴。\n春潮帶雨晚來急，野渡無人舟自橫。",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc71/img7.jpg",
+     "caption_zh": "",
+     "caption_en": ""
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "《擺渡人》是英國著名實力作家—克萊兒 . 麥克福爾的著作，憑此著作，她一舉獲得了五項世界文學大獎。故事發生在神話背景下，以穿越荒原為主線，展現了人物靈魂成長的軌迹。"
+     ],
+     "en": []
+    },
+    {
+     "type": "stanza",
+     "zh": [
+      "*  如果我真的存在，也是因爲你需要我。",
+      "*  如果命運是一條孤獨的河流，誰會是你靈魂的擺渡人？"
+     ],
+     "en": []
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《擺渡人》作者不詳\n我遙遙渡河而來\n彼岸，煙波流轉，可有人尋我\n對岸，紅塵漸遠，可有人候我\n擺渡人已隱然而去\n孤舟獨行，星光垂落",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 708,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "708.",
+      "半夜醒來，想留住",
+      "那場夢，那縷",
+      "花非花，霧非霧的心情"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 709,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "709.",
+      "拜占庭，君士坦丁堡，伊斯坦堡",
+      "名字牽引名字，堆疊出",
+      "繽紛的土耳其歷史"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "伊斯坦堡？ 拜占庭？ 君士坦丁堡？ 新羅馬？ 你到底叫什麼名字？\n伊斯坦堡（Istanbul）土耳其的第一大城，西元前660年，希臘人在此建城，名為「拜占庭」（ Byzantine）。西元330年，羅馬帝國的君士坦丁大帝將此定為羅馬帝國東部的首都，改名為君士坦丁堡 (Constantinople)，又稱「新羅馬」。（這部分的帝國國土後來也成了「拜占庭帝國」或「東羅馬帝國」）。後來的鄂圖曼帝國也以君士坦丁堡爲首都。雖然歐洲人習慣稱為君士坦丁堡，但土耳其人卻習慣稱為「士坦堡」，意思是「進城去」。土耳其共和國於1930年正式定其名為伊斯坦堡。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 710,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "710.",
+      "行到水窮處，王維",
+      "你看的，是不是",
+      "徐志摩詩裡的那片雲？"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "王維的經典名句：\n「 行到水窮處，坐看雲起時 」\n《偶然》 詞/徐志摩   曲/陳秋霞\n我是天空裡的一片雲\n偶爾投影在你的波心\n你不必驚異\n更無須歡喜\n在轉瞬間消滅了蹤影\n你我相逢在黑夜的海上\n你有你的   我有我的  方向\n你記得也好\n最好你忘掉\n在這交會時互放的光亮",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=x977qvYbiOk",
+      "https://www.youtube.com/watch?v=gu6nuVOJjF4",
+      "https://www.youtube.com/watch?v=uYsb7Es3XB0",
+      "https://www.youtube.com/watch?v=5evmKYmasVg"
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc71",
+  "series": "71",
+  "range": "701–710",
+  "count": 10,
+  "theme": ""
+ }
+}

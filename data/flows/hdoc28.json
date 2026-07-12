@@ -1,0 +1,235 @@
+{
+ "slug": "hdoc28",
+ "kind": "haiku",
+ "title": "現代俳句和變奏 28",
+ "source": "現代俳句和變奏--28.docx",
+ "front": [
+  {
+   "type": "subtitle",
+   "zh": "現代俳句 & 變奏     系列 《 28 》"
+  },
+  {
+   "type": "byline",
+   "zh": "何康隆"
+  },
+  {
+   "type": "image",
+   "src": "images/flow/hdoc28/img1.jpg",
+   "caption_zh": "",
+   "caption_en": ""
+  }
+ ],
+ "haiku": [
+  {
+   "n": 271,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "271.",
+      "你是去夏最美的那朵蓮",
+      "靜坐如禪，風來",
+      "盪起滿池芬芳"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "詩。  西藏詩人倉央嘉措\n當我站在他面前\n我是凡塵最美的蓮花\n「我不知從何處來\n也不知往何處去\n很多年過去了\n我獨坐蓮花台\n伴着眼前一池靜謐無波清水」",
+       "en": ""
+      },
+      {
+       "zh": "倉央嘉措 ( 1683~1706 )  是藏傳佛教格魯派第六代達賴喇嘛，西藏著名詩人，留下許多情詩，是歷代達賴喇嘛中，最富傳奇色彩的人物。在解押自西藏去北京途中，消失於青海湖附近。他的詩不但在藏族文學史上有重要地位，在世界詩壇上也是引人注目的，是不少學者研究的對象。最為世人傳誦的詩之一是 : 「曾慮多情損梵行，入山又恐別傾城。世間安得雙全法，不負如來不負卿。」",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 272,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "272.",
+      "古代隔烟，未來隔霧",
+      "仲夏之夜",
+      "星空詭譎如謎"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 273,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "273.",
+      "蘋果落滿地",
+      "牛頓樹下滑手機",
+      "Google 地心引力原理"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 274,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "274.",
+      "晨霧",
+      "飛出白鷺",
+      "消失於水墨宋詞"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 275,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "275.",
+      "春潮，晚來急",
+      "野渡，舟自橫",
+      "是誰，釣起這片風雨 ?"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "唐。  韋應物 《 滁州西澗 》\n獨憐幽草澗邊生，上有黃鸝深樹鳴。\n春潮帶雨晚來急，野渡無人舟自横。",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 276,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "276.",
+      "夏日最後一朵玖瑰",
+      "風中顫動，說",
+      "何須堅持美和承諾 ?"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 277,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "277.",
+      "小沙彌的木魚",
+      "叩叩，叩出  :  子非魚",
+      "安知魚之樂 ?"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "莊子與惠子遊於濠梁之上。莊子曰：“鯈魚出游從容，是魚樂也。”惠子曰：“子非魚，安知魚之樂？” 莊子曰：“子非我，安知我不知魚之樂？”惠子曰：“我非子，固不知子矣，子固非魚也，子不知魚之樂，全矣。” 莊子曰：“請循其本。子曰汝安知魚樂云者，既已知吾知之而問我，我知之濠上也。”  《 莊子 :  秋水 》",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 278,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "278.",
+      "花樹下",
+      "心事迷離",
+      "遠處，輕煙一縷"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 279,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "279.",
+      "都說你的美",
+      "不見，凋零的憂傷",
+      "曇花開的晚上"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 280,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "280.",
+      "當感動化成歌曲",
+      "就有一個地方",
+      "我們可以一起追憶"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "** 《 Love to You Taiwan 》 曲 / 詞  美國歌手 Lobo\nI come to your land a stranger\nYou made me feel at home\nYou open up your arms and gave me warmth\nI never felt alone\n\nYou won my heart forever\nWith your gentle friendly ways\nSo with love I send to you my friends\nThis song from far away\n\nWith love to you Taiwan from one\nWho always will be thankful to you\nMusic's what I live and it's all that I can give\nWith love to you Taiwan\n\nThe beauty of your island is more than you can see\nYou stood up for what was right you had to be free\nGood friends are forever that's how it's always been\nWords reach out with quiet doubts but music makes us friends",
+       "en": ""
+      },
+      {
+       "zh": "Lobo ( Roland Kent LaVole ) 1943 年生於美國佛羅里達州。是70 年代風行美國流行音樂的名歌手之一。1987年來亞洲作巡迴演唱。在台灣的演唱十分成功。為了表達對台灣這塊土地的情感以及歌迷的熱忱, 特別編作這首《 Love to You Taiwan 》 放入專輯「Am I Going Craze 」中。\nLobo - Love To You Taiwan - Lobo\nLove To You Taiwan (愛你 台灣) (Lobo / 灰狼) (高畫質 高音質) (中文翻譯)\n看见台湾.Beyond Beauty - Taiwan from Above─影片 Dailymotion",
+       "en": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "slug": "hdoc28",
+  "series": "28",
+  "range": "271–280",
+  "count": 10,
+  "theme": ""
+ }
+}
