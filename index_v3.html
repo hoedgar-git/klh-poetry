@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>何康隆詩集 | v3 preview — literal document view</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;500;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f9f9f9;--white:#fff;--ink:#080808;--muted:#6b6b6b;--light:#e8e8e8;
+--border:1px solid #d0d0d0;--border-bold:2px solid #080808;
+--serif:'Noto Serif TC','Noto Serif',serif;--sans:'Inter',system-ui,sans-serif;}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html{font-size:20px;scroll-behavior:smooth;}
+body{font-family:var(--serif);background:var(--bg);color:var(--ink);line-height:1.8;}
+button{cursor:pointer;font-family:inherit;} a{color:inherit;}
+nav{position:fixed;top:0;left:0;right:0;z-index:200;background:var(--bg);border-bottom:var(--border-bold);
+display:flex;justify-content:space-between;align-items:center;padding:0.85rem 2rem;flex-wrap:wrap;gap:0.5rem;}
+.nav-logo{font-size:1rem;font-weight:700;letter-spacing:0.05em;cursor:pointer;}
+.nav-logo span{font-weight:300;color:var(--muted);margin-left:0.5rem;font-size:0.8rem;}
+.nav-links{display:flex;gap:1.5rem;list-style:none;align-items:center;flex-wrap:wrap;}
+.nav-links button{background:none;border:none;font-family:var(--serif);font-size:0.9rem;
+letter-spacing:0.06em;color:var(--muted);padding-bottom:2px;border-bottom:2px solid transparent;transition:.2s;}
+.nav-links button:hover,.nav-links button.active{color:var(--ink);border-bottom-color:var(--ink);}
+.nav-links .v3tag{border:1px solid #c0a050;padding:3px 10px;color:#9a7b2e;border-radius:2px;font-family:var(--sans);font-size:0.68rem;letter-spacing:0.06em;}
+.page{display:none;min-height:100vh;padding-top:5rem;} .page.active{display:block;}
+.container{max-width:900px;margin:0 auto;padding:2rem 1.5rem 5rem;}
+/* home */
+.hero{padding:4.5rem 2rem 3rem;text-align:center;border-bottom:var(--border-bold);}
+.hero h1{font-size:2.6rem;font-weight:700;letter-spacing:0.04em;line-height:1.4;}
+.hero .en{font-size:1rem;font-style:italic;color:var(--muted);margin-top:0.6rem;}
+.hero .author{margin-top:1.2rem;font-size:0.82rem;letter-spacing:0.15em;color:var(--muted);font-family:var(--sans);}
+.hero .note{margin-top:1.4rem;font-family:var(--sans);font-size:0.76rem;color:#9a7b2e;background:#f7f1e3;display:inline-block;padding:0.6rem 1rem;border:1px solid #e3d3a8;border-radius:3px;line-height:1.7;}
+.cards{display:grid;grid-template-columns:1fr 1fr;background:var(--ink);gap:1px;border-bottom:1px solid var(--ink);}
+@media(max-width:760px){.cards{grid-template-columns:1fr;}}
+.card{background:var(--bg);padding:2.6rem 2rem;cursor:pointer;transition:background .2s;border:none;text-align:left;}
+.card:hover{background:var(--white);}
+.card .num{font-size:0.72rem;color:var(--muted);font-family:var(--sans);letter-spacing:0.15em;margin-bottom:0.6rem;}
+.card h2{font-size:1.4rem;font-weight:700;} .card .sub{font-size:0.8rem;color:var(--muted);font-family:var(--sans);margin-top:0.3rem;}
+.card .cnt{margin-top:1.2rem;font-size:0.78rem;color:var(--muted);font-family:var(--sans);border-top:1px solid var(--light);padding-top:0.9rem;}
+/* list */
+.page-header{padding:0.5rem 0 1.3rem;border-bottom:var(--border-bold);margin-bottom:1.8rem;}
+.page-title{font-size:1.6rem;font-weight:700;letter-spacing:0.03em;}
+.page-sub{font-size:0.78rem;color:var(--muted);font-family:var(--sans);letter-spacing:0.1em;margin-top:0.35rem;}
+.list{display:flex;flex-direction:column;gap:1px;background:var(--ink);border:var(--border-bold);}
+.item{background:var(--bg);padding:1.5rem 1.8rem;cursor:pointer;transition:background .2s;display:grid;grid-template-columns:1fr auto;gap:1rem;align-items:center;}
+.item:hover{background:var(--white);}
+.item .t{font-size:1.15rem;font-weight:700;} .item .m{font-size:0.72rem;color:var(--muted);font-family:var(--sans);text-align:right;}
+.badge{display:inline-block;padding:2px 9px;border:1px solid var(--muted);font-size:0.66rem;font-family:var(--sans);letter-spacing:0.05em;color:var(--muted);}
+.back{display:inline-flex;gap:0.5rem;font-size:0.8rem;font-family:var(--sans);letter-spacing:0.06em;color:var(--muted);background:none;border:none;margin-bottom:1.5rem;}
+.back:hover{color:var(--ink);}
+/* docx modal */
+.docx-modal{display:none;position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.55);padding:2.2rem 1rem;overflow-y:auto;}
+.docx-modal.show{display:block;}
+.docx-sheet{max-width:760px;margin:0 auto;background:#fff;border:var(--border-bold);min-height:60vh;}
+.docx-head{position:sticky;top:0;background:#fff;border-bottom:var(--border-bold);padding:0.9rem 1.4rem;display:flex;justify-content:space-between;align-items:center;gap:1rem;z-index:2;}
+.docx-head .lbl{font-family:var(--sans);font-size:0.66rem;letter-spacing:0.1em;text-transform:uppercase;color:#9a7b2e;background:#f7f1e3;border:1px solid #e3d3a8;padding:3px 9px;border-radius:2px;}
+.docx-head .ttl{font-size:0.95rem;font-weight:700;flex:1;}
+.docx-close{font-family:var(--sans);font-size:0.8rem;background:var(--ink);color:#fff;border:none;padding:6px 14px;border-radius:2px;}
+.docx-close:hover{background:#333;}
+.docx-body{padding:2.2rem 2.6rem 3.5rem;}
+@media(max-width:600px){.docx-body{padding:1.6rem 1.2rem 3rem;}}
+.docx-loading{padding:3rem;text-align:center;color:var(--muted);font-family:var(--sans);font-size:0.85rem;}
+/* literal docx typography — content is untouched, this only sets the reading frame */
+.docx-literal{font-family:var(--serif);font-size:1.05rem;line-height:1.85;color:#111;}
+.docx-literal p{margin:0 0 0.15rem;white-space:pre-wrap;}
+.docx-literal p.docx-blank{margin:0;line-height:1.2;}
+.docx-literal strong{font-weight:700;}
+.docx-literal a{color:#1a4fa0;text-decoration:underline;word-break:break-all;}
+.docx-literal .docx-img{margin:1rem 0;text-align:center;}
+.docx-literal .docx-img img{max-width:100%;height:auto;border:1px solid var(--light);}
+.source-end{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--light);font-family:var(--sans);font-size:0.62rem;color:#aaa;letter-spacing:0.04em;}
+</style>
+</head>
+<body>
+<nav>
+  <div class="nav-logo" onclick="go('home')">何康隆詩集 <span>KLH Poetry</span></div>
+  <ul class="nav-links">
+    <li><button id="nav-poems" onclick="go('poems')">詩集 Poems</button></li>
+    <li><button id="nav-haiku" onclick="go('haiku')">俳句 Haiku</button></li>
+    <li><span class="v3tag">v3 preview · literal doc view</span></li>
+  </ul>
+</nav>
+
+<section id="page-home" class="page">
+  <div class="hero">
+    <h1>何康隆詩集</h1>
+    <div class="en">Poems &amp; Haiku of Khang-Loon Ho</div>
+    <div class="author">A TRIBUTE SITE, MAINTAINED BY HIS SON</div>
+    <div class="note">v3 demo — clicking a piece opens the original Word document exactly as written,<br>with no re-formatting or reorganization. Sample of 5 poems + 5 haiku.</div>
+  </div>
+  <div class="cards">
+    <button class="card" onclick="go('poems')"><div class="num">01 — 現代詩</div><h2>詩集</h2><div class="sub">Poems</div><div class="cnt">5 sample pieces</div></button>
+    <button class="card" onclick="go('haiku')"><div class="num">02 — 俳句與變奏</div><h2>俳句</h2><div class="sub">Haiku &amp; Variations</div><div class="cnt">5 sample series</div></button>
+  </div>
+</section>
+
+<section id="page-poems" class="page"><div class="container">
+  <button class="back" onclick="go('home')">← 返回 Home</button>
+  <div class="page-header"><div class="page-title">詩集 · Poems</div><div class="page-sub">現代詩 — click a title to view the original document</div></div>
+  <div class="list" id="list-poems"></div>
+</div></section>
+
+<section id="page-haiku" class="page"><div class="container">
+  <button class="back" onclick="go('home')">← 返回 Home</button>
+  <div class="page-header"><div class="page-title">俳句 · Haiku &amp; Variations</div><div class="page-sub">現代俳句與變奏 — click a title to view the original document</div></div>
+  <div class="list" id="list-haiku"></div>
+</div></section>
+
+<div class="docx-modal" id="docx-modal" onclick="if(event.target===this)closeDocx()">
+  <div class="docx-sheet">
+    <div class="docx-head">
+      <span class="lbl">Literal Word doc</span>
+      <span class="ttl" id="docx-title"></span>
+      <button class="docx-close" onclick="closeDocx()">✕ Close</button>
+    </div>
+    <div class="docx-body" id="docx-body"><div class="docx-loading">Loading original document…</div></div>
+  </div>
+</div>
+
+<script>
+const POEMS=[
+  {slug:'p_c1745bf6', title:'光燦的古城'},
+  {slug:'p_5e319b47', title:'印度之歌 — 隨風遠去的心情'},
+  {slug:'p_c2ae755f', title:'貝加爾湖漫步隨想'},
+  {slug:'p_5cea581e', title:'那時愛琴海没有名字'},
+  {slug:'p_c595ebe4', title:'飛越 Okavango 內陸三角洲'},
+];
+const HAIKU=[
+  {slug:'hdoc15', series:15},
+  {slug:'hdoc30', series:30},
+  {slug:'hdoc61', series:61},
+  {slug:'hdoc105', series:105},
+  {slug:'hdoc148', series:148},
+];
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+function go(p){
+  document.querySelectorAll('.page').forEach(x=>x.classList.remove('active'));
+  document.getElementById('page-'+p).classList.add('active');
+  ['poems','haiku'].forEach(k=>{const b=document.getElementById('nav-'+k);if(b)b.classList.remove('active');});
+  if(document.getElementById('nav-'+p))document.getElementById('nav-'+p).classList.add('active');
+  window.scrollTo(0,0);
+}
+
+function renderLists(){
+  document.getElementById('list-poems').innerHTML=POEMS.map(x=>
+    `<button class="item" onclick="openDocx('${x.slug}','${esc(x.title)}')">
+      <div class="t">${esc(x.title)}</div>
+      <span class="badge">詩 Poem</span></button>`).join('');
+  document.getElementById('list-haiku').innerHTML=HAIKU.map(x=>
+    `<button class="item" onclick="openDocx('${x.slug}','現代俳句和變奏 ${x.series}')">
+      <div class="t">現代俳句和變奏 ${x.series}</div>
+      <span class="badge">俳句 Haiku</span></button>`).join('');
+}
+renderLists();
+
+const cache={};
+async function openDocx(slug, title){
+  const modal=document.getElementById('docx-modal');
+  const body=document.getElementById('docx-body');
+  document.getElementById('docx-title').textContent=title||slug;
+  modal.classList.add('show');
+  body.innerHTML='<div class="docx-loading">Loading original document…</div>';
+  document.body.style.overflow='hidden';
+  try{
+    let html=cache[slug];
+    if(!html){html=await fetch('data/rawdocx/'+slug+'.html').then(r=>{if(!r.ok)throw new Error(r.status);return r.text();});cache[slug]=html;}
+    body.innerHTML=html+'<div class="source-end">來源 Source docx · '+esc(slug)+'.docx — rendered as-is, unedited</div>';
+  }catch(e){
+    body.innerHTML='<div class="docx-loading">Could not load this document ('+esc(String(e.message||e))+').</div>';
+  }
+}
+function closeDocx(){
+  document.getElementById('docx-modal').classList.remove('show');
+  document.body.style.overflow='';
+}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDocx();});
+
+go('home');
+</script>
+</body>
+</html>
