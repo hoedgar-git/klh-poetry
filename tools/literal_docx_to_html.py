@@ -27,10 +27,21 @@ def qn(tag):
     return '{%s}%s' % (W, tag)
 
 
+def dominant_size(doc_xml):
+    """Half-point font size used most often in the doc — our '100%' baseline."""
+    from collections import Counter
+    sizes = re.findall(r'<w:sz w:val="(\d+)"/>', doc_xml)
+    if not sizes:
+        return 24  # 12pt fallback
+    return int(Counter(sizes).most_common(1)[0][0])
+
+
 def parse(path):
     z = zipfile.ZipFile(path)
     rels_xml = z.read('word/_rels/document.xml.rels').decode('utf-8', 'ignore')
     rel_full = dict(re.findall(r'<Relationship[^>]*Id="([^"]+)"[^>]*Target="([^"]+)"', rels_xml))
+    doc_xml_raw = z.read('word/document.xml').decode('utf-8', 'ignore')
+    base_sz = dominant_size(doc_xml_raw)
 
     body = ET.fromstring(z.read('word/document.xml')).find(qn('body'))
     out = []
@@ -60,6 +71,16 @@ def parse(path):
             rPr = run.find(qn('rPr'))
             bold = rPr is not None and rPr.find(qn('b')) is not None
             italic = rPr is not None and rPr.find(qn('i')) is not None
+            sz_ratio = None
+            if rPr is not None:
+                szEl = rPr.find(qn('sz'))
+                if szEl is not None:
+                    try:
+                        v = int(szEl.get(qn('val')))
+                        if v and abs(v - base_sz) >= 2:
+                            sz_ratio = round(v / base_sz, 2)
+                    except (TypeError, ValueError):
+                        pass
             pieces = []
             for node in run:
                 t = node.tag.split('}')[-1]
@@ -84,6 +105,8 @@ def parse(path):
                 txt = '<strong>%s</strong>' % txt
             if italic:
                 txt = '<em>%s</em>' % txt
+            if sz_ratio:
+                txt = '<span style="font-size:%sem">%s</span>' % (sz_ratio, txt)
             return txt
 
         def walk_hyperlink(node):
