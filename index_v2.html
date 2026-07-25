@@ -100,8 +100,8 @@ body.vertical .stanza.num{writing-mode:horizontal-tb;margin:0;} body.vertical .s
 .chip.fmt{border-color:#c0a050;color:#9a7b2e;}
 .sortbar{display:flex;gap:0.4rem;align-items:center;flex-wrap:wrap;margin-bottom:1.2rem;}
 .item-poem{display:flex;justify-content:space-between;align-items:baseline;gap:1.2rem;}
-.item-poem .t{font-size:1.15rem;font-weight:700;flex:0 1 auto;}
-.item-poem .chips{flex:1 1 auto;justify-content:flex-end;align-content:flex-start;}
+.item-poem .t{font-size:1.15rem;font-weight:700;flex:0 0 auto;white-space:nowrap;}
+.item-poem .chips{flex:1 1 auto;min-width:0;justify-content:flex-end;align-content:flex-start;row-gap:0.4rem;}
 .chip.clickable{cursor:pointer;transition:.15s;} .chip.clickable:hover{border-color:var(--ink);color:var(--ink);background:var(--white);}
 .chip.active{background:var(--ink);color:var(--bg);border-color:var(--ink);}
 .hint{font-family:var(--sans);font-size:0.62rem;letter-spacing:0.04em;color:#aaa;}
