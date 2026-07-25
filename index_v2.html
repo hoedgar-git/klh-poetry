@@ -99,6 +99,12 @@ body.vertical .stanza.num{writing-mode:horizontal-tb;margin:0;} body.vertical .s
 .chip{font-family:var(--sans);font-size:0.62rem;letter-spacing:0.04em;padding:2px 8px;border:1px solid var(--muted);color:var(--muted);border-radius:2px;white-space:nowrap;}
 .chip.fmt{border-color:#c0a050;color:#9a7b2e;}
 .sortbar{display:flex;gap:0.4rem;align-items:center;flex-wrap:wrap;margin-bottom:1.2rem;}
+.item-poem{display:flex;justify-content:space-between;align-items:baseline;gap:1.2rem;}
+.item-poem .t{font-size:1.15rem;font-weight:700;flex:0 1 auto;}
+.item-poem .chips{flex:1 1 auto;justify-content:flex-end;align-content:flex-start;}
+.chip.clickable{cursor:pointer;transition:.15s;} .chip.clickable:hover{border-color:var(--ink);color:var(--ink);background:var(--white);}
+.chip.active{background:var(--ink);color:var(--bg);border-color:var(--ink);}
+.hint{font-family:var(--sans);font-size:0.62rem;letter-spacing:0.04em;color:#aaa;}
 .item .t-en{font-size:0.74rem;font-style:italic;color:var(--muted);margin-top:0.15rem;font-family:var(--sans);}
 .item .rng{font-family:var(--sans);font-size:0.95rem;color:var(--ink);font-weight:500;letter-spacing:0.02em;}
 .detail-tags{margin:0.9rem 0 0;}
@@ -170,12 +176,7 @@ body.vertical .stanza.num{writing-mode:horizontal-tb;margin:0;} body.vertical .s
 <!-- LIST PAGES -->
 <section id="page-poems" class="page"><div class="container">
   <div class="page-header"><div class="page-title">詩集 · Poems</div><div class="page-sub">現代詩</div></div>
-  <div class="sortbar"><span class="ctl-label">排序 Sort</span>
-    <button class="ctl active" onclick="sortPoems('title',this)">標題 Title</button>
-    <button class="ctl" onclick="sortPoems('geo',this)">地域 Geography</button>
-    <button class="ctl" onclick="sortPoems('subject',this)">主題 Subject</button>
-    <button class="ctl" onclick="sortPoems('format',this)">形式 Format</button>
-  </div>
+  <div class="sortbar" id="poem-filterbar"></div>
   <div class="list" id="list-poems"></div>
 </div></section>
 <section id="page-haiku" class="page"><div class="container">
@@ -314,30 +315,27 @@ function counts(){
   document.getElementById('cnt-artwork').textContent=(M.artwork.length||0)+' works — coming soon';
 }
 function chip(t,cls){return `<span class="chip${cls?' '+cls:''}">${esc(t)}</span>`;}
-let poemSort='title';
-function sortedPoems(){
-  const a=[...(M.poems||[])];
-  const g=o=>poemSort==='format'?(o.tags&&o.tags.format||'')
-    :poemSort==='geo'?((o.tags&&o.tags.geo||[])[0]||'zzz')
-    :poemSort==='subject'?((o.tags&&o.tags.subject||[])[0]||'zzz')
-    :(o.title||'');
-  a.sort((x,y)=>g(x).localeCompare(g(y),'zh-Hant'));
-  return a;
-}
+let poemFilter=null;
+function poemTags(p){const t=p.tags||{};return [...(t.geo||[]),...(t.subject||[]),...(t.format?[t.format]:[])];}
 function renderPoems(){
-  const el=document.getElementById('list-poems');const a=sortedPoems();
-  if(!a.length){el.className='';el.innerHTML='<div class="empty">尚無作品。</div>';return;}
+  const el=document.getElementById('list-poems');
+  let a=[...(M.poems||[])].sort((x,y)=>(x.title||'').localeCompare(y.title||'','zh-Hant'));
+  if(poemFilter)a=a.filter(p=>poemTags(p).indexOf(poemFilter)>-1);
+  const bar=document.getElementById('poem-filterbar');
+  if(bar)bar.innerHTML=poemFilter
+    ?`<span class="ctl-label">篩選 Filter</span><span class="chip active">${esc(poemFilter)}</span><button class="ctl" onclick="clearPoemFilter()">✕ 全部 All</button>`
+    :`<span class="ctl-label">依標題 · By title</span><span class="hint">點標籤篩選 · tap a tag to filter</span>`;
+  if(!a.length){el.className='';el.innerHTML='<div class="empty">沒有符合的作品。</div>';return;}
   el.className='list';
   el.innerHTML=a.map(x=>{
-    const t=x.tags||{};
-    const chips=(t.geo||[]).map(c=>chip(c)).join('')+(t.subject||[]).map(c=>chip(c)).join('')+(t.format?chip(t.format,'fmt'):'');
-    const en=x.title_en?`<div class="t-en">${esc(x.title_en)}</div>`:'';
-    return `<button class="item" onclick="openFlow('${x.slug}')">
-      <div><div class="t">${esc(x.title)}</div>${en}</div>
-      <div class="chips" style="justify-content:flex-end;max-width:55%">${chips}</div></button>`;
+    const chips=poemTags(x).map(c=>`<span class="chip clickable" data-tag="${esc(c)}" onclick="event.stopPropagation();filterPoems(this.dataset.tag)">${esc(c)}</span>`).join('');
+    return `<button class="item item-poem" onclick="openFlow('${x.slug}')">
+      <span class="t">${esc(x.title)}</span>
+      <span class="chips">${chips}</span></button>`;
   }).join('');
 }
-function sortPoems(k,btn){poemSort=k;document.querySelectorAll('#page-poems .sortbar .ctl').forEach(b=>b.classList.remove('active'));btn.classList.add('active');renderPoems();}
+function filterPoems(tag){poemFilter=tag;renderPoems();window.scrollTo(0,0);}
+function clearPoemFilter(){poemFilter=null;renderPoems();}
 let haikuSort='series';
 function renderHaiku(){
   const el=document.getElementById('list-haiku');let a=[...(M.haiku||[])];
