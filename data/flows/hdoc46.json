@@ -6,7 +6,7 @@
  "front": [
   {
    "type": "subtitle",
-   "zh": "現代俳句 & 變奏     系列 《 46 》"
+   "zh": "現代俳句 & 變奏   系列《46》"
   },
   {
    "type": "byline",
@@ -54,7 +54,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "“ as we know, there are known knowns; there are things we know we know. We also know there are known unknowns that is to say we know there are some things we do not know. But there are also unknown unknowns-- the ones we don’t know we don’t know.”\nDonald Rumsfeld     United States Secretary of Defense （ 2002 ）",
+       "zh": "“as we know, there are known knowns; there are things we know we know. We also know there are known unknowns we know there are some things we do not know. But there are also unknown unknowns-- the ones we don’t know we don’t know.”\n--Donald Rumsfeld, United States Secretary of Defense. （2002）",
        "en": ""
       }
      ]
@@ -101,9 +101,13 @@
      "num": true
     },
     {
+     "type": "note",
+     "points": []
+    },
+    {
      "type": "image",
      "src": "images/flow/hdoc46/img2.jpg",
-     "caption_zh": "印度教聖地Varanasi。     恆河岸邊黄昏的梵煙",
+     "caption_zh": "印度教聖地Varanasi。  恆河岸邊黄昏的梵煙",
      "caption_en": ""
     },
     {
@@ -135,7 +139,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "唐   。柳宗元《 江雪 》\n千山鳥飛絶，萬徑人踪滅。\n孤舟簔笠翁，獨釣寒江雪。",
+       "zh": "千山鳥飛絶，萬徑人踪滅。\n孤舟簔笠翁，獨釣寒江雪。\n--唐。柳宗元《江雪》",
        "en": ""
       }
      ]
@@ -184,28 +188,18 @@
     {
      "type": "image",
      "src": "images/flow/hdoc46/img3.jpg",
-     "caption_zh": "台灣膠彩畫大師郭雪湖著名作品〈南街殷賑〉",
+     "caption_zh": "台灣膠彩畫大師郭雪湖著名作品〈南街殷賑〉將30年代大稻埕的繁華景觀展現無遺。",
      "caption_en": ""
     },
     {
-     "type": "stanza",
-     "zh": [
-      "將30年代大稻埕的繁華景觀展現無遺。"
-     ],
-     "en": []
+     "type": "note",
+     "points": []
     },
     {
      "type": "image",
      "src": "images/flow/hdoc46/img4.jpg",
-     "caption_zh": "2014年葉天倫執導的電影「大稻埕」，回顧",
+     "caption_zh": "2014年葉天倫執導的電影「大稻埕」，回顧 大稻埕的歷史和當時的繁榮與進步。",
      "caption_en": ""
-    },
-    {
-     "type": "stanza",
-     "zh": [
-      "大稻埕的歷史和當時的繁榮與進步。"
-     ],
-     "en": []
     }
    ]
   },
@@ -256,6 +250,10 @@
      "num": true
     },
     {
+     "type": "note",
+     "points": []
+    },
+    {
      "type": "image",
      "src": "images/flow/hdoc46/img5.jpg",
      "caption_zh": "日本深浦海岸不老不死温泉海邊晨景",
@@ -273,10 +271,9 @@
     {
      "type": "yt",
      "urls": [
-      "https://www.youtube.com/watch?v=PSZxmZmBfnU",
       "https://www.youtube.com/watch?v=rectLMhmkz8",
-      "https://www.youtube.com/watch?v=DPHM3yXVPSA",
-      "https://www.youtube.com/watch?v=gDgj2_W1LfQ"
+      "https://www.youtube.com/watch?v=PSZxmZmBfnU",
+      "https://www.youtube.com/watch?v=DPHM3yXVPSA"
      ]
     }
    ]

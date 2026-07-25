@@ -22,6 +22,13 @@ W = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'
 R = 'http://schemas.openxmlformats.org/officeDocument/2006/relationships'
 A = 'http://schemas.openxmlformats.org/drawingml/2006/main'
 
+# Same '**' signal used by docx_to_flow.py (engine v5) to detect commentary —
+# reused here ONLY to tag paragraphs for CSS styling (smaller/plainer font).
+# No reorganization, grouping, or removal of content — literal order is untouched.
+NUM = re.compile(r'^\s*\d{1,4}\s*[.。、]\s*$')
+NUMLEAD = re.compile(r'^\s*\d{1,4}\s*[.。、]\s')
+URLRE = re.compile(r'https?://\S+')
+
 
 def qn(tag):
     return '{%s}%s' % (W, tag)
@@ -58,6 +65,7 @@ def parse(path):
         runs_html = []
         images = []
         has_text = False
+        plain_parts = []
 
         def render_run(run):
             nonlocal has_text
@@ -86,8 +94,10 @@ def parse(path):
                 t = node.tag.split('}')[-1]
                 if t == 't' and node.text:
                     pieces.append(html.escape(node.text))
+                    plain_parts.append(node.text)
                 elif t == 'br':
                     pieces.append('<br>')
+                    plain_parts.append('\n')
                 elif t == 'tab':
                     pieces.append('&emsp;')
                 elif t == 'drawing':
@@ -130,11 +140,16 @@ def parse(path):
             elif tag == 'r':
                 runs_html.append(render_run(child))
 
+        plain = ''.join(plain_parts)
+        stripped = plain.strip()
         out.append({
             'align': align,
             'html': ''.join(runs_html),
             'has_text': has_text,
             'images': images,
+            'star': stripped.startswith('**'),
+            'is_num': bool(NUM.match(stripped) or NUMLEAD.match(stripped)),
+            'has_url': bool(URLRE.search(plain)),
         })
     return out, z
 
@@ -157,18 +172,33 @@ def load_image(z, target):
 
 def render_html(paras, z):
     body = []
+    in_note = False
     for p in paras:
-        for tgt in p['images']:
-            src = load_image(z, tgt)
-            if src:
-                body.append('<div class="docx-img"><img src="%s" alt=""></div>' % src)
+        if p['images']:
+            in_note = False
+            for tgt in p['images']:
+                src = load_image(z, tgt)
+                if src:
+                    body.append('<div class="docx-img"><img src="%s" alt=""></div>' % src)
         if p['has_text']:
+            # Mirror docx_to_flow's '**' commentary signal purely for styling:
+            # a numbered stanza line or a link line ends any commentary run;
+            # a '**'-prefixed line starts (or continues) one. Order/content
+            # is untouched — this only adds a CSS class.
+            if p['is_num'] or p['has_url']:
+                in_note = False
+            elif p['star']:
+                in_note = True
+            classes = []
+            if in_note:
+                classes.append('docx-note')
             style = ''
             if p['align'] == 'center':
                 style = ' style="text-align:center"'
             elif p['align'] == 'right':
                 style = ' style="text-align:right"'
-            body.append('<p%s>%s</p>' % (style, p['html']))
+            cls = ' class="%s"' % ' '.join(classes) if classes else ''
+            body.append('<p%s%s>%s</p>' % (cls, style, p['html']))
         elif not p['images']:
             body.append('<p class="docx-blank">&nbsp;</p>')
     return '<div class="docx-literal">\n' + '\n'.join(body) + '\n</div>'

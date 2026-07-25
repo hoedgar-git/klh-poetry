@@ -5,14 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>何康隆詩集 | v3 preview</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;500;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;500;700&family=Noto+Sans+TC:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
 :root{--bg:#f9f9f9;--white:#fff;--ink:#080808;--muted:#6b6b6b;--light:#e8e8e8;
 --border:1px solid #d0d0d0;--border-bold:2px solid #080808;
 --serif:'Noto Serif TC','Noto Serif',serif;--sans:'Inter',system-ui,sans-serif;
---verse:1.12rem;--note:calc(var(--verse)*0.78);--cap:calc(var(--verse)*0.66);--en:calc(var(--verse)*0.86);}
+--verse:1.12rem;--note:calc(var(--verse)*0.78);--cap:calc(var(--verse)*0.66);--en:calc(var(--verse)*0.86);
+--commentary-font:'Noto Sans TC','PingFang TC','Microsoft JhengHei','Heiti TC',var(--sans);--commentary-size:0.92;}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 html{font-size:20px;scroll-behavior:smooth;}
 body{font-family:var(--serif);background:var(--bg);color:var(--ink);line-height:1.8;}
@@ -72,7 +73,7 @@ body.show-en .stanza .en{display:block;}
 .note{border-left:3px solid var(--ink);background:var(--white);}
 .note-head{display:flex;justify-content:space-between;width:100%;background:none;border:none;text-align:left;padding:0.6rem 1.2rem;font-family:var(--sans);font-size:0.6rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--muted);}
 .note-head .chev{transition:transform .18s;} .note.collapsed .note-head .chev{transform:rotate(-90deg);}
-.note-body{font-size:var(--note);line-height:1.95;color:#3a3a3a;padding:0 1.2rem 0.9rem;}
+.note-body{font-family:var(--commentary-font);font-size:calc(var(--note)*var(--commentary-size));line-height:1.95;color:#3a3a3a;padding:0 1.2rem 0.9rem;}
 .note-body .cm-sep{height:1px;background:var(--light);margin:0.8rem 0;}
 .note.collapsed .note-body{display:none;} body.hide-notes .note{display:none;}
 .pt-en{display:none;font-style:italic;color:var(--muted);margin-top:0.4rem;} body.show-en .pt-en{display:block;}
@@ -98,7 +99,7 @@ figcaption{margin-top:0.5rem;font-family:var(--sans);font-size:var(--cap);color:
 .pubrow{display:flex;gap:0.6rem;flex-wrap:wrap;margin:1.2rem 0;}
 .btn{font-family:var(--sans);font-size:0.82rem;letter-spacing:0.04em;padding:0.6rem 1.3rem;border:none;background:var(--ink);color:var(--white);}
 .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--ink);}
-.note-inline{font-family:var(--sans);font-size:0.76rem;color:var(--muted);background:#f0efe9;border-left:3px solid #c0a050;padding:0.8rem 1rem;line-height:1.7;margin-top:1rem;}
+.note-inline{font-family:var(--commentary-font);font-size:0.76rem;color:var(--muted);background:#f0efe9;border-left:3px solid #c0a050;padding:0.8rem 1rem;line-height:1.7;margin-top:1rem;}
 .chips{display:flex;gap:0.35rem;flex-wrap:wrap;}
 .chip{font-family:var(--sans);font-size:0.62rem;letter-spacing:0.04em;padding:2px 8px;border:1px solid var(--muted);color:var(--muted);border-radius:2px;white-space:nowrap;}
 .chip.fmt{border-color:#c0a050;color:#9a7b2e;}
@@ -153,6 +154,7 @@ figcaption{margin-top:0.5rem;font-family:var(--sans);font-size:var(--cap);color:
   font-size:var(--verse);line-height:1.42;color:#111;}
 .docx-literal p{margin:0 0 0.05rem;white-space:pre-wrap;}
 .docx-literal p.docx-blank{margin:0;line-height:1.05;}
+.docx-literal p.docx-note{font-family:var(--commentary-font);font-size:calc(var(--verse)*var(--commentary-size)*0.85);line-height:1.7;color:#3a3a3a;}
 .docx-literal strong{font-weight:700;}
 .docx-literal a{color:#1a4fa0;text-decoration:underline;word-break:break-all;}
 .docx-literal .docx-img{margin:1rem 0;text-align:center;}
@@ -187,7 +189,7 @@ figcaption{margin-top:0.5rem;font-family:var(--sans);font-size:var(--cap);color:
 
 <!-- LIST PAGES -->
 <section id="page-poems" class="page"><div class="container">
-  <div class="page-header"><div class="page-title">詩集 · Poems</div><div class="page-sub">現代詩 · v3 sample (5 of full catalog)</div></div>
+  <div class="page-header"><div class="page-title">詩集 · Poems</div><div class="page-sub">現代詩 · revised set (20 poems)</div></div>
   <div class="sortbar"><span class="ctl-label">排序 Sort</span>
     <button class="ctl active" onclick="sortPoems('title',this)">標題 Title</button>
     <button class="ctl" onclick="sortPoems('geo',this)">地域 Geography</button>
@@ -197,7 +199,7 @@ figcaption{margin-top:0.5rem;font-family:var(--sans);font-size:var(--cap);color:
   <div class="list" id="list-poems"></div>
 </div></section>
 <section id="page-haiku" class="page"><div class="container">
-  <div class="page-header"><div class="page-title">俳句 · Haiku &amp; Variations</div><div class="page-sub">現代俳句與變奏 · v3 sample (5 of full catalog)</div></div>
+  <div class="page-header"><div class="page-title">俳句 · Haiku &amp; Variations</div><div class="page-sub">現代俳句與變奏 · revised set (series 1–50)</div></div>
   <div class="sortbar"><span class="ctl-label">排序 Sort</span>
     <button class="ctl active" onclick="sortHaiku('series',this)">系列 Series ↑</button>
     <button class="ctl" onclick="sortHaiku('series-desc',this)">系列 Series ↓</button>
@@ -311,8 +313,8 @@ figcaption{margin-top:0.5rem;font-family:var(--sans);font-size:var(--cap);color:
 </div>
 
 <script>
-const SAMPLE_POEMS=new Set(['p_c1745bf6','p_5e319b47','p_c2ae755f','p_5cea581e','p_c595ebe4']);
-const SAMPLE_HAIKU=new Set(['hdoc15','hdoc30','hdoc61','hdoc105','hdoc148']);
+const SAMPLE_POEMS=new Set(['p_317a3ffd','wuling-mountain-road','p_5cea581e','jiufen-rain','p_19c83be1','madrid-dusk','p_9aea5d74','p_new_18FxzH','p_e43ca3f9','p_8d53e68d','p_new_1X0aAr','p_2f951172','beginning-a-journey-britain','yehliu-queen-rock','p_d069408e','sydney-sails','p_c2ae755f','p_c595ebe4','p_fe772049','p_593ba797']);
+const SAMPLE_HAIKU=new Set(Array.from({length:50},(_,i)=>'hdoc'+(i+1)));
 let M={poems:[],haiku:[],artwork:[]};
 const F={};
 const rawCache={};

@@ -6,7 +6,7 @@
  "front": [
   {
    "type": "subtitle",
-   "zh": "現代俳句 & 變奏     系列 《 37 》"
+   "zh": "現代俳句 & 變奏   系列《37》"
   },
   {
    "type": "byline",
@@ -38,7 +38,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "唐 。 李白《 靜夜思 》\n床前明月光，疑是地上霜。\n擧頭望明月，低頭思故鄉。",
+       "zh": "床前明月光，疑是地上霜。\n擧頭望明月，低頭思故鄉。\n--唐 。李白《靜夜思》",
        "en": ""
       }
      ]
@@ -94,7 +94,7 @@
     {
      "type": "image",
      "src": "images/flow/hdoc37/img2.jpg",
-     "caption_zh": "",
+     "caption_zh": "台灣雲豹",
      "caption_en": ""
     },
     {
@@ -174,7 +174,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "清   。林以寧 《 山程 》\n遠山日落煙迷處，彷彿當年從此去。\n浦囗村童放犢歸，停驂借問來時路。",
+       "zh": "遠山日落煙迷處，彷彿當年從此去。\n浦囗村童放犢歸，停驂借問來時路。\n--清 。林以寧 《山程》",
        "en": ""
       }
      ]
@@ -223,22 +223,14 @@
     {
      "type": "image",
      "src": "images/flow/hdoc37/img5.jpg",
-     "caption_zh": "",
+     "caption_zh": "梵谷:《星夜》",
      "caption_en": ""
     },
     {
      "type": "note",
      "points": [
       {
-       "zh": "梵谷的名畫《星夜》線條充滿強烈的力量，一筆線條緊接著一筆線條，猶如雕刻家的作品一樣強烈及清晰。畫面上方是藍色的寧靜星空，佔了畫面三分之二的位置。看來有如太陽一般發出強烈光線的月亮，與閃爍的十一顆星星，浮現在雲彩漩渦的夜空中。梵谷的星空，不只是自然現象的形象化，也是他的幻想與意志的顯現。畫中的月亮及星群閃耀著，散發出晃動心神的光彩。他用極鮮艷的線條，使月亮及每一顆星星旋轉著，連接著，彷若正在橫越無限的想像空間。整幅畫散放著豐富的詩意，也醞釀著夢幻的生命力。",
-       "en": ""
-      },
-      {
-       "zh": "Don Mclean  –  Vincent  ( Starry, Starry Night  ), 1971\nStarry, starry night\nFlaming flowers that brightly blaze\nSwirling clouds in violet haze\nReflect in Vincent's eyes of china blue\nColors changing hue\nMorning fields of amber grain\nWeathered faces lined in pain\nAre soothed beneath the artist's loving hand\nNow I understand\nWhat you tried to say to me\nAnd how you suffered for your sanity\nAnd how you tried to set them free\nThey would not listen, they did not know how\nPerhaps they'll listen now",
-       "en": ""
-      },
-      {
-       "zh": "Links for Vincent  (Starry, Starry Night) :",
+       "zh": "梵谷的名畫《星夜》線條充滿強烈的力量，一筆線條緊接著一筆線條，猶如雕刻家的作品一樣強烈及清晰。畫面上方是藍色的寧靜星空，佔了畫面三分之二的位置。看來有如太陽一般發出強烈光線的月亮，與閃爍的十一顆星星，浮現在雲彩漩渦的夜空中。梵谷的星空，不只是自然現象的形象化，也是他的幻想與意志的顯現。畫中的月亮及星群閃耀著，散發出晃動心神的光彩。他用極鮮艷的線條，使月亮及每一顆星星旋轉著，連接著，彷若正在橫越無限的想像空間。整幅畫散放著豐富的詩意，也醞釀著夢幻的生命力。\nVincent (Starry, Starry Night).   1971\n-- Don Mclean\nStarry, starry night\nFlaming flowers that brightly blaze\nSwirling clouds in violet haze\nReflect in Vincent's eyes of china blue\nColors changing hue\nMorning fields of amber grain\nWeathered faces lined in pain\nAre soothed beneath the artist's loving hand\nNow I understand\nWhat you tried to say to me\nAnd how you suffered for your sanity\nAnd how you tried to set them free\nThey would not listen, they did not know how\nPerhaps they'll listen now\nLinks for Vincent (Starry, Starry Night):",
        "en": ""
       }
      ]

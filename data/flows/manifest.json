@@ -608,6 +608,19 @@
    }
   },
   {
+   "slug": "p_593ba797",
+   "title": "莫那魯道的霧社",
+   "title_en": "",
+   "tags": {
+    "geo": [
+     "霧社",
+     "Taiwan"
+    ],
+    "subject": [],
+    "format": "抒情 Lyric"
+   }
+  },
+  {
    "slug": "p_new_1X0aAr",
    "title": "衫林溪的雲霧",
    "title_en": "",
@@ -689,7 +702,7 @@
   },
   {
    "slug": "p_5cea581e",
-   "title": "那時愛琴海沒有名字",
+   "title": "那時愛琴海没有名字",
    "title_en": "",
    "tags": {
     "geo": [
@@ -829,18 +842,8 @@
    }
   },
   {
-   "slug": "p_new_1IgUEC",
-   "title": "飛越 Okavango内陸三角洲",
-   "title_en": "",
-   "tags": {
-    "geo": [],
-    "subject": [],
-    "format": "抒情 Lyric"
-   }
-  },
-  {
    "slug": "p_c595ebe4",
-   "title": "飛越Okavango內陸三角洲",
+   "title": "飛越 Okavango内陸三角洲",
    "title_en": "",
    "tags": {
     "geo": [
@@ -879,71 +882,71 @@
   {
    "slug": "hdoc1",
    "series": "1",
-   "range": "1–2",
-   "count": 2,
+   "range": "1–10",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc2",
    "series": "2",
-   "range": "11–11",
-   "count": 1,
+   "range": "11–20",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc3",
    "series": "3",
-   "range": "21–21",
-   "count": 1,
+   "range": "21–30",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc4",
    "series": "4",
-   "range": "31–31",
-   "count": 1,
+   "range": "31–40",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc5",
    "series": "5",
-   "range": "41–42",
-   "count": 2,
+   "range": "41–50",
+   "count": 9,
    "theme": ""
   },
   {
    "slug": "hdoc6",
    "series": "6",
-   "range": "51–52",
-   "count": 2,
+   "range": "51–60",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc7",
    "series": "7",
    "range": "61–70",
-   "count": 6,
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc8",
    "series": "8",
-   "range": "71–74",
-   "count": 4,
+   "range": "71–80",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc9",
    "series": "9",
-   "range": "81–84",
-   "count": 4,
+   "range": "81–90",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc10",
    "series": "10",
    "range": "91–100",
-   "count": 5,
+   "count": 10,
    "theme": ""
   },
   {
@@ -1048,7 +1051,7 @@
    "slug": "hdoc25",
    "series": "25",
    "range": "241–250",
-   "count": 9,
+   "count": 10,
    "theme": ""
   },
   {
@@ -1188,7 +1191,7 @@
    "slug": "hdoc45",
    "series": "45",
    "range": "441–450",
-   "count": 9,
+   "count": 10,
    "theme": ""
   },
   {
@@ -1202,7 +1205,7 @@
    "slug": "hdoc47",
    "series": "47",
    "range": "461–470",
-   "count": 9,
+   "count": 10,
    "theme": ""
   },
   {
@@ -1838,7 +1841,7 @@
   {
    "slug": "hdoc140",
    "series": "140",
-   "range": "1391–1934",
+   "range": "1391–1400",
    "count": 10,
    "theme": ""
   },
@@ -1866,8 +1869,8 @@
   {
    "slug": "hdoc144",
    "series": "144",
-   "range": "1–1440",
-   "count": 19,
+   "range": "1431–1440",
+   "count": 10,
    "theme": ""
   },
   {
@@ -1908,22 +1911,22 @@
   {
    "slug": "hdoc150",
    "series": "150",
-   "range": "1–1500",
-   "count": 13,
+   "range": "1491–1500",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc151",
    "series": "151",
-   "range": "1–1510",
-   "count": 14,
+   "range": "1501–1510",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc152",
    "series": "152",
-   "range": "1–1520",
-   "count": 14,
+   "range": "1511–1520",
+   "count": 10,
    "theme": ""
   },
   {
@@ -1936,15 +1939,15 @@
   {
    "slug": "hdoc154",
    "series": "154",
-   "range": "1–1540",
-   "count": 13,
+   "range": "1531–1540",
+   "count": 10,
    "theme": ""
   },
   {
    "slug": "hdoc155",
    "series": "155",
-   "range": "1–1550",
-   "count": 13,
+   "range": "1541–1550",
+   "count": 10,
    "theme": ""
   }
  ],

@@ -15,7 +15,7 @@
   {
    "type": "image",
    "src": "images/flow/wuling-mountain-road/img1.jpg",
-   "caption_zh": "",
+   "caption_zh": "婆娑之洋，美麗之𡷊",
    "caption_en": ""
   },
   {
@@ -64,11 +64,13 @@
    "en": []
   },
   {
-   "type": "stanza",
-   "zh": [
-    "註：陳芳玉女士所作「Chih把土」合唱曲的歌詞。"
-   ],
-   "en": []
+   "type": "note",
+   "points": [
+    {
+     "zh": "陳芳玉女士所作「Chih把土」合唱曲的歌詞。",
+     "en": ""
+    }
+   ]
   }
  ],
  "tags": {

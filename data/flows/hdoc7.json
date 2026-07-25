@@ -6,7 +6,7 @@
  "front": [
   {
    "type": "subtitle",
-   "zh": "現代俳句 & 變奏     系列 《 7 》"
+   "zh": "現代俳句 & 變奏   系列《7》"
   },
   {
    "type": "byline",
@@ -54,15 +54,80 @@
      "type": "note",
      "points": [
       {
-       "zh": "牛頓 ( 1643~1727)。蘇格蘭物理學家，天文學家，數學家，自然哲學家。萬有引力及運動三大定律，顏色理論，微積分學等創述者。\n「 我不知道世人怎樣看我，但我自己以爲，我不過像一個在海邊玩耍的孩子，不時爲發現比尋常更爲美麗的卵石或貝殼而沾沾自喜，至于展現在我面前浩瀚的真理海洋，却全然一無所知。」\n63.\n歲月轉折處\n幾道傷痕\n弄皺一池春水\n64.\n生活筆記\n漏掉了幾行\n空白可是另一種修行 ？\n65.\n那段雲煙飄浮的從前\n擱淺在\n追悔的邊緣\n66.\n書似青山常亂疊\n翻開   飛出\n白鷺鷥歲月",
+       "zh": "牛頓 ( 1643~1727)。蘇格蘭物理學家，天文學家，數學家，自然哲學家。萬有引力及運動三大定律，顏色理論，微積分學等創述者。\n「 我不知道世人怎樣看我，但我自己以爲，我不過像一個在海邊玩耍的孩子，不時爲發現比尋常更爲美麗的卵石或貝殼而沾沾自喜，至于展現在我面前浩瀚的真理海洋，却全然一無所知。」",
        "en": ""
-      },
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "63.",
+      "歲月轉折處",
+      "幾道傷痕",
+      "弄皺一池春水"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "64.",
+      "生活筆記",
+      "漏掉了幾行",
+      "空白可是另一種修行 ？"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "65.",
+      "那段雲煙飄浮的從前",
+      "擱淺在",
+      "追悔的邊緣"
+     ],
+     "en": [],
+     "num": true
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "66.",
+      "書似青山常亂疊",
+      "翻開   飛出",
+      "白鷺鷥歲月"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
       {
-       "zh": "清代文學家紀曉嵐自題書齋聯：\n「 書似青山常亂疊；燈如紅豆最相思 」",
-       "en": ""
-      },
-      {
-       "zh": "1929年蔡培火於牢獄中作這首歌的詞和曲。\n《 咱台灣 》\n台灣    台灣   咱台灣\n海真闊   山真高\n大船小船的路關\n遠來人客講伊美\n日月潭   阿里山\n草木不時青跳跳\n白鷺鷥過水田\n水牛腳脊烏秋叫\n太平洋上和平村\n海真闊   山真高\n( 歌詞共三節，取第一節。在第三節中有「東洋瑞士穩當成」一句，足見蔡培火對台灣鄉土的期許和當家做主的遠見。)",
+       "zh": "清代文學家紀曉嵐自題書齋聯：\n「 書似青山常亂疊；燈如紅豆最相思 」\n《 咱台灣 》\n1929年蔡培火於牢獄中作這首歌的詞和曲。\n台灣    台灣   咱台灣\n海真闊   山真高\n大船小船的路關\n遠來人客講伊美\n日月潭   阿里山\n草木不時青跳跳\n白鷺鷥過水田\n水牛腳脊烏秋叫\n太平洋上和平村\n海真闊   山真高\n( 歌詞共三節，取第一節。在第三節中有「東洋瑞士穩當成」一句，足見蔡培火對台灣鄉土的期許和當家做主的遠見。)",
        "en": ""
       }
      ]
@@ -148,7 +213,7 @@
        "en": ""
       },
       {
-       "zh": "**  《  Blowin' in the Wind  》 Bob Dylan  詞曲。  1963\nHow many years can a mountain exist\nBefore it's washed to the sea ?\nHow many years must some people exist\nBefore they're allowed to be free ?\nAnd how many times can a man turn his head\nAnd pretend that he just doesn't see - the answer\nThe answer, my friend, is blowin' in the wind\nThe answer is blowin' in the wind\n〔節錄第2段〕\n這是 Bob Dylan廣為流傳的反戰經典歌曲，亦是他成名之作。此曲意涵著深遠的社會意識，公民覺醒，和民權思想，以及對戰爭，非人道行爲的控訴，激發了柏克萊言論自由，思想開放的學生運動，也因而奠定了Bob Dylan 在民歌的前衛地位。2016 Bob Dylan榮獲諾貝爾文學獎。",
+       "zh": "**\n《 Blowin' in the Wind 》 Bob Dylan  詞曲。  1963\nHow many years can a mountain exist\nBefore it's washed to the sea ?\nHow many years must some people exist\nBefore they're allowed to be free ?\nAnd how many times can a man turn his head\nAnd pretend that he just doesn't see - the answer\nThe answer, my friend, is blowin' in the wind\nThe answer is blowin' in the wind\n--〔節錄第2段〕\n這是 Bob Dylan廣為流傳的反戰經典歌曲，亦是他成名之作。此曲意涵著深遠的社會意識，公民覺醒，和民權思想，以及對戰爭，非人道行爲的控訴，激發了柏克萊言論自由，思想開放的學生運動，也因而奠定了Bob Dylan 在民歌的前衛地位。2016 Bob Dylan榮獲諾貝爾文學獎。",
        "en": ""
       }
      ]
@@ -159,15 +224,6 @@
       "https://www.youtube.com/watch?v=G58XWF6B3AA",
       "https://www.youtube.com/watch?v=Ld6fAO4idaI"
      ]
-    },
-    {
-     "type": "note",
-     "points": [
-      {
-       "zh": "回應 :\n不少朋友回應說，聽了傳去youtube的這二首老歌《咱台灣》和《Blowin′ in the wind》給他們 不少感觸，在懷古懷舊的旋律中，得到愉悅，欣慰的心情，在淡淡的不捨中 ( ? 時光的流逝) ，省視過往的歲月，拾起一些正能量。\n現代俳句 & 變奏  系列《5》,  第 46 句是:\n當回憶轉成歌曲\n就有一個地方\n我們可以一起回去\n是吧，隨着歌聲，我們就可以回到同一個年代，同一個時光，湧起同樣的心情，\n盪起同樣的感動，而有心靈的交流和互動。這也許就是音樂和詩的美妙和魅力吧!",
-       "en": ""
-      }
-     ]
     }
    ]
   }
@@ -176,7 +232,7 @@
   "slug": "hdoc7",
   "series": "7",
   "range": "61–70",
-  "count": 6,
+  "count": 10,
   "theme": ""
  }
 }

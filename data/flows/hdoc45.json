@@ -6,7 +6,7 @@
  "front": [
   {
    "type": "subtitle",
-   "zh": "現代俳句 & 變奏     系列 《 45 》"
+   "zh": "現代俳句 & 變奏   系列《45》"
   },
   {
    "type": "byline",
@@ -38,10 +38,26 @@
      "type": "note",
      "points": [
       {
-       "zh": "唐   。王維 《 鳥鳴澗 》\n人閒桂花落，夜靜春山空。\n月出驚山鳥，時鳴春澗中。\n442．\n暮色漸起\n薄光中\n群雁，遠去",
+       "zh": "人閒桂花落，夜靜春山空。\n月出驚山鳥，時鳴春澗中。\n--唐。王維《鳥鳴澗》",
        "en": ""
       }
      ]
+    }
+   ]
+  },
+  {
+   "n": 442,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "442．",
+      "暮色漸起",
+      "薄光中",
+      "群雁，遠去"
+     ],
+     "en": [],
+     "num": true
     }
    ]
   },
@@ -114,10 +130,18 @@
      "en": []
     },
     {
+     "type": "note",
+     "points": []
+    },
+    {
      "type": "image",
      "src": "images/flow/hdoc45/img3.jpg",
      "caption_zh": "《 Yellow-Red-Blue 》1925       法國巴黎龐畢度藝術文化中心",
      "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": []
     },
     {
      "type": "image",
@@ -145,7 +169,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "唐   。賈島 《 尋隱者不遇 》\n松下問童子，言師採藥去。\n只在此山中，雲深不知處。",
+       "zh": "松下問童子，言師採藥去。\n只在此山中，雲深不知處。\n--唐。賈島《尋隱者不遇》",
        "en": ""
       }
      ]
@@ -167,9 +191,13 @@
      "num": true
     },
     {
+     "type": "note",
+     "points": []
+    },
+    {
      "type": "image",
      "src": "images/flow/hdoc45/img5.jpg",
-     "caption_zh": "《淡水夕照》    （取自網路）",
+     "caption_zh": "《淡水夕照》  （取自網路）",
      "caption_en": ""
     }
    ]
@@ -217,7 +245,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "宋   。蘇軾 《於濳僧緑筠軒 》\n「 可使食無肉，不可使居無竹，無肉令人瘦， 無竹令人俗，人瘦尚可肥，俗士不可醫。」",
+       "zh": "「可使食無肉，不可使居無竹，無肉令人瘦，無竹令人俗，人瘦尚可肥，俗士不可醫。」\n--宋。蘇軾《於濳僧緑筠軒》",
        "en": ""
       }
      ]
@@ -242,40 +270,17 @@
      "type": "note",
      "points": [
       {
-       "zh": "作詞：羅大佑 /李壽全 /張大春 /張艾嘉 /詹宏志\n作曲：羅大佑\n《 明天會更好 》\n日出喚醒清晨\n大地光彩重生\n讓和風拂出的音響\n譜成生命的樂章\n唱出你的熱情\n伸出你雙手\n讓我擁抱著你的夢\n讓我擁有你真心的面孔\n讓我們的笑容\n充滿著青春的驕傲\n讓我們期待明天會更好\n《 Tomorrow will be better 》\nWhen you wake up in the morning\nWhen you haven't started to think\nThere is a whole brand new day\nOpen wide and waiting for you\nThe world is out there calling\nEverything will be alive\nunder the sunshine's smile",
+       "zh": "《 明天會更好 》\n詞：羅大佑 /李壽全 /張大春 /張艾嘉 /詹宏志\n曲：羅大佑\n日出喚醒清晨\n大地光彩重生\n讓和風拂出的音響\n譜成生命的樂章\n唱出你的熱情\n伸出你雙手\n讓我擁抱著你的夢\n讓我擁有你真心的面孔\n讓我們的笑容\n充滿著青春的驕傲\n讓我們期待明天會更好\n《 Tomorrow will be better 》\nWhen you wake up in the morning\nWhen you haven't started to think\nThere is a whole brand new day\nOpen wide and waiting for you\nThe world is out there calling\nEverything will be alive\nunder the sunshine's smile",
        "en": ""
       }
      ]
     },
     {
-     "type": "image",
-     "src": "images/flow/hdoc45/img6.jpg",
-     "caption_zh": "",
-     "caption_en": ""
-    },
-    {
-     "type": "image",
-     "src": "images/flow/hdoc45/img7.jpg",
-     "caption_zh": "",
-     "caption_en": ""
-    },
-    {
-     "type": "image",
-     "src": "images/flow/hdoc45/img8.jpg",
-     "caption_zh": "",
-     "caption_en": ""
-    },
-    {
-     "type": "image",
-     "src": "images/flow/hdoc45/img9.jpg",
-     "caption_zh": "",
-     "caption_en": ""
-    },
-    {
-     "type": "image",
-     "src": "images/flow/hdoc45/img10.jpg",
-     "caption_zh": "",
-     "caption_en": ""
+     "type": "yt",
+     "urls": [
+      "https://www.youtube.com/watch?v=3tFTt8nhKuk",
+      "https://www.youtube.com/watch?v=l9PbjgQfX9o"
+     ]
     }
    ]
   }
@@ -284,7 +289,7 @@
   "slug": "hdoc45",
   "series": "45",
   "range": "441–450",
-  "count": 9,
+  "count": 10,
   "theme": ""
  }
 }

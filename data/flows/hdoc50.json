@@ -6,7 +6,7 @@
  "front": [
   {
    "type": "subtitle",
-   "zh": "現代俳句 & 變奏     系列 《 50 》"
+   "zh": "現代俳句 & 變奏   系列《50》"
   },
   {
    "type": "byline",
@@ -38,7 +38,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "印度詩人泰戈爾 《漂鳥集》\n夏日的漂鳥，飛到我的窗前唱歌，然後翩然飛去。\n秋日的黃葉，沒有歌唱，只歎息一聲，便飄然落下。\nstray birds of summer come to my window to sing and fly away.\nand yellow leaves of autumn, which have no songs, flutter and fall",
+       "zh": "夏日的漂鳥，飛到我的窗前唱歌，然後翩然飛去。\n秋日的黃葉，沒有歌唱，只歎息一聲，便飄然落下。\nstray birds of summer come to my window to sing and fly away.\nand yellow leaves of autumn, which have no songs, flutter and fall\n--印度詩人泰戈爾 《漂鳥集》",
        "en": ""
       }
      ]
@@ -54,7 +54,7 @@
       "492.",
       "花樹下",
       "一隻蝴蝶，飛出",
-      "驚醒，夢睡中的莊子"
+      "驚醒，夢睡中的莊子."
      ],
      "en": [],
      "num": true
@@ -63,7 +63,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "莊子 《齊物篇 》\n昔者莊周夢為胡蝶，栩栩然蝴蝶也。不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與？蝴蝶之夢為周與？ ……此之謂物化。",
+       "zh": "「昔者莊周夢為胡蝶，栩栩然蝴蝶也。不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與？蝴蝶之夢為周與？ …此之謂物化。 」        --莊子《齊物篇》",
        "en": ""
       }
      ]
@@ -85,10 +85,18 @@
      "num": true
     },
     {
+     "type": "note",
+     "points": []
+    },
+    {
      "type": "image",
      "src": "images/flow/hdoc50/img2.jpg",
      "caption_zh": "Constellation in December, Northern Hemisphere.",
      "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": []
     },
     {
      "type": "image",
@@ -151,6 +159,10 @@
      "en": []
     },
     {
+     "type": "note",
+     "points": []
+    },
+    {
      "type": "image",
      "src": "images/flow/hdoc50/img5.jpg",
      "caption_zh": "",
@@ -169,6 +181,10 @@
       "在生命的最後四年，蒙德里安移居美國紐約市，在這五光十色的大都會，蒙德里安感受到沒有戰事紛擾的世界，跳躍著現代都市新氣息。 《百老匯爵士樂》是蒙德里安在紐約時期的重要作品，也是生前最後一件完成的作品。依然是直線，但不是冷峻嚴肅的黑色界線，而是活潑跳動的彩色界線，由小小的長短不一的彩色矩形組成，輕巧的分割著畫面。依然是原色，但不再受到黑線的約束，而是以明亮的黃色為主，間雜著紅與藍，形成繽紛的彩線，其間又散佈著紅、黃、藍色塊，營造出爵士樂的節奏變換和頻率震動。"
      ],
      "en": []
+    },
+    {
+     "type": "note",
+     "points": []
     },
     {
      "type": "image",
@@ -203,103 +219,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "唐   。陳子昂   《 登幽州台歌 》\n「 前不見古人，後不見來者。念天地之悠悠，獨愴然而涕下。」",
-       "en": ""
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "n": 497,
-   "flow": [
-    {
-     "type": "stanza",
-     "zh": [
-      "497.",
-      "展開畫卷長軸",
-      "人生的故事，紛繁",
-      "誰來落款"
-     ],
-     "en": [],
-     "num": true
-    },
-    {
-     "type": "stanza",
-     "zh": [
-      "《 誰來落款 》",
-      "飛越  Okavango 內陸三角洲",
-      "Botswana， Africa         何康隆"
-     ],
-     "en": []
-    },
-    {
-     "type": "stanza",
-     "zh": [
-      "大地終於攤開一張玄紙",
-      "素描剛落筆",
-      "大河就彎彎曲曲",
-      "自天邊橫斜過來",
-      "畫了兩三行渾厚的篆草",
-      "磅礡如趙無極的抽象",
-      "勾勒留白處",
-      "隱藏著米羅欲說",
-      "未說的什麼"
-     ],
-     "en": [
-      "At last the earth unrolls a sheet of dark paper.",
-      "The sketch has barely begun",
-      "when the great river, winding and bending,",
-      "slants in from the edge of the sky,",
-      "drawing two or three bold strokes of seal-script grass —",
-      "magnificent as a Zao Wou-Ki abstraction;",
-      "and in the blank of the outline",
-      "hides what Miró meant to say",
-      "and left unsaid."
-     ]
-    },
-    {
-     "type": "stanza",
-     "zh": [
-      "煙嵐漸散",
-      "非洲五月的陽光",
-      "恣意地鋪陳",
-      "明暗浸染的水墨圖案",
-      "極眼處",
-      "長軸已展",
-      "這蒼茫大地",
-      "誰來落款 ?"
-     ],
-     "en": [
-      "The mist slowly clears;",
-      "the May sunlight of Africa",
-      "spreads out at will.",
-      "An ink-wash pattern steeped in light and shade —",
-      "at the farthest reach of sight,",
-      "the long scroll is unrolled.",
-      "This vast, hazy land —",
-      "who will sign it?"
-     ]
-    },
-    {
-     "type": "image",
-     "src": "images/flow/hdoc50/img7.jpg",
-     "caption_zh": "Okavango Delta，Botswana         攝自小型飛機   2015",
-     "caption_en": ""
-    },
-    {
-     "type": "note",
-     "points": [
-      {
-       "zh": "非洲的Okavango Delta，世界最大的內陸三角洲，是 Okavango River自 Angola從北向南，經Namibia，注入Botswana境內的Kalahari沙漠而成。2014年被列爲 UNESCO第1000個世界自然遺產。時值夏季，水量豐沛，三角洲內河道曲折縱橫，湖泊，沙洲和草原參差交錯。從機艙俯望，近處幾何圖形，色彩繁富，遠處煙嵐渺茫，幻成迷離意境。",
-       "en": "Africa’s Okavango Delta, the world’s largest inland delta, is formed by the Okavango River flowing south from Angola, through Namibia, into the Kalahari Desert in Botswana. In 2014 it became UNESCO’s 1,000th World Heritage Site. In summer, when the water is abundant, the delta’s channels twist and interlace, with lakes, sandbars, and grasslands scattered among them. Seen from the plane, the near view is a wealth of geometric shapes and colours, the far view a dim haze — resolving into a dreamlike, elusive scene."
-      },
-      {
-       "zh": "趙無極 (1921-2013) ，法籍華裔畫家，以油畫色彩呈現水墨浸染的意境。被譽為 「 西方現代抒情抽象派的代表 」。",
-       "en": ""
-      },
-      {
-       "zh": "米羅 ( Joan Miro 1893–1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。以超現實手法，簡約圖相，表現如夢似幻的詩意。",
+       "zh": "「 前不見古人，後不見來者。念天地之悠悠，獨愴然而涕下。」\n--唐。陳子昂《登幽州台歌》",
        "en": ""
       }
      ]
@@ -319,6 +239,46 @@
      ],
      "en": [],
      "num": true
+    }
+   ]
+  },
+  {
+   "n": 497,
+   "flow": [
+    {
+     "type": "stanza",
+     "zh": [
+      "497.",
+      "展開畫卷長軸",
+      "人生的故事，紛繁",
+      "誰來落款"
+     ],
+     "en": [],
+     "num": true
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "《 誰來落款 》\n飛越 Okavango 內陸三角洲\nBotswana，Africa      -- 何康隆\n大地終於攤開一張玄紙\n素描剛落筆\n大河就彎彎曲曲\n自天邊橫斜過來\n畫了兩三行渾厚的篆草\n磅礡如趙無極的抽象\n勾勒留白處\n隱藏著米羅欲說\n未說的什麼\n煙嵐漸散\n非洲五月的陽光\n恣意地鋪陳\n明暗浸染的水墨圖案\n極眼處\n長軸已展\n這蒼茫大地\n誰來落款 ?",
+       "en": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "images/flow/hdoc50/img7.jpg",
+     "caption_zh": "Okavango Delta，Botswana      攝自小型飛機   2015",
+     "caption_en": ""
+    },
+    {
+     "type": "note",
+     "points": [
+      {
+       "zh": "非洲的Okavango Delta，世界最大的內陸三角洲，是 Okavango River自 Angola從北向南，經Namibia，注入Botswana境內的Kalahari沙漠而成。2014年被列爲 UNESCO第1000個世界自然遺產。時值夏季，水量豐沛，三角洲內河道曲折縱橫，湖泊，沙洲和草原參差交錯。從機艙俯望，近處幾何圖形，色彩繁富，遠處煙嵐渺茫，幻成迷離意境。\n趙無極 (1921-2013) ，法籍華裔畫家，以油畫色彩呈現水墨浸染的意境。被譽為 「 西方現代抒情抽象派的代表 」。\n米羅 ( Joan Miro 1893–1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。以超現實手法，簡約圖相，表現如夢似幻的詩意。",
+       "en": ""
+      }
+     ]
     }
    ]
   },
@@ -356,11 +316,7 @@
      "type": "note",
      "points": [
       {
-       "zh": "宋。  秦觀 《 踏莎行 》\n霧失樓台，月迷津渡，桃源望斷無尋處。\n可堪孤館閉春寒，杜鵑聲裡斜陽暮。\n驛寄梅花，魚傳尺素。砌成此恨無重數。\n郴江幸自繞郴山，為誰流下瀟湘去？",
-       "en": "Song. Qin Guan \"Tu Sha Xing\"\nThe fog lost its platform, the moon lost its way, and there was nowhere to find Taoyuan.\nThe lonely house was closed in the spring cold, and Du Yan's voice was sloping at dusk.\nSend plum blossoms, fish ration.Masonry this hate without multiplication.\nChenjiang is fortunate enough to go around the mountains, for whom to shed the Hunan?"
-      },
-      {
-       "zh": "《 You Raise Me Up 》\nMusic: Secret Garden    Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be",
+       "zh": "霧失樓台，月迷津渡，桃源望斷無尋處。\n可堪孤館閉春寒，杜鵑聲裡斜陽暮。\n驛寄梅花，魚傳尺素。砌成此恨無重數。\n郴江幸自繞郴山，為誰流下瀟湘去？\n--宋。 秦觀 《踏莎行》\n《 You Raise Me Up 》\nMusic: Secret Garden    Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be",
        "en": ""
       }
      ]
@@ -368,11 +324,9 @@
     {
      "type": "yt",
      "urls": [
-      "https://www.youtube.com/watch?v=2DorNUsi5LE",
-      "https://www.youtube.com/watch?v=xj8wHfBKoRU",
-      "https://www.youtube.com/watch?v=13_nXuJ6dX8",
-      "https://www.youtube.com/watch?v=sHpwbh9lxxY",
-      "https://www.youtube.com/watch?v=rcLl0A-lXIc"
+      "https://www.youtube.com/watch?v=QwUlUOUq14U&list=RD0-8Tp0IVSl8&start_radio=1",
+      "https://www.youtube.com/watch?v=2DorNUsi5LE&list=RD2DorNUsi5LE&start_radio=1",
+      "https://www.youtube.com/watch?v=13_nXuJ6dX8"
      ]
     }
    ]

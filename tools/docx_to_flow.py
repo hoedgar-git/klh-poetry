@@ -11,8 +11,9 @@ import xml.etree.ElementTree as ET
 W='http://schemas.openxmlformats.org/wordprocessingml/2006/main'
 R='http://schemas.openxmlformats.org/officeDocument/2006/relationships'
 A='http://schemas.openxmlformats.org/drawingml/2006/main'
-NUM=re.compile(r'^\s*\d{1,4}\s*[.。、]\s*$')
-NUMLEAD=re.compile(r'^\s*\d{1,4}\s*[.。、]\s')
+NUM=re.compile(r'^\s*\d{1,4}\s*[.。、．]+\s*$')      # allow full-width ．and repeats (e.g. '467..')
+NUMLEAD=re.compile(r'^\s*\d{1,4}\s*[.。、．]+\s')
+BARE=re.compile(r'^\s*\d{1,4}\s*$')                  # a number alone on its line (missing period)
 URL=re.compile(r'https?://\S+')
 CAPCUE=('攝影','照片','網路','圖：','圖/','Photo','photo','（網路','Masquerade','Carnival')
 LABEL=re.compile(r'^(youtube|links?|連結|影音|歌曲連結|song links?|link[:：])',re.I)
@@ -67,7 +68,7 @@ def _cap(t):
 
 def build_flow(blocks, kind, slug, images_dir, max_px=1600):
     os.makedirs(images_dir,exist_ok=True)
-    flow=[]; n=0; seen=0; body=False; note=None; last=None; byl=False
+    flow=[]; n=0; seen=0; body=False; note=None; last=None; byl=False; hk_last=0
     st={'lines':[],'num':False}
     def flush():
         if st['lines']:
@@ -86,7 +87,16 @@ def build_flow(blocks, kind, slug, images_dir, max_px=1600):
             flow.append(last); note=None; continue
         raw=b['text']; star=raw.strip().startswith('**')
         t=re.sub(r'^\*+\s*','',raw).strip()
-        if not t: continue
+        if not t:
+            # A line that is ONLY '**' (no text after it) is the revised docs' marker
+            # for "commentary starts here"; the paragraphs that follow are commentary
+            # even though they are not individually '**'-prefixed. Open a note so they
+            # are captured as commentary rather than misread as verse.
+            if star and body:
+                flush()
+                if note is None:
+                    note={'type':'note','points':[]}; flow.append(note)
+            continue
         if last is not None and not last['caption_zh']:
             if (not star and _cap(t)) or (star and len(t)<=60 and any(c in t for c in CAPCUE)):
                 last['caption_zh']=t; last=None; continue
@@ -104,18 +114,33 @@ def build_flow(blocks, kind, slug, images_dir, max_px=1600):
             flush(); byl=True; flow.append({'type':'byline','zh':t}); seen+=1; continue
         if not star and not byl:
             flush(); flow.append({'type':'subtitle','zh':t}); seen+=1; continue
-        if NUM.match(t) or NUMLEAD.match(t):
+        if NUM.match(t) or NUMLEAD.match(t) or (kind=='haiku' and BARE.match(t)):
             numval=int(re.match(r'\s*(\d+)',t).group(1))
-            if note is None or numval>=100:
-                flush(); body=True; note=None; st['lines']=[t]; st['num']=True; seen+=1; continue
-            note['points'][-1]['zh'] += '\n'+t; seen+=1; continue
+            # A haiku header starts a new haiku when: no note is open, OR the number is
+            # >=100 (global haiku numbering), OR (haiku docs) it is greater than the last
+            # haiku number even while a commentary note is open. Using '>hk_last' (not
+            # '==hk_last+1') tolerates a missing/odd intermediate header so later haiku
+            # are still recognized. Small numbers inside commentary (< hk_last) stay
+            # commentary; BARE lets a header with no period ('218') also be detected.
+            if note is None or numval>=100 or (kind=='haiku' and numval>hk_last):
+                flush(); body=True; note=None; st['lines']=[t]; st['num']=True; seen+=1
+                hk_last=numval; continue
+            if note['points']:
+                note['points'][-1]['zh'] += '\n'+t
+            else:
+                note['points'].append({'zh':t,'en':''})
+            seen+=1; continue
         if star:
             flush()
             if not body: flow.append({'type':'preface','zh':t}); seen+=1; continue
             if note is None: note={'type':'note','points':[]}; flow.append(note)
             note['points'].append({'zh':t,'en':''}); seen+=1; continue
         if note is not None:
-            note['points'][-1]['zh'] += '\n'+t; seen+=1; continue
+            if note['points']:
+                note['points'][-1]['zh'] += '\n'+t
+            else:
+                note['points'].append({'zh':t,'en':''})
+            seen+=1; continue
         body=True
         for ln in raw.split('\n'):
             if ln.strip()=='' : flush()
