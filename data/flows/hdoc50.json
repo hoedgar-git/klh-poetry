@@ -31,7 +31,12 @@
       "晨霧中的菊，傳遞",
       "泰戈爾的詩句"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Autumn, the harvest",
+      "The chrysanthemum in morning fog conveys",
+      "Tagore's verses"
+     ],
      "num": true
     },
     {
@@ -56,7 +61,12 @@
       "一隻蝴蝶，飛出",
       "驚醒，夢睡中的莊子."
      ],
-     "en": [],
+     "en": [
+      "",
+      "Beneath the flowering tree",
+      "A butterfly flies out from",
+      "Waking Zhuangzi from his dreaming sleep."
+     ],
      "num": true
     },
     {
@@ -81,7 +91,12 @@
       "整個，希臘星空",
       "你想彈唱什麽？"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Tonight, I have",
+      "The whole starry sky of Greece",
+      "What do you want to play and sing?"
+     ],
      "num": true
     },
     {
@@ -117,7 +132,12 @@
       "桃花遍地開放",
       "青蛙依然，井底觀天"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Spring day, green grass like a carpet",
+      "Peach blossoms bloom everywhere",
+      "The frog remains, watching the sky from the bottom of the well"
+     ],
      "num": true
     }
    ]
@@ -133,7 +153,12 @@
       "一棵開花的樹，走入",
       "蒙德里安擺佈的幾何迷圖"
      ],
-     "en": [],
+     "en": [
+      "",
+      "At life's turning corner, missed",
+      "A blossoming tree, stepping into",
+      "The geometric maze arranged by Mondrian"
+     ],
      "num": true
     },
     {
@@ -141,7 +166,7 @@
      "points": [
       {
        "zh": "皮特·蒙德里安（Piet Mondrian，1872－1944），荷蘭畫家，抽象風格派核心的人物和非具象繪畫的創始者之一，自稱“新造型主義”，又稱“幾何形体派”。對後代的建築、設計等有很大的影響。荷蘭美術史上三大自成一派的画家，是17世紀的林布蘭特，19世紀的梵谷，20世紀的蒙德里安。畢加索的抽象派和林布蘭特的立體派是蒙德里安的轉型導師，蒙德里安最終從兩者之間吸取精華，利用抽象的造型與中性的色彩來傳達秩序與和平的理念。對蒙德里安來說，自然界的一切物象，無論是山水、樹木，還是房屋建築，都可化為純粹的線條和色塊。他曾說道“看著大海、天空和星星，我通過大量的十字形來表現它們。自然的偉大深深打動我，我試圖表達那種浩瀚遼闊、寧靜和諧、協調統一。”",
-       "en": ""
+       "en": "Piet Mondrian (1872–1944), Dutch painter, a central figure of abstract De Stijl painting and one of the founders of non-representational art, called his own style \"Neoplasticism,\" also known as \"geometric abstraction.\" He had great influence on later architecture, design, and other fields. The three painters who each founded their own school in Dutch art history are Rembrandt in the 17th century, Van Gogh in the 19th century, and Mondrian in the 20th century. Picasso's abstraction and Rembrandt's cubism were the mentors of Mondrian's stylistic transformation; Mondrian ultimately drew the essence from the two, using abstract forms and neutral colors to convey his ideas of order and peace. For Mondrian, all things in nature — whether mountains and water, trees, or houses and buildings — could be reduced to pure lines and blocks of color. He once said: \"Looking at the sea, the sky, and the stars, I represent them through a great many crosses. The grandeur of nature deeply moved me; I try to express that sense of vastness, tranquil harmony, and unity.\""
       }
      ]
     },
@@ -156,7 +181,9 @@
      "zh": [
       "畫面呈現粗重的黑色線條控制著大小不同的矩形，形成非常簡潔的結構。畫面主導是鮮亮的紅色，面積大，且色度極為飽和。小塊藍色和片片黃色與白色有效配合，牢牢控制住居中的方形紅塊，撑住了畫面上的平衡。在這裡，除了三原色之外，再無其他色彩；除了垂直線和水平線之外，再無其他線條；除了直角與方塊，再無其他形狀。"
      ],
-     "en": []
+     "en": [
+      "The composition shows thick black lines governing rectangles of varying size, forming an utterly spare structure. The picture is dominated by a bright red, large in area and intensely saturated in hue. Small blocks of blue and patches of yellow and white work together effectively, firmly anchoring the centered red square and holding the balance of the whole composition. Here, apart from the three primary colors, there is no other color; apart from vertical and horizontal lines, there are no other lines; apart from right angles and squares, there are no other shapes."
+     ]
     },
     {
      "type": "note",
@@ -173,14 +200,18 @@
      "zh": [
       "《 Broadway Boogie-Woogie 》1943      Museum of Modern Art   New York"
      ],
-     "en": []
+     "en": [
+      "\"Broadway Boogie-Woogie\" 1943      Museum of Modern Art   New York"
+     ]
     },
     {
      "type": "stanza",
      "zh": [
       "在生命的最後四年，蒙德里安移居美國紐約市，在這五光十色的大都會，蒙德里安感受到沒有戰事紛擾的世界，跳躍著現代都市新氣息。 《百老匯爵士樂》是蒙德里安在紐約時期的重要作品，也是生前最後一件完成的作品。依然是直線，但不是冷峻嚴肅的黑色界線，而是活潑跳動的彩色界線，由小小的長短不一的彩色矩形組成，輕巧的分割著畫面。依然是原色，但不再受到黑線的約束，而是以明亮的黃色為主，間雜著紅與藍，形成繽紛的彩線，其間又散佈著紅、黃、藍色塊，營造出爵士樂的節奏變換和頻率震動。"
      ],
-     "en": []
+     "en": [
+      "In the last four years of his life, Mondrian moved to New York City. In this dazzling metropolis, Mondrian felt a world free of the turmoil of war, pulsing with the fresh spirit of the modern city. Broadway Boogie Woogie is a major work from Mondrian's New York period, and also the last piece he completed before his death. It is still made of straight lines, but not the cold, austere black boundary lines — instead, lively, dancing lines of color, composed of small rectangles of varying colors and lengths, lightly dividing the picture plane. It is still primary colors, but no longer bound by black lines; instead bright yellow predominates, interspersed with red and blue, forming vivid colored lines, among which are scattered blocks of red, yellow, and blue, creating the rhythmic shifts and vibrating frequencies of jazz."
+     ]
     },
     {
      "type": "note",
@@ -197,7 +228,9 @@
      "zh": [
       "Self Portrait and《Composition II in Red, Blue, and Yellow.  1929》"
      ],
-     "en": []
+     "en": [
+      "Self Portrait and \"Composition II in Red, Blue, and Yellow.  1929\""
+     ]
     }
    ]
   },
@@ -212,7 +245,12 @@
       "後不見來者",
       "空，見空不空"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Ahead, I see none of the ancients",
+      "Behind, no one yet to come",
+      "Emptiness -- seeing emptiness is not empty"
+     ],
      "num": true
     },
     {
@@ -237,7 +275,12 @@
       "花掩平蕪，更遠處",
       "野渡無人舟自横"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The wind stills, smoke rises above the treetops",
+      "Flowers hide the level wilds, and farther still",
+      "At the wild ferry, no one about, the boat lies adrift on its own"
+     ],
      "num": true
     }
    ]
@@ -253,7 +296,12 @@
       "人生的故事，紛繁",
       "誰來落款"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Unrolling the long scroll of painting",
+      "Life's stories, manifold",
+      "Who will sign it"
+     ],
      "num": true
     },
     {
@@ -276,7 +324,7 @@
      "points": [
       {
        "zh": "非洲的Okavango Delta，世界最大的內陸三角洲，是 Okavango River自 Angola從北向南，經Namibia，注入Botswana境內的Kalahari沙漠而成。2014年被列爲 UNESCO第1000個世界自然遺產。時值夏季，水量豐沛，三角洲內河道曲折縱橫，湖泊，沙洲和草原參差交錯。從機艙俯望，近處幾何圖形，色彩繁富，遠處煙嵐渺茫，幻成迷離意境。\n趙無極 (1921-2013) ，法籍華裔畫家，以油畫色彩呈現水墨浸染的意境。被譽為 「 西方現代抒情抽象派的代表 」。\n米羅 ( Joan Miro 1893–1983 ) 是西班牙三大畫家之一，和畢加索，達利齊名。以超現實手法，簡約圖相，表現如夢似幻的詩意。",
-       "en": ""
+       "en": "Africa's Okavango Delta, the world's largest inland delta, is formed by the Okavango River flowing south from Angola through Namibia and emptying into the Kalahari Desert within Botswana. In 2014 it was inscribed as UNESCO's 1,000th World Natural Heritage Site. In summer, when the water is abundant, the delta's channels wind in intricate patterns, with lakes, sandbars, and grasslands interlaced. Looking down from the airplane cabin, the nearby scene forms rich, colorful geometric patterns, while in the distance mist and haze grow faint, forming an elusive, dreamlike scene.\nZao Wou-Ki (1921–2013), a French-Chinese painter, rendered in oil colors the mood of ink-wash painting. He is celebrated as \"the representative figure of Western modern lyrical abstraction.\"\nJoan Miró (1893–1983) is one of the three great Spanish painters, ranked alongside Picasso and Dalí. Using surrealist technique and simplified imagery, he expressed a dreamlike poetic quality."
       }
      ]
     }
@@ -293,7 +341,12 @@
       "關於 Covid-19疫情",
       "關於捲天的層雲"
      ],
-     "en": [],
+     "en": [
+      "",
+      "One day, everything will be still",
+      "About the Covid-19 pandemic",
+      "About the layered clouds rolling across the sky"
+     ],
      "num": true
     }
    ]
@@ -309,7 +362,12 @@
       "你來，陪我靜坐，指説",
       "柳暗盡處，風荷滿池"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Misty Jindu, doubtless no way",
+      "Come, sit quietly with me, and tell me",
+      "Willow in the Dark, Windy Pool"
+     ],
      "num": true
     },
     {
@@ -317,7 +375,7 @@
      "points": [
       {
        "zh": "霧失樓台，月迷津渡，桃源望斷無尋處。\n可堪孤館閉春寒，杜鵑聲裡斜陽暮。\n驛寄梅花，魚傳尺素。砌成此恨無重數。\n郴江幸自繞郴山，為誰流下瀟湘去？\n--宋。 秦觀 《踏莎行》\n《 You Raise Me Up 》\nMusic: Secret Garden    Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be",
-       "en": ""
+       "en": "Mist obscures the towers, the moon confounds the ferry crossing; I gaze in vain for Peach Blossom Spring, nowhere to be found.\nHow can I bear this lonely inn, shut in by spring's chill, as the cuckoo cries beneath the slanting sun at dusk.\nPlum blossoms sent by courier, a letter carried by fish — piling up this boundless sorrow.\nThe Chen River, of its own accord, winds around Chen Mountain — for whose sake does it flow down to Xiaoxiang?\n-- Song Dynasty. Qin Guan, \"Treading on Grass\"\n\"You Raise Me Up\"\nMusic: Secret Garden    Lyrics: Brendan Graham\nWhen I am down, and, oh, my soul, so weary\nWhen troubles come, and my heart burdened be\nThen, I am still and wait here in the silence\nUntil you come and sit awhile with me\nYou raise me up, so I can stand on mountains\nYou raise me up to walk on stormy seas\nI am strong when I am on your shoulders\nYou raise me up to more than I can be"
       }
      ]
     },

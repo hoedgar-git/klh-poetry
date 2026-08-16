@@ -20,7 +20,8 @@
   },
   {
    "type": "preface",
-   "zh": "寒流過境的一月清晨，在台中向上南路"
+   "zh": "寒流過境的一月清晨，在台中向上南路",
+   "en": "On a January morning as a cold front passed through, on Xiangshang South Road in Taichung"
   },
   {
    "type": "stanza",
@@ -28,7 +29,10 @@
     "的街頭，忽然想起芥川龍之介的一句詩 :",
     "“ 人生，不如一行波特萊爾的詩。“"
    ],
-   "en": []
+   "en": [
+    "on the street, and suddenly I remember a line by Akutagawa Ryūnosuke:",
+    "\"Life is not even worth a single line of Baudelaire's poetry.\""
+   ]
   },
   {
    "type": "stanza",
@@ -41,7 +45,15 @@
     "Capuchino ？",
     "Americana ？"
    ],
-   "en": []
+   "en": [
+    "This morning, at the Starbucks on the street corner",
+    "The clerk asks which coffee I want?",
+    "Espresso?",
+    "Mocha?",
+    "Latte?",
+    "Cappuccino?",
+    "Americana?"
+   ]
   },
   {
    "type": "stanza",
@@ -52,7 +64,13 @@
     "心想",
     "時光真美好"
    ],
-   "en": []
+   "en": [
+    "Holding a warm coffee cup",
+    "Watching the thin mist on the cup",
+    "Drifting and dissolving in the cold air",
+    "Thinking to myself",
+    "Time is truly beautiful"
+   ]
   },
   {
    "type": "stanza",
@@ -67,7 +85,17 @@
     "美術館流覽抽象畫的 ？",
     "雪融後山櫻自溪谷依約而來的 ？"
    ],
-   "en": []
+   "en": [
+    "Walking into the bookstore at dusk",
+    "The clerk asks which book of poems I want",
+    "Who walked the lakeshore in a foreign land one autumn afternoon?",
+    "Is stillness like reeds swaying in the wind?",
+    "Images turning over like music in flow?",
+    "Standing alone amid the mountain hues, there and yet not there?",
+    "A rainy night recalling old times with a friend?",
+    "Who browsed the abstract paintings at the art museum?",
+    "The mountain cherry that comes, as if by promise, from the valley once the snow melts?"
+   ]
   },
   {
    "type": "stanza",
@@ -78,7 +106,13 @@
     "心想",
     "思緒真奧秘"
    ],
-   "en": []
+   "en": [
+    "Holding a slim book of poems",
+    "Reading line after line of text",
+    "Moving slowly beneath the lamplight",
+    "Thinking to myself",
+    "Thoughts truly mysterious"
+   ]
   },
   {
    "type": "stanza",
@@ -94,7 +128,18 @@
     "隱藏中有釋放",
     "渺茫中有解析"
    ],
-   "en": []
+   "en": [
+    "If life were like",
+    "A cup of coffee",
+    "A book of poems",
+    "At the street corner",
+    "Waiting for the red light to turn green",
+    "Held in the hand",
+    "One can sip",
+    "One can read",
+    "Within concealment there is release",
+    "Within the vast unknown, there is an unraveling"
+   ]
   },
   {
    "type": "stanza",
@@ -102,7 +147,10 @@
     "心想",
     "如果人生是一首詩？"
    ],
-   "en": []
+   "en": [
+    "Thinking to myself",
+    "If life were a poem?"
+   ]
   }
  ],
  "tags": {

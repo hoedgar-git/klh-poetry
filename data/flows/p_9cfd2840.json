@@ -20,7 +20,8 @@
   },
   {
    "type": "preface",
-   "zh": "克羅埃西亞的普萊特維斯湖泊國家公園，由黒河和白河匯合，引出16座連續跌落，藍綠晶透的湖泊。交織著90多個大小高低不等，形態各異的瀑布，或垂懸狂瀉、或盤纏如網。流水冲擊石灰岩層和晶瑩愓透的湖面，濺成水花翩翩、煙霧裊裊。湖岸的藓苔、藻類和青草，與環湖蓊鬰的冷杉、白松、三毛櫸，加上飄浮的白雲，襯托出瑰麗的湖光水色。漫步棧道，泛舟湖上，看飛瀑、聽水聲……。"
+   "zh": "克羅埃西亞的普萊特維斯湖泊國家公園，由黒河和白河匯合，引出16座連續跌落，藍綠晶透的湖泊。交織著90多個大小高低不等，形態各異的瀑布，或垂懸狂瀉、或盤纏如網。流水冲擊石灰岩層和晶瑩愓透的湖面，濺成水花翩翩、煙霧裊裊。湖岸的藓苔、藻類和青草，與環湖蓊鬰的冷杉、白松、三毛櫸，加上飄浮的白雲，襯托出瑰麗的湖光水色。漫步棧道，泛舟湖上，看飛瀑、聽水聲……。",
+   "en": "Croatia's Plitvice Lakes National Park is formed by the confluence of the Black River and the White River, giving rise to sixteen lakes cascading one into the next, their waters a crystalline blue-green. Woven among them are more than ninety waterfalls of varying size and height and differing form—some plunging in a wild, hanging torrent, others tangled and webbed like netting. As the flowing water strikes the limestone shelves and the glittering, translucent surface of the lakes, it scatters into dancing spray and curling mist. The moss, algae, and grasses along the shore, together with the lush firs, white pines, and beeches encircling the lakes, and the drifting white clouds above, set off the resplendent color of the lake and its light. Walking the boardwalk, drifting by boat upon the lake, watching the flying falls, listening to the sound of the water……"
   },
   {
    "type": "stanza",
@@ -69,7 +70,51 @@
     "故鄉的溪水",
     "甘擱有底流"
    ],
-   "en": []
+   "en": [
+    "Lakes strung together could shape a park of quiet grace",
+    "Lakes scattered in all directions could adorn a beautiful island",
+    "Dreamlake, Songluo Lake, Qingcao Lake, Liyu Pond, Cuifeng Lake",
+    "Sun Moon Lake, Zhuzihu, Meihua Lake, Mingchi, Dabei Lake",
+    "Hutoupi, Tunlu Pond, Great Ghost Lake, Jiaming Lake, Bi Lake",
+    "Qicai Lake, Bitan, White Stone Pond, Lantan, Benji Lake",
+    "Lotus Pond, Longtan Lake, Yuanyang Lake, Longluan Pond, Meinong Lake",
+    "Shanhu Pond, Wanli Pond, Nanren Lake, Cui Pond, Sister Lakes",
+    "Where the sound of water begins is a foreign scenery",
+    "The end of longing is the flowing water of home",
+    "Silk Falls, Chiling Falls, Yunsen Falls, Wulai Falls",
+    "Silong Falls, Lingxia Falls, Shifen Falls, Xinliao Falls",
+    "Warm Winter Falls, Longgu Falls, Fengxiang Falls, Silver Thread Falls",
+    "Guanyin Falls, Caidie Falls, Rainbow Falls, Dijiu Falls",
+    "Changchun Falls, Tianchang Falls, Penglai Falls, Longgong Falls",
+    "Yuntan Falls, Shuangxi Falls, Jiaolong Falls, Shipan Falls",
+    "Dazhi Falls, Gaozhong Falls, Huangjin Falls, Dajin Falls",
+    "Liangshan Falls, Laiyi Falls, Shanhai Falls, Jinying Falls",
+    "Wufeng Falls, Longquan Falls, Silver Ribbon Falls, Baiyang Falls",
+    "Annan Falls, Shanfeng Falls, Baiyu Falls, Beicha Falls",
+    "Yansheng Falls, Lisen Falls, Xiandan Falls, Qimei Falls",
+    "And the river",
+    "Flowing past",
+    "History's footprints",
+    "The memory of the family",
+    "Mother once spoke to me of it",
+    "We grew up eating rice grown from the waters of the Chianan Canal",
+    "Must not forget the river waters of home",
+    "Tamsui River, Keelung River, Xindian Creek, Dahan Creek, Jingmei Creek",
+    "Nankan Creek, Fengshan Creek, Touqian Creek, Zhonggang Creek, Qijiawan Creek",
+    "Houlong River, Da'an River, Dajia River, Dadu River, Wu River",
+    "Maoluo Creek, Zhuoshui River, Mei Creek, Dongpu Creek, Chenyoulan Creek",
+    "Qingshui Creek, Huwei Creek, Beigang Creek, Puzi Creek, Bazhang Creek",
+    "Jishui River, Zengwen River, Guantian River, Yanshui River, Nanzixian River",
+    "Erren River, Kaoping River, Laonong River, Donggang River, Linbian River",
+    "Fangshan Creek, Fenggang Creek, Sizhong Creek, Zhiben Creek, Xiuguluan Creek",
+    "Luye Stream, Beinan River, Hongye Stream, Ji'an Stream, Hualien River",
+    "Meilun River, Liwu River, Heping River, Nanao River, Dezikou River",
+    "Su'ao River, Lanyang River, Luodong River, Dongshan River, Yilan River",
+    "Days, one after another",
+    "The journey, one station after another",
+    "The stream of my hometown",
+    "Still, there is an undercurrent"
+   ]
   },
   {
    "type": "note",

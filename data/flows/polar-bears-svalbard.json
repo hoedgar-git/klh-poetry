@@ -30,7 +30,12 @@
     "寒風陣陣",
     "何處是你的歸程 ?"
    ],
-   "en": []
+   "en": [
+    "Wandering alone over the fjord's waters",
+    "Only ask you",
+    "Gusts of cold wind",
+    "Where lies your way home?"
+   ]
   },
   {
    "type": "stanza",
@@ -41,7 +46,13 @@
     "雲天沉沉",
     "何處是你的前程 ?"
    ],
-   "en": []
+   "en": [
+    "I won't ask why you left the icefields and snowlands far behind",
+    "Walking alone through the desolate wilds",
+    "Only ask you",
+    "The sky heavy with cloud",
+    "Where lies your future?"
+   ]
   },
   {
    "type": "stanza",
@@ -59,7 +70,20 @@
     "像一首來自遠古的歌",
     "迴旋不息"
    ],
-   "en": []
+   "en": [
+    "Do you know",
+    "Humanity's civilization run out of control",
+    "Already nearing the critical count",
+    "Powerless to shelter",
+    "A unique and endangered ecology",
+    "Let you wander freely through",
+    "A primal, magnificent landscape",
+    "Lost in a world of white snow",
+    "Let your silhouette",
+    "Wandering at the pole",
+    "Like a song from ancient times",
+    "Circling without rest"
+   ]
   },
   {
    "type": "stanza",
@@ -72,7 +96,15 @@
     "沒有你",
     "北極將是何等空寂"
    ],
-   "en": []
+   "en": [
+    "Every day I feel this way",
+    "Your figure is gradually vanishing into",
+    "Snowfield, floating ice, the sea's surface",
+    "Must strive with all one's strength",
+    "With imagination, holding on to you",
+    "Without you",
+    "How empty and silent the Arctic will be"
+   ]
   },
   {
    "type": "stanza",
@@ -81,7 +113,11 @@
     "只能留記一頁",
     "我該寫下什麼給你 ?"
    ],
-   "en": []
+   "en": [
+    "If the Arctic journey",
+    "Can only record a single page",
+    "What should I write down for you?"
+   ]
   },
   {
    "type": "note",
@@ -103,42 +139,54 @@
    "zh": [
     "北極熊的生存面臨著相當大的威脅，主要原因是氣候變遷引發的北極冰層融化。以下是一些關鍵因素，解釋為何北極熊的生存處於危險之中："
    ],
-   "en": []
+   "en": [
+    "Polar bears face considerable threats to their survival, chiefly because climate change is causing the Arctic ice to melt. Below are some key factors explaining why the survival of polar bears is at risk:"
+   ]
   },
   {
    "type": "stanza",
    "zh": [
     "冰層消融：北極熊依賴冰層來捕獵食物，特別是海豹。隨著全球變暖，北極地區的冰層正在快速融化，這讓北極熊無法像以往一樣依靠冰面移動，捕捉到足夠的食物。冰層融化的速度超過了北極熊的適應能力，這會使它們的獵食範圍縮小，進而影響生存。"
    ],
-   "en": []
+   "en": [
+    "The melting of the ice: polar bears rely on the ice layer to hunt for food, especially seals. As global warming progresses, the ice in the Arctic region is melting rapidly, which means polar bears can no longer rely on the ice surface to move about and catch enough food as they once did. The pace of ice melt has outstripped the polar bears' capacity to adapt, which will shrink their hunting range and, in turn, affect their survival."
+   ]
   },
   {
    "type": "stanza",
    "zh": [
     "食物短缺：北極熊的主要食物是海豹，尤其是海豹幼崽。冰層的消融使得海豹的栖息地受到威脅，並且冰層越來越薄，北極熊難以接近它們的獵物，造成食物短缺，進而影響它們的健康和繁殖能力。"
    ],
-   "en": []
+   "en": [
+    "Food scarcity: The polar bear's primary food source is the seal, especially seal pups. The melting of the ice sheets threatens seal habitats, and as the ice grows thinner, polar bears find it harder to approach their prey, resulting in food scarcity that in turn affects their health and reproductive capacity."
+   ]
   },
   {
    "type": "stanza",
    "zh": [
     "生育率下降：由於食物不足、生活環境變化，北極熊的繁殖率已經開始下降。母熊在懷孕期間需要充足的脂肪儲備來支持胎兒發育，然而食物不足使它們很難維持這些儲備。"
    ],
-   "en": []
+   "en": [
+    "Declining birth rate: due to insufficient food and changes in living environment, the polar bear's reproduction rate has already begun to decline. During pregnancy, mother bears need sufficient fat reserves to support fetal development, yet food scarcity makes it difficult for them to maintain these reserves."
+   ]
   },
   {
    "type": "stanza",
    "zh": [
     "人類活動影響：除氣候變遷外，人類的石油勘探、船隻活動等也對北極熊的栖息地構成威脅。污染物的排放對北極熊的健康產生了負面影響，並使得它們的生存環境更加惡劣。"
    ],
-   "en": []
+   "en": [
+    "Impact of human activity: Beyond climate change, human oil exploration, shipping activity, and the like also threaten the polar bear's habitat. Pollutant discharge has had a negative effect on polar bears' health, further worsening their living environment."
+   ]
   },
   {
    "type": "stanza",
    "zh": [
     "總體而言，北極熊並非立刻面臨滅絕的威脅，但在現有的環境變化下，它們的生存會變得越來越艱難。根據一些科學預測，如果全球氣候變暖的趨勢持續，北極熊的數量可能會大幅減少，甚至在未來幾十年內面臨滅絕的風險。全球範圍內減少碳排放、保護北極生態系統，可能是幫助保護北極熊的一個重要途徑。   (ChatGPT)"
    ],
-   "en": []
+   "en": [
+    "Overall, polar bears are not facing immediate extinction, but under current environmental changes their survival will grow increasingly difficult. According to some scientific projections, if the trend of global warming continues, polar bear populations could decline sharply, and may even face the risk of extinction within the coming decades. Reducing carbon emissions worldwide and protecting the Arctic ecosystem may be an important way to help protect polar bears. (ChatGPT)"
+   ]
   },
   {
    "type": "yt",
@@ -151,7 +199,9 @@
    "zh": [
     "跟随音樂欣賞北極熊   Follow the music to enjoy the polar bear"
    ],
-   "en": []
+   "en": [
+    "Follow the music to enjoy the polar bear"
+   ]
   },
   {
    "type": "yt",
@@ -164,7 +214,9 @@
    "zh": [
     "沒有北極熊的北極？  An Arctic without polar bears?"
    ],
-   "en": []
+   "en": [
+    "An Arctic without polar bears?"
+   ]
   },
   {
    "type": "yt",
@@ -177,7 +229,9 @@
    "zh": [
     "林采欣 Bae Lin [ 北極熊 Polar Bear ]"
    ],
-   "en": []
+   "en": [
+    "Lin Caixin, Bae Lin [ Polar Bear ]"
+   ]
   },
   {
    "type": "yt",
@@ -190,7 +244,9 @@
    "zh": [
     "冰雪家園 ｜北極熊的悲歌 #polarbear#globalwarming"
    ],
-   "en": []
+   "en": [
+    "A Home of Ice and Snow | The Polar Bear's Lament #polarbear#globalwarming"
+   ]
   },
   {
    "type": "yt",
@@ -203,7 +259,9 @@
    "zh": [
     "北極熊寶寶  polar bear cub｜ 劉道文"
    ],
-   "en": []
+   "en": [
+    "Polar bear cub, polar bear cub | Liu Dao-wen"
+   ]
   },
   {
    "type": "yt",
@@ -216,7 +274,9 @@
    "zh": [
     "〈那裡有隻北極熊〉 單曲 黛安娜"
    ],
-   "en": []
+   "en": [
+    "\"There's a Polar Bear There\" single, Diana"
+   ]
   },
   {
    "type": "yt",
@@ -229,7 +289,9 @@
    "zh": [
     "超可爱的北极熊 Super cute polar bears"
    ],
-   "en": []
+   "en": [
+    "Super cute polar bears"
+   ]
   },
   {
    "type": "yt",
@@ -242,7 +304,9 @@
    "zh": [
     "Climate change. the starving polar bear.飢餓的北極熊"
    ],
-   "en": []
+   "en": [
+    "Climate change. the starving polar bear -- the hungry polar bear."
+   ]
   },
   {
    "type": "yt",
@@ -255,7 +319,9 @@
    "zh": [
     "Polar Bears 101 | 北極熊101    Nat Geo Wild"
    ],
-   "en": []
+   "en": [
+    "Polar Bears 101 | Polar Bears 101    Nat Geo Wild"
+   ]
   }
  ],
  "tags": {

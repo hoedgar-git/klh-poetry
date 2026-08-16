@@ -31,7 +31,12 @@
       "人獨立",
       "聽雨，欲語無語"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Autumn day, fallen blossoms",
+      "A person stands alone",
+      "Listening to the rain, wanting to speak yet saying nothing"
+     ],
      "num": true
     }
    ]
@@ -47,7 +52,12 @@
       "想像，另一個",
       "可能的方向"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Walking to where the water ends",
+      "Imagining, another",
+      "A possible direction"
+     ],
      "num": true
     }
    ]
@@ -63,7 +73,12 @@
       "雪一來",
       "又是一片繽紛純白"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Winter's desolate quiet",
+      "Once the snow comes",
+      "Once again a stretch of vivid, pure white"
+     ],
      "num": true
     }
    ]
@@ -79,7 +94,12 @@
       "有墨色未乾的詞句",
       "為誰留記  ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The robe's sash grows looser",
+      "There are words whose ink has not yet dried",
+      "For whom is this record kept?"
+     ],
      "num": true
     },
     {
@@ -87,7 +107,7 @@
      "points": [
       {
        "zh": "王國維 《 人間詞話 》\n古今之成大事業，大學問者，必經過三種之境界 :\n第一境界 :\n「昨夜西風凋碧樹，獨上高樓，望盡天涯路。」\n第二境界 :\n「衣帶漸寬終不悔。為伊消得人憔悴」\n第三境界 :\n「眾裡尋他千百度，驀然回首，那人卻在，燈火闌珊處。」",
-       "en": ""
+       "en": "Wang Guowei, 'Poetic Remarks in the Human World'\nThroughout history, those who have accomplished great undertakings or great scholarship must pass through three realms:\nThe first realm:\n\"Last night the west wind withered the green trees; alone I climbed the high tower, gazing to the end of the road at the world's edge.\"\nThe second realm:\n\"My robe and belt grow ever looser, yet I regret it not — for you I am willing to grow gaunt and thin.\"\nThe third realm:\n\"Among the crowds I searched for her a thousand times, ten thousand times; then, suddenly turning my head, there she was, in the dim light where the lanterns wane.\""
       }
      ]
     }
@@ -104,7 +124,12 @@
       "斜陽不能，誰能 ?",
       "體會，花開花落的無悔"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Morning fog cannot, autumn wind cannot",
+      "If the slanting sun cannot, who can?",
+      "Coming to understand the unregretted way flowers bloom and fall"
+     ],
      "num": true
     }
    ]
@@ -120,7 +145,12 @@
       "有些心情",
       "不能觸及，不敢觸及"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The wind rises, fallen leaves scatter and drift",
+      "Some moods",
+      "Cannot be touched, dare not be touched"
+     ],
      "num": true
     }
    ]
@@ -136,7 +166,12 @@
       "餅是寬恕，酒是許諾",
       "何時  ?  添酒回燈再同桌"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The Last Supper, said",
+      "Bread is forgiveness, wine is promise",
+      "When?  Pour more wine, turn the lamp back up, sit together at the table again"
+     ],
      "num": true
     },
     {
@@ -144,7 +179,7 @@
      "points": [
       {
        "zh": "聖經 馬可福音   第14章:\n他們吃的時候，耶穌拿起餅來，祝謝了就擘開，遞給門徒，說：「你們拿去吃吧，這是我的身體。」 耶穌又拿起杯來，祝謝了就遞給他們，說：「你們都喝吧， 這是我的血，是為立約的，為許多人流出來，使罪得赦。 我告訴你們，從今以後我必不再喝這葡萄酒，直到我和你們在我父的國裡，喝新酒的那一天。」",
-       "en": ""
+       "en": "The Bible, Gospel of Mark, Chapter 14:\nAs they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to the disciples, saying, \"Take, eat; this is my body.\" Then he took the cup, and when he had given thanks, he gave it to them, saying, \"Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. I tell you, I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom.\""
       }
      ]
     }
@@ -161,7 +196,12 @@
       "是一首爵士音樂",
       "色彩紛繁，低徊流轉"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Tonight, my longing for you",
+      "It is a piece of jazz music",
+      "Colors abundant, lingering and turning"
+     ],
      "num": true
     }
    ]
@@ -177,7 +217,12 @@
       "有秋聲悠遠，一踏入",
       "就是莫內的日出"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Morning fog, hazy and dim",
+      "There is a distant autumn sound, and once you step in",
+      "That is Monet's sunrise"
+     ],
      "num": true
     },
     {
@@ -201,7 +246,10 @@
       "莫內這幅與「蒙娜麗莎」齊名的「印象．日出」，是 1873 年春天在法國海邊阿弗赫完成的，而「印象派」之名的產生，更是取自這幅畫的標題。莫內是描繪一個橘紅色般的太陽正緩緩昇起，水面上有三艘小艇，其中一艘僅能模糊的看出來，幾條線條表現出波浪的形狀，完全沒有過份的誇張。看到太陽掙扎著想要穿過濃霧，我們的想像開始被挑動。",
       "--蔣勲 :「破解莫內」"
      ],
-     "en": []
+     "en": [
+      "This painting by Monet, as renowned as the 'Mona Lisa,' is 'Impression, Sunrise,' completed in the spring of 1873 at Le Havre on the French coast; indeed, the name 'Impressionism' itself was taken from this painting's title. Monet depicts an orange-red sun slowly rising, with three small boats upon the water, one of which can barely be made out; a few strokes suggest the shapes of the waves, with nothing overdone. Seeing the sun struggling to break through the thick fog, our imagination begins to stir.",
+      "--Chiang Hsun: \"Decoding Monet\""
+     ]
     }
    ]
   },
@@ -216,7 +264,12 @@
       "回顧那一段旅程，忽然",
       "浮起科羅拉多的夜晚"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Just wondering with what mood",
+      "Recalling that journey, suddenly",
+      "The Colorado night rises to mind"
+     ],
      "num": true
     },
     {

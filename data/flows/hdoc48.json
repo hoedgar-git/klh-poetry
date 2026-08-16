@@ -31,7 +31,12 @@
       "柳永喃喃的：楊柳岸曉風殘月",
       "而今：江湖煙雨一杯酒"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Chen Zi'ang's timeless lament: before me, no ancients; behind me, none to come",
+      "Liu Yong murmurs: willow-lined shore, dawn wind, waning moon",
+      "And now: rivers and lakes, misty rain, a single cup of wine"
+     ],
      "num": true
     },
     {
@@ -56,7 +61,12 @@
       "黄葉飄落",
       "風中有咖啡香味"
      ],
-     "en": [],
+     "en": [
+      "",
+      "This morning, the sky hazy and dim",
+      "Yellow leaves drift down",
+      "In the wind is the scent of coffee"
+     ],
      "num": true
     }
    ]
@@ -72,7 +82,12 @@
       "天空是如此荒涼",
       "浮雲無語，悠然舒卷"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The frog at the bottom of the well says",
+      "The sky is so desolate",
+      "Drifting clouds without words, unfurling at ease"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "庫克船長穿越經緯度",
       "去邊界，追尋傳説和軼事"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Passing through oneself, as if",
+      "Captain Cook crosses latitude and longitude",
+      "Going to the border, chasing legends and anecdotes"
+     ],
      "num": true
     },
     {
@@ -96,7 +116,7 @@
      "points": [
       {
        "zh": "詹姆斯·庫克（James Cook，1728年－1779年），人稱庫克船長（Captain Cook），英國皇家海軍軍官、航海家、探險家、製圖師。三度奉命遠航太平洋，是首批登陸澳洲東岸和夏威夷群島的歐洲人，也創下首次歐洲船隻環繞紐西蘭航行的紀錄。在數千公里的太平洋航程途中，深入不少地球上未為西方所知的地帶。透過測經儀，為紐西蘭與夏威夷之間的島嶼，繪製大量精準的地圖。在探索旅途中，庫克也為不少新發現的島嶼和事物命名。在歷次的航海旅程中，他展現出集合航海技術、測量和繪圖技術、逆境自強和危機處理的領導能力和才華。 1779年，在第三次探索太平洋期間，與夏威夷島上的島民發生打鬥，不幸遇害身亡。庫克對航海科學和地理學方面有重大貢獻，持續影響至20世紀。不少地方都建有紀念碑和雕像以表揚庫克的成就。不過，他的探索成就也影響西方國家後來對太平洋地區的殖民化，使當地原居民的生活方式和社會結構產生巨大轉變，這方面的影響一直都是政界和學術界的爭論焦點。       （ 取自維基百科）",
-       "en": ""
+       "en": "James Cook (1728–1779), known as Captain Cook, was a British Royal Navy officer, navigator, explorer, and cartographer. He commanded three voyages to the Pacific Ocean, was among the first Europeans to land on the eastern coast of Australia and the Hawaiian Islands, and was the first to sail a European ship completely around New Zealand. Over thousands of kilometers of Pacific voyaging, he ventured deep into regions previously unknown to the West. Using a theodolite, he produced numerous accurate maps of the islands between New Zealand and Hawaii. In the course of his explorations, Cook also named many newly discovered islands and features. Across his voyages he displayed a combination of navigational skill, surveying and mapmaking ability, resilience in adversity, and leadership in crisis management. In 1779, during his third Pacific expedition, he was killed in a clash with islanders in Hawaii. Cook made major contributions to nautical science and geography that continued to influence the field into the 20th century, and monuments and statues have been erected in many places to honor his achievements. However, his explorations also paved the way for later Western colonization of the Pacific region, bringing about enormous change to the ways of life and social structures of the indigenous peoples there — an impact that remains a focus of debate in politics and academia to this day. (Adapted from Wikipedia)"
       }
      ]
     },
@@ -111,7 +131,9 @@
      "zh": [
       "Captain Cook bronze statue.    Corner Brook, Newfoundland. （ 2017）"
      ],
-     "en": []
+     "en": [
+      "Captain Cook bronze statue.    Corner Brook, Newfoundland. ( 2017)"
+     ]
     },
     {
      "type": "note",
@@ -146,7 +168,12 @@
       "飄着--------",
       "白，成了空白"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Snow, drifting",
+      "Drifting--------",
+      "White becomes blankness itself"
+     ],
      "num": true
     }
    ]
@@ -162,7 +189,12 @@
       "海平線和落日都在",
       "何時，你隨海風走來"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The beach remains, the waves remain",
+      "The horizon and the setting sun are both there",
+      "When will you come walking in on the sea breeze"
+     ],
      "num": true
     },
     {
@@ -188,7 +220,12 @@
       "花樹下",
       "禪坐"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Walking to where the water ends",
+      "Beneath the flowering tree",
+      "Sitting in meditation"
+     ],
      "num": true
     }
    ]
@@ -204,7 +241,12 @@
       "孫兒問，只記得曾追着",
       "糖廠載甘蔗的五分車"
      ],
-     "en": [],
+     "en": [
+      "",
+      "\"Who runs faster, the train or the rails?\"",
+      "The grandchild asks, remembering only having once chased after",
+      "The sugar mill's narrow-gauge cart hauling cane"
+     ],
      "num": true
     },
     {
@@ -229,7 +271,12 @@
       "黑袍教士，俯首走過",
       "十字架的投影"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Temple, the bell tolling slow",
+      "The black-robed priest walks past with bowed head",
+      "The shadow cast by the cross"
+     ],
      "num": true
     }
    ]
@@ -245,7 +292,12 @@
       "一步一步走進",
       "Sorrento有歌的風景"
      ],
-     "en": [],
+     "en": [
+      "",
+      "A rainy night, idly tapping the chess pieces",
+      "Step by step, walking in",
+      "Sorrento, a landscape with song"
+     ],
      "num": true
     },
     {
@@ -253,7 +305,7 @@
      "points": [
       {
        "zh": "黃梅時節家家雨， 青草池塘處處蛙。\n有約不來過夜半， 閑敲棋子落燈花。\n--宋。趙師秀《約客》\nSorrento ( 蘇連多 ) 濱臨地中海，是意大利南部最美的阿瑪菲海岸 ( Amalfi Coast ) 北邊一個小鎮。臨海懸崖，別墅林立，石板街道，幽靜閒舒。有海風處有林園，有波浪處有漁船，是夏日渡假之處。隔海可遙望維蘇威火山。Sorrento 因意大利民謠 “ Come back to Sorrento ”而聲名遠播。\n《 Come back to Sorrento 》意大利民謠\n《 歸來吧!  蘇連多 》    蕭而化作詞\n聽那海洋的呼吸　　充滿了柔情蜜意\n你的笑語和歌聲　　留在我的心底\n園內陽光明媚無比　菊花到處放出香氣\n對著這麼美的春光　叫我如何不想你\n自從你和我別離　悲哀湧進我的心底\n在這可愛的地方　數著你的歸期\n歸來吧　歸來~　請不要把我忘記\n歸來吧　歸來~    請不要把我忘記",
-       "en": ""
+       "en": "In the plum-rain season, every house has rain; frogs call everywhere in the green grass ponds.\nA friend invited was expected but hasn't come, even past midnight; idly I tap my chess pieces, knocking ash from the lamp's wick.\n-- Song Dynasty. Zhao Shixiu, \"Waiting for a Guest\"\nSorrento sits on the Mediterranean, the loveliest town at the northern end of Italy's Amalfi Coast in southern Italy. Along its coastal cliffs stand rows of villas and stone-paved streets, quiet and unhurried. Where there is sea breeze there are gardens; where there are waves there are fishing boats — it is a place for summer holidays. Across the water one can gaze at Mount Vesuvius in the distance. Sorrento owes much of its fame to the Italian folk song \"Come Back to Sorrento.\"\n\"Come Back to Sorrento,\" Italian folk song\n\"Come Back, O Sorrento!\" — Chinese lyrics by Xiao Erhua\nListen to the breathing of the sea, full of tender, sweet feeling;\nyour laughter and your song remain deep in my heart.\nWithin the garden the sunlight is radiant, chrysanthemums release their fragrance everywhere;\nfacing such beautiful spring scenery, how could I not think of you?\nEver since you and I parted, sorrow has flooded into my heart;\nin this lovely place, I count the days until your return.\nCome back, come back — please do not forget me.\nCome back, come back — please do not forget me."
       }
      ]
     },

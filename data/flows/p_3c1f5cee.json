@@ -24,7 +24,8 @@
   },
   {
    "type": "preface",
-   "zh": "黃昏時分, 車停太魯閣國家公園入口的牌樓前,"
+   "zh": "黃昏時分, 車停太魯閣國家公園入口的牌樓前,",
+   "en": "At dusk, the car stopped in front of the archway at the entrance to Taroko National Park,"
   },
   {
    "type": "stanza",
@@ -33,7 +34,11 @@
     "魯閣牌樓前合照的留影 。歲月如流水, 時空流轉,",
     "看著照片, 你如何尋我 ? 我又如何覓你 ?"
    ],
-   "en": []
+   "en": [
+    "Remembering the old photos passed around the other day, of everyone on the graduation trip at Tai-",
+    "A photograph taken together in front of the Taroko archway. The years flow like water, time and space turning ever onward,",
+    "Looking at the photograph, how would you seek me? And how would I seek you?"
+   ]
   },
   {
    "type": "stanza",
@@ -48,7 +53,17 @@
     "走到蒼桑而背微曲",
     "你如何尋我 ?"
    ],
-   "en": []
+   "en": [
+    "How will you find me?",
+    "If you happen to be recalling my freshman year",
+    "And remembering a line of verse from that time",
+    "In truth, I had already swiftly slipped away",
+    "If you still take the trouble to think it over",
+    "I have already seen stars shift and seas change",
+    "Wandering across the North American continent for half a century",
+    "Walking until worn by time, back slightly bent",
+    "How will you find me?"
+   ]
   },
   {
    "type": "stanza",
@@ -65,18 +80,30 @@
     "你是如此的自守而疏離",
     "我如何覓你 ?"
    ],
-   "en": []
+   "en": [
+    "How am I to find you?",
+    "I hold fast to your twenty-two years",
+    "Still in a daze",
+    "Your temples have already turned grey",
+    "Seeing you still with the look of youth",
+    "A hand holding a scroll",
+    "A pensive face",
+    "But your heart has already entered a state of Zen",
+    "Calm as a windless prairie",
+    "You are so self-contained and remote",
+    "How am I to find you?"
+   ]
   },
   {
    "type": "note",
    "points": [
     {
      "zh": "早期高醫許成章教授的中文課，有他講解的 \" 交點論 \" 以及學生提交的 \"一句詩 \"。交點論富含哲理和人生際遇的闡釋。有天意和蝴蝶效應的味道 : 人生似乎包括一連串的意外事件，不合邏輯的走向和意想不到的結果。而一句詩的習作，則釋放了我們的想像力，豊富了思維的色彩和視野的寬度。大一有這樣的教授和人文教育，小小的高醫校園也因而瀰漫著自由，活潑和新生的氛圍和憧憬。猶記得午休時間，許教授在圖書館三樓走廊，蒙眼斜躺午睡，一派怡然自得的情景。圖書館三樓往外看是一片稻田，無圍牆的校園直通無邊無際的田野，晴朗天氣彷彿可以望見半屏山，真是 : On a clear day one can see forever。 一畝一畝的青翠欲滴，是春天，一畝一畝的金黄稻穗，是秋天。說是心曠神怡也好，說是志在天涯也好。當時心境隨風去，如今拾來總是詩。歲月如流水，高醫，我如何尋你覓你 ？",
-     "en": ""
+     "en": "In the early years, Professor Hsu Cheng-chang's Chinese class at Kaohsiung Medical College included his lectures on \"the theory of intersecting points\" and the students' assignments of writing \"a single line of poetry.\" The theory of intersecting points was rich in philosophy and interpretation of life's chance encounters, carrying something of both fate and the butterfly effect: life seems to be made up of a chain of unexpected events, illogical turns, and unforeseen outcomes. The exercise of writing a single line of poetry, meanwhile, released our imagination and enriched the color of our thinking and the breadth of our vision. To have such a professor and such a humanistic education in freshman year meant that even our small Kaohsiung Medical campus was filled with an atmosphere and aspiration of freedom, vitality, and new beginnings. I still remember, during the lunch break, Professor Hsu lying sideways on the third-floor corridor of the library with his eyes covered, dozing off in a state of blissful contentment. Looking out from the third floor of the library was a stretch of rice paddies; the campus, with no surrounding wall, opened directly onto boundless fields, and on a clear day one could almost see Mount Banping in the distance — truly, \"On a clear day one can see forever.\" Field after field of lush green was spring; field after field of golden rice ears was autumn. Call it a carefree, open-hearted feeling, or call it having one's ambitions set on the wide world — at the time, one's state of mind simply drifted with the wind; now, gathering it up, it all becomes poetry. The years flow on like water — Kaohsiung Medical College, how am I to seek you, to find you again?"
     },
     {
      "zh": "許教授的第一本書 \"南十字星\"，是杜聰明院長的傳記，上下二册。最後的着作是 \"   台灣漢語辭典\" (1992)，共1000餘萬字，是台灣漢語語源的鉅著。引證台語并非一地方言，而係融合各地方言於一爐的語言。打破台語 \"有音無字\" 的觀念，求證 \"一字多音 \" 的事實。其手稿現存於高雄市台湾文化館。2000年高雄春暉出版社出版 \"許成章作品集\"，計八册。",
-     "en": ""
+     "en": "Professor Hsu's first book, \"Southern Cross,\" is a biography of Dr. Tu Tsung-ming (Du Congming), published in two volumes. His final work was the \"Dictionary of Taiwanese Chinese\" (1992), totaling more than ten million characters, a monumental work on the etymology of Taiwanese. It demonstrates that Taiwanese is not merely a regional dialect but a language fusing dialects from many regions into one, overturning the notion that Taiwanese \"has sound but no characters,\" and providing evidence for the fact of \"one character, multiple pronunciations.\" His manuscripts are now housed at the Kaohsiung Taiwan Culture Center. In 2000, Kaohsiung's Chunhui Publishing House published the \"Collected Works of Hsu Cheng-chang,\" in eight volumes."
     }
    ]
   }

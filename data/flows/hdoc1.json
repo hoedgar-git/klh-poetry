@@ -31,7 +31,12 @@
       "或者細數星的光芒",
       "詩有自己的軌道和方向"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Or quietly listening to the footsteps of the fog",
+      "Or counting the light of the stars one by one",
+      "A poem has its own orbit and direction"
+     ],
      "num": true
     }
    ]
@@ -47,7 +52,12 @@
       "齊柏林 : 國在山河破",
       "《看見台灣》: 島嶼的美麗和哀愁"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Du Fu: the nation broken, yet its rivers and mountains remain",
+      "Chi Po-lin: the nation stands, but its mountains and rivers lie broken",
+      "\"Beyond Beauty: Taiwan from Above\": the beauty and sorrow of the island"
+     ],
      "num": true
     },
     {
@@ -72,7 +82,12 @@
       "一幅畫卷",
       "每一筆都爲你留白"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Recalling the evening glow of those years",
+      "A painted scroll",
+      "Every brushstroke leaves blank space for you"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "你走你的陽關道",
       "我過我的獨木橋"
      ],
-     "en": [],
+     "en": [
+      "",
+      "AlphaGo,  go,  go,  go",
+      "You take your sunlit highway",
+      "I cross my own log bridge"
+     ],
      "num": true
     },
     {
@@ -113,7 +133,12 @@
       "風中飄著陣陣詩意",
       "等待詮譯"
      ],
-     "en": [],
+     "en": [
+      "",
+      "That is the most beautiful lavender of late spring",
+      "Waves of poetry drift on the wind",
+      "Waiting to be interpreted"
+     ],
      "num": true
     }
    ]
@@ -129,7 +154,12 @@
       "Black  Hole,  Dark  Matter,  Supernova…",
       "到遠方自成一個宇宙"
      ],
-     "en": [],
+     "en": [
+      "",
+      "\"How have you been lately? What's been on your mind?\"",
+      "Black  Hole,  Dark  Matter,  Supernova...",
+      "Going far off to form a universe of its own"
+     ],
      "num": true
     }
    ]
@@ -145,7 +175,12 @@
       "荷馬如此說",
       "司馬遷如此說"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Sitting in a modern landscape, watching an ancient one",
+      "So spoke Homer",
+      "So said Sima Qian"
+     ],
      "num": true
     },
     {
@@ -153,7 +188,7 @@
      "points": [
       {
        "zh": "荷馬是希臘瞎眼的吟唱詩人， 留下二部古希臘文學經典《荷馬史詩》 : 伊里亞德和奧德賽。叙述海倫--木馬的特洛伊戰爭以及奧德賽和水手十年海上漂泊的歷險記。",
-       "en": ""
+       "en": "Homer was the blind bard of ancient Greece who left behind two classics of ancient Greek literature, the Homeric epics: the Iliad and the Odyssey — recounting the Trojan War fought over Helen and the wooden horse, and Odysseus's decade-long ordeal of wandering the seas with his sailors."
       },
       {
        "zh": "司馬遷是受宮刑的西漢史學家和文學家，他撰寫的《史記》被公認是中國史書的典範。被後世尊稱為史遷。其史學觀念在於“ 究天人之際，通古今之變，成一家之言 ”。",
@@ -174,7 +209,12 @@
       "在風景的上方",
       "掛着一個酩酊的夕陽"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The fog has cleared",
+      "Above the landscape",
+      "Hanging there, a drunken sunset"
+     ],
      "num": true
     }
    ]
@@ -190,7 +230,12 @@
       "就留在我的手心",
       "等童年的蜻蜓飛回來"
      ],
-     "en": [],
+     "en": [
+      "",
+      "From then, that drop of rain",
+      "Then stay within the palm of my hand",
+      "Waiting for childhood's dragonfly to fly back"
+     ],
      "num": true
     }
    ]
@@ -206,7 +251,12 @@
       "一覽衆山小",
       "杜甫，你也來阿里山看雲海"
      ],
-     "en": [],
+     "en": [
+      "",
+      "I will ascend to the very summit",
+      "At a glance, all the mountains grow small",
+      "Du Fu, you too have come to Ali Mountain to watch the sea of clouds"
+     ],
      "num": true
     },
     {
@@ -214,7 +264,7 @@
      "points": [
       {
        "zh": "岱宗夫如何，齊魯青未了。\n造化鍾神秀，隂陽割昏曉。\n蕩胸生層雲，決眦入歸鳥。\n會當凌絕頂，一覽衆山小。\n--唐。杜甫。《望岳》",
-       "en": ""
+       "en": "How is it with Mount Tai? Its green stretches unending across Qi and Lu.\nCreation and Nature concentrated their divine splendor here; yin and yang divide dusk from dawn.\nRising clouds stir the breast; returning birds enter eyes strained wide open.\nI shall surely climb to the very summit, and see all the other mountains grow small.\n-- Tang dynasty. Du Fu, 'Gazing at the Sacred Mountain' (Wang Yue)"
       }
      ]
     }

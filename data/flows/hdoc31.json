@@ -31,7 +31,12 @@
       "今日 :  E ＝ MC 二次方",
       "明日 :  E ＝ MC三次方"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Yesterday: E = MC to the first power",
+      "Today:  E = MC squared",
+      "Tomorrow: E = MC cubed"
+     ],
      "num": true
     },
     {
@@ -127,7 +132,7 @@
       },
       {
        "zh": "日本本州東北海岸，不老不死溫泉旅舍。",
-       "en": ""
+       "en": "On the northeastern coast of Honshu, Japan — the Furofushi Hot Spring inn."
       }
      ]
     }
@@ -207,7 +212,7 @@
      "points": [
       {
        "zh": "輕輕的我走了，正如我輕輕地来；\n我輕輕地招手，作别西邊的雲彩。\n那河畔的金柳，是夕陽中的新娘；\n波光里的艶影，在我的心頭盪漾。\n軟泥上的青荇，油油的在水底招摇；\n在康河的柔波里，我甘心做一條水草！\n那榆蔭下的一潭，不是清泉，是天上虹；\n揉碎在浮藻間，沉澱着彩虹似的夢。\n尋夢？撑一支長篙，向青草更青處漫溯；\n满載一船星輝，在星輝斑斓里放歌。\n但我不能放歌，悄悄是别離的笙簫；\n夏虫也我沉默，沉默是今晚的康橋！\n悄悄的我走了，正如我悄悄地来；\n我揮一揮衣袖，不帶走一片雲彩。\n攝影圖片\na.   後院池塘秋景。\nb.   Serbia, Belgrade. 多腦河晨間河畔倒影。\nc.   荷蘭, 阿娒斯特丹近郊河道水色。",
-       "en": ""
+       "en": "Quietly I go, just as quietly as I came;\nquietly I wave, bidding farewell to the clouds in the western sky.\nThe golden willows by the riverbank are brides in the setting sun;\ntheir reflections shimmering on the waves stir within my heart.\nThe green algae rooted in the soft mud sway freely underwater;\nin the gentle waves of the River Cam, I am willing to be but a water plant!\nThat pool beneath the elm's shade is not a clear spring, but a rainbow in the sky,\ncrushed among the floating algae, settling as a dream, rainbow-hued.\nSeeking a dream? Pole a long punt upstream, to where the grass is even greener,\na boat laden with starlight, singing aloud amid the splendor of stars.\nBut I cannot sing aloud; silence is the flute of parting;\neven the summer insects fall silent for me — silence is tonight's Cambridge!\nQuietly I leave, just as quietly as I came;\nI flick my sleeves, not taking away even a wisp of cloud.\nPhotographs\na. Autumn scene at the backyard pond.\nb. Serbia, Belgrade — the reflection of the Danube riverbank at morning.\nc. The color of the waterway in the countryside near Amsterdam, Netherlands."
       }
      ]
     }
@@ -318,11 +323,11 @@
      "points": [
       {
        "zh": "曹操 《短歌行》\n對酒當歌，人生幾何。譬如朝露，去日苦多。  \n慨當以慷，憂思難忘。何以解憂？惟有杜康。",
-       "en": ""
+       "en": "Cao Cao, 'Short Song'\nFacing wine, I sing — how long is a man's life?\nIt is like the morning dew; the days gone by are already so many, and hard to bear.\nI am moved to fervor, yet my cares are hard to forget. What can dispel my sorrow? Only Du Kang wine."
       },
       {
        "zh": "幾何學﹝Geometry﹞是研究物體的形狀、大小及位置關係的一門數學分支。 \n幾何起源很早，可追溯到上古時期，據古希臘歷史學家希羅多德﹝前484~ 424﹞的說法，由於埃及尼羅河的周期性泛濫，淹沒土地、沖毀地界。由於重新測量，劃分土地的工作有其需要，故產生了幾何學。因此「幾何」一詞拉丁文叫geometria，它的希臘文是「土地」「測量」二詞組合而成，意即土地測量。集古希臘幾何研究之大成的著作是希臘歐幾里得的《幾何原本》。",
-       "en": ""
+       "en": "Geometry is a branch of mathematics that studies the shape, size, and positional relationships of objects.\nGeometry has very early origins, traceable to ancient times. According to the ancient Greek historian Herodotus (c. 484–424 BC), because the periodic flooding of Egypt's Nile River submerged land and washed away boundary markers, there arose a need to re-measure and re-divide the land, and this gave rise to geometry. Hence the Latin word \"geometria,\" from the Greek combination of the words for \"earth\" and \"measurement,\" meaning land surveying. The work that brought ancient Greek geometric study to its culmination is the Greek Euclid's Elements."
       }
      ]
     }
@@ -362,7 +367,7 @@
      "points": [
       {
        "zh": "畢卡索自畫像 (1907, 26歲)。 眼大，目光炯炯，眼神深邃，散放吞吐萬象，開創新局，震攝人心的氣勢。\n宋代「知行合一」哲學家王陽明12歲詩作:\n「 山近月遠覺月小， 便道此山大于月。\n若人有眼大如天， 還見山高月更闊。」",
-       "en": ""
+       "en": "Picasso, self-portrait (1907, at age 26). Large eyes, a piercing gaze, a deep and profound look, radiating a force that seems to swallow up all things, break new ground, and shake the beholder to the core.\nA poem written at age 12 by Wang Yangming, the Ming dynasty philosopher of \"the unity of knowledge and action\":\n\"The mountain is near, the moon far, so the moon seems small; thus one says this mountain is bigger than the moon.\nBut if a person had eyes as vast as the sky, they would see the mountain is high, yet the moon is even vaster.\""
       }
      ]
     },

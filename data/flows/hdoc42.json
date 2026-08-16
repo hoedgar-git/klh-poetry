@@ -31,7 +31,12 @@
       "中間，一行白鷺",
       "飛入唐詩"
      ],
-     "en": [],
+     "en": [
+      "",
+      "To the left, green mountains; to the right, green mountains",
+      "In the middle, a line of egrets",
+      "Flying into a Tang dynasty poem"
+     ],
      "num": true
     },
     {
@@ -56,7 +61,12 @@
       "我們默然并坐",
       "看星光如何垂落湖岸"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The night is dim and dark",
+      "We sit together in silence",
+      "Watching how starlight falls upon the lake's shore"
+     ],
      "num": true
     }
    ]
@@ -72,7 +82,12 @@
       "窗外，無人",
       "更遠處，草色稀迷"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Late spring, a light rain",
+      "Outside the window, no one",
+      "Farther still, the grass color faint and hazy"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "是非成敗，只剩一壼濁酒",
       "青山在，夕陽淡淡紅"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The great river flows east, carrying away a stretch of moonlight",
+      "Right and wrong, success and failure — all that remains is a jug of cloudy wine",
+      "The green mountains remain, the setting sun faintly red"
+     ],
      "num": true
     }
    ]
@@ -144,7 +164,12 @@
       "撈起最亮的星",
       "爲雪夜歸人點燈"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Rowing a boat across the Milky Way",
+      "Scooping up the brightest star",
+      "Lighting a lamp for the one returning on a snowy night"
+     ],
      "num": true
     },
     {
@@ -152,7 +177,7 @@
      "points": [
       {
        "zh": "日暮蒼山遠，天寒白屋貧。\n柴門聞犬吠，風雪夜歸人。\n--唐 。劉長卿《逢雪宿芙蓉山主人》",
-       "en": ""
+       "en": "At dusk the green mountains stretch far away; in the cold, a thatched hut stands poor.\nAt the brushwood gate a dog is heard barking; in wind and snow, someone returns home at night.\n-- Tang dynasty. Liu Changqing, 'Stopping at Mount Furong in the Snow, at My Host's Home'"
       }
      ]
     }
@@ -169,7 +194,12 @@
       "瘦成一縷炊煙",
       "靜待歸雁"
      ],
-     "en": [],
+     "en": [
+      "",
+      "After sunset, longing",
+      "Thinned into a wisp of cooking smoke",
+      "Waiting quietly for the returning geese"
+     ],
      "num": true
     }
    ]
@@ -185,7 +215,12 @@
       "栩栩然，飛出",
       "一串串蝴蝶效應"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Zhuangzi naps at noon, dreams of a butterfly",
+      "Vivid and lifelike, flying out",
+      "String after string of butterfly effects"
+     ],
      "num": true
     },
     {
@@ -210,7 +245,12 @@
       "落葉滿階",
       "人獨立"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Autumn day, the wild geese return home",
+      "Fallen leaves cover the steps",
+      "A person stands alone"
+     ],
      "num": true
     }
    ]
@@ -226,7 +266,12 @@
       "時光終於不再",
       "九曲堂車站，不再"
      ],
-     "en": [],
+     "en": [
+      "",
+      "And time comes no more",
+      "Time is at last no more",
+      "Jiuqutang Station, no longer"
+     ],
      "num": true
     },
     {
@@ -257,7 +302,11 @@
       "第一長鐵橋，如今廢棄不用。在舊䥫橋上漫步，有時可以看",
       "見火車駛過遠方新造的鐵橋。"
      ],
-     "en": []
+     "en": [
+      "In between, built during the Japanese era, it was once Taiwan's longest railway bridge, and also Asia's",
+      "The first long iron bridge, now abandoned and unused. Strolling on the old iron bridge, sometimes one can see",
+      "seeing a train pass over the newly built iron bridge in the distance."
+     ]
     },
     {
      "type": "note",

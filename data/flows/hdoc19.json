@@ -31,7 +31,12 @@
       "除了晚風，除了細雨",
       "還有望山的心情"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Who has crossed over Tao Yuanming's bamboo fence?",
+      "Besides the evening wind, besides the fine rain",
+      "There is also the longing to gaze at the mountains"
+     ],
      "num": true
     },
     {
@@ -39,7 +44,7 @@
      "points": [
       {
        "zh": "結廬在人境，而無車馬喧。\n問君何能爾，心遠地自偏。\n采菊東籬下，悠然見南山。\n山氣日夕佳，飛鳥相與還。\n此中有真意，欲辯已忘言。\n--東晉 。陶淵明《 飲酒 . 其五 》",
-       "en": ""
+       "en": "I built my hut amid the world of men, yet there is no noise of carriages or horses.\nYou ask how this can be — when the heart is far, the place itself becomes remote.\nI pick chrysanthemums under the eastern hedge, and in the distance calmly see the southern mountain.\nThe mountain air is beautiful at dusk, as birds fly home together in flocks.\nIn all this there is a true meaning — I wish to explain it, but have already forgotten the words.\n-- Eastern Jin. Tao Yuanming, 'Drinking Wine, No. 5'"
       }
      ]
     }
@@ -56,7 +61,12 @@
       "那年旅途中",
       "湖畔村落的雨季"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Suddenly, for no reason, I remember",
+      "On the journey of that year",
+      "The rainy season of the village by the lake"
+     ],
      "num": true
     }
    ]
@@ -72,7 +82,12 @@
       "剝開風，剝開遠山",
       "飄渺的雲烟"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Autumn sun, petal by petal",
+      "Peeling open the wind, peeling open the distant mountains",
+      "Cloud and mist, faint and distant"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "流來的月光，摺進",
       "蕉風椰影的年少歲月"
      ],
-     "en": [],
+     "en": [
+      "",
+      "That year, I took the Zhuoshui River",
+      "Moonlight flowing in, folded into",
+      "Youthful years of banana wind and coconut shadow"
+     ],
      "num": true
     },
     {
@@ -96,7 +116,7 @@
      "points": [
       {
        "zh": "日子一工一工過去\n我時常想起故鄉的代誌\n夢中聽到故鄉的水流聲\n濁濁的水流聲不停地叫我\n親像阿母溫暖的叫聲\n叫我著要清醒\n講我是吃濁水米大漢的\n講我著要記得故鄉的溪水\n--李東慶《 故鄉的溪水 》",
-       "en": ""
+       "en": "Day by day the days pass by\nI often think of things back home\nIn my dreams I hear the sound of my hometown's flowing water\nThe muddy flowing water calling to me without stop\nLike my mother's warm call\nCalling me, telling me to wake\nSaying I was raised on muddy-water rice\nSaying I must remember my hometown's stream\n-- Li Dongqing, 'My Hometown's Stream'"
       }
      ]
     }
@@ -113,7 +133,12 @@
       "飛雨落花",
       "有笑聲，有淚痕"
      ],
-     "en": [],
+     "en": [
+      "",
+      "A long road stretching on, looking back",
+      "Flying rain, falling blossoms",
+      "There is laughter, there are tear-stains"
+     ],
      "num": true
     }
    ]
@@ -129,7 +154,12 @@
       "靜聽",
       "落日的聲音"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Just sit here beside me",
+      "Listening quietly",
+      "The sound of the setting sun"
+     ],
      "num": true
     }
    ]
@@ -145,7 +175,12 @@
       "驀然迎來",
       "江流外的山色"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Walking into the mist after rain",
+      "Suddenly arriving to meet",
+      "The mountain hues beyond the flowing river"
+     ],
      "num": true
     },
     {
@@ -170,7 +205,12 @@
       "一攤開，吐納心事",
       "如風中蘆葦"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Palm lines fine as a stream",
+      "Once unfolded, breathing out what weighs on the heart",
+      "Like reeds in the wind"
+     ],
      "num": true
     }
    ]
@@ -186,7 +226,12 @@
       "沒有色彩的孤單裡",
       "找不到回家的路"
      ],
-     "en": [],
+     "en": [
+      "",
+      "There are always some days, adrift in",
+      "Within a colorless solitude",
+      "Unable to find the way home"
+     ],
      "num": true
     }
    ]
@@ -202,7 +247,12 @@
       "孤寂處，猶有一首歌",
       "閃著淚光，在心中來回的唱"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The tower lost in fog, the moon confusing the ferry crossing",
+      "In that place of solitude, there is still a song",
+      "Glistening with tears, singing back and forth within the heart"
+     ],
      "num": true
     },
     {
@@ -210,7 +260,7 @@
      "points": [
       {
        "zh": "霧失樓台，月迷津渡\n桃源望斷無覓處\n可堪孤舘閉春寒\n杜鵑聲裏斜陽暮\n--宋。秦觀 《踏莎行，郴州旅舍》\n《 魯冰花  》 \n作詞：姚謙  作曲：陳揚　\n我知道，半夜的星星會唱歌  \n想家的夜晚，它就這樣和我一唱一和 \n我知道，午後的清風會唱歌 \n童年的蟬聲，它總是跟風一唱一和 \n當手中握住繁華，心情卻變得荒蕪 \n才發現世上，一切都會變卦 \n當青春剩下日記，烏絲就要變成白髮 \n不變的只有那首歌，在心中來回的唱\n在台湾大多數民眾對「魯冰花」的認知，多源自於作家鍾肇政在1961年發表的長篇小說「魯冰花」，以及後來「魯冰花」在1989年被拍成感人的電影後，才廣為人知。鍾肇政用魯冰花的花開花落，比喻一個天才的快速殞落，也比喻當時台灣教育所面臨的一些問題。電影魯冰花的主題曲「魯冰花」，其中歌詞提到的「家鄉的茶園開滿花」，就是指魯冰花。魯冰花學名「Lupin」在希臘文原意是「悲苦」的意思，其種子苦澀異常，誤食者莫不神色悲苦，故花語亦有「悲傷」之意。魯冰花屬羽扇豆科，種類繁多，花色繽紛，在台湾茶園所種的綠肥魯冰花，屬黃花羽扇豆。從播種，生長到開花結果，正好是冬季茶樹休養期閒，是茶園最佳的綠肥作物。每年三月是魯冰花的開花期，成串往上開的花朵鮮黃絢麗，為茶園風光增色不少。「魯冰花」這部影片曾獲得了第二十六屆金馬獎，第四十屆柏林影展人道精神   特別獎等多項獎。",
-       "en": ""
+       "en": "Mist obscures the towers, the moon confounds the ferry crossing —\nI gaze in vain for Peach Blossom Spring, nowhere to be found.\nHow can I bear this lonely inn, shut in by spring's chill,\nas the cuckoo cries beneath the slanting sun at dusk.\n-- Song Dynasty. Qin Guan, \"Treading on Grass, Written at a Chenzhou Inn\"\n\"Lupin Flower\"\nLyrics: Yao Qian. Music: Chen Yang.\nI know that the midnight stars can sing —\non nights of homesickness, they sing along with me.\nI know that the afternoon breeze can sing —\nthe cicadas of childhood always sang along with the wind.\nWhen my hands hold onto splendor, my heart instead grows desolate;\nonly then do I discover that everything in this world can turn.\nWhen youth is reduced to a diary, black hair turns white;\nthe only thing that never changes is that song, sung over and over in my heart.\nIn Taiwan, most people's knowledge of \"Lupin Flower\" derives from the novelist Zhong Zhaozheng's 1961 novel of the same name, and it became widely known after the novel was made into a moving film in 1989. Zhong Zhaozheng used the blooming and falling of the lupine flower as a metaphor for the swift decline of a gifted child, and also as a metaphor for certain problems facing Taiwan's education system at the time. In the film's theme song \"Lupin Flower,\" the line about 'the tea garden back home is full of blossoms' refers to the lupine flower. The lupine's scientific name, 'Lupin,' originally means 'bitterness' in Greek; its seeds are extremely bitter, and anyone who mistakenly eats them shows an expression of suffering — hence the flower's language also carries connotations of 'sorrow.' The lupine belongs to the pea family, with many varieties and vividly colored blossoms; the lupine grown as green manure in Taiwan's tea gardens is the yellow-flowered lupine. From sowing, growth, to flowering and fruiting, its cycle coincides exactly with the tea plants' winter dormancy, making it the ideal green manure crop for tea gardens. Every March is lupine blooming season, when clusters of bright yellow flowers rise upward, adding much color to the tea garden scenery. The film \"Lupin Flower\" won multiple awards, including at the 26th Golden Horse Awards and the Special Humanitarian Award at the 40th Berlin International Film Festival."
       }
      ]
     },

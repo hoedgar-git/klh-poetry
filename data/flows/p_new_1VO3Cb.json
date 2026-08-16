@@ -31,7 +31,13 @@
     "在中禪寺湖的冷風裡看山",
     "沒有想起你"
    ],
-   "en": []
+   "en": [
+    "Did not think of you",
+    "Watching the mountains in the fine snow at Nikko Yumoto",
+    "Did not think of you",
+    "Watching the mountains in the cold wind by Lake Chuzenji",
+    "Did not think of you"
+   ]
   },
   {
    "type": "stanza",
@@ -47,7 +53,18 @@
     "在姥子的斜坡路上",
     "在漸濃的秋色裡"
    ],
-   "en": []
+   "en": [
+    "Riding the train from Shinjuku to Hakone",
+    "On a morning when the whole sky falls still",
+    "A passerby points from afar",
+    "You, amid the faint, drifting clouds",
+    "And so",
+    "Catching a glimpse of you",
+    "On the ferry at Lake Ashi",
+    "On the cable car at Owakudani",
+    "On the sloping road at Ubako",
+    "In the deepening colors of autumn"
+   ]
   },
   {
    "type": "stanza",
@@ -58,7 +75,13 @@
     "夜色稀迷",
     "盡是異國畫痕詩意"
    ],
-   "en": []
+   "en": [
+    "Last night",
+    "Mist over the hot spring's water, faint and blurred",
+    "Pine shadows sway at the window",
+    "The night is faint and hazy",
+    "All of it, the poetic traces of a foreign painting"
+   ]
   },
   {
    "type": "stanza",
@@ -69,7 +92,13 @@
     "潑墨畫的景色",
     "你杳然無踪"
    ],
-   "en": []
+   "en": [
+    "This morning",
+    "Outside the window, slanting rain, misty and faint",
+    "Trees wrapped in mist",
+    "A scene like a splashed-ink painting",
+    "You've vanished without a trace"
+   ]
   },
   {
    "type": "stanza",
@@ -82,7 +111,15 @@
     "是一種沉潛的美麗",
     "牽引安靜的思緒"
    ],
-   "en": []
+   "en": [
+    "I know you are still here",
+    "Retreating beyond the drifting, misty haze",
+    "The silence within the haze, as if",
+    "Fine snow covers the grass",
+    "Night rain moistens all things silently",
+    "It is a submerged, quiet beauty",
+    "Drawing out quiet thoughts"
+   ]
   },
   {
    "type": "stanza",
@@ -96,7 +133,16 @@
     "還有",
     "當年留學的莘莘遊子"
    ],
-   "en": []
+   "en": [
+    "All say this moon once shone upon the ancients",
+    "You too once comforted many people",
+    "From the last century to an even earlier one",
+    "A palace maid, forlorn and forgotten",
+    "Farmers fleeing famine",
+    "A wandering samurai",
+    "remain",
+    "The many students who studied abroad in those years"
+   ]
   },
   {
    "type": "stanza",
@@ -113,7 +159,19 @@
     "玉山之巔",
     "我們能否靜默對話 ?"
    ],
-   "en": []
+   "en": [
+    "All say when the heart is clear, mountains and rivers feel near",
+    "As long as one has the will",
+    "Then distance is no longer a problem",
+    "Then one can gaze far into the distance",
+    "The next possible direction",
+    "With your height of 3776 meters",
+    "Whether you have seen",
+    "The dancing ocean, the beautiful island?",
+    "If, on that day, I climbed",
+    "The summit of Jade Mountain",
+    "Can we speak to each other in silence?"
+   ]
   },
   {
    "type": "stanza",
@@ -127,7 +185,16 @@
     "禪坐之姿，澄寂之心",
     "迎松風，望星月"
    ],
-   "en": []
+   "en": [
+    "Perhaps it is afternoon",
+    "Perhaps it is dusk",
+    "Clouds and mist drift apart",
+    "The vast sky, pure and clear",
+    "You will gladly appear",
+    "A face refined by the seasons",
+    "The posture of meditation, a heart clear and still",
+    "Facing the pine wind, gazing at stars and moon"
+   ]
   },
   {
    "type": "stanza",
@@ -143,18 +210,29 @@
     "白雲舒捲的深處",
     "也是你目光追尋的遠方"
    ],
-   "en": []
+   "en": [
+    "perhaps,",
+    "When the bell's toll comes from the temple in the woods",
+    "Ripples like poetry glide across the water's surface",
+    "Some will pause by the lake in autumn colors",
+    "Raising my head to gaze",
+    "With a drifting state of mind",
+    "Entrusting a single recurring dream",
+    "Amid light and shadow drifting",
+    "Deep within where white clouds unfurl and roll",
+    "Is also the distance your gaze pursues"
+   ]
   },
   {
    "type": "note",
    "points": [
     {
      "zh": "日光國家公園位於東京北方，鬼怒川，日光湯元和中禪寺湖是公園内的景點。箱根國家公園位於東京西南，蘆之湖，大涌谷和姥子都在其境内。日光和箱根國家公園都在東京二小時的車程内。",
-     "en": ""
+     "en": "Nikko National Park is located north of Tokyo; the Kinugawa River, Nikko Yumoto, and Lake Chuzenji are attractions within the park. Hakone National Park is located southwest of Tokyo; Lake Ashi, Owakudani, and Ubako all lie within its boundaries. Both Nikko and Hakone National Parks are within a two-hour drive of Tokyo."
     },
     {
      "zh": "蘆之湖是箱根國家公園内最大的湖 ，三千年前形成的火山湖。四面環山 ，水色清澈，有渡輪型似海盗船，靠岸港口箱根町港一帶，可遙望富士山。附近有箱根神社立於湖畔，蒼齡杉樹林立，蔽天綠䕃中隱藏古刹寺院，靜穆中浸淫着佛思禪意。臨湖的紅色鳥居，掩映着長空秋色，隔水遠望，自有一份出塵離世的澄寂。",
-     "en": ""
+     "en": "Lake Ashi is the largest lake in Hakone National Park, a volcanic lake formed three thousand years ago. Surrounded on all sides by mountains, its waters are clear, and ferries shaped like pirate ships cross it; from the shore near Hakone-machi port one can gaze out at Mt. Fuji in the distance. Nearby, Hakone Shrine stands at the lake's edge, ringed by ancient cedar groves, and hidden within the sky-shading green shade is an old temple, its stillness steeped in Buddhist and Zen contemplation. The red torii gate by the lake, set against the autumn colors of the vast sky, viewed from across the water, carries a serene, otherworldly stillness."
     },
     {
      "zh": "唐   杜甫《 春夜喜雨 》\n「  好雨知時節，當春乃發生，隨風潛入夜，潤物細無聲。\n野徑雲俱黑，江船火獨明，曉看紅濕處，花重錦官城。",

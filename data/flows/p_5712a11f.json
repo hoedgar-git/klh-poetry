@@ -31,7 +31,13 @@
     "那晃動心弦的",
     "許是------"
    ],
-   "en": []
+   "en": [
+    "The frozen wilderness",
+    "Alaska's aurora borealis",
+    "It is a wonder long awaited",
+    "That which sets the heartstrings trembling",
+    "Perhaps------"
+   ]
   },
   {
    "type": "stanza",
@@ -47,7 +53,18 @@
     "晨光暮靄中飄揚的幡幟酒旗 ?",
     "夢境流瀉出璀璨的交響旋律 ?"
    ],
-   "en": []
+   "en": [
+    "A mirage suddenly rising in the desert?",
+    "The eye-catching green lawn after the tundra cracks open?",
+    "A long bridge lying across the water, half-hidden in the vast twilight?",
+    "The trembling of cicada wings and butterfly shadows in summer's green shade?",
+    "The riotous colors reflected as the glacier melts?",
+    "Over the wild, level waste, a lone smoke rising to the clouds?",
+    "The mist drifting over the river's surface and the lake's shore?",
+    "Willow catkins and weeping cherry swaying in March's warm breeze?",
+    "Banners and tavern flags fluttering in morning light and evening haze?",
+    "Does the dream pour forth a brilliant symphonic melody?"
+   ]
   },
   {
    "type": "stanza",
@@ -65,7 +82,20 @@
     "傳說和預言",
     "原鄉和異域"
    ],
-   "en": []
+   "en": [
+    "This aurora",
+    "It has drawn a boundary",
+    "Has also blended in......",
+    "The ancient and the present",
+    "Eternity and the instant",
+    "The illusory and the real",
+    "Awe and humility",
+    "Gathering in and letting go",
+    "Clamor and stillness",
+    "Moved, and doubtful",
+    "Legend and prophecy",
+    "Homeland and foreign lands"
+   ]
   },
   {
    "type": "stanza",
@@ -76,7 +106,13 @@
     "是太陽風穿越蒼空帶來的信息",
     "還是老漁夫揮動的火炬 ?"
    ],
-   "en": []
+   "en": [
+    "This aurora",
+    "It is the collision of the universe's fundamental elements",
+    "Or is it the re-enactment of an ancient myth?",
+    "It is a message carried by solar wind crossing the vast sky",
+    "Or is it the torch waved by the old fisherman?"
+   ]
   },
   {
    "type": "stanza",
@@ -93,7 +129,19 @@
     "屬於自己",
     "極光般的宿命和使命"
    ],
-   "en": []
+   "en": [
+    "We hold our breath and gaze",
+    "Forgotten",
+    "The deep heavens behind the aurora",
+    "8 attached to a backpack; and",
+    "The frozen snowfield beneath the aurora",
+    "We stood bewildered, at a loss",
+    "Forgot to ask",
+    "The mystery held within eternity",
+    "8 attached to a backpack; and",
+    "Belonging to oneself",
+    "A destiny and mission like the aurora itself"
+   ]
   },
   {
    "type": "stanza",
@@ -105,7 +153,14 @@
     "隨著冷冽的北風",
     "隱沒於寒意漸濃的暗夜 ?"
    ],
-   "en": []
+   "en": [
+    "When language and imagination have turned into the aurora",
+    "We should follow the colors of the aurora",
+    "Walking to somewhere deeper, farther",
+    "Or letting myself",
+    "Following the biting north wind",
+    "Vanishing into a night growing ever colder?"
+   ]
   },
   {
    "type": "note",
@@ -116,7 +171,7 @@
     },
     {
      "zh": "極光的形成, 一方面與地球高層大氣和南北極磁埸的相互作用有關,  一方面與太陽噴發出來的高速帶電粒子流有關,  這粒子流通稱爲太陽風 (solar wind)。太陽風受到地球南北極磁場的吸引,其所攜帶的電子,穿透磁場進入地球的大氣層, 與氣層中的氧,氫,氮,氦等原子或分子碰撞而產生的不同顔色的光。極光顏色一般是白中帶綠, 帶红, 帶黄等, 深淺不一。而形狀則千姿百態又飄怱不定,有弧形,帶型,幕亷型,火焰型等等。太陽風暴愈強烈 (卽太陽表面黒子愈多),内含帶電粒子愈多,則極光出現的頻率愈大,色澤愈鲜明, 而極光出現的緯度比較低。地球南北緯65-75度左右的磁極環帶,是極光經常出現的地區, 拉阿斯加的 Fairbanks位於北緯64.8度,是觀看北極光的好地方。加拿大北部的Churchill,旣可看北極熊,同時也可以看北極光。",
-     "en": ""
+     "en": "The formation of the aurora is related, on one hand, to the interaction between the Earth's upper atmosphere and the magnetic fields at the North and South Poles, and on the other hand, to the high-speed stream of charged particles ejected from the sun, generally called the solar wind. The solar wind is drawn in by the Earth's polar magnetic fields; the electrons it carries penetrate the magnetic field and enter the Earth's atmosphere, colliding with atoms or molecules of oxygen, hydrogen, nitrogen, helium, and other elements in the atmosphere, producing light of different colors. Aurora colors are generally whitish tinged with green, red, or yellow, varying in intensity, and their shapes are ever-changing and unpredictable — arcs, bands, curtains, flame-like forms, and so on. The stronger the solar storm (that is, the more sunspots on the sun's surface), the more charged particles it contains, and the more frequently the aurora appears, with more vivid coloring, and appearing at lower latitudes. The magnetic polar band at roughly 65–75 degrees north and south latitude is where the aurora most often appears; Fairbanks, Alaska, located at 64.8 degrees north latitude, is a good place to view the aurora borealis. In Churchill, in northern Canada, one can see polar bears as well as the northern lights."
     }
    ]
   }

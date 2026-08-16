@@ -31,7 +31,12 @@
       "驚走白鷺，也驚醒",
       "山村一盞一盞的街燈"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The moon rises, osmanthus blossoms fall",
+      "Startling the white egret into flight, and also waking",
+      "The street lamps of the mountain village, one by one"
+     ],
      "num": true
     },
     {
@@ -56,7 +61,12 @@
       "薄光中",
       "群雁，遠去"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Dusk slowly rises",
+      "In the thin light",
+      "Wild geese, departing far"
+     ],
      "num": true
     }
    ]
@@ -72,7 +82,12 @@
       "笑而不語",
       "襌意"
      ],
-     "en": [],
+     "en": [
+      "",
+      "To be or not to be?",
+      "Smiling, saying nothing",
+      "The spirit of Zen"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "必升為雲",
       "飄遠"
      ],
-     "en": [],
+     "en": [
+      "",
+      "It is smoke",
+      "Must rise to become clouds",
+      "Drifting far away"
+     ],
      "num": true
     }
    ]
@@ -104,7 +124,12 @@
       "圓形，方形，三角形  …  點和線",
       "聽，康丁斯基浪漫的幾何音樂"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Red, yellow, blue-green, violet ... white and black",
+      "Circle, square, triangle … dot and line",
+      "Listen, to Kandinsky's romantic geometric music"
+     ],
      "num": true
     },
     {
@@ -112,7 +137,7 @@
      "points": [
       {
        "zh": "康丁斯基 (Wassily Kandinsky,  1866-1944) 出生於俄國莫斯科，被譽為抽象表現藝術（abstract expressionism）之父，並非只基於他的藝術創作，更因他也是藝術理論家、美學批判以及教育家，這是藝術史上少有的。他的著作如《藝術的精神性》、《點、線、面》等，都是現代藝術理論的經典文獻。他最生動的美學思想，就是「音樂性的藝術喚醒」，或許是從小受古典音樂的薰陶，康丁斯基運用色彩的靈感大多來自音樂：不受視覺限制的音符排列看似自由散漫，實則有著很強的邏輯和秩序，失之毫釐就不能達致「悅耳」的境界。所以康丁斯基的理論和實踐，就是要從色彩、線條和畫布跟内在的心靈產生共鳴，康定斯基在他後期的創作中，融合了自己早期直覺式的畫風和後來的幾何圖形風格，而使他的作品增添了嶄新的理念。他是一位能將色彩與音樂綴合起來的畫家，讓人們能夠「聆聽」繪畫，「描繪」音樂。他説：「顏色是琴鍵，眼睛是琴槌，靈魂是鋼琴的琴絃。藝術家就是演奏的手，撫弄著一個又一個琴鍵，讓靈魂震顫。」（Colour is the keyboard, the eyes are the hammers, the soul is the piano with many strings. The artist is the hand that plays, touching one key or another, to cause vibrations in the soul. ）",
-       "en": ""
+       "en": "Wassily Kandinsky (1866–1944) was born in Moscow, Russia, and is celebrated as the father of abstract expressionism — not only for his artistic creations, but also because he was a theorist of art, an aesthetic critic, and an educator, a rare combination in art history. His writings, such as 'Concerning the Spiritual in Art' and 'Point and Line to Plane,' are classic texts of modern art theory. His most vivid aesthetic idea was the \"musical awakening of art\" — perhaps shaped since childhood by classical music, Kandinsky drew much of his inspiration for using color from music: notes arranged with no apparent visual constraint may look freely scattered, yet in fact possess a strong inner logic and order, where the slightest deviation prevents the arrival at a state of \"harmony.\" Thus Kandinsky's theory and practice sought to make color, line, and canvas resonate with the inner spirit. In his later work, he fused his early intuitive painting style with his later geometric style, adding fresh ideas to his art. He was a painter able to fuse color and music, allowing people to \"listen\" to painting and \"paint\" music. He said: \"Colour is the keyboard, the eyes are the hammers, the soul is the piano with many strings. The artist is the hand that plays, touching one key or another, to cause vibrations in the soul.\""
       }
      ]
     },
@@ -127,7 +152,9 @@
      "zh": [
       "《 Composition 8 》1923     New York, Solomon R. Guggenheim Museum"
      ],
-     "en": []
+     "en": [
+      "\"Composition 8\" 1923     New York, Solomon R. Guggenheim Museum"
+     ]
     },
     {
      "type": "note",
@@ -162,7 +189,12 @@
       "是否，有一株花",
       "在雲霧中安靜地香 ？"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Beneath the pine I asked the boy",
+      "Whether there is a single flower",
+      "Quietly fragrant within the clouds and mist?"
+     ],
      "num": true
     },
     {
@@ -170,7 +202,7 @@
      "points": [
       {
        "zh": "松下問童子，言師採藥去。\n只在此山中，雲深不知處。\n--唐。賈島《尋隱者不遇》",
-       "en": ""
+       "en": "Beneath the pines I asked the boy;\nhe said, his master had gone to gather herbs.\nHe is only somewhere on this mountain,\nbut the clouds are deep, and I know not where.\n-- Tang dynasty. Jia Dao, 'Seeking the Hermit but Not Finding Him'"
       }
      ]
     }
@@ -187,7 +219,12 @@
       "前浪走到淡水河畔",
       "驚見，一輪夕陽"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The waves behind push the waves ahead",
+      "The leading wave arrives at the bank of the Tamsui River",
+      "Startled to see a full setting sun"
+     ],
      "num": true
     },
     {
@@ -213,7 +250,12 @@
       "聖馬可廣場的海鷗",
       "是否記得，天外有天 ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Venice, may I ask",
+      "The seagulls of St. Mark's Square",
+      "Do you remember, beyond the sky there is more sky?"
+     ],
      "num": true
     },
     {
@@ -221,7 +263,7 @@
      "points": [
       {
        "zh": "聖馬可廣場和嘆息橋是威尼斯的主要地標。聖馬可廣場 (Piazza San Marco) 以及其大教堂總是擠滿來自世界各地的旅客，也是旅客歸去後，對於威尼斯所留下的深刻記憶。馬可是耶穌的門徒，聖經馬可福音書的作者，威尼斯人奉他為護城聖者。相傳兩個威尼斯商人，從埃及亞歷山大把馬聖徒馬可遺骨偷運到威尼斯，并於同年為聖馬可興建教堂。堂內有馬可陵墓，大教堂以聖馬可命名，教堂前面的廣場也得名為聖馬可廣場。19世紀拿破崙贊稱之為「歐洲最美的客廳」。廣埸上最令人驚奇的景象，是密密麻麻的海鷗，安靜時，逐步啄食，驚動時，舉翅齊飛，掩遮廣埸天空，有若掀動的披風，十分壯觀。有謂無鷗不成廣場，是歐洲城市的特色，以聖馬可廣場為最。",
-       "en": ""
+       "en": "St. Mark's Square and the Bridge of Sighs are the principal landmarks of Venice. St. Mark's Square (Piazza San Marco) and its basilica are always crowded with visitors from all over the world, and it is what travelers remember most vividly of Venice after they return home. Mark was a disciple of Jesus and the author of the Gospel of Mark; the people of Venice revere him as the city's patron saint. According to legend, two Venetian merchants smuggled the relics of St. Mark out of Alexandria, Egypt, to Venice, and a church for St. Mark was built that same year. The basilica houses Mark's tomb, is named after him, and the square in front of it likewise takes its name from him. In the 19th century, Napoleon praised it as \"the finest drawing room in Europe.\" The most astonishing sight in the square is its dense flocks of seagulls — when undisturbed they peck about steadily, but when startled they take flight all at once, filling the sky over the square like a great cloak unfurling, a truly spectacular sight. It is said that no piazza is complete without gulls, a feature distinctive to European cities, and St. Mark's Square is the foremost example."
       }
      ]
     }
@@ -238,7 +280,12 @@
       "東坡肉，還來一盤",
       "竹筍炒肉絲"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Without bamboo, does one become vulgar?",
+      "Dongpo pork, bring another plate",
+      "Bamboo shoots stir-fried with shredded pork"
+     ],
      "num": true
     },
     {
@@ -263,7 +310,12 @@
       "Rainbows can be reached",
       "Believe: Tomorrow will be better"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Life can be music",
+      "Rainbows can be reached",
+      "Believe: Tomorrow will be better"
+     ],
      "num": true
     },
     {

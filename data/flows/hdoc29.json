@@ -31,7 +31,12 @@
       "「歸去來兮」，又豈是",
       "人人可以悠然吟唱 ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The fields will soon lie fallow — why not return?",
+      "\"Return, oh return\" -- how could it merely be",
+      "Can everyone sing at ease?"
+     ],
      "num": true
     },
     {
@@ -56,7 +61,12 @@
       "看晚風如何",
       "牽著野薑花散步"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Setting sun, seen across the silvergrass",
+      "Watching how the evening wind",
+      "Walking hand in hand past wild ginger flowers"
+     ],
      "num": true
     }
    ]
@@ -72,7 +82,12 @@
       "細雪之後",
       "松枝和炊煙交會處"
      ],
-     "en": [],
+     "en": [
+      "",
+      "There is a stillness, coming from",
+      "After the fine snow",
+      "Where pine branches meet the rising cooking smoke"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "飄出玻璃金字塔，就是一抹",
       "塞納河上迷濛的月色"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Mona Lisa, your smile",
+      "Drifting out from the glass pyramid, there is a single streak",
+      "The hazy moonlight over the Seine"
+     ],
      "num": true
     },
     {
@@ -96,7 +116,7 @@
      "points": [
       {
        "zh": "巴黎羅浮宮的鎮館三寶，包括《 蒙娜麗莎 》 ( Mona Lisa )，《 米羅的維納斯 》雕像（Venus de Milo），《 薩莫特拉斯勝利女神 》（Victoire de Samothrace）。文藝復興時期天才畫家達文西的曠世經典名畫《 蒙娜麗莎 》裡，蒙娜麗莎那一抹神秘微笑，成為數百年來難以解開的謎。之所以成謎，是因當觀者近距離專注觀察時，微笑就會消失不見。呈現一份似有似無的洣濛神情。就因為這個「抓不住的微笑」，也就成了「神秘微笑」。\n羅浮宮金字塔位羅浮宮博物館入口處，是玻璃和金屬建造的巨型金字塔，周圍環繞着三個較小的金字塔。由美籍華人建築師貝聿銘設計，于1989年建成。是巴黎的重要地標。",
-       "en": ""
+       "en": "Among the three most treasured masterpieces of the Louvre Museum in Paris are the Mona Lisa, the statue of the Venus de Milo, and the Winged Victory of Samothrace. In the Mona Lisa, the supreme masterpiece by the Renaissance genius Leonardo da Vinci, Mona Lisa's mysterious hint of a smile has for centuries remained a riddle difficult to solve. It becomes a mystery because when a viewer looks closely and intently, the smile seems to vanish, leaving only a hazy, elusive expression that seems both present and absent. Precisely because of this \"ungraspable smile,\" it has become known as the \"mysterious smile.\"\nThe Louvre Pyramid, located at the entrance to the Louvre Museum, is a massive pyramid built of glass and metal, surrounded by three smaller pyramids. It was designed by the Chinese-American architect I. M. Pei and completed in 1989. It is an important landmark of Paris."
       }
      ]
     }
@@ -113,7 +133,12 @@
       "當初",
       "接近這片風景的心情"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Where can it be found again",
+      "At the very beginning",
+      "The feeling of drawing near this scenery"
+     ],
      "num": true
     }
    ]
@@ -129,7 +154,12 @@
       "楊柳岸，牧童問",
       "今宵酒醒何處 ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "At Qingming time, rain falls in scattered drops",
+      "Willow-lined shore, the shepherd boy asks",
+      "Where will I wake from wine tonight?"
+     ],
      "num": true
     },
     {
@@ -137,7 +167,7 @@
      "points": [
       {
        "zh": "清明時節雨紛紛，路上行人欲斷魂。\n借問酒家何處有，牧童遙指杏花村。\n--唐。 杜牧《清明》\n多情自古傷離別，更那堪、冷落清秋節。\n今宵酒醒何處？ 楊柳岸、曉風殘月。\n此去經年，應是良辰好景虛設。\n便縱有千種風情，更與何人說？\n--宋。 柳永《雨霖鈴》",
-       "en": ""
+       "en": "During the Qingming season the rain falls thick and steady; travelers on the road feel their spirits about to break.\nMay I ask where a tavern can be found? A shepherd boy points, far off, to Apricot Blossom Village.\n-- Tang dynasty. Du Mu, 'Qingming'\nSince ancient times, the passionate have grieved at parting, how much harder still in this bleak and desolate autumn!\nWhere will I wake from wine tonight? Perhaps by a willow bank, under a fading moon at dawn wind.\nYears will pass from this departure; even fine seasons and lovely sights will be spent in vain.\nEven if there is a thousand kinds of tender feeling, to whom could I ever tell it?\n-- Song dynasty. Liu Yong, 'Rain on the Bells'"
       }
      ]
     }
@@ -154,7 +184,12 @@
       "心事，沒入",
       "白茫茫的冷"
      ],
-     "en": [],
+     "en": [
+      "",
+      "A night of wind and snow",
+      "Worries, sinking into",
+      "A vast white cold"
+     ],
      "num": true
     }
    ]
@@ -170,7 +205,12 @@
       "霧起遠方群樹",
       "何處是禪寺"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The mountain path curves and turns",
+      "Fog rises among the distant trees",
+      "Where is the Zen temple"
+     ],
      "num": true
     }
    ]
@@ -186,7 +226,12 @@
       "只留，晚風一縷",
       "寒涼夜色"
      ],
-     "en": [],
+     "en": [
+      "",
+      "You turn, and leave in silence",
+      "Only leaving behind, a wisp of evening wind",
+      "The chill of night"
+     ],
      "num": true
     }
    ]
@@ -202,7 +247,12 @@
       "色彩翻動稻浪，往前",
       "走入水墨交融的「松煙」"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Level fields, mountain mist, flowing light",
+      "Colors ripple the rice waves, moving forward",
+      "Walking into 'Pine Smoke,' where ink and wash blend"
+     ],
      "num": true
     },
     {
@@ -225,7 +275,9 @@
      "zh": [
       "雲門重返池上秋收稻穗藝術季，"
      ],
-     "en": []
+     "en": [
+      "Cloud Gate returns once more to the Chishang Autumn Harvest Rice Field Arts Festival,"
+     ]
     },
     {
      "type": "yt",
@@ -238,7 +290,9 @@
      "zh": [
       "2017.10.07中天的夢想驛站／雲門舞集《關於島嶼》 舞盡林懷民焦慮"
      ],
-     "en": []
+     "en": [
+      "2017.10.07, CTI's Dream Station program / Cloud Gate Dance Theatre's 'Formosa' -- dancing away Lin Hwai-min's anxiety"
+     ]
     }
    ]
   }

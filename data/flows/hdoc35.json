@@ -31,7 +31,12 @@
       "其實，我一直惦記",
       "海角的你"
      ],
-     "en": [],
+     "en": [
+      "",
+      "You ask how far the ends of the earth are?",
+      "In truth, I have always kept it in mind",
+      "You, at the edge of the sea"
+     ],
      "num": true
     }
    ]
@@ -47,7 +52,12 @@
       "有多少心情",
       "落入脈脈斜暉"
      ],
-     "en": [],
+     "en": [
+      "",
+      "A thousand sails have passed",
+      "How many moods",
+      "Falling into the tender slanting light"
+     ],
      "num": true
     },
     {
@@ -55,7 +65,7 @@
      "points": [
       {
        "zh": "梳洗罷\n獨倚望江樓\n過盡千帆皆不是\n斜暉脈脈水悠悠\n腸斷白蘋州\n--唐 。溫庭筠《夢江南》",
-       "en": ""
+       "en": "Having finished washing and dressing,\nI lean alone on the river-watching tower.\nA thousand sails pass by, none of them his,\nthe slanting sunlight lingers, the water flows on endlessly,\nmy heart breaks at Baiping Island.\n-- Tang dynasty. Wen Tingyun, 'Dreaming of the South'"
       }
      ]
     }
@@ -72,7 +82,12 @@
       "窗外，迷濛細雨",
       "更遠處，柳樹依依"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Late spring, the month of May",
+      "Outside the window, hazy fine rain",
+      "Farther still, willows lingering tenderly"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "願他還身成土，成塵",
       "隨飛天飄回天竺"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The Buddha of Dunhuang, sitting weary through a thousand years of desolation",
+      "May he return his body to earth, to dust",
+      "Drifting back to India with the flying apsaras"
+     ],
      "num": true
     },
     {
@@ -96,7 +116,7 @@
      "points": [
       {
        "zh": "飛天，佛家語，是佛教中天帝司樂之神，飛天最早誕生於古印度，後傳入中國，與中國藝術融合。魏晉南北朝初期，壁畫中的飛天亦稱飛仙。莫高窟492個洞窟中，幾乎皆畫有飛天。",
-       "en": ""
+       "en": "Feitian (flying apsaras) is a Buddhist term referring to the heavenly deities of music in Buddhism. The feitian first appeared in ancient India before being introduced to China, where it merged with Chinese art. In the early Wei-Jin and Northern and Southern Dynasties period, the feitian in murals were also called 'flying immortals.' Almost all of the 492 caves of Mogao Grottoes contain paintings of feitian."
       }
      ]
     }
@@ -113,7 +133,12 @@
       "一朝風月，有你",
       "禪境，掌上雨"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Sky eternal and vast, no self",
+      "One season of wind and moon, with you in it",
+      "The realm of Zen, rain upon the palm"
+     ],
      "num": true
     }
    ]
@@ -129,7 +154,12 @@
       "回望",
       "落花滿地"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Small grass stands trembling, alone",
+      "Looking back",
+      "Fallen blossoms cover the ground"
+     ],
      "num": true
     }
    ]
@@ -145,7 +175,12 @@
       "弄皺芭蕉俳句",
       "干卿底事"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Old pond, a frog leaps in",
+      "Wrinkling a banana-leaf haiku",
+      "What business is it of yours"
+     ],
      "num": true
     },
     {
@@ -153,7 +188,7 @@
      "points": [
       {
        "zh": "日本俳聖松尾芭蕉的經典俳句:\n古池\n青蛙跳入\n水聲響",
-       "en": ""
+       "en": "A classic haiku by the Japanese haiku sage Matsuo Basho:\nOld pond—\na frog leaps in,\nthe sound of water."
       }
      ]
     }
@@ -170,7 +205,12 @@
       "紅塵已遠，坐看",
       "雲，無心出岫"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Walking to where the water ends",
+      "The dust of the world now far away, sitting to watch",
+      "Clouds, emerging from the peaks without intent"
+     ],
      "num": true
     }
    ]
@@ -186,7 +226,12 @@
       "草色迷茫",
       "靜候遲升的月亮"
      ],
-     "en": [],
+     "en": [
+      "",
+      "After the rain",
+      "The color of the grass hazy and lost",
+      "Waiting quietly for the late-rising moon"
+     ],
      "num": true
     }
    ]

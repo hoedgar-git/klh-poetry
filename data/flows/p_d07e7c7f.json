@@ -20,14 +20,17 @@
   },
   {
    "type": "preface",
-   "zh": "「只需向前走一步，小小的一點距離，就會發現自己在邊界的另一端 。」"
+   "zh": "「只需向前走一步，小小的一點距離，就會發現自己在邊界的另一端 。」",
+   "en": "\"You need only take one step forward, a small distance, and you will find yourself on the other side of the border.\""
   },
   {
    "type": "stanza",
    "zh": [
     "--- 米蘭 . 昆德拉 ( Milan Kundera )"
    ],
-   "en": []
+   "en": [
+    "--- Milan Kundera"
+   ]
   },
   {
    "type": "stanza",
@@ -35,7 +38,10 @@
     "我想為你找一個邊境",
     "在峽灣之外，冰河盡處"
    ],
-   "en": []
+   "en": [
+    "I want to find a border for you",
+    "Beyond the fjord, where the glacier ends"
+   ]
   },
   {
    "type": "stanza",
@@ -50,7 +56,17 @@
     "修飾成蜿蜒小徑",
     "等待風的漂泊"
    ],
-   "en": []
+   "en": [
+    "The sky vast and empty, the mountains pure in color",
+    "The floating light at the headland",
+    "Take your imagination",
+    "Breaking apart into shimmering ripples",
+    "Waiting for the softness of snow",
+    "The midnight sunset",
+    "Take your dream",
+    "Trimmed into a winding path",
+    "Waiting for the wind's wandering"
+   ]
   },
   {
    "type": "stanza",
@@ -58,7 +74,10 @@
     "我想為你找一個邊境",
     "在群峰之間，浮冰起處"
    ],
-   "en": []
+   "en": [
+    "I want to find a border for you",
+    "Among the clustered peaks, where floating ice rises"
+   ]
   },
   {
    "type": "stanza",
@@ -75,7 +94,19 @@
     "在海天夾縫處",
     "迤邐一抹美的色澤"
    ],
-   "en": []
+   "en": [
+    "Fine snow falls without sound",
+    "The water's color, hazy and dim",
+    "Or perhaps a misty morning",
+    "Or is it a dusk of mist and haze",
+    "A rising image",
+    "Like a passenger ship receding into the distance",
+    "Carries away",
+    "A story",
+    "A legend",
+    "In the narrow seam between sea and sky",
+    "A winding touch of beautiful hue"
+   ]
   },
   {
    "type": "stanza",
@@ -88,7 +119,15 @@
     "我為你",
     "找一個如詩的邊境"
    ],
-   "en": []
+   "en": [
+    "That is the lure of the Arctic",
+    "Carrying us",
+    "Toward the fjord",
+    "Toward the snow-covered mountain ridge",
+    "Imagining",
+    "For you",
+    "Seeking a border as poetic as verse"
+   ]
   },
   {
    "type": "note",

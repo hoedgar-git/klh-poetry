@@ -24,7 +24,8 @@
   },
   {
    "type": "preface",
-   "zh": "從紐西蘭南島的 Christchurch，北上 Aoraki / Mt. Cook 國家公園數百公里，車行漫漫，沿途丘嶺延綿，斜坡草野，青翠欲滴。白色綿羊，時而散佈，時而成群，映照藍天，色澤鮮明。繼而遠山隨行，湖水點綴，浮雲淡泊飄逸，群樹隨風搖曳。黄昏時分抵達公園内的隱者客棧 ( Hermitage Inn )。暮色蒼茫裡，環顧山影朦朧，但見弦月孤懸天宇，寒凉四起，清寂無人見，不禁有 \" 松下問童子，言師採藥去，只在此山中，雲深不知處 \" 的蒼然。"
+   "zh": "從紐西蘭南島的 Christchurch，北上 Aoraki / Mt. Cook 國家公園數百公里，車行漫漫，沿途丘嶺延綿，斜坡草野，青翠欲滴。白色綿羊，時而散佈，時而成群，映照藍天，色澤鮮明。繼而遠山隨行，湖水點綴，浮雲淡泊飄逸，群樹隨風搖曳。黄昏時分抵達公園内的隱者客棧 ( Hermitage Inn )。暮色蒼茫裡，環顧山影朦朧，但見弦月孤懸天宇，寒凉四起，清寂無人見，不禁有 \" 松下問童子，言師採藥去，只在此山中，雲深不知處 \" 的蒼然。",
+   "en": "From Christchurch on New Zealand's South Island, we drove several hundred kilometers north to Aoraki / Mt. Cook National Park. The journey was long, the road winding past rolling hills and sloping meadows so green they seemed ready to drip. White sheep, now scattered, now gathered in flocks, stood out vividly against the reflected blue sky. Farther on, distant mountains kept pace alongside us, lakes dotted the landscape, clouds drifted light and unhurried, and stands of trees swayed in the wind. At dusk we arrived at the Hermitage Inn within the park. In the vast, hazy twilight, I looked about at the dim silhouettes of the mountains and saw only a crescent moon hanging alone in the heavens; a chill rose on every side, and in that clear solitude, with no one else in sight, I could not help feeling the same desolate wonder as in the old lines: \"Beneath the pines I asked the boy; he said his master had gone to gather herbs, only somewhere on this mountain, hidden too deep in cloud to know where.\""
   },
   {
    "type": "stanza",
@@ -32,7 +33,10 @@
     "山路翠微",
     "夕照餘暉"
    ],
-   "en": []
+   "en": [
+    "The mountain path, faintly green",
+    "The lingering glow of sunset"
+   ]
   },
   {
    "type": "stanza",
@@ -42,7 +46,12 @@
     "弦月一抹",
     "横斜天宇"
    ],
-   "en": []
+   "en": [
+    "The peaks fade from view",
+    "Tree shadows fade away",
+    "A crescent moon, a brushstroke",
+    "Slanting aslant across the heavens"
+   ]
   },
   {
    "type": "stanza",
@@ -52,7 +61,12 @@
     "四野沉静",
     "寒凉孤寂"
    ],
-   "en": []
+   "en": [
+    "The temple fades from sight",
+    "The bell's toll fades away",
+    "All around lies still",
+    "Cold and solitary"
+   ]
   },
   {
    "type": "stanza",
@@ -60,7 +74,10 @@
     "隱者不在",
     "境在言在"
    ],
-   "en": []
+   "en": [
+    "The hermit is not here",
+    "Where the realm exists, words exist"
+   ]
   },
   {
    "type": "note",

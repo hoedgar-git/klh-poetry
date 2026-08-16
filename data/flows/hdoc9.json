@@ -31,7 +31,12 @@
       "「一支草一點露」",
       "關於阿母和故鄉的草埔"
      ],
-     "en": [],
+     "en": [
+      "",
+      "There are always a few lines of lyrics that linger, unwilling to leave",
+      "\"Every blade of grass has its dewdrop\"",
+      "About mother and the grassy fields of home"
+     ],
      "num": true
     },
     {
@@ -63,7 +68,12 @@
       "風景漸次開展",
       "有誰陪我慢走欣賞 ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "From one journey to the next",
+      "The scenery unfolds bit by bit",
+      "Who will walk slowly with me to admire it?"
+     ],
      "num": true
     }
    ]
@@ -79,7 +89,12 @@
       "你就是天邊的星",
       "那年夏日遠去的流螢"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Thinking of you",
+      "You are the star at the edge of the sky",
+      "The fireflies of that summer, now gone far away"
+     ],
      "num": true
     }
    ]
@@ -95,7 +110,12 @@
       "天圓地方",
       "風雨爲誰愴然 ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The sky boundless blue, the wilds stretching hazy far",
+      "Heaven round, earth square",
+      "For whom does the wind and rain grieve?"
+     ],
      "num": true
     },
     {
@@ -120,7 +140,12 @@
       "或是落日黃昏",
       "一樣的心情，不一樣的心情  ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Or perhaps a pot of clear tea",
+      "Or perhaps the sunset at dusk",
+      "The same mood, or a different one?"
+     ],
      "num": true
     }
    ]
@@ -136,7 +161,12 @@
       "蒼茫山色",
       "還在我心中起伏"
      ],
-     "en": [],
+     "en": [
+      "",
+      "You drift away with the falling leaves",
+      "The vast hazy color of the mountains",
+      "Still rising and falling within my heart"
+     ],
      "num": true
     },
     {
@@ -144,7 +174,7 @@
      "points": [
       {
        "zh": "當暮色裝飾著雨後的窗子\n我便從這裡探測出遠山的深度\n在窗玻璃上呵一口氣\n再用手指畫一條長長的小路\n以及小路盡頭的\n一個背影\n有人從雨中而去\n--洛夫《 窗下 》",
-       "en": ""
+       "en": "As dusk adorns the window after rain\nI probe from here the depth of the distant mountains\nI breathe upon the windowpane\nthen with a finger trace a long, thin path\nand, at the end of that path,\na silhouette walking away\nsomeone has departed into the rain\n-- Lo Fu, 'Beneath the Window'"
       }
      ]
     }
@@ -161,7 +191,12 @@
       "露珠就閃亮",
       "就這樣"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Sunrise",
+      "The dewdrop shines bright",
+      "Just like this"
+     ],
      "num": true
     }
    ]
@@ -177,7 +212,12 @@
       "一行脚印",
       "細雪無聲，飄遠"
      ],
-     "en": [],
+     "en": [
+      "",
+      "A temple",
+      "A line of footprints",
+      "Fine snow falls without sound, drifting far"
+     ],
      "num": true
     }
    ]
@@ -193,7 +233,12 @@
       "行草   楷書   小篆 ?",
       "古典   印象   抽象 ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The years mottled and bright, and you are",
+      "Running script, regular script, seal script?",
+      "Classical, Impression, Abstract?"
+     ],
      "num": true
     }
    ]
@@ -209,7 +254,12 @@
       "風中依稀有「冬之旅」歌聲飄浮",
       "低聲問，何處是井旁的菩提樹 ?"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Winter snow falling steadily, evening mist hanging heavy",
+      "In the wind, faintly, the song of \"Winterreise\" drifts",
+      "Softly asking, where is the linden tree beside the well?"
+     ],
      "num": true
     },
     {

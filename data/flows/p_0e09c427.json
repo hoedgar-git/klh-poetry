@@ -20,7 +20,8 @@
   },
   {
    "type": "preface",
-   "zh": "仲夏傍晚，和朋友在 Meadow Brook Music Festival 的草坪上，聆聽"
+   "zh": "仲夏傍晚，和朋友在 Meadow Brook Music Festival 的草坪上，聆聽",
+   "en": "On a midsummer evening, with a friend on the lawn of the Meadow Brook Music Festival, listening to"
   },
   {
    "type": "stanza",
@@ -28,7 +29,10 @@
     "Detroit Symphony Orchestra 晚間演奏 Mussorgsky 的“ Pictures at an Exhibition ”雖無茂林修竹，清流湍急，但列坐草坪，一觴一詠，亦足以暢敘幽懷，",
     "而有“欣於所遇，智得於己”的快然自足。"
    ],
-   "en": []
+   "en": [
+    "The Detroit Symphony Orchestra performed Mussorgsky's \"Pictures at an Exhibition\" that evening -- though there were no lush groves of tall bamboo or swift clear streams, still, seated together on the lawn, drinking a cup and reciting a verse was enough to freely voice our quiet, inward feelings,",
+    "and there is the contented self-sufficiency of 'delighting in what one meets, finding wisdom within oneself.'"
+   ]
   },
   {
    "type": "stanza",
@@ -41,7 +45,15 @@
     "夾在白鷺鷥紛飛的季節",
     "留待翻閱斑駁歲月"
    ],
-   "en": []
+   "en": [
+    "The notes wander freely",
+    "Like the evening wind, about to leave yet lingering still",
+    "Bringing shimmering starlight",
+    "The Milky Way crossing the sky",
+    "Like a bookmark in a silent night",
+    "Caught in the season when egrets fly in scattered flocks",
+    "Left for later, to leaf through the mottled years"
+   ]
   },
   {
    "type": "stanza",
@@ -53,7 +65,14 @@
     "只好隨星星默默眺望",
     "看夢如何在遠方飛翔"
    ],
-   "en": []
+   "en": [
+    "The music turns and unfolds like a riot of blossoms",
+    "Making me afraid to echo along",
+    "Fearing the vast, boundless dusk",
+    "No net can hold the vivid, leaping images",
+    "Can only gaze silently along with the stars",
+    "Watching how the dream flies off into the distance"
+   ]
   },
   {
    "type": "stanza",
@@ -67,7 +86,16 @@
     "唯有不變的星光",
     "保持嫵媚姿態"
    ],
-   "en": []
+   "en": [
+    "The evening wind still follows the melody",
+    "Wandering, turning back and forth",
+    "As if searching",
+    "The mystery of shifting light and shadow",
+    "The delicate whisper of flowers and trees",
+    "The lawn is already covered by dark night",
+    "Only the unchanging starlight remains",
+    "Keeping a charming pose"
+   ]
   },
   {
    "type": "stanza",
@@ -78,7 +106,13 @@
     "有你留下的腳印",
     "月下的迴音"
    ],
-   "en": []
+   "en": [
+    "Tree shadows recede, summer already deep",
+    "Suddenly remembering",
+    "In pages steeped in the seasons",
+    "There are footprints you left behind",
+    "An echo beneath the moon"
+   ]
   }
  ],
  "tags": {

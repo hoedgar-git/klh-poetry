@@ -31,7 +31,12 @@
       "防風林之外，還有海浪漁船",
       "野薑花說，還有，夕陽山外山"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Beyond the bamboo fence, there is still a grassy path and a pond",
+      "Beyond the windbreak forest, there are also waves and fishing boats",
+      "The wild ginger lily says, and there is more—sunset beyond mountain beyond mountain"
+     ],
      "num": true
     },
     {
@@ -39,7 +44,7 @@
      "points": [
       {
        "zh": "林亨泰的詩: 《 風景No.2 》\n防風林   的\n外邊   還有\n防風林   的\n外邊   還有\n防風林   的\n外邊   還有\n然而海   以及波的羅列\n然而海   以及波的羅列\n《 風景No. 2 》 是林亨泰 ( l924--， 彰化北斗人，笠詩刊創始人之一 )  最負盛名的代表詩作。這詩在形式上致力於現代主義前衛技巧的實驗，是以文字的圖象排列來表現的「圖象詩」或「符號詩」。此詩是借詩行或意象語句之重複或平行排列，造成無限的空間疊景， 意象的綿延不絕。「風景No.2」用字樸實，意象單純，但透過詩人特殊的句型處理，詩行排列後，簡單的兩組意象 : 防風林與海，竟然產生了詩的視覺，音樂，想像和速度的美感，表現了微妙的現代知性的意象美，這也是此詩經久被引述議論的緣由。",
-       "en": ""
+       "en": "Lin Heng-tai's poem, 'Scenery No. 2'\nThe windbreak forest\nbeyond it\nanother windbreak forest\nbeyond it\nanother windbreak forest\nbeyond it\nand yet the sea and the rows of waves\nand yet the sea and the rows of waves\n'Scenery No. 2' is the most celebrated representative poem of Lin Heng-tai (b. 1924, from Beidou, Changhua, one of the founders of Li Poetry Journal). Formally, this poem strives for an avant-garde modernist technique, being a \"visual poem\" or \"symbolic poem\" expressed through the graphic arrangement of text. The poem uses repeated or parallel arrangements of lines or imagery to create an endless layering of space, an unbroken continuation of imagery. 'Scenery No. 2' uses plain language and simple imagery, but through the poet's distinctive handling of sentence patterns and the arrangement of the lines, the two simple images — windbreak forest and sea — produce a beauty of visual, musical, imaginative, and kinetic sense in poetry, expressing a subtle, modern, intellectual beauty of imagery — this is also why this poem has been so enduringly cited and discussed."
       }
      ]
     }
@@ -56,7 +61,12 @@
       "直到秋後無蟬",
       "看落葉，靜坐如禪"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Listening to cicadas in summer",
+      "Until after autumn, when no cicadas remain",
+      "Watching the falling leaves, sitting still as in Zen"
+     ],
      "num": true
     }
    ]
@@ -72,7 +82,12 @@
       "有比暮色更迷茫",
       "更徘徊不去的淚光"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Now, you realize",
+      "There is something more bewildered than dusk",
+      "Tears that linger still, unwilling to leave"
+     ],
      "num": true
     }
    ]
@@ -88,7 +103,12 @@
       "檢一塊彩石",
       "還給女媧，補天"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Greece, broken walls and shattered columns",
+      "Picking up a colored stone",
+      "Give it back to Nüwa, to mend the sky"
+     ],
      "num": true
     },
     {
@@ -96,7 +116,7 @@
      "points": [
       {
        "zh": "希臘神話，普羅米修斯創造了人; 舊約聖經，上帝創造了亞當與夏娃; 在中國，龍尾人身的女媧創造了蒼生，是大地之母。\n中國神話，「女媧補天」的神話記載於西漢劉安所著的《淮南子‧覽冥訓》。故事講說遠古之時，突發天崩地裂，天的紛紛塌下來；天地之間時而烈火熊熊，時而傾盆大雨，地面一片火海。後得女媧煉得五色石，以補蒼天，解救黎民百姓於苦難之中。後人用「女媧補天」讚揚修天造地的氣魄及拯救衆生的慈悲心懷。",
-       "en": ""
+       "en": "In Greek mythology, Prometheus created humankind; in the Old Testament, God created Adam and Eve; in China, Nüwa, dragon-tailed and human-bodied, created all living beings and is the mother of the earth.\nIn Chinese mythology, the story of \"Nüwa Mending the Sky\" is recorded in the \"Lanming Xun\" chapter of the Huainanzi, written by Liu An of the Western Han dynasty. The story tells that in ancient times, the sky suddenly collapsed and the earth split apart; between heaven and earth, raging fires blazed and torrential rains poured down, and the ground became a sea of fire. Nüwa then refined five-colored stones to mend the heavens, delivering the common people from their suffering. Later generations use the phrase \"Nüwa mending the sky\" to praise the grand resolve to repair heaven and earth and the compassionate heart that saves all living beings."
       }
      ]
     }
@@ -134,7 +154,12 @@
       "暮色，漫漫來襲",
       "兵，走殘棋"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Having crossed the Chu River, storm clouds begin to gather",
+      "Dusk, sweeping slowly in",
+      "A soldier, playing out the remains of the chess game"
+     ],
      "num": true
     },
     {
@@ -142,7 +167,7 @@
      "points": [
       {
        "zh": "象棋術語:  「殘局，兵勝砲 」。",
-       "en": ""
+       "en": "Chinese chess terminology: \"Endgame — pawn defeats cannon.\""
       }
      ]
     }
@@ -182,7 +207,9 @@
      "zh": [
       "“  To be or not to be that is the question  ”是劇中, 哈姆雷特獨白的名言。"
      ],
-     "en": []
+     "en": [
+      "\"To be or not to be, that is the question\" is the famous line from Hamlet's soliloquy in the play."
+     ]
     },
     {
      "type": "note",
@@ -206,7 +233,12 @@
       "此去，千里渺茫",
       "唯一的選擇，方向"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Wild geese fly south",
+      "From here, a thousand miles into the unknown",
+      "The only choice, direction"
+     ],
      "num": true
     }
    ]
@@ -222,7 +254,12 @@
       "不知人已去",
       "落滿小徑"
      ],
-     "en": [],
+     "en": [
+      "",
+      "May's tung blossoms",
+      "Not knowing the person has already gone",
+      "Falling to cover the little path"
+     ],
      "num": true
     },
     {
@@ -230,7 +267,7 @@
      "points": [
       {
        "zh": "梁園日暮亂飛鴉，極目䔥條三兩家。\n庭樹不知人已去，春來還發舊時花。\n--唐。岑參《山房春事》",
-       "en": ""
+       "en": "At dusk over Liang Garden, crows fly in disorder; as far as the eye can see, only a few desolate houses remain.\nThe courtyard trees do not know that their master is gone, and in spring still bloom with flowers of old.\n-- Tang dynasty. Cen Shen, 'Spring Affairs at the Mountain Lodge'"
       }
      ]
     }
@@ -247,7 +284,12 @@
       "佛佗和野花細語",
       "說，明年再來看你"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The west wind rises",
+      "The Buddha whispers with the wildflowers",
+      "Saying, I'll come see you again next year"
+     ],
      "num": true
     },
     {

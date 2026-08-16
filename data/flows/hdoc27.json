@@ -31,7 +31,12 @@
       "夢醒",
       "飛出莊子的蝴蝶"
      ],
-     "en": [],
+     "en": [
+      "",
+      "A dream is the most beautiful thing of all",
+      "Waking from the dream",
+      "The butterfly flying out of Zhuangzi's dream"
+     ],
      "num": true
     },
     {
@@ -56,7 +61,12 @@
       "招喚我，共看",
       "冬日最美的斜陽"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Reeds beside the stream",
+      "Calling me, to watch together",
+      "Winter's most beautiful slanting sun"
+     ],
      "num": true
     }
    ]
@@ -72,7 +82,12 @@
       "一直困惑，什麼是 ?",
       "Rolling stone gathers no moss"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Moss-covered stones by the pond",
+      "Forever puzzled -- what is it?",
+      "Rolling stone gathers no moss"
+     ],
      "num": true
     },
     {
@@ -97,7 +112,12 @@
       "收割吧  !",
       "不要留下一根稻草"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The camel's prayer:",
+      "Reap it, then!",
+      "Don't leave behind so much as a single straw"
+     ],
      "num": true
     },
     {
@@ -122,7 +142,12 @@
       "我會低唱，當夕陽",
       "把你的影子拉長"
      ],
-     "en": [],
+     "en": [
+      "",
+      "This song still has one small verse left",
+      "I will hum softly, when the sunset",
+      "Stretch your shadow long"
+     ],
      "num": true
     }
    ]
@@ -138,7 +163,12 @@
       "樹影晃動",
       "老者，禪坐"
      ],
-     "en": [],
+     "en": [
+      "",
+      "The wind passes",
+      "Tree shadows swaying",
+      "The old one, sitting in meditation"
+     ],
      "num": true
     },
     {
@@ -163,7 +193,12 @@
       "今日，群雁南飛",
       "明日，細雪隨風飄舞"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Yesterday, thick fog",
+      "Today, flocks of wild geese fly south",
+      "Tomorrow, fine snow dances on the wind"
+     ],
      "num": true
     }
    ]
@@ -179,7 +214,12 @@
       "給長河一輪落日",
       "我們去散步"
      ],
-     "en": [],
+     "en": [
+      "",
+      "For the great desert, a single trail of smoke",
+      "For the long river, a setting sun",
+      "We go for a walk"
+     ],
      "num": true
     },
     {
@@ -204,7 +244,12 @@
       "一片草原",
       "讓孤寂徬徨"
      ],
-     "en": [],
+     "en": [
+      "",
+      "A place imagination can reach",
+      "A stretch of grassland",
+      "Let loneliness waver"
+     ],
      "num": true
     }
    ]
@@ -220,7 +265,12 @@
       "秋，醞釀飽滿",
       "雪夜，靜待四月雨敲窗"
      ],
-     "en": [],
+     "en": [
+      "",
+      "Summer, weaving a tangle of profusion",
+      "Autumn, brewing to fullness",
+      "A snowy night, quietly waiting for April rain to tap the window"
+     ],
      "num": true
     },
     {
@@ -243,14 +293,18 @@
      "zh": [
       "No.5, 四月雨小提琴協奏曲 | Raining in April Fantacy for Violin And Orchestra"
      ],
-     "en": []
+     "en": [
+      "No.5, April Rain Violin Concerto | Raining in April Fantacy for Violin And Orchestra"
+     ]
     },
     {
      "type": "stanza",
      "zh": [
       "江蕙與多明哥-雨夜花.mp4 – YouTube."
      ],
-     "en": []
+     "en": [
+      "Jiang Hui and Domingo - Rainy Night Flower.mp4 – YouTube."
+     ]
     },
     {
      "type": "yt",
@@ -264,7 +318,9 @@
      "zh": [
       "李靜美 詹宏達 - 四季紅 Loving the Year Round"
      ],
-     "en": []
+     "en": [
+      "Li Jingmei, Zhan Hongda - Four Seasons Red: Loving the Year Round"
+     ]
     },
     {
      "type": "yt",
@@ -277,7 +333,9 @@
      "zh": [
       "音樂磁場-月夜愁 -淡水a ,Danshui, Taiwan"
      ],
-     "en": []
+     "en": [
+      "Musical Field—\"Sorrow of a Moonlit Night\"—Danshui, Taiwan"
+     ]
     }
    ]
   }
